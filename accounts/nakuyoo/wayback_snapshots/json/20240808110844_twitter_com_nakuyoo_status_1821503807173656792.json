@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1820944737182085520",
+    "created_at": "2024-08-08T11:08:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-08T12:08:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1821503807173656792"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1699782220846878720",
+          "start": 0,
+          "username": "Tofugorr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1821503807173656792",
+    "in_reply_to_user_id": "1699782220846878720",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1821495760896336304",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tofugorr 🫂🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1820944737182085520",
+        "created_at": "2024-08-08T11:08:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-08T12:08:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1821503807173656792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1699782220846878720",
+              "start": 0,
+              "username": "Tofugorr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1821503807173656792",
+        "in_reply_to_user_id": "1699782220846878720",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1821495760896336304",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tofugorr 🫂🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699782220846878720",
+        "conversation_id": "1820944737182085520",
+        "created_at": "2024-08-08T10:36:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-08T11:36:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1821495760896336304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1715624766571429888",
+              "start": 0,
+              "username": "nakuyoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1821495760896336304",
+        "in_reply_to_user_id": "1715624766571429888",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1821493165578473621",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nakuyoo 🫂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@9wylovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "9wylovo"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪250 香港",
+        "name": "刻在骨子裏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819147763487039488/y1CPKGFk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14458,
+          "following_count": 32,
+          "like_count": 32296,
+          "listed_count": 28,
+          "tweet_count": 6375
+        },
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-07T13:50:44.000Z",
+        "description": "🔞 explore 緊呢個世界 發掘下自己新既一面 無聊可以搵我做樹窿",
+        "id": "1699782220846878720",
+        "name": "豆腐",
+        "pinned_tweet_id": "1811572246521217261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813665043080462336/1tYJxc3__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 424,
+          "like_count": 1292,
+          "listed_count": 0,
+          "tweet_count": 1495
+        },
+        "username": "Tofugorr",
+        "verified": false
+      }
+    ]
+  }
+}
