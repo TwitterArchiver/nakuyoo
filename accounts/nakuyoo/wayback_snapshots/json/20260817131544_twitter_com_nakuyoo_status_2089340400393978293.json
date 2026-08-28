@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "2089340400393978293",
+    "created_at": "2026-08-17T13:15:44.000Z",
+    "display_text_range": [
+      0,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T14:15:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089340400393978293"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1858739279825932288",
+          "start": 3,
+          "username": "Azi9989"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089340400393978293",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3147
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089028589740274034",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Azi9989: 其实我不懂为啥裸照能威胁到一个人，你直接说这是ai生成的不就好了…？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "2089340400393978293",
+        "created_at": "2026-08-17T13:15:44.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T14:15:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089340400393978293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1858739279825932288",
+              "start": 3,
+              "username": "Azi9989"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089340400393978293",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3147
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089028589740274034",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Azi9989: 其实我不懂为啥裸照能威胁到一个人，你直接说这是ai生成的不就好了…？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858739279825932288",
+        "conversation_id": "2089028589740274034",
+        "created_at": "2026-08-16T16:36:42.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T17:36:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089028589740274034"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089028589740274034",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 494189,
+          "like_count": 1605,
+          "quote_count": 7,
+          "reply_count": 624,
+          "retweet_count": 3147
+        },
+        "reply_settings": "everyone",
+        "text": "其实我不懂为啥裸照能威胁到一个人，你直接说这是ai生成的不就好了…？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "ig: naku.yoo",
+        "id": "1715624766571429888",
+        "is_identity_verified": false,
+        "location": "🚪300聊天Hk 可純綠",
+        "most_recent_tweet_id": "2089340400393978293",
+        "name": "骨",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1715624766571429888/1786891740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089001260796317696/MSm_ClEA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17240,
+          "following_count": 10,
+          "like_count": 31902,
+          "listed_count": 33,
+          "media_count": 279,
+          "tweet_count": 7941
+        },
+        "url": "",
+        "username": "nakuyoo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-19T05:09:38.000Z",
+        "description": "开心每一天 小号@ckyoa4",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 8,
+                "username": "ckyoa4"
+              }
+            ]
+          }
+        },
+        "id": "1858739279825932288",
+        "is_identity_verified": false,
+        "location": "好友位199 可以验证",
+        "most_recent_tweet_id": "2089329224532586610",
+        "name": "Lin",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087468356878389249/egXFv2gk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3156,
+          "following_count": 5,
+          "like_count": 23,
+          "listed_count": 4,
+          "media_count": 9,
+          "tweet_count": 41
+        },
+        "url": "",
+        "username": "Azi9989",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1825546922503049517",
+    "created_at": "2024-08-19T15:02:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-19T16:02:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1825548844178026893"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1620109063190368256",
+          "start": 0,
+          "username": "pochacooQQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1825548844178026893",
+    "in_reply_to_user_id": "1620109063190368256",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1825546922503049517",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pochacooQQ 我鬱期的房間超亂🌝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1825546922503049517",
+        "created_at": "2024-08-19T15:02:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-19T16:02:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1825548844178026893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1620109063190368256",
+              "start": 0,
+              "username": "pochacooQQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825548844178026893",
+        "in_reply_to_user_id": "1620109063190368256",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1825546922503049517",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pochacooQQ 我鬱期的房間超亂🌝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620109063190368256",
+        "conversation_id": "1825546922503049517",
+        "created_at": "2024-08-19T14:54:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-19T15:54:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1825546922503049517"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nakuyoo/status…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/nakuyoo/status/1825522001186083022",
+              "start": 26,
+              "url": "https://t.co/D8JIHJGHy4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825546922503049517",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1825522001186083022",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我兄弟說我的房間很抑鬱🧑🏻‍🦽‍➡️🧑🏻‍🦽‍➡️ https://t.co/D8JIHJGHy4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@9wylovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "9wylovo"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪250🇭🇰",
+        "name": "刻在骨子裏",
+        "pinned_tweet_id": "1823875339594191103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1825182041480290304/KGPSNEnx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15148,
+          "following_count": 29,
+          "like_count": 32932,
+          "listed_count": 27,
+          "tweet_count": 6685
+        },
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-30T17:18:07.000Z",
+        "description": "08｜抑鬱症/焦慮症/社交焦慮症｜叫春｜帕恰狗激推｜ 別問了 純綠不線下 過門僅聊天｜不過門不回信息｜寶寶@m7kr4我的兄弟有律師金牙🫰🏻",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 53,
+                "username": "m7kr4"
+              }
+            ]
+          }
+        },
+        "id": "1620109063190368256",
+        "location": "🚪40",
+        "name": "帕恰狗全世界最可愛",
+        "pinned_tweet_id": "1822267524479586666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819752600482570240/SzqYGGtP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 26,
+          "like_count": 546,
+          "listed_count": 0,
+          "tweet_count": 364
+        },
+        "username": "pochacooQQ",
+        "verified": false
+      }
+    ]
+  }
+}

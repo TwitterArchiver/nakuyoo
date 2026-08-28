@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1822631088876818891",
+    "created_at": "2024-08-12T03:10:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-12T04:10:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1822833019411132543"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1774759734773690368",
+          "start": 0,
+          "username": "tang2780iz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1822833019411132543",
+    "in_reply_to_user_id": "1774759734773690368",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1822831523407806474",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tang2780iz Next level! 吧唧吧唧😋😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1822631088876818891",
+        "created_at": "2024-08-12T03:10:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-12T04:10:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822833019411132543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1774759734773690368",
+              "start": 0,
+              "username": "tang2780iz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822833019411132543",
+        "in_reply_to_user_id": "1774759734773690368",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822831523407806474",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tang2780iz Next level! 吧唧吧唧😋😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774759734773690368",
+        "conversation_id": "1822631088876818891",
+        "created_at": "2024-08-12T03:04:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-12T04:04:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822831523407806474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1715624766571429888",
+              "start": 0,
+              "username": "nakuyoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822831523407806474",
+        "in_reply_to_user_id": "1715624766571429888",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822631088876818891",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nakuyoo 還是要適當吐苦水！憋著不好\n祝小骨更快達到next level（？）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@9wylovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "9wylovo"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪250🇭🇰",
+        "name": "骨仔",
+        "pinned_tweet_id": "1822266798747595010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822625813629689856/KGMTxKge_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14528,
+          "following_count": 33,
+          "like_count": 32018,
+          "listed_count": 28,
+          "tweet_count": 6484
+        },
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-01T11:24:49.000Z",
+        "description": "只是來發癲的",
+        "id": "1774759734773690368",
+        "location": "冥界",
+        "name": "膛",
+        "pinned_tweet_id": "1774765546535571821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774760031776559104/tFgInI7l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 101,
+          "like_count": 5242,
+          "listed_count": 0,
+          "tweet_count": 1442
+        },
+        "username": "tang2780iz",
+        "verified": false
+      }
+    ]
+  }
+}

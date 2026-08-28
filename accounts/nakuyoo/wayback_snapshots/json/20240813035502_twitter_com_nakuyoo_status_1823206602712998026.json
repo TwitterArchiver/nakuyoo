@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1823206579518484480",
+        "7_1823206579531128832"
+      ]
+    },
+    "author_id": "1715624766571429888",
+    "conversation_id": "1823206602712998026",
+    "created_at": "2024-08-13T03:55:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-13T04:55:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1823206602712998026"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/y2r0uu4x2w",
+          "end": 23,
+          "expanded_url": "https://twitter.com/nakuyoo/status/1823206602712998026/video/1",
+          "media_key": "3_1823206579518484480",
+          "start": 0,
+          "url": "https://t.co/y2r0uu4X2W"
+        },
+        {
+          "display_url": "pic.x.com/y2r0uu4x2w",
+          "end": 23,
+          "expanded_url": "https://twitter.com/nakuyoo/status/1823206602712998026/video/1",
+          "media_key": "7_1823206579531128832",
+          "start": 0,
+          "url": "https://t.co/y2r0uu4X2W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1823206602712998026",
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/y2r0uu4X2W"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1823206579518484480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GU1UuWxasAApT5n.jpg",
+        "width": 576
+      },
+      {
+        "duration_ms": 3800,
+        "height": 640,
+        "media_key": "7_1823206579531128832",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1823206579531128832/pu/img/BWrp2hC2y751y-uh.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1823206579531128832/pu/vid/avc1/320x562/ftx8LISw4zZhjAGy.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1823206579531128832/pu/vid/avc1/364x640/uJCvjRIclcmuRSI7.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1823206579531128832/pu/pl/n88jxZnHGMy9rTbD.m3u8?tag=12"
+          }
+        ],
+        "width": 364
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1823206579518484480",
+            "7_1823206579531128832"
+          ]
+        },
+        "author_id": "1715624766571429888",
+        "conversation_id": "1823206602712998026",
+        "created_at": "2024-08-13T03:55:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-13T04:55:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1823206602712998026"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y2r0uu4x2w",
+              "end": 23,
+              "expanded_url": "https://twitter.com/nakuyoo/status/1823206602712998026/video/1",
+              "media_key": "3_1823206579518484480",
+              "start": 0,
+              "url": "https://t.co/y2r0uu4X2W"
+            },
+            {
+              "display_url": "pic.x.com/y2r0uu4x2w",
+              "end": 23,
+              "expanded_url": "https://twitter.com/nakuyoo/status/1823206602712998026/video/1",
+              "media_key": "7_1823206579531128832",
+              "start": 0,
+              "url": "https://t.co/y2r0uu4X2W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823206602712998026",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/y2r0uu4X2W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@9wylovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "9wylovo"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪250🇭🇰",
+        "name": "刻在骨子裏",
+        "pinned_tweet_id": "1822266798747595010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822625813629689856/KGMTxKge_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14586,
+          "following_count": 33,
+          "like_count": 32125,
+          "listed_count": 29,
+          "tweet_count": 6504
+        },
+        "username": "nakuyoo",
+        "verified": false
+      }
+    ]
+  }
+}

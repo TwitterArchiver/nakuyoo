@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "2087035021614047492",
+    "created_at": "2026-08-11T04:34:59.000Z",
+    "display_text_range": [
+      0,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T05:34:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087035021614047492"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2087035021614047492",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你們覺得我像混血嗎\n從小到大有很多人都說我像日本人/外國人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "2087035021614047492",
+        "created_at": "2026-08-11T04:34:59.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T05:34:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087035021614047492"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087035021614047492",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你們覺得我像混血嗎\n從小到大有很多人都說我像日本人/外國人"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "ig: naku.yoo",
+        "id": "1715624766571429888",
+        "is_identity_verified": false,
+        "location": "🚪300聊天Hk",
+        "most_recent_tweet_id": "2087035021614047492",
+        "name": "骨",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1715624766571429888/1786271158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054838019136647168/v9qJCyvZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16640,
+          "following_count": 10,
+          "like_count": 31791,
+          "listed_count": 33,
+          "media_count": 244,
+          "tweet_count": 7873
+        },
+        "url": "",
+        "username": "nakuyoo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

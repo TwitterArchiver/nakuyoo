@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1825039344882876549",
+    "created_at": "2024-08-18T05:17:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-18T06:17:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1825039344882876549"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "906566164582612992",
+          "start": 3,
+          "username": "Yorutomei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1825039344882876549",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1824998750781051026",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yorutomei: 不用想人家會覺得你怎樣注意到你怎樣\n因為沒有人像你這樣敏感和在意別人🚬"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1825039344882876549",
+        "created_at": "2024-08-18T05:17:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-18T06:17:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1825039344882876549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "906566164582612992",
+              "start": 3,
+              "username": "Yorutomei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825039344882876549",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1824998750781051026",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yorutomei: 不用想人家會覺得你怎樣注意到你怎樣\n因為沒有人像你這樣敏感和在意別人🚬"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "906566164582612992",
+        "conversation_id": "1824998750781051026",
+        "created_at": "2024-08-18T02:36:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-18T03:36:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1824998750781051026"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1824998750781051026",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 189,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "不用想人家會覺得你怎樣注意到你怎樣\n因為沒有人像你這樣敏感和在意別人🚬"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "一個精神病 完 @9wylovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 8,
+                "username": "9wylovo"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪250🇭🇰",
+        "name": "刻在骨子裏",
+        "pinned_tweet_id": "1823875339594191103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822625813629689856/KGMTxKge_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15097,
+          "following_count": 33,
+          "like_count": 32663,
+          "listed_count": 27,
+          "tweet_count": 6654
+        },
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-09T17:13:11.000Z",
+        "description": "ℂ𝕙𝕒𝕠𝕥𝕚𝕔｜ 𝕡𝕒𝕟 ｜𝕤𝕨𝕚𝕥𝕔𝕙｜網癮女大｜只看不做的變態",
+        "id": "906566164582612992",
+        "location": "Hong Kong",
+        "name": "澪♱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784078851288772608/meN27Vmm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1054,
+          "following_count": 490,
+          "like_count": 3211,
+          "listed_count": 23,
+          "tweet_count": 463
+        },
+        "username": "Yorutomei",
+        "verified": false
+      }
+    ]
+  }
+}

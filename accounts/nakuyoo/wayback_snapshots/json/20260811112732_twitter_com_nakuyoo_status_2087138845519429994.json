@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "2087035021614047492",
+    "created_at": "2026-08-11T11:27:32.000Z",
+    "display_text_range": [
+      11,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T12:27:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087138845519429994"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1962507651545513984",
+          "start": 0,
+          "username": "yorutorei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087138845519429994",
+    "in_reply_to_user_id": "1962507651545513984",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087121140854759621",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yorutorei 😭😭😱😱😱😱😱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "2087035021614047492",
+        "created_at": "2026-08-11T11:27:32.000Z",
+        "display_text_range": [
+          11,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T12:27:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087138845519429994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1962507651545513984",
+              "start": 0,
+              "username": "yorutorei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087138845519429994",
+        "in_reply_to_user_id": "1962507651545513984",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087121140854759621",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yorutorei 😭😭😱😱😱😱😱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962507651545513984",
+        "conversation_id": "2087035021614047492",
+        "created_at": "2026-08-11T10:17:11.000Z",
+        "display_text_range": [
+          9,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T11:17:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087121140854759621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1715624766571429888",
+              "start": 0,
+              "username": "nakuyoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087121140854759621",
+        "in_reply_to_user_id": "1715624766571429888",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087035021614047492",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nakuyoo 像日本🥺🥺！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "ig: naku.yoo",
+        "id": "1715624766571429888",
+        "is_identity_verified": false,
+        "location": "🚪300聊天Hk",
+        "most_recent_tweet_id": "2087138845519429994",
+        "name": "骨",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1715624766571429888/1786271158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054838019136647168/v9qJCyvZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16646,
+          "following_count": 10,
+          "like_count": 31806,
+          "listed_count": 33,
+          "media_count": 245,
+          "tweet_count": 7885
+        },
+        "url": "",
+        "username": "nakuyoo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-01T13:27:56.000Z",
+        "description": "實體悲傷蛙",
+        "id": "1962507651545513984",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087137961276322178",
+        "name": "請把我的鎖骨當作煙灰缸",
+        "pinned_tweet_id": "2049866691421909099",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1962507651545513984/1756734210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962513868670033920/JvsTc0L7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1404,
+          "following_count": 21,
+          "like_count": 1265,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 1328
+        },
+        "url": "",
+        "username": "yorutorei",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

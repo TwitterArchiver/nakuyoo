@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "2086728733285879975",
+    "created_at": "2026-08-10T08:17:54.000Z",
+    "display_text_range": [
+      0,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T09:17:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086728733285879975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2083081810859466752",
+          "start": 3,
+          "username": "yuzhazha69"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086728733285879975",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086454141279179033",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuzhazha69: 想象一下马斯克是你的强控制欲男友。啥话不说给你号封了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "2086728733285879975",
+        "created_at": "2026-08-10T08:17:54.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T09:17:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086728733285879975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2083081810859466752",
+              "start": 3,
+              "username": "yuzhazha69"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086728733285879975",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086454141279179033",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuzhazha69: 想象一下马斯克是你的强控制欲男友。啥话不说给你号封了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2083081810859466752",
+        "conversation_id": "2086454141279179033",
+        "created_at": "2026-08-09T14:06:46.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T15:06:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086454141279179033"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086454141279179033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1957,
+          "like_count": 57,
+          "quote_count": 3,
+          "reply_count": 18,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "想象一下马斯克是你的强控制欲男友。啥话不说给你号封了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "ig: naku.yoo",
+        "id": "1715624766571429888",
+        "is_identity_verified": false,
+        "location": "🚪300聊天Hk",
+        "most_recent_tweet_id": "2086728733285879975",
+        "name": "骨",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1715624766571429888/1786271158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054838019136647168/v9qJCyvZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16639,
+          "following_count": 10,
+          "like_count": 31777,
+          "listed_count": 33,
+          "media_count": 240,
+          "tweet_count": 7863
+        },
+        "url": "",
+        "username": "nakuyoo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-31T06:47:17.000Z",
+        "description": "4.0火乍玉\nod/自伤/精神病内容\n妈妈@boqiaoahm4",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 21,
+                "username": "boqiaoahm4"
+              }
+            ]
+          }
+        },
+        "id": "2083081810859466752",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086672893740744928",
+        "name": "炸炸火乍玉",
+        "pinned_tweet_id": "2086345944996659524",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2083081810859466752/1785480562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083082423362031617/XGLgLscM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 97,
+          "like_count": 212,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 79
+        },
+        "url": "",
+        "username": "yuzhazha69",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

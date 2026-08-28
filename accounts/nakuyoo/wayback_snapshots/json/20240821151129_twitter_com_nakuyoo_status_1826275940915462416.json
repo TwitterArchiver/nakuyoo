@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1826275940915462416",
+    "created_at": "2024-08-21T15:11:29.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-21T16:11:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1826275940915462416"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1747138924450029568",
+          "start": 3,
+          "username": "od_wiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1826275940915462416",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1826246619135926636",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @od_wiki: od就是殴打的意思\nzc就是早餐的意思\n右美就是右边美好的事物\n白兔就是大白兔奶糖\n超天酱就是超天椒做的辣椒酱\n糖糖就是超市里卖的糖糖\n地雷女就是会排爆地雷的女生"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1826275940915462416",
+        "created_at": "2024-08-21T15:11:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-21T16:11:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1826275940915462416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1747138924450029568",
+              "start": 3,
+              "username": "od_wiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826275940915462416",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826246619135926636",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @od_wiki: od就是殴打的意思\nzc就是早餐的意思\n右美就是右边美好的事物\n白兔就是大白兔奶糖\n超天酱就是超天椒做的辣椒酱\n糖糖就是超市里卖的糖糖\n地雷女就是会排爆地雷的女生"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747138924450029568",
+        "conversation_id": "1826246619135926636",
+        "created_at": "2024-08-21T13:14:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-21T14:14:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1826246619135926636"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1826246619135926636",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1035,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "od就是殴打的意思\nzc就是早餐的意思\n右美就是右边美好的事物\n白兔就是大白兔奶糖\n超天酱就是超天椒做的辣椒酱\n糖糖就是超市里卖的糖糖\n地雷女就是会排爆地雷的女生"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@9wylovo 我擦自残?!冷静啊，人生不如意十之八九，千万不要想不开呀，自残是愚蠢的行为呀，要知道自残有风险啊!人体内的血管被划破了大出血几分钟就会死，除非有人及时发现，否则输血救不回来的呀!有什么想不开的可以找我倾诉，自残什么的很可怕的，不要再这样做了，我会帮你的，对了，可以看看下面吗?",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "9wylovo"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪250🇭🇰",
+        "name": "刻在骨子裏",
+        "pinned_tweet_id": "1823875339594191103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1825182041480290304/KGPSNEnx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15171,
+          "following_count": 28,
+          "like_count": 32966,
+          "listed_count": 27,
+          "tweet_count": 6709
+        },
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-16T06:09:23.000Z",
+        "description": "台子 OD \n\n绅士游戏：https://t.co/OXiOIO9QLM\n个人博客：https://t.co/jzBbyyNnJF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "58game.xyz",
+                "end": 36,
+                "expanded_url": "https://58game.xyz/",
+                "start": 13,
+                "url": "https://t.co/OXiOIO9QLM"
+              },
+              {
+                "display_url": "hiv.icu",
+                "end": 65,
+                "expanded_url": "https://hiv.icu/",
+                "start": 42,
+                "url": "https://t.co/jzBbyyNnJF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "https://www.od-wiki.com/",
+                "start": 0,
+                "url": "https://t.co/YHP0zrJSxF"
+              }
+            ]
+          }
+        },
+        "id": "1747138924450029568",
+        "location": "東京 港区",
+        "name": "✟°ʚ地雷女教教主ɞ°✟",
+        "pinned_tweet_id": "1825493982753017955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821511007279206400/sD9YYCcq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9001,
+          "following_count": 4854,
+          "like_count": 4233,
+          "listed_count": 7,
+          "tweet_count": 2706
+        },
+        "url": "https://t.co/YHP0zrJSxF",
+        "username": "od_wiki",
+        "verified": false
+      }
+    ]
+  }
+}

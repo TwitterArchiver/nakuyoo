@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      }
+    ],
+    "conversation_id": "1872671653731410214",
+    "created_at": "2024-12-27T16:05:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-27T17:05:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1872675106608345328"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1761106331896033283",
+          "start": 0,
+          "username": "kamiyamanemuri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872675106608345328",
+    "in_reply_to_user_id": "1761106331896033283",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872673505587978453",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kamiyamanemuri Google🌝🌝🌝🌝🌝🌝🌝🌝🌝🌝🌝🌝🌝🌚🌚🌚🌚🌚🌚🌚哇哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "1872671653731410214",
+        "created_at": "2024-12-27T16:05:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-27T17:05:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872675106608345328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1761106331896033283",
+              "start": 0,
+              "username": "kamiyamanemuri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872675106608345328",
+        "in_reply_to_user_id": "1761106331896033283",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872673505587978453",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kamiyamanemuri Google🌝🌝🌝🌝🌝🌝🌝🌝🌝🌝🌝🌝🌝🌚🌚🌚🌚🌚🌚🌚哇哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761106331896033283",
+        "conversation_id": "1872671653731410214",
+        "created_at": "2024-12-27T15:58:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-27T16:58:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872673505587978453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1715624766571429888",
+              "start": 0,
+              "username": "nakuyoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872673505587978453",
+        "in_reply_to_user_id": "1715624766571429888",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872671653731410214",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nakuyoo 骨哥 (谷歌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "🚪300 | @b0n3_core ｜幻想是我的一切 @ukanooy0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "b0n3_core"
+              },
+              {
+                "end": 36,
+                "start": 27,
+                "username": "ukanooy0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/naku.yoo?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/naku.yoo?igsh=OHVpYmZjb3hpNjVy&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/aHjXW8BvfQ"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "name": "炸毛水母骨",
+        "pinned_tweet_id": "1872103640816881782",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872548980552540162/MG-FrXU-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17844,
+          "following_count": 34,
+          "like_count": 35261,
+          "listed_count": 29,
+          "media_count": 73,
+          "tweet_count": 7252
+        },
+        "url": "https://t.co/aHjXW8BvfQ",
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-23T19:10:51.000Z",
+        "description": "永い眠りにつく",
+        "id": "1761106331896033283",
+        "location": "表世界",
+        "name": "神眠喵!🪦",
+        "pinned_tweet_id": "1813993940288438691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823308623491330048/nVophlpm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6731,
+          "following_count": 27,
+          "like_count": 2464,
+          "listed_count": 9,
+          "media_count": 213,
+          "tweet_count": 1149
+        },
+        "username": "kamiyamanemuri",
+        "verified": false
+      }
+    ]
+  }
+}

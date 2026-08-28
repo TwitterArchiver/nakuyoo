@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1822524084439449785",
+    "created_at": "2024-08-11T06:50:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-11T07:50:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1822526078956785900"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1484110517111517186",
+          "start": 0,
+          "username": "DUNQqtvM5tNW12F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1822526078956785900",
+    "in_reply_to_user_id": "1484110517111517186",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1822525780351754644",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DUNQqtvM5tNW12F 耶死！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1822524084439449785",
+        "created_at": "2024-08-11T06:50:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-11T07:50:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822526078956785900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1484110517111517186",
+              "start": 0,
+              "username": "DUNQqtvM5tNW12F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822526078956785900",
+        "in_reply_to_user_id": "1484110517111517186",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822525780351754644",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DUNQqtvM5tNW12F 耶死！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1484110517111517186",
+        "conversation_id": "1822524084439449785",
+        "created_at": "2024-08-11T06:49:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-11T07:49:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822525780351754644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1715624766571429888",
+              "start": 0,
+              "username": "nakuyoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822525780351754644",
+        "in_reply_to_user_id": "1715624766571429888",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822524084439449785",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nakuyoo 異瞳真的超讚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@9wylovo 只是一個Psychosis",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "9wylovo"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪250 香港",
+        "name": "骨骨",
+        "pinned_tweet_id": "1822441347372216795",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821861972964732929/fzCuDq0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14505,
+          "following_count": 33,
+          "like_count": 31808,
+          "listed_count": 28,
+          "tweet_count": 6423
+        },
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-20T10:28:41.000Z",
+        "description": "這是大帳，備帳：@imafish_0602. 重度適應障礙、中度憂鬱、睡眠障礙 、認知障礙、後天左耳失聰 ，日常體驗雲霄飛車式心情變化",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "imafish_0602"
+              }
+            ]
+          }
+        },
+        "id": "1484110517111517186",
+        "location": "假想國",
+        "name": "鹹魚翻身還是鹹魚",
+        "pinned_tweet_id": "1803277939984966128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803254007873601536/PZddoMDJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 158,
+          "like_count": 33856,
+          "listed_count": 0,
+          "tweet_count": 455
+        },
+        "username": "DUNQqtvM5tNW12F",
+        "verified": false
+      }
+    ]
+  }
+}

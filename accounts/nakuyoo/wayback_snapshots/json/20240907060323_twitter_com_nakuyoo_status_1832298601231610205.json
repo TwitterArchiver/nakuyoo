@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1832276548248072222",
+    "created_at": "2024-09-07T06:03:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-07T07:03:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1832298601231610205"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1692201952627810304",
+          "start": 0,
+          "username": "m7kr4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1832298601231610205",
+    "in_reply_to_user_id": "1692201952627810304",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1832295956995551374",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@m7kr4 謝謝你！😋🩷🩷"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1832276548248072222",
+        "created_at": "2024-09-07T06:03:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-07T07:03:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1832298601231610205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1692201952627810304",
+              "start": 0,
+              "username": "m7kr4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1832298601231610205",
+        "in_reply_to_user_id": "1692201952627810304",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1832295956995551374",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@m7kr4 謝謝你！😋🩷🩷"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692201952627810304",
+        "conversation_id": "1832276548248072222",
+        "created_at": "2024-09-07T05:52:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-07T06:52:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1832295956995551374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1715624766571429888",
+              "start": 0,
+              "username": "nakuyoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1832295956995551374",
+        "in_reply_to_user_id": "1715624766571429888",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1832276548248072222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nakuyoo 生日快樂寶寶！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@9wylovo 回憶結冰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "9wylovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/naku.yoo?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/naku.yoo?igsh=OHVpYmZjb3hpNjVy&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/aHjXW8BvfQ"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪250🇭🇰",
+        "name": "骨頭",
+        "pinned_tweet_id": "1823875339594191103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831117464026943488/Eo_Zr6An_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16222,
+          "following_count": 27,
+          "like_count": 34152,
+          "listed_count": 29,
+          "tweet_count": 6884
+        },
+        "url": "https://t.co/aHjXW8BvfQ",
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-17T15:49:39.000Z",
+        "description": "07｜女 ｜雜垢 愛亂發推 有自傷成份｜\n家人 @pochacooQQ 我的兄弟貌美如花\n@umi7kr4",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 24,
+                "username": "pochacooQQ"
+              },
+              {
+                "end": 53,
+                "start": 45,
+                "username": "umi7kr4"
+              }
+            ]
+          }
+        },
+        "id": "1692201952627810304",
+        "name": "氣息彌留之際",
+        "pinned_tweet_id": "1827901126102163909",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819037282470625280/svnSiI08_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1304,
+          "following_count": 806,
+          "like_count": 11991,
+          "listed_count": 1,
+          "tweet_count": 1699
+        },
+        "username": "m7kr4",
+        "verified": false
+      }
+    ]
+  }
+}

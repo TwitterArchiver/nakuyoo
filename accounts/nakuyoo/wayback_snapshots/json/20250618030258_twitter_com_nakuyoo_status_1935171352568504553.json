@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1935171352568504553",
+    "created_at": "2025-06-18T03:02:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-18T04:02:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935171352568504553"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1850111807383547904",
+          "start": 3,
+          "username": "nomizazzle26"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935171352568504553",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935119022431121888",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nomizazzle26: 其實我喜怒哀樂都寫在臉上 開心我就傻笑 不開心就板著個死人臉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1935171352568504553",
+        "created_at": "2025-06-18T03:02:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T04:02:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935171352568504553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1850111807383547904",
+              "start": 3,
+              "username": "nomizazzle26"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935171352568504553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935119022431121888",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nomizazzle26: 其實我喜怒哀樂都寫在臉上 開心我就傻笑 不開心就板著個死人臉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850111807383547904",
+        "conversation_id": "1935119022431121888",
+        "created_at": "2025-06-17T23:35:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T00:35:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935119022431121888"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1935119022431121888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其實我喜怒哀樂都寫在臉上 開心我就傻笑 不開心就板著個死人臉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@ukanooy0 唯一2.0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "ukanooy0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/naku.yoo?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/naku.yoo?igsh=OHVpYmZjb3hpNjVy&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/aHjXW8BvfQ"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪300基本388簽名",
+        "name": "Inane骨",
+        "pinned_tweet_id": "1878244958273978540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931334867725504512/7kS_Yy1T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17378,
+          "following_count": 33,
+          "like_count": 33907,
+          "listed_count": 28,
+          "media_count": 69,
+          "tweet_count": 7466
+        },
+        "url": "https://t.co/aHjXW8BvfQ",
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-26T09:46:50.000Z",
+        "description": "我是大王 邪惡小屁孩 不接線下 不收門檻 不接ptgf 不做愛 不調教 不踢春袋",
+        "id": "1850111807383547904",
+        "name": "垃圾桶大王",
+        "pinned_tweet_id": "1907906025065443788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893718751507267584/sC3HWvzy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 221,
+          "like_count": 10801,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 2263
+        },
+        "username": "nomizazzle26",
+        "verified": false
+      }
+    ]
+  }
+}

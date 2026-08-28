@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1830216526898856166",
+    "created_at": "2024-09-01T12:09:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-01T13:09:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1830216526898856166"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1830216526898856166",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一想到一上學又軀體化我就想喝百早枯奶茶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1830216526898856166",
+        "created_at": "2024-09-01T12:09:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-01T13:09:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1830216526898856166"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1830216526898856166",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一想到一上學又軀體化我就想喝百早枯奶茶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@9wylovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "9wylovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/naku.yoo?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/naku.yoo?igsh=OHVpYmZjb3hpNjVy&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/aHjXW8BvfQ"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪250🇭🇰🇭🇰",
+        "name": "骨頭",
+        "pinned_tweet_id": "1823875339594191103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828756448404439040/FNqiVmFy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15855,
+          "following_count": 28,
+          "like_count": 33747,
+          "listed_count": 28,
+          "tweet_count": 6804
+        },
+        "url": "https://t.co/aHjXW8BvfQ",
+        "username": "nakuyoo",
+        "verified": false
+      }
+    ]
+  }
+}

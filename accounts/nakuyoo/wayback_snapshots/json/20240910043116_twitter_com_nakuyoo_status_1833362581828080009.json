@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1833362581828080009",
+    "created_at": "2024-09-10T04:31:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-10T05:31:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1833362581828080009"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "906566164582612992",
+          "start": 3,
+          "username": "Yorutomei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1833362581828080009",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1833359511333298248",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yorutomei: 再也不敢對人太善良太好了。\n我盡力無私奉獻，他們卻最無情地傷害我。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1833362581828080009",
+        "created_at": "2024-09-10T04:31:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-10T05:31:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1833362581828080009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "906566164582612992",
+              "start": 3,
+              "username": "Yorutomei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833362581828080009",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1833359511333298248",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yorutomei: 再也不敢對人太善良太好了。\n我盡力無私奉獻，他們卻最無情地傷害我。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "906566164582612992",
+        "conversation_id": "1833359511333298248",
+        "created_at": "2024-09-10T04:19:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-10T05:19:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1833359511333298248"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1833359511333298248",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "再也不敢對人太善良太好了。\n我盡力無私奉獻，他們卻最無情地傷害我。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "每當我想起曾經 曾經曾經曾經曾經 @9wylovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 17,
+                "username": "9wylovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/naku.yoo?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/naku.yoo?igsh=OHVpYmZjb3hpNjVy&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/aHjXW8BvfQ"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪250🇭🇰",
+        "name": "小骨",
+        "pinned_tweet_id": "1823875339594191103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831117464026943488/Eo_Zr6An_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16358,
+          "following_count": 28,
+          "like_count": 34368,
+          "listed_count": 29,
+          "tweet_count": 6911
+        },
+        "url": "https://t.co/aHjXW8BvfQ",
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-09T17:13:11.000Z",
+        "description": "ℂ𝕙𝕒𝕠𝕥𝕚𝕔｜ 𝕡𝕒𝕟 ｜𝕤𝕨𝕚𝕥𝕔𝕙｜網癮女大｜只看不做的變態",
+        "id": "906566164582612992",
+        "location": "Hong Kong",
+        "name": "澪♱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832095718296723456/7uVswivY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1293,
+          "following_count": 502,
+          "like_count": 3667,
+          "listed_count": 23,
+          "tweet_count": 653
+        },
+        "username": "Yorutomei",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1886749148604702777",
+    "created_at": "2025-02-04T12:10:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-04T13:10:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886749148604702777"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1829254134350131202",
+          "start": 3,
+          "username": "novascals"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886749148604702777",
+    "lang": "in",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2594
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885865017087860938",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @novascals: february wish :\n\n        40kg                40kg\n  40kg         40kg        40kg\n40kg                                40kg…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1886749148604702777",
+        "created_at": "2025-02-04T12:10:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T13:10:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886749148604702777"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1829254134350131202",
+              "start": 3,
+              "username": "novascals"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886749148604702777",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2594
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885865017087860938",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @novascals: february wish :\n\n        40kg                40kg\n  40kg         40kg        40kg\n40kg                                40kg…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829254134350131202",
+        "conversation_id": "1885865017087860938",
+        "created_at": "2025-02-02T01:37:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T02:37:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1885865017087860938"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1885865017087860938",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 346,
+          "impression_count": 102313,
+          "like_count": 10022,
+          "quote_count": 53,
+          "reply_count": 14,
+          "retweet_count": 2594
+        },
+        "reply_settings": "everyone",
+        "text": "february wish :\n\n        40kg                40kg\n  40kg         40kg        40kg\n40kg                                40kg\n   40kg                            40kg\n      40kg                     40kg\n          40kg             40kg \n                      40kg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@b0n3_core｜@ukanooy0 2.0 ｜我不玩遊戲我只有推特小紅書Ig和threads其他均盜圖 我ip香港的⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "b0n3_core"
+              },
+              {
+                "end": 20,
+                "start": 11,
+                "username": "ukanooy0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/naku.yoo?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/naku.yoo?igsh=OHVpYmZjb3hpNjVy&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/aHjXW8BvfQ"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪300基本388簽名",
+        "name": "水母骨",
+        "pinned_tweet_id": "1878244958273978540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879131018059554816/s014GKa9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18143,
+          "following_count": 35,
+          "like_count": 35652,
+          "listed_count": 29,
+          "media_count": 109,
+          "tweet_count": 7486
+        },
+        "url": "https://t.co/aHjXW8BvfQ",
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-29T20:25:54.000Z",
+        "description": "@shhhhnova | @novasopita",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "shhhhnova"
+              },
+              {
+                "end": 24,
+                "start": 13,
+                "username": "novasopita"
+              }
+            ]
+          }
+        },
+        "id": "1829254134350131202",
+        "location": "19  !  edtwt",
+        "name": "َ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886522208388042752/ATmw3UUt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1921,
+          "following_count": 1037,
+          "like_count": 12318,
+          "listed_count": 16,
+          "media_count": 1837,
+          "tweet_count": 8299
+        },
+        "username": "novascals",
+        "verified": false
+      }
+    ]
+  }
+}

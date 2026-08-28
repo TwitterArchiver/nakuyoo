@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1823526670244163789",
+    "created_at": "2024-08-14T08:20:17.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-14T09:20:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1823635742561796207"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1761106331896033283",
+          "start": 0,
+          "username": "Rikkanoseikatsu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1823635742561796207",
+    "in_reply_to_user_id": "1761106331896033283",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1823635675784110327",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rikkanoseikatsu 寶寶😋😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1823526670244163789",
+        "created_at": "2024-08-14T08:20:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-14T09:20:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1823635742561796207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1761106331896033283",
+              "start": 0,
+              "username": "Rikkanoseikatsu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823635742561796207",
+        "in_reply_to_user_id": "1761106331896033283",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1823635675784110327",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rikkanoseikatsu 寶寶😋😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761106331896033283",
+        "conversation_id": "1823526670244163789",
+        "created_at": "2024-08-14T08:20:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-14T09:20:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1823635675784110327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1715624766571429888",
+              "start": 0,
+              "username": "nakuyoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823635675784110327",
+        "in_reply_to_user_id": "1715624766571429888",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1823526670244163789",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nakuyoo 天使"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@9wylovo 一個精神病 完",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "9wylovo"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪250🇭🇰",
+        "name": "刻在骨子裏",
+        "pinned_tweet_id": "1823593115241865599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822625813629689856/KGMTxKge_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14617,
+          "following_count": 33,
+          "like_count": 32254,
+          "listed_count": 27,
+          "tweet_count": 6524
+        },
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-23T19:10:51.000Z",
+        "description": "永い眠りにつく\n不認識的別找我互",
+        "id": "1761106331896033283",
+        "location": "表世界",
+        "name": "眠り神🪦",
+        "pinned_tweet_id": "1813993940288438691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823308623491330048/nVophlpm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3208,
+          "following_count": 19,
+          "like_count": 436,
+          "listed_count": 4,
+          "tweet_count": 278
+        },
+        "username": "Rikkanoseikatsu",
+        "verified": false
+      }
+    ]
+  }
+}

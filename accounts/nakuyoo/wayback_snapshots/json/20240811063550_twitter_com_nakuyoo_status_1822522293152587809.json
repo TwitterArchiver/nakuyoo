@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1822442851961327823",
+    "created_at": "2024-08-11T06:35:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-11T07:35:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1822522293152587809"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1774759734773690368",
+          "start": 0,
+          "username": "tang2780iz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1822522293152587809",
+    "in_reply_to_user_id": "1774759734773690368",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1822501963751367069",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tang2780iz 我看過一個實驗 是給屍體稱重的\n當人死的那一刻 屍體馬上輕了很多\n就好像靈魂飛走那樣\n不知道是不是真的 但希望是 \n我想在另一個角度看世界"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1822442851961327823",
+        "created_at": "2024-08-11T06:35:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-11T07:35:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822522293152587809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1774759734773690368",
+              "start": 0,
+              "username": "tang2780iz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822522293152587809",
+        "in_reply_to_user_id": "1774759734773690368",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822501963751367069",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tang2780iz 我看過一個實驗 是給屍體稱重的\n當人死的那一刻 屍體馬上輕了很多\n就好像靈魂飛走那樣\n不知道是不是真的 但希望是 \n我想在另一個角度看世界"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774759734773690368",
+        "conversation_id": "1822442851961327823",
+        "created_at": "2024-08-11T05:15:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-11T06:15:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822501963751367069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1715624766571429888",
+              "start": 0,
+              "username": "nakuyoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822501963751367069",
+        "in_reply_to_user_id": "1715624766571429888",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822442851961327823",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nakuyoo 我偏向相信死後有靈魂\n但是宗教方面我想了很久\n我比較信佛教的 畢竟臺灣那邊很多實例還很多陰陽眼什麼的 看起來很可信（）但是基督教是說信耶穌死後靈魂才可以長生 不然連靈魂也要死掉\n學校是基督教的 也有很多實例給我們看\n我就在想我能不能兩個都信了 我不想變成虛無啊🚬（碎碎念很多對不起）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@9wylovo 骨神",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "9wylovo"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪250 香港",
+        "name": "刻在骨子裏",
+        "pinned_tweet_id": "1822441347372216795",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821861972964732929/fzCuDq0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14505,
+          "following_count": 33,
+          "like_count": 31797,
+          "listed_count": 28,
+          "tweet_count": 6416
+        },
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-01T11:24:49.000Z",
+        "description": "只是來發癲的",
+        "id": "1774759734773690368",
+        "location": "冥界",
+        "name": "膛",
+        "pinned_tweet_id": "1774765546535571821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774760031776559104/tFgInI7l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 101,
+          "like_count": 5201,
+          "listed_count": 0,
+          "tweet_count": 1431
+        },
+        "username": "tang2780iz",
+        "verified": false
+      }
+    ]
+  }
+}

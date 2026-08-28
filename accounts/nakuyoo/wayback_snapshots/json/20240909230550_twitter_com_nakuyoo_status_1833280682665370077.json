@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1833268747563634699",
+    "created_at": "2024-09-09T23:05:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-10T00:05:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1833280682665370077"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1556635694717878274",
+          "start": 0,
+          "username": "etsukcals"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1833280682665370077",
+    "in_reply_to_user_id": "1556635694717878274",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1833278863482421480",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@etsukcals Thanksss broooooo 😭😭😭😭😭😭😭I LOVE YOU I don’t know how to thank you🥹you are rlly kind and cute in my mind😭if u have any obstacles,I will support you too for sure!!!🩷🩷🩷"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1833268747563634699",
+        "created_at": "2024-09-09T23:05:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-10T00:05:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1833280682665370077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1556635694717878274",
+              "start": 0,
+              "username": "etsukcals"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833280682665370077",
+        "in_reply_to_user_id": "1556635694717878274",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1833278863482421480",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@etsukcals Thanksss broooooo 😭😭😭😭😭😭😭I LOVE YOU I don’t know how to thank you🥹you are rlly kind and cute in my mind😭if u have any obstacles,I will support you too for sure!!!🩷🩷🩷"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1556635694717878274",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1833268747563634699",
+        "created_at": "2024-09-09T22:58:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-09T23:58:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1833278863482421480"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 50,
+              "normalized_text": "naku",
+              "probability": 0.6259,
+              "start": 47,
+              "type": "Other"
+            },
+            {
+              "end": 117,
+              "normalized_text": "twitter",
+              "probability": 0.8824,
+              "start": 111,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1715624766571429888",
+              "start": 0,
+              "username": "nakuyoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833278863482421480",
+        "in_reply_to_user_id": "1715624766571429888",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1833268747563634699",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nakuyoo 生日快樂！！我中文不是很好就用英文說啦www\nhappy birthday naku!! you’re genuinely one of the kindest and nicest people on twitter that i know of, and i wish you the bestest 16!! i know you’re going through hard times right now but please stay strong &lt;3 we all support you"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "每當我想起曾經 曾經曾經曾經曾經 @9wylovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 17,
+                "username": "9wylovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/naku.yoo?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/naku.yoo?igsh=OHVpYmZjb3hpNjVy&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/aHjXW8BvfQ"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪250🇭🇰",
+        "name": "小骨",
+        "pinned_tweet_id": "1823875339594191103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831117464026943488/Eo_Zr6An_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16348,
+          "following_count": 28,
+          "like_count": 34341,
+          "listed_count": 29,
+          "tweet_count": 6909
+        },
+        "url": "https://t.co/aHjXW8BvfQ",
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-08T13:37:51.000Z",
+        "description": "🍬🍭 | try @etsukcalss | hk shedtwt jiraitwt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 9,
+                "username": "etsukcalss"
+              }
+            ]
+          }
+        },
+        "id": "1556635694717878274",
+        "name": "ETSUKO/悅子🍥",
+        "pinned_tweet_id": "1827261644080345394",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813250834429538304/iNsPLc1y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1652,
+          "following_count": 436,
+          "like_count": 9870,
+          "listed_count": 15,
+          "tweet_count": 11970
+        },
+        "username": "etsukcals",
+        "verified": false
+      }
+    ]
+  }
+}

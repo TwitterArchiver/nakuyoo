@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1871533291423342700",
+    "created_at": "2024-12-24T14:11:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-24T15:11:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1871559414320451646"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1586779015574327296",
+          "start": 0,
+          "username": "Cya_Ninnensuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1871559414320451646",
+    "in_reply_to_user_id": "1586779015574327296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1871552774263193982",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cya_Ninnensuki 謝謝你！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1871533291423342700",
+        "created_at": "2024-12-24T14:11:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-24T15:11:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1871559414320451646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1586779015574327296",
+              "start": 0,
+              "username": "Cya_Ninnensuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871559414320451646",
+        "in_reply_to_user_id": "1586779015574327296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1871552774263193982",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cya_Ninnensuki 謝謝你！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1586779015574327296",
+        "conversation_id": "1871533291423342700",
+        "created_at": "2024-12-24T13:45:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-24T14:45:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1871552774263193982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1715624766571429888",
+              "start": 0,
+              "username": "nakuyoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871552774263193982",
+        "in_reply_to_user_id": "1715624766571429888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1871533291423342700",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nakuyoo 你明年一定会比今年更好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "🚪300 | @b0n3_core ｜苦力怕和小雞夢女同擔拒否",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "b0n3_core"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/naku.yoo?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/naku.yoo?igsh=OHVpYmZjb3hpNjVy&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/aHjXW8BvfQ"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "name": "水母骨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869007194752229376/VpXyZ867_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17552,
+          "following_count": 35,
+          "like_count": 35011,
+          "listed_count": 29,
+          "media_count": 67,
+          "tweet_count": 7159
+        },
+        "url": "https://t.co/aHjXW8BvfQ",
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-30T17:56:28.000Z",
+        "description": "只是茶酱而已・OCD・ADHD可能・喜欢JK制服/lolita/地雷系・一直是果然多",
+        "id": "1586779015574327296",
+        "name": "鹿野外的茶酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864030998171680769/vmruVgLl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 277,
+          "like_count": 9031,
+          "listed_count": 2,
+          "media_count": 255,
+          "tweet_count": 8074
+        },
+        "username": "Cya_Ninnensuki",
+        "verified": false
+      }
+    ]
+  }
+}

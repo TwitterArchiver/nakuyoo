@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "2058220921807392837",
+    "created_at": "2026-05-23T16:18:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T17:18:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058220921807392837"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2058220921807392837",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "幫自己穿孔了太爽了以後不用出去給錢穿了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "2058220921807392837",
+        "created_at": "2026-05-23T16:18:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T17:18:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058220921807392837"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058220921807392837",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "幫自己穿孔了太爽了以後不用出去給錢穿了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "挂壁",
+        "id": "1715624766571429888",
+        "location": "🚪300聊天Hk",
+        "name": "小骨Inane",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054838019136647168/v9qJCyvZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16834,
+          "following_count": 9,
+          "like_count": 32040,
+          "listed_count": 34,
+          "media_count": 178,
+          "tweet_count": 7725
+        },
+        "username": "nakuyoo",
+        "verified": false
+      }
+    ]
+  }
+}

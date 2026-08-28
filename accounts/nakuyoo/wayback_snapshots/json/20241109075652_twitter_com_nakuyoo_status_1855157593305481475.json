@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1855122260677554432",
+    "created_at": "2024-11-09T07:56:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-09T08:56:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1855157593305481475"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1677023682735247361",
+          "start": 0,
+          "username": "xux1838"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1855157593305481475",
+    "in_reply_to_user_id": "1677023682735247361",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1855122260677554432",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xux1838 🌝🌝🌝🌝🌝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1855122260677554432",
+        "created_at": "2024-11-09T07:56:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-09T08:56:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1855157593305481475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1677023682735247361",
+              "start": 0,
+              "username": "xux1838"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855157593305481475",
+        "in_reply_to_user_id": "1677023682735247361",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1855122260677554432",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xux1838 🌝🌝🌝🌝🌝"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1855122248266661891"
+          ]
+        },
+        "author_id": "1677023682735247361",
+        "conversation_id": "1855122260677554432",
+        "created_at": "2024-11-09T05:36:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-09T06:36:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1855122260677554432"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ksSq4aUFHu",
+              "end": 26,
+              "expanded_url": "https://x.com/xux1838/status/1855122260677554432/photo/1",
+              "media_key": "3_1855122248266661891",
+              "start": 3,
+              "url": "https://t.co/ksSq4aUFHu"
+            },
+            {
+              "display_url": "x.com/nakuyoo/status…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/nakuyoo/status/1854904968257675287",
+              "start": 27,
+              "url": "https://t.co/wsSOB6wS9y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855122260677554432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1854904968257675287",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "难绷 https://t.co/ksSq4aUFHu https://t.co/wsSOB6wS9y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@9wylovo 沒有抖音微博",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "9wylovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/naku.yoo?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/naku.yoo?igsh=OHVpYmZjb3hpNjVy&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/aHjXW8BvfQ"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪300",
+        "name": "骨",
+        "pinned_tweet_id": "1852705932188451135",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852706455666970624/6koy8PCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16930,
+          "following_count": 31,
+          "like_count": 34993,
+          "listed_count": 28,
+          "tweet_count": 7101
+        },
+        "url": "https://t.co/aHjXW8BvfQ",
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-06T18:36:30.000Z",
+        "description": "己有👻@xux1838/进步保守主义",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "xux1838"
+              }
+            ]
+          }
+        },
+        "id": "1677023682735247361",
+        "location": "神奇小红书",
+        "name": "nxux",
+        "pinned_tweet_id": "1854319824773738890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844644344831348736/VtBXTnpD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 305,
+          "like_count": 2793,
+          "listed_count": 0,
+          "tweet_count": 2324
+        },
+        "username": "xux1838",
+        "verified": true
+      }
+    ]
+  }
+}

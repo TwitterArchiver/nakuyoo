@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1822645801912611149",
+    "created_at": "2024-08-11T15:11:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-11T16:11:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1822652002394136806"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "3770053992",
+          "start": 0,
+          "username": "loveglasslip"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1822652002394136806",
+    "in_reply_to_user_id": "3770053992",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1822650611940372549",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@loveglasslip 我在上牙😭😭😭大家都辛苦了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1822645801912611149",
+        "created_at": "2024-08-11T15:11:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-11T16:11:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822652002394136806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "3770053992",
+              "start": 0,
+              "username": "loveglasslip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822652002394136806",
+        "in_reply_to_user_id": "3770053992",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822650611940372549",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loveglasslip 我在上牙😭😭😭大家都辛苦了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1822650564221747201"
+          ]
+        },
+        "author_id": "3770053992",
+        "conversation_id": "1822645801912611149",
+        "created_at": "2024-08-11T15:05:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-11T16:05:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822650611940372549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1715624766571429888",
+              "start": 0,
+              "username": "nakuyoo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kmhr3j301y",
+              "end": 37,
+              "expanded_url": "https://twitter.com/loveglasslip/status/1822650611940372549/video/1",
+              "media_key": "7_1822650564221747201",
+              "start": 14,
+              "url": "https://t.co/KMhr3J301y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822650611940372549",
+        "in_reply_to_user_id": "1715624766571429888",
+        "lang": "ja",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822645801912611149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nakuyoo 不要怕！ https://t.co/KMhr3J301y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "只是一個精神病在自言自語 沒什麼特別 @9wylovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 19,
+                "username": "9wylovo"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪250🇭🇰",
+        "name": "骨仔",
+        "pinned_tweet_id": "1822266798747595010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822625813629689856/KGMTxKge_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14504,
+          "following_count": 33,
+          "like_count": 31964,
+          "listed_count": 28,
+          "tweet_count": 6461
+        },
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2015-10-03T12:51:52.000Z",
+        "description": "ntr",
+        "id": "3770053992",
+        "name": "女澡堂的男搓澡工",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821866853872041984/LcInt0Q1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 57,
+          "like_count": 132,
+          "listed_count": 0,
+          "tweet_count": 318
+        },
+        "username": "loveglasslip",
+        "verified": false
+      }
+    ]
+  }
+}

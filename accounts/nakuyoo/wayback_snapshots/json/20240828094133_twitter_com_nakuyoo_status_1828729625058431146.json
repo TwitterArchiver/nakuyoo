@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1828723107697401860",
+    "created_at": "2024-08-28T09:41:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-28T10:41:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1828729625058431146"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1659207467069480965",
+          "start": 0,
+          "username": "x_ing3077"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1828729625058431146",
+    "in_reply_to_user_id": "1659207467069480965",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1828723226824040479",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@x_ing3077 😋🔥🔥🔥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1828723107697401860",
+        "created_at": "2024-08-28T09:41:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-28T10:41:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1828729625058431146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659207467069480965",
+              "start": 0,
+              "username": "x_ing3077"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828729625058431146",
+        "in_reply_to_user_id": "1659207467069480965",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1828723226824040479",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@x_ing3077 😋🔥🔥🔥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659207467069480965",
+        "conversation_id": "1828723107697401860",
+        "created_at": "2024-08-28T09:16:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-28T10:16:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1828723226824040479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1715624766571429888",
+              "start": 0,
+              "username": "nakuyoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828723226824040479",
+        "in_reply_to_user_id": "1715624766571429888",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1828723107697401860",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nakuyoo 🔥🔥🔥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@9wylovo 🩸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "9wylovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/naku.yoo?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/naku.yoo?igsh=OHVpYmZjb3hpNjVy&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/aHjXW8BvfQ"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪250🇭🇰🇭🇰",
+        "name": "骨頭",
+        "pinned_tweet_id": "1823875339594191103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828729386197266432/eccXCZP9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15473,
+          "following_count": 29,
+          "like_count": 33400,
+          "listed_count": 26,
+          "tweet_count": 6720
+        },
+        "url": "https://t.co/aHjXW8BvfQ",
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-18T14:41:17.000Z",
+        "description": "屌你老母 冇視奸我 \n視奸我 死全家\n\n主人@zizi_4_9",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 22,
+                "username": "zizi_4_9"
+              }
+            ]
+          }
+        },
+        "id": "1659207467069480965",
+        "name": "/杏仁糖",
+        "pinned_tweet_id": "1820892139120967834",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807836016382038017/n7tt9AKc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 161,
+          "like_count": 775,
+          "listed_count": 0,
+          "tweet_count": 956
+        },
+        "username": "x_ing3077",
+        "verified": false
+      }
+    ]
+  }
+}

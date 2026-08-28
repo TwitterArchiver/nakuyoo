@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1871138103030890592",
+    "created_at": "2024-12-23T12:45:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-23T13:45:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1871175403005755815"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1471507886190645259",
+          "start": 0,
+          "username": "nijanizu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1871175403005755815",
+    "in_reply_to_user_id": "1471507886190645259",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1871167819641225412",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nijanizu 😈😈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1871138103030890592",
+        "created_at": "2024-12-23T12:45:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-23T13:45:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1871175403005755815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1471507886190645259",
+              "start": 0,
+              "username": "nijanizu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871175403005755815",
+        "in_reply_to_user_id": "1471507886190645259",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1871167819641225412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nijanizu 😈😈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471507886190645259",
+        "conversation_id": "1871138103030890592",
+        "created_at": "2024-12-23T12:15:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-23T13:15:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1871167819641225412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1715624766571429888",
+              "start": 0,
+              "username": "nakuyoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871167819641225412",
+        "in_reply_to_user_id": "1715624766571429888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1871138103030890592",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nakuyoo 挺可爱的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "🚪300 | @b0n3_core ｜苦力怕和小雞夢女💚💛",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "b0n3_core"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/naku.yoo?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/naku.yoo?igsh=OHVpYmZjb3hpNjVy&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/aHjXW8BvfQ"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "name": "水母骨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869007194752229376/VpXyZ867_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17423,
+          "following_count": 34,
+          "like_count": 34919,
+          "listed_count": 29,
+          "media_count": 63,
+          "tweet_count": 7138
+        },
+        "url": "https://t.co/aHjXW8BvfQ",
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-16T15:50:18.000Z",
+        "description": "忠忠충\n诚誠성",
+        "id": "1471507886190645259",
+        "name": "광주 러닝 맨창업자 小將 全斗煥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861377567850405890/hTaIcEZr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 1271,
+          "like_count": 5140,
+          "listed_count": 7,
+          "media_count": 45,
+          "tweet_count": 2170
+        },
+        "username": "nijanizu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1873995366603120642"
+      ]
+    },
+    "author_id": "1715624766571429888",
+    "conversation_id": "1873995401940132115",
+    "created_at": "2024-12-31T07:31:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-31T08:31:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1873995401940132115"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2GOggGucgL",
+          "end": 38,
+          "expanded_url": "https://x.com/nakuyoo/status/1873995401940132115/photo/1",
+          "media_key": "3_1873995366603120642",
+          "start": 15,
+          "url": "https://t.co/2GOggGucgL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873995401940132115",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻 https://t.co/2GOggGucgL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1809,
+        "media_key": "3_1873995366603120642",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgHE22kbYAI5Gsy.jpg",
+        "width": 1124
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1873995366603120642"
+          ]
+        },
+        "author_id": "1715624766571429888",
+        "conversation_id": "1873995401940132115",
+        "created_at": "2024-12-31T07:31:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-31T08:31:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1873995401940132115"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2GOggGucgL",
+              "end": 38,
+              "expanded_url": "https://x.com/nakuyoo/status/1873995401940132115/photo/1",
+              "media_key": "3_1873995366603120642",
+              "start": 15,
+              "url": "https://t.co/2GOggGucgL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873995401940132115",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻 https://t.co/2GOggGucgL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@b0n3_core @ukanooy0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "b0n3_core"
+              },
+              {
+                "end": 20,
+                "start": 11,
+                "username": "ukanooy0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/naku.yoo?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/naku.yoo?igsh=OHVpYmZjb3hpNjVy&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/aHjXW8BvfQ"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪300基本388簽名",
+        "name": "炸毛水母骨",
+        "pinned_tweet_id": "1872103640816881782",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873915098609369088/NR_lzdQx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17840,
+          "following_count": 34,
+          "like_count": 35399,
+          "listed_count": 29,
+          "media_count": 80,
+          "tweet_count": 7286
+        },
+        "url": "https://t.co/aHjXW8BvfQ",
+        "username": "nakuyoo",
+        "verified": false
+      }
+    ]
+  }
+}

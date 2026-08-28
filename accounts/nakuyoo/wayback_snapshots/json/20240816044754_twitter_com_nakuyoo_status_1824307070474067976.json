@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1824241049285562440",
+    "created_at": "2024-08-16T04:47:54.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-16T05:47:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1824307070474067976"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1232262968307412994",
+          "start": 0,
+          "username": "Xw9IWBppIWVSiLO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1824307070474067976",
+    "in_reply_to_user_id": "1232262968307412994",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1824285684426768603",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xw9IWBppIWVSiLO 但被太多人投訴了 唉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1824241049285562440",
+        "created_at": "2024-08-16T04:47:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-16T05:47:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1824307070474067976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1232262968307412994",
+              "start": 0,
+              "username": "Xw9IWBppIWVSiLO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824307070474067976",
+        "in_reply_to_user_id": "1232262968307412994",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1824285684426768603",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xw9IWBppIWVSiLO 但被太多人投訴了 唉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1232262968307412994",
+        "conversation_id": "1824241049285562440",
+        "created_at": "2024-08-16T03:22:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-16T04:22:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1824285684426768603"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1715624766571429888",
+              "start": 0,
+              "username": "nakuyoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824285684426768603",
+        "in_reply_to_user_id": "1715624766571429888",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1824241049285562440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nakuyoo 憋著心裡的難受真的很累 比生理上的疲憊更讓人沒有動力做其他事：&lt; 🦴🦴不用太有壓力的  你也只是在自己的推裡面發心裡話而已 如果連這種事都不行 那感覺網路就真的不屬於我們這些普通人了 不是每個人的生活都光鮮亮麗 如果把不開心的事情講出來能讓🦴好一些 那說也沒關係嘟&gt;&lt;！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "一個精神病 完 @9wylovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 8,
+                "username": "9wylovo"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪250🇭🇰",
+        "name": "刻在骨子裏",
+        "pinned_tweet_id": "1823875339594191103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822625813629689856/KGMTxKge_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14856,
+          "following_count": 33,
+          "like_count": 32543,
+          "listed_count": 27,
+          "tweet_count": 6616
+        },
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-25T11:16:12.000Z",
+        "description": "modernia♥\n男高18y\n喜歡 動漫/遊戲（電腦居多）/音樂（最喜歡joji！）",
+        "id": "1232262968307412994",
+        "name": "敗北男角太多了！",
+        "pinned_tweet_id": "1822562755079229917",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794459356479803392/Q74y8WTx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 284,
+          "like_count": 1148,
+          "listed_count": 0,
+          "tweet_count": 255
+        },
+        "username": "Xw9IWBppIWVSiLO",
+        "verified": false
+      }
+    ]
+  }
+}

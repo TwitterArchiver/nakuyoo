@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "2086966877591576941",
+    "created_at": "2026-08-11T00:04:12.000Z",
+    "display_text_range": [
+      0,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T01:04:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086966877591576941"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1888859509973766144",
+          "start": 3,
+          "username": "rncn27555"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086966877591576941",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086505891667554559",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rncn27555: 怎么感觉就一两年时间推特变这么严了 之前我看自残照满天飞"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "2086966877591576941",
+        "created_at": "2026-08-11T00:04:12.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T01:04:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086966877591576941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1888859509973766144",
+              "start": 3,
+              "username": "rncn27555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086966877591576941",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086505891667554559",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rncn27555: 怎么感觉就一两年时间推特变这么严了 之前我看自残照满天飞"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888859509973766144",
+        "conversation_id": "2086505891667554559",
+        "created_at": "2026-08-09T17:32:24.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T18:32:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086505891667554559"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086505891667554559",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 18430,
+          "like_count": 205,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "怎么感觉就一两年时间推特变这么严了 之前我看自残照满天飞"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "ig: naku.yoo",
+        "id": "1715624766571429888",
+        "is_identity_verified": false,
+        "location": "🚪300聊天Hk",
+        "most_recent_tweet_id": "2086966877591576941",
+        "name": "骨",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1715624766571429888/1786271158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054838019136647168/v9qJCyvZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16644,
+          "following_count": 10,
+          "like_count": 31789,
+          "listed_count": 33,
+          "media_count": 244,
+          "tweet_count": 7872
+        },
+        "url": "",
+        "username": "nakuyoo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-10T07:56:23.000Z",
+        "description": "泛性恋 性别脱敏 有什么玩什么抽烟喝酒整日打游戏",
+        "id": "1888859509973766144",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086920991390007642",
+        "name": "ran",
+        "pinned_tweet_id": "2082802325895446757",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888859509973766144/1783350288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081961896572555264/-X09q-N7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 42,
+          "like_count": 579,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 237
+        },
+        "url": "",
+        "username": "rncn27555",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

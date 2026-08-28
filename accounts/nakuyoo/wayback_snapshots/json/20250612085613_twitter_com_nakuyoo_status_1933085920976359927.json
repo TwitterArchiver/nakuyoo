@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1933076703997526061",
+    "created_at": "2025-06-12T08:56:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-12T09:56:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933085920976359927"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1771629181169987584",
+          "start": 0,
+          "username": "tsukiii_dead"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933085920976359927",
+    "in_reply_to_user_id": "1771629181169987584",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933076703997526061",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tsukiii_dead Oi !!😋😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1933076703997526061",
+        "created_at": "2025-06-12T08:56:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T09:56:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933085920976359927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1771629181169987584",
+              "start": 0,
+              "username": "tsukiii_dead"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933085920976359927",
+        "in_reply_to_user_id": "1771629181169987584",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933076703997526061",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tsukiii_dead Oi !!😋😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771629181169987584",
+        "conversation_id": "1933076703997526061",
+        "created_at": "2025-06-12T08:19:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T09:19:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933076703997526061"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nakuyoo/status…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/nakuyoo/status/1933022842259648949",
+              "start": 8,
+              "url": "https://t.co/SYVPTkBmNW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933076703997526061",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933022842259648949",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "骨 神 降 臨 https://t.co/SYVPTkBmNW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@ukanooy0 唯一2.0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "ukanooy0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/naku.yoo?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/naku.yoo?igsh=OHVpYmZjb3hpNjVy&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/aHjXW8BvfQ"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪300基本388簽名",
+        "name": "Inane骨",
+        "pinned_tweet_id": "1878244958273978540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931334867725504512/7kS_Yy1T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17301,
+          "following_count": 33,
+          "like_count": 33907,
+          "listed_count": 28,
+          "media_count": 64,
+          "tweet_count": 7456
+        },
+        "url": "https://t.co/aHjXW8BvfQ",
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-23T20:04:54.000Z",
+        "description": "月/tsuki | ASD/鬱/bipolar | 病み垢 | 會吃VAPE | 喜歡我就給我錢 | 女孩子互關互轉歡迎 |沒有回訊息=在讀書睡覺忘記回不想回| 裏垢: @tsuki_ii_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 85,
+                "username": "tsuki_ii_2"
+              }
+            ]
+          }
+        },
+        "id": "1771629181169987584",
+        "location": "不開門檻不接線下不接爸爸活想幫助我就給我錢",
+        "name": "月",
+        "pinned_tweet_id": "1821588934117466151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1771629516483629056/2M0wSzkW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 891,
+          "following_count": 209,
+          "like_count": 1338,
+          "listed_count": 1,
+          "media_count": 248,
+          "tweet_count": 1212
+        },
+        "username": "tsukiii_dead",
+        "verified": false
+      }
+    ]
+  }
+}

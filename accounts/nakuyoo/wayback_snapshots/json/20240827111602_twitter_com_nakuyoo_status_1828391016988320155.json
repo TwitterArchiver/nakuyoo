@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1828377023024373904",
+    "created_at": "2024-08-27T11:16:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-27T12:16:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1828391016988320155"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1490349541329195008",
+          "start": 0,
+          "username": "Sasako_chan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1828391016988320155",
+    "in_reply_to_user_id": "1490349541329195008",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1828385038305566747",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sasako_chan 哈哈哈哈哈哈哈哈哈🌝🌝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1828377023024373904",
+        "created_at": "2024-08-27T11:16:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-27T12:16:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1828391016988320155"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1490349541329195008",
+              "start": 0,
+              "username": "Sasako_chan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828391016988320155",
+        "in_reply_to_user_id": "1490349541329195008",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1828385038305566747",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sasako_chan 哈哈哈哈哈哈哈哈哈🌝🌝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1490349541329195008",
+        "conversation_id": "1828377023024373904",
+        "created_at": "2024-08-27T10:52:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-27T11:52:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1828385038305566747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1715624766571429888",
+              "start": 0,
+              "username": "nakuyoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828385038305566747",
+        "in_reply_to_user_id": "1715624766571429888",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1828377023024373904",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nakuyoo 国际巨星😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@9wylovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "9wylovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/naku.yoo?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/naku.yoo?igsh=OHVpYmZjb3hpNjVy&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/aHjXW8BvfQ"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪250🇭🇰🇭🇰",
+        "name": "骨頭",
+        "pinned_tweet_id": "1823875339594191103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828333178500849664/SJ1I8sA-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15406,
+          "following_count": 29,
+          "like_count": 33404,
+          "listed_count": 26,
+          "tweet_count": 6705
+        },
+        "url": "https://t.co/aHjXW8BvfQ",
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-06T15:40:15.000Z",
+        "description": "任何困难都能打倒我",
+        "id": "1490349541329195008",
+        "name": "😇😇😇😇😇😇😇😇😇😇😇😇😇😇😇😇😇😇😇😇😇😇😇😇😇",
+        "pinned_tweet_id": "1827501303859442045",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809819129689538560/pozyQaK5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 4,
+          "like_count": 1,
+          "listed_count": 0,
+          "tweet_count": 455
+        },
+        "username": "Sasako_chan",
+        "verified": false
+      }
+    ]
+  }
+}

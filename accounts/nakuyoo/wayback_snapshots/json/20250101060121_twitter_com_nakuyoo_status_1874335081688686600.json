@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1874322824065855598",
+    "created_at": "2025-01-01T06:01:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-01T07:01:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1874335081688686600"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1850111807383547904",
+          "start": 0,
+          "username": "nomizazzle26"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1874335081688686600",
+    "in_reply_to_user_id": "1850111807383547904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1874322824065855598",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nomizazzle26 我巨無霸🙄"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1874322824065855598",
+        "created_at": "2025-01-01T06:01:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-01T07:01:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1874335081688686600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1850111807383547904",
+              "start": 0,
+              "username": "nomizazzle26"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874335081688686600",
+        "in_reply_to_user_id": "1850111807383547904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874322824065855598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nomizazzle26 我巨無霸🙄"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850111807383547904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Horoscope",
+              "id": "1068226612380889088",
+              "name": "Horoscope"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Astrology",
+              "id": "1102600979491381248",
+              "name": "Astrology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Horoscope",
+              "id": "1068226612380889088",
+              "name": "Horoscope"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Astrology",
+              "id": "1102600979491381248",
+              "name": "Astrology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          }
+        ],
+        "conversation_id": "1874322824065855598",
+        "created_at": "2025-01-01T05:12:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-01T06:12:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1874322824065855598"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1874322824065855598",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想瞭解你的童年 你過去的傷痛和喜悅 我偷偷聽你喜歡的歌默默記下你的每一個不經意間透露出來的愛好和習慣關注你的星座 喜歡的花 去看你愛看的電影 截圖保存關於你的一切 給你買你想吃的東西 研究你家附近有什麼好吃的或者適合拍照打卡的店鋪 我愛你 連同你的脆弱庸俗和陰暗面一起 對了 你大不大？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@b0n3_core @ukanooy0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "b0n3_core"
+              },
+              {
+                "end": 20,
+                "start": 11,
+                "username": "ukanooy0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/naku.yoo?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/naku.yoo?igsh=OHVpYmZjb3hpNjVy&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/aHjXW8BvfQ"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪300基本388簽名",
+        "name": "炸毛水母骨",
+        "pinned_tweet_id": "1872103640816881782",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873915098609369088/NR_lzdQx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17833,
+          "following_count": 34,
+          "like_count": 35433,
+          "listed_count": 29,
+          "media_count": 83,
+          "tweet_count": 7305
+        },
+        "url": "https://t.co/aHjXW8BvfQ",
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-26T09:46:50.000Z",
+        "description": "不接爸爸活不接爸爸活不接爸爸活私信問我接不接的死全家一輩子操不到人",
+        "id": "1850111807383547904",
+        "name": "垃圾桶大王",
+        "pinned_tweet_id": "1869037289978106350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874079500289662982/tGjCV6to_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 84,
+          "like_count": 2401,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 954
+        },
+        "username": "nomizazzle26",
+        "verified": false
+      }
+    ]
+  }
+}

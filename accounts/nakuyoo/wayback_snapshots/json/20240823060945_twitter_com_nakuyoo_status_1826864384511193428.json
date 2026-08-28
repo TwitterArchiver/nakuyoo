@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1826581332279132603",
+    "created_at": "2024-08-23T06:09:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-23T07:09:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1826864384511193428"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1115809099482980353",
+          "start": 0,
+          "username": "NoelleDKR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1826864384511193428",
+    "in_reply_to_user_id": "1115809099482980353",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1826844553157943340",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NoelleDKR 哈哈哈哈哈哈哈哈🌝🌝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1826581332279132603",
+        "created_at": "2024-08-23T06:09:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-23T07:09:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1826864384511193428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1115809099482980353",
+              "start": 0,
+              "username": "NoelleDKR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826864384511193428",
+        "in_reply_to_user_id": "1115809099482980353",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826844553157943340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NoelleDKR 哈哈哈哈哈哈哈哈🌝🌝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1115809099482980353",
+        "conversation_id": "1826581332279132603",
+        "created_at": "2024-08-23T04:50:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-23T05:50:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1826844553157943340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1715624766571429888",
+              "start": 0,
+              "username": "nakuyoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826844553157943340",
+        "in_reply_to_user_id": "1715624766571429888",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826581332279132603",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nakuyoo 垃圾萬歲！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "濫-傷-暴-厭 ｜💉🩸💊🩹🔪@9wylovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 14,
+                "username": "9wylovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/naku.yoo?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/naku.yoo?igsh=OHVpYmZjb3hpNjVy&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/aHjXW8BvfQ"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪250🇭🇰🇭🇰",
+        "name": "骨頭",
+        "pinned_tweet_id": "1823875339594191103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826435545427238912/E7yPfZRH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15282,
+          "following_count": 29,
+          "like_count": 33063,
+          "listed_count": 27,
+          "tweet_count": 6738
+        },
+        "url": "https://t.co/aHjXW8BvfQ",
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-10T02:49:54.000Z",
+        "description": "大東亞人格解體戰爭‖精神分裂大躍進‖後現代文化革命‖雙相公社化運動‖臆想型強迫改革‖",
+        "id": "1115809099482980353",
+        "location": "大東亞躁郁革命委員會",
+        "name": "電波革命委員會。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826839147258216448/Zdy76KIV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 189,
+          "like_count": 919,
+          "listed_count": 5,
+          "tweet_count": 341
+        },
+        "username": "NoelleDKR",
+        "verified": false
+      }
+    ]
+  }
+}

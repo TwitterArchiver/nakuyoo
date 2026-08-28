@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "2059780853425910011",
+    "created_at": "2026-05-28T05:10:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T06:10:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059864860041838730"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1979558458501513216",
+          "start": 0,
+          "username": "HenryWong212225"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059864860041838730",
+    "in_reply_to_user_id": "1979558458501513216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059838060121161920",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HenryWong212225 加VX+聊天"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "2059780853425910011",
+        "created_at": "2026-05-28T05:10:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T06:10:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059864860041838730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1979558458501513216",
+              "start": 0,
+              "username": "HenryWong212225"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059864860041838730",
+        "in_reply_to_user_id": "1979558458501513216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059838060121161920",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HenryWong212225 加VX+聊天"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979558458501513216",
+        "conversation_id": "2059780853425910011",
+        "created_at": "2026-05-28T03:23:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T04:23:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059838060121161920"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1715624766571429888",
+              "start": 0,
+              "username": "nakuyoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059838060121161920",
+        "in_reply_to_user_id": "1715624766571429888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059780853425910011",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nakuyoo 過門有什麼？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "",
+        "id": "1715624766571429888",
+        "location": "🚪300聊天Hk",
+        "name": "小骨Inane",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054838019136647168/v9qJCyvZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16858,
+          "following_count": 9,
+          "like_count": 32137,
+          "listed_count": 34,
+          "media_count": 198,
+          "tweet_count": 7761
+        },
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-18T14:41:40.000Z",
+        "description": "",
+        "id": "1979558458501513216",
+        "location": "Hong Kong",
+        "name": "Gray Crok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008799692524797952/8fSZbGpA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 9,
+          "like_count": 154,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 63
+        },
+        "username": "HenryWong212225",
+        "verified": false
+      }
+    ]
+  }
+}

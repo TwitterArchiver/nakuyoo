@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1939726464825622895",
+    "created_at": "2025-07-02T00:12:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-02T01:12:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940201973787369922"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1684578404681883649",
+          "start": 0,
+          "username": "yuehuazhenren"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940201973787369922",
+    "in_reply_to_user_id": "1684578404681883649",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939743826899272105",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuehuazhenren 耶！😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1939726464825622895",
+        "created_at": "2025-07-02T00:12:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T01:12:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940201973787369922"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1684578404681883649",
+              "start": 0,
+              "username": "yuehuazhenren"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940201973787369922",
+        "in_reply_to_user_id": "1684578404681883649",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939743826899272105",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuehuazhenren 耶！😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684578404681883649",
+        "conversation_id": "1939726464825622895",
+        "created_at": "2025-06-30T17:52:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T18:52:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939743826899272105"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1715624766571429888",
+              "start": 0,
+              "username": "nakuyoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939743826899272105",
+        "in_reply_to_user_id": "1715624766571429888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939726464825622895",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nakuyoo 好看+1（终于看到骨头更新了，好久没看到骨头了）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@ukanooy0 唯一2.0 🚪300 388",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "ukanooy0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/naku.yoo?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/naku.yoo?igsh=OHVpYmZjb3hpNjVy&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/aHjXW8BvfQ"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "name": "Inane骨",
+        "pinned_tweet_id": "1878244958273978540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931334867725504512/7kS_Yy1T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17352,
+          "following_count": 33,
+          "like_count": 33927,
+          "listed_count": 29,
+          "media_count": 73,
+          "tweet_count": 7481
+        },
+        "url": "https://t.co/aHjXW8BvfQ",
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-27T14:56:14.000Z",
+        "description": "男，03，喜欢女孩子，喜欢有趣的事，有趣的人，希望能见识万般精彩\n我也没啥好分享的，决定发些碎碎念和自言自语的东西？",
+        "id": "1684578404681883649",
+        "location": "地球村",
+        "name": "我不是小道士",
+        "pinned_tweet_id": "1871237467111911871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1684579325524459520/H4jtKIRJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 197,
+          "like_count": 139,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 848
+        },
+        "username": "yuehuazhenren",
+        "verified": false
+      }
+    ]
+  }
+}

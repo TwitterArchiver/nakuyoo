@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1946118564307435520"
+      ],
+      "media_source_tweet_id": [
+        "1946118584729759843"
+      ]
+    },
+    "author_id": "1715624766571429888",
+    "conversation_id": "1946119056295408077",
+    "created_at": "2025-07-18T08:05:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-18T09:05:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946119056295408077"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1872201647356837888",
+          "start": 3,
+          "username": "ukanooy0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/g5dcPuynOy",
+          "end": 42,
+          "expanded_url": "https://x.com/ukanooy0/status/1946118584729759843/photo/1",
+          "media_key": "3_1946118564307435520",
+          "start": 19,
+          "url": "https://t.co/g5dcPuynOy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946119056295408077",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946118584729759843",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ukanooy0: 感覺不錯 https://t.co/g5dcPuynOy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 816,
+        "media_key": "3_1946118564307435520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwIAhfRWgAAnNny.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946118564307435520"
+          ],
+          "media_source_tweet_id": [
+            "1946118584729759843"
+          ]
+        },
+        "author_id": "1715624766571429888",
+        "conversation_id": "1946119056295408077",
+        "created_at": "2025-07-18T08:05:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T09:05:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946119056295408077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1872201647356837888",
+              "start": 3,
+              "username": "ukanooy0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/g5dcPuynOy",
+              "end": 42,
+              "expanded_url": "https://x.com/ukanooy0/status/1946118584729759843/photo/1",
+              "media_key": "3_1946118564307435520",
+              "start": 19,
+              "url": "https://t.co/g5dcPuynOy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946119056295408077",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946118584729759843",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ukanooy0: 感覺不錯 https://t.co/g5dcPuynOy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946118564307435520"
+          ]
+        },
+        "author_id": "1872201647356837888",
+        "conversation_id": "1946118584729759843",
+        "created_at": "2025-07-18T08:03:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T09:03:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946118584729759843"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g5dcPuynOy",
+              "end": 28,
+              "expanded_url": "https://x.com/ukanooy0/status/1946118584729759843/photo/1",
+              "media_key": "3_1946118564307435520",
+              "start": 5,
+              "url": "https://t.co/g5dcPuynOy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946118584729759843",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2328,
+          "like_count": 85,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "感覺不錯 https://t.co/g5dcPuynOy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@ukanooy0 唯一2.0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "ukanooy0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/naku.yoo?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/naku.yoo?igsh=OHVpYmZjb3hpNjVy&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/aHjXW8AXqi"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪300 388",
+        "name": "Inane小骨",
+        "pinned_tweet_id": "1878244958273978540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931334867725504512/7kS_Yy1T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17295,
+          "following_count": 33,
+          "like_count": 33756,
+          "listed_count": 29,
+          "media_count": 76,
+          "tweet_count": 7498
+        },
+        "url": "https://t.co/aHjXW8AXqi",
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-26T08:44:25.000Z",
+        "description": "@nakuyoo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "nakuyoo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/naku.yoo?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/naku.yoo?igsh=OHVpYmZjb3hpNjVy&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/scTUIi4Csi"
+              }
+            ]
+          }
+        },
+        "id": "1872201647356837888",
+        "location": "HK門檻300,388+cheki",
+        "name": "Inane骨2",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932771024917180416/5bJU6CDq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 685,
+          "following_count": 12,
+          "like_count": 349,
+          "listed_count": 4,
+          "media_count": 12,
+          "tweet_count": 74
+        },
+        "url": "https://t.co/scTUIi4Csi",
+        "username": "ukanooy0",
+        "verified": false
+      }
+    ]
+  }
+}

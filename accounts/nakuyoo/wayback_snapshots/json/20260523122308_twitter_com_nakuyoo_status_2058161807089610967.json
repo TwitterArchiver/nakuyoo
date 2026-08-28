@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "2057995073070191080",
+    "created_at": "2026-05-23T12:23:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T13:23:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058161807089610967"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1643456132453916674",
+          "start": 0,
+          "username": "Pigbro2023"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058161807089610967",
+    "in_reply_to_user_id": "1643456132453916674",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058141220627791977",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Pigbro2023 啪藥吔應該"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "2057995073070191080",
+        "created_at": "2026-05-23T12:23:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T13:23:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058161807089610967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1643456132453916674",
+              "start": 0,
+              "username": "Pigbro2023"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058161807089610967",
+        "in_reply_to_user_id": "1643456132453916674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058141220627791977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pigbro2023 啪藥吔應該"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643456132453916674",
+        "conversation_id": "2057995073070191080",
+        "created_at": "2026-05-23T11:01:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T12:01:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058141220627791977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1715624766571429888",
+              "start": 0,
+              "username": "nakuyoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058141220627791977",
+        "in_reply_to_user_id": "1715624766571429888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057995073070191080",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nakuyoo 真係？知唔知道佢哋點樣走㗎？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "挂壁",
+        "id": "1715624766571429888",
+        "location": "🚪300聊天Hk",
+        "name": "小骨Inane",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054838019136647168/v9qJCyvZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16834,
+          "following_count": 9,
+          "like_count": 32033,
+          "listed_count": 34,
+          "media_count": 178,
+          "tweet_count": 7725
+        },
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-05T03:31:42.000Z",
+        "description": "📜 V'MMMDCCXXVI\nRT (CCXXXVI)\n\nうつと闘う",
+        "id": "1643456132453916674",
+        "name": "Pig Bro 🐷 ピッグ・ブロ",
+        "pinned_tweet_id": "1724416773565419988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036470631726977024/6jfVytzj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 3082,
+          "like_count": 91109,
+          "listed_count": 2,
+          "media_count": 1761,
+          "tweet_count": 8728
+        },
+        "username": "Pigbro2023",
+        "verified": false
+      }
+    ]
+  }
+}

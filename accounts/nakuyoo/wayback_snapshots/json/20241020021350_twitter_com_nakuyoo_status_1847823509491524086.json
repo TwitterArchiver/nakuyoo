@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1847439767170142422",
+    "created_at": "2024-10-20T02:13:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-20T03:13:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1847823509491524086"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1844287820565016576",
+          "start": 0,
+          "username": "shuen1303"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1847823509491524086",
+    "in_reply_to_user_id": "1844287820565016576",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1847631799624831087",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shuen1303 🌝🌝👍🏻"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1847631799624831087].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1847631799624831087",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1847631799624831087"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1847439767170142422",
+        "created_at": "2024-10-20T02:13:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-20T03:13:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1847823509491524086"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1844287820565016576",
+              "start": 0,
+              "username": "shuen1303"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1847823509491524086",
+        "in_reply_to_user_id": "1844287820565016576",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1847631799624831087",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shuen1303 🌝🌝👍🏻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@9wylovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "9wylovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/naku.yoo?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/naku.yoo?igsh=OHVpYmZjb3hpNjVy&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/aHjXW8BvfQ"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪300🇭🇰",
+        "name": "小骨",
+        "pinned_tweet_id": "1823875339594191103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831117464026943488/Eo_Zr6An_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16874,
+          "following_count": 33,
+          "like_count": 34996,
+          "listed_count": 30,
+          "tweet_count": 7070
+        },
+        "url": "https://t.co/aHjXW8BvfQ",
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-10T08:04:34.000Z",
+        "description": "",
+        "id": "1844287820565016576",
+        "name": "小魚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844287897014501378/_DCGhnKX_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 2,
+          "like_count": 8,
+          "listed_count": 0,
+          "tweet_count": 2
+        },
+        "username": "shuen1303",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1830171606443778122",
+    "created_at": "2024-09-05T10:46:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-05T11:46:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1831645104886653200"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1459523761422868480",
+          "start": 0,
+          "username": "dz4qttprvs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1831645104886653200",
+    "in_reply_to_user_id": "1459523761422868480",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1831634503871426947",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dz4qttprvs 聊天"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1830171606443778122",
+        "created_at": "2024-09-05T10:46:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-05T11:46:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1831645104886653200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1459523761422868480",
+              "start": 0,
+              "username": "dz4qttprvs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831645104886653200",
+        "in_reply_to_user_id": "1459523761422868480",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1831634503871426947",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dz4qttprvs 聊天"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1459523761422868480",
+        "conversation_id": "1830171606443778122",
+        "created_at": "2024-09-05T10:04:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-05T11:04:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1831634503871426947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1715624766571429888",
+              "start": 0,
+              "username": "nakuyoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831634503871426947",
+        "in_reply_to_user_id": "1715624766571429888",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1830171606443778122",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nakuyoo 過門有乜好處🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@9wylovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "9wylovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/naku.yoo?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/naku.yoo?igsh=OHVpYmZjb3hpNjVy&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/aHjXW8BvfQ"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪250🇭🇰🇭🇰",
+        "name": "骨頭",
+        "pinned_tweet_id": "1823875339594191103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831117464026943488/Eo_Zr6An_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16146,
+          "following_count": 27,
+          "like_count": 34029,
+          "listed_count": 28,
+          "tweet_count": 6853
+        },
+        "url": "https://t.co/aHjXW8BvfQ",
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-13T14:09:38.000Z",
+        "description": "",
+        "id": "1459523761422868480",
+        "location": "Sha Tin District, Hong Kong",
+        "name": "Dioda",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 32,
+          "like_count": 1,
+          "listed_count": 0,
+          "tweet_count": 4
+        },
+        "username": "dz4qttprvs",
+        "verified": false
+      }
+    ]
+  }
+}

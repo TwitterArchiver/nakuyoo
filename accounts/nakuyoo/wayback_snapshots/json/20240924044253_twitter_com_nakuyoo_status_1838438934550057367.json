@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1838419317802901640",
+    "created_at": "2024-09-24T04:42:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-24T05:42:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1838438934550057367"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1658646596215787520",
+          "start": 0,
+          "username": "Yusaku070623"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1838438934550057367",
+    "in_reply_to_user_id": "1658646596215787520",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1838438030841122900",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yusaku070623 🤣🤣🤣笑了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1838419317802901640",
+        "created_at": "2024-09-24T04:42:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-24T05:42:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1838438934550057367"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1658646596215787520",
+              "start": 0,
+              "username": "Yusaku070623"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838438934550057367",
+        "in_reply_to_user_id": "1658646596215787520",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838438030841122900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yusaku070623 🤣🤣🤣笑了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1658646596215787520",
+        "conversation_id": "1838419317802901640",
+        "created_at": "2024-09-24T04:39:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-24T05:39:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1838438030841122900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1715624766571429888",
+              "start": 0,
+              "username": "nakuyoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838438030841122900",
+        "in_reply_to_user_id": "1715624766571429888",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838437359496630768",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nakuyoo 再这么在墙内跳孩子们等着o糖浆吧🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@9wylovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "9wylovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/naku.yoo?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/naku.yoo?igsh=OHVpYmZjb3hpNjVy&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/aHjXW8BvfQ"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪250🇭🇰",
+        "name": "骨仔",
+        "pinned_tweet_id": "1823875339594191103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831117464026943488/Eo_Zr6An_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16794,
+          "following_count": 30,
+          "like_count": 34903,
+          "listed_count": 31,
+          "tweet_count": 6999
+        },
+        "url": "https://t.co/aHjXW8BvfQ",
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-17T01:32:32.000Z",
+        "description": "家族易学 精通梅花 小六 六爻 四柱八字  奇门在学紫薇在学风水在学 找我算卦50块不问鬼神其余都可占～看心情抽免费～",
+        "id": "1658646596215787520",
+        "location": "火星",
+        "name": "不是道青.",
+        "pinned_tweet_id": "1823410709553930748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831186197663932416/ib5xGUg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 22,
+          "like_count": 732,
+          "listed_count": 0,
+          "tweet_count": 936
+        },
+        "username": "Yusaku070623",
+        "verified": false
+      }
+    ]
+  }
+}

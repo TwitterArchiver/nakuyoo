@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1879132705872613642",
+    "created_at": "2025-01-14T14:39:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-14T15:39:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1879176489821983165"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1761106331896033283",
+          "start": 0,
+          "username": "nemurikamisama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1879176489821983165",
+    "in_reply_to_user_id": "1761106331896033283",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879172624800170078",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nemurikamisama 😱😱😱那我穿一件外套！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1879132705872613642",
+        "created_at": "2025-01-14T14:39:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-14T15:39:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1879176489821983165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1761106331896033283",
+              "start": 0,
+              "username": "nemurikamisama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879176489821983165",
+        "in_reply_to_user_id": "1761106331896033283",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879172624800170078",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nemurikamisama 😱😱😱那我穿一件外套！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761106331896033283",
+        "conversation_id": "1879132705872613642",
+        "created_at": "2025-01-14T14:24:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-14T15:24:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1879172624800170078"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1715624766571429888",
+              "start": 0,
+              "username": "nakuyoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879172624800170078",
+        "in_reply_to_user_id": "1715624766571429888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879132705872613642",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nakuyoo 換一個吃吧 我每次吃必弄髒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@b0n3_core｜@ukanooy0 2.0 ｜我不玩遊戲我只有推特小紅書Ig和threads其他的都是盜圖 我ip香港的⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "b0n3_core"
+              },
+              {
+                "end": 20,
+                "start": 11,
+                "username": "ukanooy0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/naku.yoo?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/naku.yoo?igsh=OHVpYmZjb3hpNjVy&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/aHjXW8BvfQ"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪300基本388簽名",
+        "name": "水母骨",
+        "pinned_tweet_id": "1878244958273978540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879131018059554816/s014GKa9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17952,
+          "following_count": 35,
+          "like_count": 35469,
+          "listed_count": 29,
+          "media_count": 93,
+          "tweet_count": 7391
+        },
+        "url": "https://t.co/aHjXW8BvfQ",
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-23T19:10:51.000Z",
+        "description": "永い眠りにつく\n\n@kanakosama0223☜雙胞胎",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 9,
+                "username": "kanakosama0223"
+              }
+            ]
+          }
+        },
+        "id": "1761106331896033283",
+        "location": "表世界",
+        "name": "神眠喵!🪦",
+        "pinned_tweet_id": "1878098084397478005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823308623491330048/nVophlpm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7826,
+          "following_count": 23,
+          "like_count": 2878,
+          "listed_count": 9,
+          "media_count": 230,
+          "tweet_count": 1409
+        },
+        "username": "nemurikamisama",
+        "verified": false
+      }
+    ]
+  }
+}

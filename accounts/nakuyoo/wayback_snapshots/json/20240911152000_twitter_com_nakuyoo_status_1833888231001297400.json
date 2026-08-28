@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1833887001369776597",
+    "created_at": "2024-09-11T15:20:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-11T16:20:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1833888231001297400"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1706136135205085184",
+          "start": 0,
+          "username": "tsuno_kuro8526"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1833888231001297400",
+    "in_reply_to_user_id": "1706136135205085184",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1833888165964513575",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tsuno_kuro8526 唉🫂🫂🫂🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1833887001369776597",
+        "created_at": "2024-09-11T15:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-11T16:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1833888231001297400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1706136135205085184",
+              "start": 0,
+              "username": "tsuno_kuro8526"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833888231001297400",
+        "in_reply_to_user_id": "1706136135205085184",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1833888165964513575",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tsuno_kuro8526 唉🫂🫂🫂🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1706136135205085184",
+        "conversation_id": "1833887001369776597",
+        "created_at": "2024-09-11T15:19:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-11T16:19:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1833888165964513575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1715624766571429888",
+              "start": 0,
+              "username": "nakuyoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833888165964513575",
+        "in_reply_to_user_id": "1715624766571429888",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1833887001369776597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nakuyoo 内地：得精神病就是因为心思没有放在学习上"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "我已經不是我 @9wylovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 7,
+                "username": "9wylovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/naku.yoo?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/naku.yoo?igsh=OHVpYmZjb3hpNjVy&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/aHjXW8BvfQ"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪250🇭🇰",
+        "name": "骨仔",
+        "pinned_tweet_id": "1823875339594191103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831117464026943488/Eo_Zr6An_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16368,
+          "following_count": 28,
+          "like_count": 34403,
+          "listed_count": 29,
+          "tweet_count": 6926
+        },
+        "url": "https://t.co/aHjXW8BvfQ",
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-25T02:39:02.000Z",
+        "description": "愛是辛辣的絕望",
+        "id": "1706136135205085184",
+        "location": "距离你6.4km",
+        "name": "荠",
+        "pinned_tweet_id": "1829545500091306084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829546091798528000/2N3kO7u8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 185,
+          "like_count": 3523,
+          "listed_count": 0,
+          "tweet_count": 2518
+        },
+        "username": "tsuno_kuro8526",
+        "verified": false
+      }
+    ]
+  }
+}

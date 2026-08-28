@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1852896003244142872",
+    "created_at": "2024-11-03T10:36:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-03T11:36:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1853023432285295004"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1671818653367664641",
+          "start": 0,
+          "username": "LuLuiosy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1853023432285295004",
+    "in_reply_to_user_id": "1671818653367664641",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1853009523075874826",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LuLuiosy 耶！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1852896003244142872",
+        "created_at": "2024-11-03T10:36:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-03T11:36:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1853023432285295004"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1671818653367664641",
+              "start": 0,
+              "username": "LuLuiosy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853023432285295004",
+        "in_reply_to_user_id": "1671818653367664641",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1853009523075874826",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LuLuiosy 耶！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1671818653367664641",
+        "conversation_id": "1852896003244142872",
+        "created_at": "2024-11-03T09:41:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-03T10:41:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1853009523075874826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1715624766571429888",
+              "start": 0,
+              "username": "nakuyoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853009523075874826",
+        "in_reply_to_user_id": "1715624766571429888",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1852896003244142872",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nakuyoo 第一百个赞！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@9wylovo 不接P活 不線下 🚪300 聊天加v 香港 沒有抖音微博",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "9wylovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/naku.yoo?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/naku.yoo?igsh=OHVpYmZjb3hpNjVy&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/aHjXW8BvfQ"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪300",
+        "name": "骨",
+        "pinned_tweet_id": "1852705932188451135",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852706455666970624/6koy8PCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16851,
+          "following_count": 31,
+          "like_count": 34765,
+          "listed_count": 28,
+          "tweet_count": 7086
+        },
+        "url": "https://t.co/aHjXW8BvfQ",
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-22T09:53:31.000Z",
+        "description": "",
+        "id": "1671818653367664641",
+        "name": "霖",
+        "pinned_tweet_id": "1782475654908567676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851328523568627712/f6BXjn3t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 235,
+          "like_count": 424,
+          "listed_count": 6,
+          "tweet_count": 402
+        },
+        "username": "LuLuiosy",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "2027911184440254595",
+    "created_at": "2026-03-01T03:00:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T04:00:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027942138651283928"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1695261042933428225",
+          "start": 0,
+          "username": "MaryBailey22870"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027942138651283928",
+    "in_reply_to_user_id": "1695261042933428225",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027933619868815797",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MaryBailey22870 我貧血 不是熬夜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "2027911184440254595",
+        "created_at": "2026-03-01T03:00:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T04:00:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027942138651283928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1695261042933428225",
+              "start": 0,
+              "username": "MaryBailey22870"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027942138651283928",
+        "in_reply_to_user_id": "1695261042933428225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027933619868815797",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MaryBailey22870 我貧血 不是熬夜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695261042933428225",
+        "conversation_id": "2027911184440254595",
+        "created_at": "2026-03-01T02:27:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T03:27:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027933619868815797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1715624766571429888",
+              "start": 0,
+              "username": "nakuyoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027933619868815797",
+        "in_reply_to_user_id": "1715624766571429888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027911184440254595",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nakuyoo 头发还好，但是看你脸色不好八成是熬夜了，嘴唇也没有血色"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "inane",
+        "id": "1715624766571429888",
+        "location": "🚪300聊天 388+cheki Hk",
+        "name": "小骨",
+        "pinned_tweet_id": "1967587870547513723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977284713648996352/QlRWK9_l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16775,
+          "following_count": 10,
+          "like_count": 32888,
+          "listed_count": 31,
+          "media_count": 124,
+          "tweet_count": 7646
+        },
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-26T02:25:40.000Z",
+        "description": "希望都可以放松一下",
+        "id": "1695261042933428225",
+        "location": "地球",
+        "name": "放松",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026352007863320576/BuZZRrSb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 2,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 1002
+        },
+        "username": "MaryBailey22870",
+        "verified": false
+      }
+    ]
+  }
+}

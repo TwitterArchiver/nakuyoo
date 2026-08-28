@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1822524084439449785",
+    "created_at": "2024-08-11T06:59:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-11T07:59:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1822528186439332053"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "3411091400",
+          "start": 0,
+          "username": "Downerdolis69"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1822528186439332053",
+    "in_reply_to_user_id": "3411091400",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1822527860349063547",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Downerdolis69 😋😋😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1822524084439449785",
+        "created_at": "2024-08-11T06:59:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-11T07:59:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822528186439332053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "3411091400",
+              "start": 0,
+              "username": "Downerdolis69"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822528186439332053",
+        "in_reply_to_user_id": "3411091400",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822527860349063547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Downerdolis69 😋😋😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3411091400",
+        "conversation_id": "1822524084439449785",
+        "created_at": "2024-08-11T06:57:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-11T07:57:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822527860349063547"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1715624766571429888",
+              "start": 0,
+              "username": "nakuyoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822527860349063547",
+        "in_reply_to_user_id": "1715624766571429888",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822525508460192253",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nakuyoo 可爱，感到羡慕❤️🥺❤️‍🩹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@9wylovo 只是一個Psychosis",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "9wylovo"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪250 香港",
+        "name": "骨骨",
+        "pinned_tweet_id": "1822266798747595010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822526483396808704/T2xoMks1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14505,
+          "following_count": 33,
+          "like_count": 31818,
+          "listed_count": 28,
+          "tweet_count": 6427
+        },
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2015-09-01T04:39:49.000Z",
+        "description": "💉躁鬱/境界性人格障害/手帳1級💉🎀可愛いもの/雀蜂(古着屋さん)/🎀🚬ヤニカス🚬💙あのちゃん💙彼氏依存😈❤️‍🩹/💊おはようからおやすみまで薬漬け💊闘病と惚気垢🩸❤️‍🩹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/2BO0TMU7OO1ME?ref_=wl_share",
+                "start": 0,
+                "url": "https://t.co/FZadvXRRFt"
+              }
+            ]
+          }
+        },
+        "id": "3411091400",
+        "location": "布団の中",
+        "name": "子供部屋富江ちゃん🩸👁‍🗨",
+        "pinned_tweet_id": "1801838520094572616",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817447495032848385/i0TwGotl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 758,
+          "following_count": 466,
+          "like_count": 28932,
+          "listed_count": 29,
+          "tweet_count": 45929
+        },
+        "url": "https://t.co/FZadvXRRFt",
+        "username": "Downerdolis69",
+        "verified": false
+      }
+    ]
+  }
+}

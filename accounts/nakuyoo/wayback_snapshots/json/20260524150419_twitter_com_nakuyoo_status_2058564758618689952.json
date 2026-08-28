@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058564377599721472"
+      ],
+      "media_source_tweet_id": [
+        "2058564384197341407"
+      ]
+    },
+    "author_id": "1715624766571429888",
+    "conversation_id": "2058564758618689952",
+    "created_at": "2026-05-24T15:04:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T16:04:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058564758618689952"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1842473428437417984",
+          "start": 3,
+          "username": "honeyplskillme4"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PwGtFvzjVo",
+          "end": 44,
+          "expanded_url": "https://x.com/honeyplskillme4/status/2058564384197341407/photo/1",
+          "media_key": "3_2058564377599721472",
+          "start": 21,
+          "url": "https://t.co/PwGtFvzjVo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058564758618689952",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058564384197341407",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @honeyplskillme4: https://t.co/PwGtFvzjVo"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2058564758618689952].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2058564758618689952",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2058564758618689952"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2058564377599721472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJF9ZQoawAAM4MY.jpg",
+        "width": 1580
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058564377599721472"
+          ]
+        },
+        "author_id": "1842473428437417984",
+        "conversation_id": "2058564384197341407",
+        "created_at": "2026-05-24T15:02:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T16:02:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058564384197341407"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PwGtFvzjVo",
+              "end": 23,
+              "expanded_url": "https://x.com/honeyplskillme4/status/2058564384197341407/photo/1",
+              "media_key": "3_2058564377599721472",
+              "start": 0,
+              "url": "https://t.co/PwGtFvzjVo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058564384197341407",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/PwGtFvzjVo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "",
+        "id": "1715624766571429888",
+        "location": "🚪300聊天Hk",
+        "name": "小骨Inane",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054838019136647168/v9qJCyvZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16831,
+          "following_count": 9,
+          "like_count": 32060,
+          "listed_count": 35,
+          "media_count": 182,
+          "tweet_count": 7732
+        },
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-05T07:54:52.000Z",
+        "description": "",
+        "id": "1842473428437417984",
+        "name": "疑心病",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052884213335199744/PYM66jYd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 31,
+          "like_count": 203,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 33
+        },
+        "username": "honeyplskillme4",
+        "verified": false
+      }
+    ]
+  }
+}

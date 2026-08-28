@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "2023527464870556009",
+    "created_at": "2026-02-16T22:38:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T23:38:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023527464870556009"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1918562386518392833",
+          "start": 3,
+          "username": "goalbmi14"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023527464870556009",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023525784846286942",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @goalbmi14: You can never be satisfied. Once you have it, you want to get more."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "2023527464870556009",
+        "created_at": "2026-02-16T22:38:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T23:38:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023527464870556009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1918562386518392833",
+              "start": 3,
+              "username": "goalbmi14"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023527464870556009",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023525784846286942",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @goalbmi14: You can never be satisfied. Once you have it, you want to get more."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918562386518392833",
+        "conversation_id": "2023525784846286942",
+        "created_at": "2026-02-16T22:31:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T23:31:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023525784846286942"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023525784846286942",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "You can never be satisfied. Once you have it, you want to get more."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "🎵:nakubone📕nakuyoo ig:naku.yoo🚪300聊天",
+        "id": "1715624766571429888",
+        "location": "🚪300 388+cheki HK",
+        "name": "小骨",
+        "pinned_tweet_id": "1967587870547513723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977284713648996352/QlRWK9_l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16731,
+          "following_count": 9,
+          "like_count": 32866,
+          "listed_count": 31,
+          "media_count": 112,
+          "tweet_count": 7625
+        },
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-03T07:05:07.000Z",
+        "description": "𝙴𝙳 𝚍𝚒𝚊𝚛𝚢/𝚜𝚑𝚝𝚠𝚝｜𝙱𝚒𝚙𝚘𝚕𝚊𝚛𝟸/𝙴𝙳/𝚍𝚒𝚜𝚜𝚘𝚌𝚒𝚊𝚝𝚒𝚘𝚗/𝚙𝚊𝚗𝚒𝚌 𝚊𝚝𝚝𝚊𝚌𝚔 （bmi17)",
+        "id": "1918562386518392833",
+        "location": "🏥x10 🪡69 ",
+        "name": "inane",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022099988864696320/3pRqgWQI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 851,
+          "following_count": 19,
+          "like_count": 1242,
+          "listed_count": 1,
+          "media_count": 210,
+          "tweet_count": 414
+        },
+        "username": "goalbmi14",
+        "verified": false
+      }
+    ]
+  }
+}

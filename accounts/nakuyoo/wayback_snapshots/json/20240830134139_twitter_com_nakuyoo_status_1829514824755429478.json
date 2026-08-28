@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1829425473258209327",
+    "created_at": "2024-08-30T13:41:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-30T14:41:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1829514824755429478"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1745811425501802496",
+          "start": 0,
+          "username": "EscapeFromNET"
+        },
+        {
+          "end": 24,
+          "id": "737095403900928001",
+          "start": 15,
+          "username": "rotlands"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1829514824755429478",
+    "in_reply_to_user_id": "1745811425501802496",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1829512752584688067",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EscapeFromNET @rotlands 😭😭😭😭😭謝謝你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1829425473258209327",
+        "created_at": "2024-08-30T13:41:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-30T14:41:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1829514824755429478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1745811425501802496",
+              "start": 0,
+              "username": "EscapeFromNET"
+            },
+            {
+              "end": 24,
+              "id": "737095403900928001",
+              "start": 15,
+              "username": "rotlands"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1829514824755429478",
+        "in_reply_to_user_id": "1745811425501802496",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1829512752584688067",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EscapeFromNET @rotlands 😭😭😭😭😭謝謝你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1745811425501802496",
+        "conversation_id": "1829425473258209327",
+        "created_at": "2024-08-30T13:33:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-30T14:33:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1829512752584688067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "737095403900928001",
+              "start": 0,
+              "username": "rotlands"
+            },
+            {
+              "end": 18,
+              "id": "1715624766571429888",
+              "start": 10,
+              "username": "nakuyoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1829512752584688067",
+        "in_reply_to_user_id": "737095403900928001",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1829452002105151862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rotlands @nakuyoo 喜报：你妈死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@9wylovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "9wylovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/naku.yoo?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/naku.yoo?igsh=OHVpYmZjb3hpNjVy&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/aHjXW8BvfQ"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪250🇭🇰🇭🇰",
+        "name": "骨頭",
+        "pinned_tweet_id": "1823875339594191103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828756448404439040/FNqiVmFy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15654,
+          "following_count": 25,
+          "like_count": 33591,
+          "listed_count": 27,
+          "tweet_count": 6764
+        },
+        "url": "https://t.co/aHjXW8BvfQ",
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-12T14:14:31.000Z",
+        "description": "滚",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/Melodyunovo",
+                "end": 23,
+                "expanded_url": "https://x.com/Melodyunovo",
+                "start": 0,
+                "url": "https://t.co/jVTIqU0gtS"
+              }
+            ]
+          }
+        },
+        "id": "1745811425501802496",
+        "location": "自用女友👉",
+        "name": "我是南无地藏王菩萨",
+        "pinned_tweet_id": "1817229656501981287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827366531917082626/gv1c50XR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 88,
+          "like_count": 8537,
+          "listed_count": 0,
+          "tweet_count": 2840
+        },
+        "url": "https://t.co/jVTIqU0gtS",
+        "username": "EscapeFromNET",
+        "verified": false
+      },
+      {
+        "created_at": "2016-05-30T01:36:53.000Z",
+        "description": "天才初中生超翻一切",
+        "id": "737095403900928001",
+        "name": "奇酷比",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/797372939482046464/11jOL3-x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 9,
+          "like_count": 0,
+          "listed_count": 0,
+          "tweet_count": 62
+        },
+        "username": "rotlands",
+        "verified": false
+      }
+    ]
+  }
+}

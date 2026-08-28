@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1874334832589000704",
+        "3_1874334832605749250"
+      ],
+      "media_source_tweet_id": [
+        "1874334850758643901",
+        "1874334850758643901"
+      ]
+    },
+    "author_id": "1715624766571429888",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1874677392209518905",
+    "created_at": "2025-01-02T04:41:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-02T05:41:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1874677392209518905"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1715624766571429888",
+          "start": 3,
+          "username": "nakuyoo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5PrWPXWM7y",
+          "end": 63,
+          "expanded_url": "https://x.com/nakuyoo/status/1874334850758643901/photo/1",
+          "media_key": "3_1874334832589000704",
+          "start": 40,
+          "url": "https://t.co/5PrWPXWM7y"
+        },
+        {
+          "display_url": "pic.x.com/5PrWPXWM7y",
+          "end": 63,
+          "expanded_url": "https://x.com/nakuyoo/status/1874334850758643901/photo/1",
+          "media_key": "3_1874334832605749250",
+          "start": 40,
+          "url": "https://t.co/5PrWPXWM7y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1874677392209518905",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1874334850758643901",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nakuyoo: 希望你們永遠也不知道這是什麼💔💔💔💔💔🌝🌝🌝🌝🌝🌝🌝 https://t.co/5PrWPXWM7y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1874334832589000704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgL5mX6b0AA0K8S.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1874334832605749250",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgL5mX-bYAIYcoD.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1874334832589000704",
+            "3_1874334832605749250"
+          ],
+          "media_source_tweet_id": [
+            "1874334850758643901",
+            "1874334850758643901"
+          ]
+        },
+        "author_id": "1715624766571429888",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1874677392209518905",
+        "created_at": "2025-01-02T04:41:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-02T05:41:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1874677392209518905"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1715624766571429888",
+              "start": 3,
+              "username": "nakuyoo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5PrWPXWM7y",
+              "end": 63,
+              "expanded_url": "https://x.com/nakuyoo/status/1874334850758643901/photo/1",
+              "media_key": "3_1874334832589000704",
+              "start": 40,
+              "url": "https://t.co/5PrWPXWM7y"
+            },
+            {
+              "display_url": "pic.x.com/5PrWPXWM7y",
+              "end": 63,
+              "expanded_url": "https://x.com/nakuyoo/status/1874334850758643901/photo/1",
+              "media_key": "3_1874334832605749250",
+              "start": 40,
+              "url": "https://t.co/5PrWPXWM7y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874677392209518905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874334850758643901",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nakuyoo: 希望你們永遠也不知道這是什麼💔💔💔💔💔🌝🌝🌝🌝🌝🌝🌝 https://t.co/5PrWPXWM7y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1874334832589000704",
+            "3_1874334832605749250"
+          ]
+        },
+        "author_id": "1715624766571429888",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1874334850758643901",
+        "created_at": "2025-01-01T06:00:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-01T07:00:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1874334850758643901"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5PrWPXWM7y",
+              "end": 50,
+              "expanded_url": "https://x.com/nakuyoo/status/1874334850758643901/photo/1",
+              "media_key": "3_1874334832589000704",
+              "start": 27,
+              "url": "https://t.co/5PrWPXWM7y"
+            },
+            {
+              "display_url": "pic.x.com/5PrWPXWM7y",
+              "end": 50,
+              "expanded_url": "https://x.com/nakuyoo/status/1874334850758643901/photo/1",
+              "media_key": "3_1874334832605749250",
+              "start": 27,
+              "url": "https://t.co/5PrWPXWM7y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874334850758643901",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 6234,
+          "like_count": 97,
+          "quote_count": 1,
+          "reply_count": 15,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "希望你們永遠也不知道這是什麼💔💔💔💔💔🌝🌝🌝🌝🌝🌝🌝 https://t.co/5PrWPXWM7y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@b0n3_core @ukanooy0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "b0n3_core"
+              },
+              {
+                "end": 20,
+                "start": 11,
+                "username": "ukanooy0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/naku.yoo?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/naku.yoo?igsh=OHVpYmZjb3hpNjVy&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/aHjXW8BvfQ"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪300基本388簽名",
+        "name": "炸毛水母骨",
+        "pinned_tweet_id": "1872103640816881782",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873915098609369088/NR_lzdQx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17835,
+          "following_count": 34,
+          "like_count": 35474,
+          "listed_count": 29,
+          "media_count": 86,
+          "tweet_count": 7322
+        },
+        "url": "https://t.co/aHjXW8BvfQ",
+        "username": "nakuyoo",
+        "verified": false
+      }
+    ]
+  }
+}

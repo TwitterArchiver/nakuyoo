@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1831213196180697385",
+    "created_at": "2024-09-05T04:14:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-05T05:14:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1831546413475623285"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1815202149338607616",
+          "start": 0,
+          "username": "xinbao0w0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1831546413475623285",
+    "in_reply_to_user_id": "1815202149338607616",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1831496624616698103",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xinbao0w0 😭🫂🫂🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1831213196180697385",
+        "created_at": "2024-09-05T04:14:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-05T05:14:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1831546413475623285"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1815202149338607616",
+              "start": 0,
+              "username": "xinbao0w0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831546413475623285",
+        "in_reply_to_user_id": "1815202149338607616",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1831496624616698103",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinbao0w0 😭🫂🫂🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1815202149338607616",
+        "conversation_id": "1831213196180697385",
+        "created_at": "2024-09-05T00:56:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-05T01:56:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1831496624616698103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1715624766571429888",
+              "start": 0,
+              "username": "nakuyoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831496624616698103",
+        "in_reply_to_user_id": "1715624766571429888",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 94,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1831213196180697385",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nakuyoo 寶寶🫂🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@9wylovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "9wylovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/naku.yoo?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/naku.yoo?igsh=OHVpYmZjb3hpNjVy&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/aHjXW8BvfQ"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪250🇭🇰🇭🇰",
+        "name": "骨頭",
+        "pinned_tweet_id": "1823875339594191103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831117464026943488/Eo_Zr6An_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16127,
+          "following_count": 27,
+          "like_count": 34012,
+          "listed_count": 29,
+          "tweet_count": 6850
+        },
+        "url": "https://t.co/aHjXW8BvfQ",
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-22T01:48:33.000Z",
+        "description": "别再封我号了求求 我只是一个单纯的小女孩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+iY7QHHkmC5c1Y…",
+                "end": 23,
+                "expanded_url": "https://t.me/+iY7QHHkmC5c1YzU1",
+                "start": 0,
+                "url": "https://t.co/IcmqQbR2OY"
+              }
+            ]
+          }
+        },
+        "id": "1815202149338607616",
+        "name": "小馨9.0",
+        "pinned_tweet_id": "1815404556563763286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815403923836162048/kUhiga2c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 843,
+          "following_count": 48,
+          "like_count": 75,
+          "listed_count": 1,
+          "tweet_count": 71
+        },
+        "url": "https://t.co/IcmqQbR2OY",
+        "username": "xinbao0w0",
+        "verified": false
+      }
+    ]
+  }
+}

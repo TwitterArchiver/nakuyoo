@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1822425101960438058",
+    "created_at": "2024-08-11T00:09:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-11T01:09:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1822425101960438058"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1606287837896200192",
+          "start": 3,
+          "username": "Kusuri_ru"
+        },
+        {
+          "end": 23,
+          "id": "1715624766571429888",
+          "start": 15,
+          "username": "nakuyoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1822425101960438058",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1822298603148517393",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kusuri_ru: @nakuyoo 小骨七夕快樂！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1822425101960438058",
+        "created_at": "2024-08-11T00:09:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-11T01:09:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822425101960438058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1606287837896200192",
+              "start": 3,
+              "username": "Kusuri_ru"
+            },
+            {
+              "end": 23,
+              "id": "1715624766571429888",
+              "start": 15,
+              "username": "nakuyoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822425101960438058",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822298603148517393",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kusuri_ru: @nakuyoo 小骨七夕快樂！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1606287837896200192",
+        "conversation_id": "1822298603148517393",
+        "created_at": "2024-08-10T15:46:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-10T16:46:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1822298603148517393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1715624766571429888",
+              "start": 0,
+              "username": "nakuyoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822298603148517393",
+        "in_reply_to_user_id": "1715624766571429888",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "@nakuyoo 小骨七夕快樂！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@9wylovo 慘得可笑",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "9wylovo"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪250 香港",
+        "name": "刻在骨子裏",
+        "pinned_tweet_id": "1822266798747595010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821861972964732929/fzCuDq0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14471,
+          "following_count": 32,
+          "like_count": 31754,
+          "listed_count": 28,
+          "tweet_count": 6402
+        },
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-23T13:57:32.000Z",
+        "description": "请食用置顶推文^^",
+        "id": "1606287837896200192",
+        "location": "Hyuga-shi, Miyazaki",
+        "name": "˙˚ʚ 药酱 ɞ˚˙",
+        "pinned_tweet_id": "1810694441403031566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822319122207899648/AZS9fXYt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 651,
+          "following_count": 243,
+          "like_count": 4484,
+          "listed_count": 1,
+          "tweet_count": 714
+        },
+        "username": "Kusuri_ru",
+        "verified": false
+      }
+    ]
+  }
+}

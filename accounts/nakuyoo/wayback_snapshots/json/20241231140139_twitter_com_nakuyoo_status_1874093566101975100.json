@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1874076593834065997",
+    "created_at": "2024-12-31T14:01:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-31T15:01:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1874093566101975100"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1605991936330170368",
+          "start": 0,
+          "username": "dream_30624700"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1874093566101975100",
+    "in_reply_to_user_id": "1605991936330170368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1874082721993228318",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dream_30624700 沒事我13號考完試 你想單獨約我出去逛街和玩也沒問題！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1874076593834065997",
+        "created_at": "2024-12-31T14:01:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-31T15:01:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1874093566101975100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1605991936330170368",
+              "start": 0,
+              "username": "dream_30624700"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874093566101975100",
+        "in_reply_to_user_id": "1605991936330170368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874082721993228318",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dream_30624700 沒事我13號考完試 你想單獨約我出去逛街和玩也沒問題！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1605991936330170368",
+        "conversation_id": "1874076593834065997",
+        "created_at": "2024-12-31T13:18:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-31T14:18:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1874082721993228318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1715624766571429888",
+              "start": 0,
+              "username": "nakuyoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874082721993228318",
+        "in_reply_to_user_id": "1715624766571429888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874076593834065997",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nakuyoo 上次RG想見 見不到😭😭😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@b0n3_core @ukanooy0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "b0n3_core"
+              },
+              {
+                "end": 20,
+                "start": 11,
+                "username": "ukanooy0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/naku.yoo?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/naku.yoo?igsh=OHVpYmZjb3hpNjVy&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/aHjXW8BvfQ"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪300基本388簽名",
+        "name": "炸毛水母骨",
+        "pinned_tweet_id": "1872103640816881782",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873915098609369088/NR_lzdQx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17828,
+          "following_count": 34,
+          "like_count": 35411,
+          "listed_count": 29,
+          "media_count": 82,
+          "tweet_count": 7295
+        },
+        "url": "https://t.co/aHjXW8BvfQ",
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-22T18:21:58.000Z",
+        "description": "🇭🇰 | 未成年↓ | 雙性戀| 碎碎念｜抑鬱｜（好喜歡小骨）",
+        "id": "1605991936330170368",
+        "name": "啊",
+        "pinned_tweet_id": "1799489406488973595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794729922390556672/9QRvwUAL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 770,
+          "following_count": 287,
+          "like_count": 8346,
+          "listed_count": 1,
+          "media_count": 86,
+          "tweet_count": 545
+        },
+        "username": "dream_30624700",
+        "verified": false
+      }
+    ]
+  }
+}

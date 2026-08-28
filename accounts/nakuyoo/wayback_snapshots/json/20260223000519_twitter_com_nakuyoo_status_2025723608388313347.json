@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2025607976447590400",
+        "3_2025607976422387712"
+      ],
+      "media_source_tweet_id": [
+        "2025608039676740066",
+        "2025608039676740066"
+      ]
+    },
+    "author_id": "1715624766571429888",
+    "conversation_id": "2025723608388313347",
+    "created_at": "2026-02-23T00:05:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T01:05:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025723608388313347"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2025602670652989440",
+          "start": 3,
+          "username": "4ever16iam"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sl5bTsqenX",
+          "end": 76,
+          "expanded_url": "https://x.com/4ever16iam/status/2025608039676740066/video/1",
+          "media_key": "13_2025607976447590400",
+          "start": 53,
+          "url": "https://t.co/sl5bTsqenX"
+        },
+        {
+          "display_url": "pic.x.com/sl5bTsqenX",
+          "end": 76,
+          "expanded_url": "https://x.com/4ever16iam/status/2025608039676740066/video/1",
+          "media_key": "3_2025607976422387712",
+          "start": 53,
+          "url": "https://t.co/sl5bTsqenX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025723608388313347",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025608039676740066",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @4ever16iam: My account is dead.Pls help me repo. https://t.co/sl5bTsqenX"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2025723608388313347].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2025723608388313347",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2025723608388313347"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8200,
+        "height": 1280,
+        "media_key": "13_2025607976447590400",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2025607976447590400/img/xMhwxwiLqMhW8hGv.jpg",
+        "public_metrics": {
+          "view_count": 54
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2025607976447590400/vid/avc1/320x568/uyO5eopcvgyG5ept.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2025607976447590400/vid/avc1/480x852/KMX3GetzIcLbLkhj.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2025607976447590400/vid/avc1/720x1280/l9vTYjNpTuM7aOD9.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2025607976447590400/pl/Vh9MSedkC2_WYrc8.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2025607976422387712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBxnuPDasAAta5-.jpg",
+        "width": 551
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2025607976447590400",
+            "3_2025607976422387712"
+          ]
+        },
+        "author_id": "2025602670652989440",
+        "conversation_id": "2025608039676740066",
+        "created_at": "2026-02-22T16:26:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T17:26:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025608039676740066"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sl5bTsqenX",
+              "end": 60,
+              "expanded_url": "https://x.com/4ever16iam/status/2025608039676740066/video/1",
+              "media_key": "13_2025607976447590400",
+              "start": 37,
+              "url": "https://t.co/sl5bTsqenX"
+            },
+            {
+              "display_url": "pic.x.com/sl5bTsqenX",
+              "end": 60,
+              "expanded_url": "https://x.com/4ever16iam/status/2025608039676740066/video/1",
+              "media_key": "3_2025607976422387712",
+              "start": 37,
+              "url": "https://t.co/sl5bTsqenX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025608039676740066",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 103,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "My account is dead.Pls help me repo. https://t.co/sl5bTsqenX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "🎵:nakubone📕nakuyoo ig:naku.yoo🚪300聊天",
+        "id": "1715624766571429888",
+        "location": "🚪300 388+cheki HK",
+        "name": "小骨",
+        "pinned_tweet_id": "1967587870547513723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977284713648996352/QlRWK9_l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16728,
+          "following_count": 9,
+          "like_count": 32885,
+          "listed_count": 31,
+          "media_count": 114,
+          "tweet_count": 7630
+        },
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-22T16:09:19.000Z",
+        "description": "𝕤𝕙 | 𝕠𝕕 | 𝕤𝕒 | 𝕞𝕖𝕟𝕥𝕒𝕝 𝕒𝕟𝕕 𝕓𝕖𝕙𝕒𝕧𝕚𝕠𝕦𝕣𝕒𝕝 𝕕𝕚𝕤𝕠𝕣𝕕𝕖𝕣 | 𝕞𝕕𝕕 | 𝕖𝕕 | 𝕒𝕟 {𝔹𝕄𝕀𝟙𝟚.𝟝} | 𝕙𝕩 𝕓𝕡𝕕",
+        "id": "2025602670652989440",
+        "name": "零魂",
+        "pinned_tweet_id": "2025608039676740066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025604416104206337/SMZViFCe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 9,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 3
+        },
+        "username": "4ever16iam",
+        "verified": false
+      }
+    ]
+  }
+}

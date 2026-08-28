@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1823159532983562557",
+    "created_at": "2024-08-13T10:44:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-13T11:44:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1823309761284284737"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1784936546703122432",
+          "start": 0,
+          "username": "zxxxxx11177578"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1823309761284284737",
+    "in_reply_to_user_id": "1784936546703122432",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1823264106859917703",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zxxxxx11177578 沒錯🤝🏻🤝🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1823159532983562557",
+        "created_at": "2024-08-13T10:44:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-13T11:44:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1823309761284284737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1784936546703122432",
+              "start": 0,
+              "username": "zxxxxx11177578"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823309761284284737",
+        "in_reply_to_user_id": "1784936546703122432",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1823264106859917703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zxxxxx11177578 沒錯🤝🏻🤝🏻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784936546703122432",
+        "conversation_id": "1823159532983562557",
+        "created_at": "2024-08-13T07:43:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-13T08:43:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1823264106859917703"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1715624766571429888",
+              "start": 0,
+              "username": "nakuyoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823264106859917703",
+        "in_reply_to_user_id": "1715624766571429888",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1823159532983562557",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nakuyoo 无论哪种程度的痛苦，只要被说出来就已经是本身能容忍的最大限度，痛苦就是痛苦，无论痛苦的大小他们都是痛苦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@9wylovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "9wylovo"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪250🇭🇰",
+        "name": "刻在骨子裏",
+        "pinned_tweet_id": "1822266798747595010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822625813629689856/KGMTxKge_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14594,
+          "following_count": 33,
+          "like_count": 32139,
+          "listed_count": 29,
+          "tweet_count": 6508
+        },
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-29T13:23:44.000Z",
+        "description": "switch\n\n我很需要钱给我钱（死亡般的命令语气）",
+        "id": "1784936546703122432",
+        "name": "妥协的三十秒",
+        "pinned_tweet_id": "1822638097391026269",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822636011652050944/Us5khjKz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 148,
+          "like_count": 369,
+          "listed_count": 0,
+          "tweet_count": 167
+        },
+        "username": "zxxxxx11177578",
+        "verified": false
+      }
+    ]
+  }
+}

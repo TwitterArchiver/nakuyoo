@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1879695816300081328",
+    "created_at": "2025-01-16T03:49:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-16T04:49:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1879737606730403935"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1814995732224700416",
+          "start": 0,
+          "username": "Wing1669965"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1879737606730403935",
+    "in_reply_to_user_id": "1814995732224700416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879735790181523580",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wing1669965 扎左邊右邊還是中間🌝😋😋👍🏻👍🏻🉑🉑🉑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1879695816300081328",
+        "created_at": "2025-01-16T03:49:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-16T04:49:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1879737606730403935"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1814995732224700416",
+              "start": 0,
+              "username": "Wing1669965"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879737606730403935",
+        "in_reply_to_user_id": "1814995732224700416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879735790181523580",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wing1669965 扎左邊右邊還是中間🌝😋😋👍🏻👍🏻🉑🉑🉑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814995732224700416",
+        "conversation_id": "1879695816300081328",
+        "created_at": "2025-01-16T03:41:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-16T04:41:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1879735790181523580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1715624766571429888",
+              "start": 0,
+              "username": "nakuyoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879735790181523580",
+        "in_reply_to_user_id": "1715624766571429888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879695816300081328",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nakuyoo 請問可以扎屁股嗎🥵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@b0n3_core｜@ukanooy0 2.0 ｜我不玩遊戲我只有推特小紅書Ig和threads其他的都是盜圖 我ip香港的⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "b0n3_core"
+              },
+              {
+                "end": 20,
+                "start": 11,
+                "username": "ukanooy0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/naku.yoo?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/naku.yoo?igsh=OHVpYmZjb3hpNjVy&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/aHjXW8BvfQ"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪300基本388簽名",
+        "name": "水母骨",
+        "pinned_tweet_id": "1878244958273978540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879131018059554816/s014GKa9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17996,
+          "following_count": 34,
+          "like_count": 35452,
+          "listed_count": 29,
+          "media_count": 97,
+          "tweet_count": 7414
+        },
+        "url": "https://t.co/aHjXW8BvfQ",
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-21T12:08:14.000Z",
+        "description": "因為我很黏人，很醜，好嘔心，我是死肥婆，⚠️請勿網暴我，因為我像水蛭一樣，所以我叫水蛭，09高中生，#自傷 #抑鬱 #焦慮 #濫藥 #爸爸活",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 53,
+                "start": 50,
+                "tag": "自傷"
+              },
+              {
+                "end": 57,
+                "start": 54,
+                "tag": "抑鬱"
+              },
+              {
+                "end": 61,
+                "start": 58,
+                "tag": "焦慮"
+              },
+              {
+                "end": 65,
+                "start": 62,
+                "tag": "濫藥"
+              },
+              {
+                "end": 70,
+                "start": 66,
+                "tag": "爸爸活"
+              }
+            ]
+          }
+        },
+        "id": "1814995732224700416",
+        "location": "你懷裏",
+        "name": "我是水蛭",
+        "pinned_tweet_id": "1851187379916411143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856178485393534977/bDo2dqBJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 663,
+          "following_count": 17,
+          "like_count": 2893,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 1209
+        },
+        "username": "Wing1669965",
+        "verified": false
+      }
+    ]
+  }
+}

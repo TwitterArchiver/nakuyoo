@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1879258466768060593",
+    "created_at": "2025-01-16T03:18:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-16T04:18:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1879729877320114640"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1559890726582112257",
+          "start": 0,
+          "username": "xxxmmouo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1879729877320114640",
+    "in_reply_to_user_id": "1559890726582112257",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879258466768060593",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxxmmouo 接😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1879258466768060593",
+        "created_at": "2025-01-16T03:18:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-16T04:18:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1879729877320114640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1559890726582112257",
+              "start": 0,
+              "username": "xxxmmouo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879729877320114640",
+        "in_reply_to_user_id": "1559890726582112257",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879258466768060593",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxxmmouo 接😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1879258459809705984",
+            "3_1879258459809705985"
+          ]
+        },
+        "author_id": "1559890726582112257",
+        "conversation_id": "1879258466768060593",
+        "created_at": "2025-01-14T20:05:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-14T21:05:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1879258466768060593"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CzRholKRPO",
+              "end": 38,
+              "expanded_url": "https://x.com/xxxmmouo/status/1879258466768060593/photo/1",
+              "media_key": "3_1879258459809705984",
+              "start": 15,
+              "url": "https://t.co/CzRholKRPO"
+            },
+            {
+              "display_url": "pic.x.com/CzRholKRPO",
+              "end": 38,
+              "expanded_url": "https://x.com/xxxmmouo/status/1879258466768060593/photo/1",
+              "media_key": "3_1879258459809705985",
+              "start": 15,
+              "url": "https://t.co/CzRholKRPO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879258466768060593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 269935,
+          "like_count": 583,
+          "quote_count": 55,
+          "reply_count": 313,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "我的妈……我也有巨额门槛了🤯 https://t.co/CzRholKRPO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@b0n3_core｜@ukanooy0 2.0 ｜我不玩遊戲我只有推特小紅書Ig和threads其他的都是盜圖 我ip香港的⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "b0n3_core"
+              },
+              {
+                "end": 20,
+                "start": 11,
+                "username": "ukanooy0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/naku.yoo?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/naku.yoo?igsh=OHVpYmZjb3hpNjVy&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/aHjXW8BvfQ"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪300基本388簽名",
+        "name": "水母骨",
+        "pinned_tweet_id": "1878244958273978540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879131018059554816/s014GKa9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17995,
+          "following_count": 34,
+          "like_count": 35445,
+          "listed_count": 29,
+          "media_count": 97,
+          "tweet_count": 7413
+        },
+        "url": "https://t.co/aHjXW8BvfQ",
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-17T13:11:54.000Z",
+        "description": "不看牛子丨Sub",
+        "id": "1559890726582112257",
+        "name": "xxxmmouo",
+        "pinned_tweet_id": "1762558726312186192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859946397283627008/N7DV-Y_y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13149,
+          "following_count": 6,
+          "like_count": 164,
+          "listed_count": 22,
+          "media_count": 189,
+          "tweet_count": 818
+        },
+        "username": "xxxmmouo",
+        "verified": false
+      }
+    ]
+  }
+}

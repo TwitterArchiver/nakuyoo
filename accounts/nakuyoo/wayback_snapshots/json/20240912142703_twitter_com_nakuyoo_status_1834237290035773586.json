@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1834237290035773586",
+    "created_at": "2024-09-12T14:27:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-12T15:27:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1834237290035773586"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1754138134114443264",
+          "start": 3,
+          "username": "Kuali_yuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1834237290035773586",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1834226952355610783",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kuali_yuki: 努力有甚麼用，最後還不是死嗎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1834237290035773586",
+        "created_at": "2024-09-12T14:27:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-12T15:27:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1834237290035773586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1754138134114443264",
+              "start": 3,
+              "username": "Kuali_yuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834237290035773586",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1834226952355610783",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kuali_yuki: 努力有甚麼用，最後還不是死嗎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1754138134114443264",
+        "conversation_id": "1834226952355610783",
+        "created_at": "2024-09-12T13:45:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-12T14:45:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1834226952355610783"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1834226952355610783",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "努力有甚麼用，最後還不是死嗎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@9wylovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "9wylovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/naku.yoo?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/naku.yoo?igsh=OHVpYmZjb3hpNjVy&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/aHjXW8BvfQ"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪300🇭🇰",
+        "name": "骨仔",
+        "pinned_tweet_id": "1823875339594191103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831117464026943488/Eo_Zr6An_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16333,
+          "following_count": 28,
+          "like_count": 34436,
+          "listed_count": 29,
+          "tweet_count": 6938
+        },
+        "url": "https://t.co/aHjXW8BvfQ",
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-04T13:41:45.000Z",
+        "description": "死煙燃一個",
+        "id": "1754138134114443264",
+        "location": "墳墓",
+        "name": "馬仔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790061348258537472/C5YtILz2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 51,
+          "like_count": 3929,
+          "listed_count": 5,
+          "tweet_count": 745
+        },
+        "username": "Kuali_yuki",
+        "verified": false
+      }
+    ]
+  }
+}

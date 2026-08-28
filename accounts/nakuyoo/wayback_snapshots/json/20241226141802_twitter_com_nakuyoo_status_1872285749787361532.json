@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1872274273878069248"
+      ],
+      "media_source_tweet_id": [
+        "1872274285114663399"
+      ]
+    },
+    "author_id": "1715624766571429888",
+    "conversation_id": "1872285749787361532",
+    "created_at": "2024-12-26T14:18:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-26T15:18:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1872285749787361532"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1872201647356837888",
+          "start": 3,
+          "username": "ukanooy0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Yipe4fbRk4",
+          "end": 37,
+          "expanded_url": "https://x.com/ukanooy0/status/1872274285114663399/photo/1",
+          "media_key": "3_1872274273878069248",
+          "start": 14,
+          "url": "https://t.co/Yipe4fbRk4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872285749787361532",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872274285114663399",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ukanooy0: https://t.co/Yipe4fbRk4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1182,
+        "media_key": "3_1872274273878069248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GfuniEia0AAfpp9.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1872274273878069248"
+          ],
+          "media_source_tweet_id": [
+            "1872274285114663399"
+          ]
+        },
+        "author_id": "1715624766571429888",
+        "conversation_id": "1872285749787361532",
+        "created_at": "2024-12-26T14:18:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-26T15:18:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872285749787361532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1872201647356837888",
+              "start": 3,
+              "username": "ukanooy0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yipe4fbRk4",
+              "end": 37,
+              "expanded_url": "https://x.com/ukanooy0/status/1872274285114663399/photo/1",
+              "media_key": "3_1872274273878069248",
+              "start": 14,
+              "url": "https://t.co/Yipe4fbRk4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872285749787361532",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872274285114663399",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ukanooy0: https://t.co/Yipe4fbRk4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1872274273878069248"
+          ]
+        },
+        "author_id": "1872201647356837888",
+        "conversation_id": "1872274285114663399",
+        "created_at": "2024-12-26T13:32:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-26T14:32:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1872274285114663399"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yipe4fbRk4",
+              "end": 23,
+              "expanded_url": "https://x.com/ukanooy0/status/1872274285114663399/photo/1",
+              "media_key": "3_1872274273878069248",
+              "start": 0,
+              "url": "https://t.co/Yipe4fbRk4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872274285114663399",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Yipe4fbRk4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "🚪300 | @b0n3_core ｜幻想是我的一切 @ukanooy0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "b0n3_core"
+              },
+              {
+                "end": 36,
+                "start": 27,
+                "username": "ukanooy0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/naku.yoo?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/naku.yoo?igsh=OHVpYmZjb3hpNjVy&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/aHjXW8BvfQ"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "name": "水母骨",
+        "pinned_tweet_id": "1872103640816881782",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869007194752229376/VpXyZ867_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17800,
+          "following_count": 35,
+          "like_count": 35194,
+          "listed_count": 29,
+          "media_count": 73,
+          "tweet_count": 7234
+        },
+        "url": "https://t.co/aHjXW8BvfQ",
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-26T08:44:25.000Z",
+        "description": "ドームズデー",
+        "id": "1872201647356837888",
+        "location": "Hong Kong 門檻300",
+        "name": "幻偶",
+        "pinned_tweet_id": "1872222640477556843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872209854066311168/Z81Y6VS__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 4,
+          "like_count": 49,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 14
+        },
+        "username": "ukanooy0",
+        "verified": false
+      }
+    ]
+  }
+}

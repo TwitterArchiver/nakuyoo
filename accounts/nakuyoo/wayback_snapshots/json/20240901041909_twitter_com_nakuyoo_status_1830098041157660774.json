@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1830098041157660774",
+    "created_at": "2024-09-01T04:19:09.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-01T05:19:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1830098041157660774"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1550188270495027200",
+          "start": 3,
+          "username": "Hushlog_"
+        },
+        {
+          "end": 22,
+          "id": "1715624766571429888",
+          "start": 14,
+          "username": "nakuyoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1830098041157660774",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1830087196063514674",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hushlog_: @nakuyoo 将来的环球 必定是赤旗（红贝印）的天下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1830098041157660774",
+        "created_at": "2024-09-01T04:19:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-01T05:19:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1830098041157660774"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1550188270495027200",
+              "start": 3,
+              "username": "Hushlog_"
+            },
+            {
+              "end": 22,
+              "id": "1715624766571429888",
+              "start": 14,
+              "username": "nakuyoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1830098041157660774",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1830087196063514674",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hushlog_: @nakuyoo 将来的环球 必定是赤旗（红贝印）的天下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1550188270495027200",
+        "conversation_id": "1830028976016015663",
+        "created_at": "2024-09-01T03:36:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-01T04:36:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1830087196063514674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1715624766571429888",
+              "start": 0,
+              "username": "nakuyoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1830087196063514674",
+        "in_reply_to_user_id": "1715624766571429888",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1830028976016015663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nakuyoo 将来的环球 必定是赤旗（红贝印）的天下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@9wylovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "9wylovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/naku.yoo?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/naku.yoo?igsh=OHVpYmZjb3hpNjVy&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/aHjXW8BvfQ"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪250🇭🇰🇭🇰",
+        "name": "骨頭",
+        "pinned_tweet_id": "1823875339594191103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828756448404439040/FNqiVmFy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15764,
+          "following_count": 27,
+          "like_count": 33691,
+          "listed_count": 27,
+          "tweet_count": 6788
+        },
+        "url": "https://t.co/aHjXW8BvfQ",
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-21T18:38:02.000Z",
+        "description": "这里是一个小垃圾堆（休学大学生/双相患者/ ⚠️精神不安定中自行避雷/努力戒割中/中文/English/日本語を勉強しています/小女孩互fo请私信（可以叫我阿树/黄瓜（搞二次元的小号 @hushlog35",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 92,
+                "username": "hushlog35"
+              }
+            ]
+          }
+        },
+        "id": "1550188270495027200",
+        "location": "黑色空间",
+        "name": "黄瓜不是黄色傻逼不是逼🥒",
+        "pinned_tweet_id": "1800434529297162523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829891971466633218/NMIVDD7G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1019,
+          "following_count": 158,
+          "like_count": 19167,
+          "listed_count": 2,
+          "tweet_count": 5324
+        },
+        "username": "Hushlog_",
+        "verified": false
+      }
+    ]
+  }
+}

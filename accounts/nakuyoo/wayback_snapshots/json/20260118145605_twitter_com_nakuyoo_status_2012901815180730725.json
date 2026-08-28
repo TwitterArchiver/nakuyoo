@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "2012821206916067584",
+    "created_at": "2026-01-18T14:56:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T15:56:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012901815180730725"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1643456132453916674",
+          "start": 0,
+          "username": "Pigbro2023"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012901815180730725",
+    "in_reply_to_user_id": "1643456132453916674",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012898687291113814",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Pigbro2023 😋😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "2012821206916067584",
+        "created_at": "2026-01-18T14:56:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T15:56:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012901815180730725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1643456132453916674",
+              "start": 0,
+              "username": "Pigbro2023"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012901815180730725",
+        "in_reply_to_user_id": "1643456132453916674",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012898687291113814",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pigbro2023 😋😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643456132453916674",
+        "conversation_id": "2012821206916067584",
+        "created_at": "2026-01-18T14:43:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T15:43:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012898687291113814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1715624766571429888",
+              "start": 0,
+              "username": "nakuyoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012898687291113814",
+        "in_reply_to_user_id": "1715624766571429888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012821206916067584",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nakuyoo 魔法書咕臣，真係得意！😉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "無性戀/Intp / 🎵:nakubone📕nakuyoo ig:naku.yoo 🚪300純聊天",
+        "id": "1715624766571429888",
+        "location": "🚪300 388+cheki HK",
+        "name": "小骨",
+        "pinned_tweet_id": "1967587870547513723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977284713648996352/QlRWK9_l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16852,
+          "following_count": 8,
+          "like_count": 32822,
+          "listed_count": 31,
+          "media_count": 96,
+          "tweet_count": 7602
+        },
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-05T03:31:42.000Z",
+        "description": "📜 V'MMMCCLXVI\nRT (CCIX) \n\n【警告】架空人格アカウント(偽女垢) が当アカウントを\"フォロー\"したら、またはその内容を\"いいね\"したら、即ボックされることだ！",
+        "id": "1643456132453916674",
+        "name": "Pig Bro",
+        "pinned_tweet_id": "1724416773565419988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009913437267369984/ZQ7D402q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 3003,
+          "like_count": 91029,
+          "listed_count": 2,
+          "media_count": 1639,
+          "tweet_count": 8266
+        },
+        "username": "Pigbro2023",
+        "verified": false
+      }
+    ]
+  }
+}

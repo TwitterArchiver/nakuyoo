@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1879543763724587040",
+    "created_at": "2025-01-16T02:05:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-16T03:05:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1879711648824647950"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1814278258189533184",
+          "start": 0,
+          "username": "Asphyxia_v_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1879711648824647950",
+    "in_reply_to_user_id": "1814278258189533184",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879700166862942512",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Asphyxia_v_ 🌝🌝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1879543763724587040",
+        "created_at": "2025-01-16T02:05:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-16T03:05:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1879711648824647950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1814278258189533184",
+              "start": 0,
+              "username": "Asphyxia_v_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879711648824647950",
+        "in_reply_to_user_id": "1814278258189533184",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879700166862942512",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Asphyxia_v_ 🌝🌝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814278258189533184",
+        "conversation_id": "1879543763724587040",
+        "created_at": "2025-01-16T01:20:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-16T02:20:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1879700166862942512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1715624766571429888",
+              "start": 0,
+              "username": "nakuyoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879700166862942512",
+        "in_reply_to_user_id": "1715624766571429888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879543763724587040",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nakuyoo 我腰疼，能针灸不，或者给我正一下，有点腰间盘"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@b0n3_core｜@ukanooy0 2.0 ｜我不玩遊戲我只有推特小紅書Ig和threads其他的都是盜圖 我ip香港的⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "b0n3_core"
+              },
+              {
+                "end": 20,
+                "start": 11,
+                "username": "ukanooy0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/naku.yoo?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/naku.yoo?igsh=OHVpYmZjb3hpNjVy&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/aHjXW8BvfQ"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪300基本388簽名",
+        "name": "水母骨",
+        "pinned_tweet_id": "1878244958273978540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879131018059554816/s014GKa9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17986,
+          "following_count": 34,
+          "like_count": 35444,
+          "listed_count": 29,
+          "media_count": 97,
+          "tweet_count": 7412
+        },
+        "url": "https://t.co/aHjXW8BvfQ",
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-19T12:37:12.000Z",
+        "description": "总体是阳光开朗的，如果有时候突然发了个什么很奇怪的推，那大概率是有什么东西跑出来了，不用管，过会就回去了。",
+        "id": "1814278258189533184",
+        "location": "诺文斯克经济开发区",
+        "name": "废熊Asphyxia",
+        "pinned_tweet_id": "1857696719087218795",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865383040215826432/_rlL8WeA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 472,
+          "following_count": 249,
+          "like_count": 35332,
+          "listed_count": 3,
+          "media_count": 2101,
+          "tweet_count": 21789
+        },
+        "username": "Asphyxia_v_",
+        "verified": false
+      }
+    ]
+  }
+}

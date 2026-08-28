@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1947628472450584919",
+    "created_at": "2025-07-24T01:47:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-24T02:47:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948198405622411585"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1692201952627810304",
+          "start": 0,
+          "username": "m7kr4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948198405622411585",
+    "in_reply_to_user_id": "1692201952627810304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947635889699754215",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@m7kr4 用可樂去送"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1947628472450584919",
+        "created_at": "2025-07-24T01:47:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T02:47:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948198405622411585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1692201952627810304",
+              "start": 0,
+              "username": "m7kr4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948198405622411585",
+        "in_reply_to_user_id": "1692201952627810304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947635889699754215",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@m7kr4 用可樂去送"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692201952627810304",
+        "conversation_id": "1947628472450584919",
+        "created_at": "2025-07-22T12:32:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T13:32:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947635889699754215"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1947635889699754215",
+        "in_reply_to_user_id": "1692201952627810304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 356,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947628472450584919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "追加2t 怎麼才能快點起效..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@ukanooy0 唯一2.0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "ukanooy0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/naku.yoo?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/naku.yoo?igsh=OHVpYmZjb3hpNjVy&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/aHjXW8AXqi"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪300 388",
+        "name": "Inane小骨",
+        "pinned_tweet_id": "1878244958273978540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931334867725504512/7kS_Yy1T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17345,
+          "following_count": 33,
+          "like_count": 33777,
+          "listed_count": 29,
+          "media_count": 80,
+          "tweet_count": 7510
+        },
+        "url": "https://t.co/aHjXW8AXqi",
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-17T15:49:39.000Z",
+        "description": "07｜女 ｜雜垢 ｜shtwt⚠️\n家人 @pochacooQQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 21,
+                "username": "pochacooQQ"
+              }
+            ]
+          }
+        },
+        "id": "1692201952627810304",
+        "name": "重生之我是家庭裝地溝油",
+        "pinned_tweet_id": "1904879375717458436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819037282470625280/svnSiI08_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4656,
+          "following_count": 628,
+          "like_count": 13475,
+          "listed_count": 6,
+          "media_count": 396,
+          "tweet_count": 2670
+        },
+        "username": "m7kr4",
+        "verified": false
+      }
+    ]
+  }
+}

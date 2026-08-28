@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1874008724093980993",
+    "created_at": "2025-01-01T02:57:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-01T03:57:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1874288776874516986"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1120022812842790913",
+          "start": 0,
+          "username": "justadeer_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1874288776874516986",
+    "in_reply_to_user_id": "1120022812842790913",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1874116680701657094",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@justadeer_ 😋👍🏻👍🏻👍🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1874008724093980993",
+        "created_at": "2025-01-01T02:57:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-01T03:57:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1874288776874516986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1120022812842790913",
+              "start": 0,
+              "username": "justadeer_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874288776874516986",
+        "in_reply_to_user_id": "1120022812842790913",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874116680701657094",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@justadeer_ 😋👍🏻👍🏻👍🏻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1120022812842790913",
+        "conversation_id": "1874008724093980993",
+        "created_at": "2024-12-31T15:33:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-31T16:33:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1874116680701657094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1715624766571429888",
+              "start": 0,
+              "username": "nakuyoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874116680701657094",
+        "in_reply_to_user_id": "1715624766571429888",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874008724093980993",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nakuyoo 哇好自然"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@b0n3_core @ukanooy0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "b0n3_core"
+              },
+              {
+                "end": 20,
+                "start": 11,
+                "username": "ukanooy0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/naku.yoo?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/naku.yoo?igsh=OHVpYmZjb3hpNjVy&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/aHjXW8BvfQ"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪300基本388簽名",
+        "name": "炸毛水母骨",
+        "pinned_tweet_id": "1872103640816881782",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873915098609369088/NR_lzdQx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17842,
+          "following_count": 34,
+          "like_count": 35418,
+          "listed_count": 29,
+          "media_count": 82,
+          "tweet_count": 7300
+        },
+        "url": "https://t.co/aHjXW8BvfQ",
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-21T17:53:42.000Z",
+        "description": "shtwt",
+        "id": "1120022812842790913",
+        "name": "雪暮",
+        "pinned_tweet_id": "1832052018111975552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832422272461635584/YhLLF9pF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1886,
+          "following_count": 622,
+          "like_count": 14771,
+          "listed_count": 5,
+          "media_count": 645,
+          "tweet_count": 6914
+        },
+        "username": "justadeer_",
+        "verified": false
+      }
+    ]
+  }
+}

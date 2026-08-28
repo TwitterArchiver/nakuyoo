@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1829383223320944670",
+    "created_at": "2024-08-30T08:47:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-30T09:47:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1829440848485834875"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1813478167866396672",
+          "start": 0,
+          "username": "nyanz_ri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1829440848485834875",
+    "in_reply_to_user_id": "1813478167866396672",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1829436832909549925",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nyanz_ri 下次試一下！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1829383223320944670",
+        "created_at": "2024-08-30T08:47:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-30T09:47:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1829440848485834875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1813478167866396672",
+              "start": 0,
+              "username": "nyanz_ri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1829440848485834875",
+        "in_reply_to_user_id": "1813478167866396672",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1829436832909549925",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nyanz_ri 下次試一下！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813478167866396672",
+        "conversation_id": "1829383223320944670",
+        "created_at": "2024-08-30T08:31:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-30T09:31:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1829436832909549925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1715624766571429888",
+              "start": 0,
+              "username": "nakuyoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1829436832909549925",
+        "in_reply_to_user_id": "1715624766571429888",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1829425744860352974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nakuyoo 白桃味超好喝的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@9wylovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "9wylovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/naku.yoo?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/naku.yoo?igsh=OHVpYmZjb3hpNjVy&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/aHjXW8BvfQ"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪250🇭🇰🇭🇰",
+        "name": "骨頭",
+        "pinned_tweet_id": "1823875339594191103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828756448404439040/FNqiVmFy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15656,
+          "following_count": 25,
+          "like_count": 33576,
+          "listed_count": 27,
+          "tweet_count": 6762
+        },
+        "url": "https://t.co/aHjXW8BvfQ",
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-17T07:37:52.000Z",
+        "description": "",
+        "id": "1813478167866396672",
+        "location": "天國",
+        "name": "恋梨 れい⛓️",
+        "pinned_tweet_id": "1813984118410989824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813478275068633088/aQb4whOr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384,
+          "following_count": 123,
+          "like_count": 1029,
+          "listed_count": 1,
+          "tweet_count": 350
+        },
+        "username": "nyanz_ri",
+        "verified": false
+      }
+    ]
+  }
+}

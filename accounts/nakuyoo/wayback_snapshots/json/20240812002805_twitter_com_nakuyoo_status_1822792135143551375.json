@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1822645801912611149",
+    "created_at": "2024-08-12T00:28:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-12T01:28:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1822792135143551375"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1743630480132771840",
+          "start": 0,
+          "username": "kuehcgniy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1822792135143551375",
+    "in_reply_to_user_id": "1743630480132771840",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1822688041703768355",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuehcgniy 😭😭😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1822645801912611149",
+        "created_at": "2024-08-12T00:28:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-12T01:28:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822792135143551375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1743630480132771840",
+              "start": 0,
+              "username": "kuehcgniy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822792135143551375",
+        "in_reply_to_user_id": "1743630480132771840",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822688041703768355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuehcgniy 😭😭😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1743630480132771840",
+        "conversation_id": "1822645801912611149",
+        "created_at": "2024-08-11T17:34:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-11T18:34:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822688041703768355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1715624766571429888",
+              "start": 0,
+              "username": "nakuyoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822688041703768355",
+        "in_reply_to_user_id": "1715624766571429888",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822645801912611149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nakuyoo 我靠這麼多😱聽著都痛了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "只是一個精神病在自言自語 沒什麼特別 @9wylovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 19,
+                "username": "9wylovo"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪250🇭🇰",
+        "name": "骨仔",
+        "pinned_tweet_id": "1822266798747595010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822625813629689856/KGMTxKge_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14513,
+          "following_count": 33,
+          "like_count": 31961,
+          "listed_count": 28,
+          "tweet_count": 6468
+        },
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-06T13:48:34.000Z",
+        "description": "🇭🇰10年｜自傷｜有病｜素質不明｜宅｜負面｜雜\n💚∞動漫漫畫迷、🎶、💤、✏️。查成分回fol^ 歡迎女孩子跟我說話ฅ! \n短髮眼镜控..主推绫波丽💙",
+        "id": "1743630480132771840",
+        "location": "Hong Kong",
+        "name": "阿魚戒歌中..",
+        "pinned_tweet_id": "1800906800990167136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809643642061221888/69GTPtBi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 99,
+          "like_count": 9683,
+          "listed_count": 0,
+          "tweet_count": 832
+        },
+        "username": "kuehcgniy",
+        "verified": false
+      }
+    ]
+  }
+}

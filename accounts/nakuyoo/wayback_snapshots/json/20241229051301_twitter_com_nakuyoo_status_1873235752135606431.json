@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1873202781726859532",
+    "created_at": "2024-12-29T05:13:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-29T06:13:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1873235752135606431"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1556635694717878274",
+          "start": 0,
+          "username": "ERRORCODEE_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873235752135606431",
+    "in_reply_to_user_id": "1556635694717878274",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1873230436383768833",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ERRORCODEE_ 小貓😋😋"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1873230436383768833].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1873230436383768833",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1873230436383768833"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1873202781726859532",
+        "created_at": "2024-12-29T05:13:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-29T06:13:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873235752135606431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1556635694717878274",
+              "start": 0,
+              "username": "ERRORCODEE_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873235752135606431",
+        "in_reply_to_user_id": "1556635694717878274",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873230436383768833",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ERRORCODEE_ 小貓😋😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "🚪300 | @b0n3_core ｜幻想是我的一切 @ukanooy0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "b0n3_core"
+              },
+              {
+                "end": 36,
+                "start": 27,
+                "username": "ukanooy0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/naku.yoo?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/naku.yoo?igsh=OHVpYmZjb3hpNjVy&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/aHjXW8BvfQ"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "name": "炸毛水母骨",
+        "pinned_tweet_id": "1872103640816881782",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872548980552540162/MG-FrXU-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17838,
+          "following_count": 34,
+          "like_count": 35281,
+          "listed_count": 29,
+          "media_count": 77,
+          "tweet_count": 7269
+        },
+        "url": "https://t.co/aHjXW8BvfQ",
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-08T13:37:51.000Z",
+        "description": "shedtwt being stalked by irls | formerly etsu",
+        "id": "1556635694717878274",
+        "location": "bmi 18, lbmi 15",
+        "name": "ERROR ⚠️ / etsu",
+        "pinned_tweet_id": "1864380822973022281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864380242292559872/yxsWvgul_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1268,
+          "following_count": 524,
+          "like_count": 11417,
+          "listed_count": 17,
+          "media_count": 2650,
+          "tweet_count": 14136
+        },
+        "username": "ERRORCODEE_",
+        "verified": false
+      }
+    ]
+  }
+}

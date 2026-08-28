@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1878077240694513857",
+    "created_at": "2025-01-11T13:51:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-11T14:51:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1878077240694513857"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1761106331896033283",
+          "start": 3,
+          "username": "nemurikamisama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1878077240694513857",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1877557867772854289",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nemurikamisama: 背刺逼線下見到你我必和你對線"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1878077240694513857",
+        "created_at": "2025-01-11T13:51:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-11T14:51:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1878077240694513857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1761106331896033283",
+              "start": 3,
+              "username": "nemurikamisama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878077240694513857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877557867772854289",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nemurikamisama: 背刺逼線下見到你我必和你對線"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761106331896033283",
+        "conversation_id": "1877557867772854289",
+        "created_at": "2025-01-10T03:27:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-10T04:27:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877557867772854289"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1877557867772854289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2303,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "背刺逼線下見到你我必和你對線"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@b0n3_core @ukanooy0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "b0n3_core"
+              },
+              {
+                "end": 20,
+                "start": 11,
+                "username": "ukanooy0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/naku.yoo?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/naku.yoo?igsh=OHVpYmZjb3hpNjVy&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/aHjXW8BvfQ"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪300基本388簽名",
+        "name": "炸毛水母骨",
+        "pinned_tweet_id": "1872103640816881782",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873915098609369088/NR_lzdQx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17939,
+          "following_count": 35,
+          "like_count": 35480,
+          "listed_count": 29,
+          "media_count": 92,
+          "tweet_count": 7366
+        },
+        "url": "https://t.co/aHjXW8BvfQ",
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-23T19:10:51.000Z",
+        "description": "永い眠りにつく",
+        "id": "1761106331896033283",
+        "location": "表世界",
+        "name": "神眠喵!🪦",
+        "pinned_tweet_id": "1813993940288438691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823308623491330048/nVophlpm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7456,
+          "following_count": 22,
+          "like_count": 2756,
+          "listed_count": 9,
+          "media_count": 224,
+          "tweet_count": 1327
+        },
+        "username": "nemurikamisama",
+        "verified": false
+      }
+    ]
+  }
+}

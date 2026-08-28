@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1874804502433497434",
+    "created_at": "2025-01-03T06:56:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-03T07:56:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1875073731942572472"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1755269867408887808",
+          "start": 0,
+          "username": "xixi0619y"
+        },
+        {
+          "end": 24,
+          "id": "1850111807383547904",
+          "start": 11,
+          "username": "nomizazzle26"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875073731942572472",
+    "in_reply_to_user_id": "1755269867408887808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1874964180589228337",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xixi0619y @nomizazzle26 對。🌝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1874804502433497434",
+        "created_at": "2025-01-03T06:56:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-03T07:56:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875073731942572472"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1755269867408887808",
+              "start": 0,
+              "username": "xixi0619y"
+            },
+            {
+              "end": 24,
+              "id": "1850111807383547904",
+              "start": 11,
+              "username": "nomizazzle26"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875073731942572472",
+        "in_reply_to_user_id": "1755269867408887808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874964180589228337",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xixi0619y @nomizazzle26 對。🌝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755269867408887808",
+        "conversation_id": "1874804502433497434",
+        "created_at": "2025-01-02T23:41:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-03T00:41:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1874964180589228337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1715624766571429888",
+              "start": 0,
+              "username": "nakuyoo"
+            },
+            {
+              "end": 22,
+              "id": "1850111807383547904",
+              "start": 9,
+              "username": "nomizazzle26"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874964180589228337",
+        "in_reply_to_user_id": "1715624766571429888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874814815182745677",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nakuyoo @nomizazzle26 🌚香港的肠仔只有鱼肉味....."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@b0n3_core @ukanooy0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "b0n3_core"
+              },
+              {
+                "end": 20,
+                "start": 11,
+                "username": "ukanooy0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/naku.yoo?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/naku.yoo?igsh=OHVpYmZjb3hpNjVy&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/aHjXW8BvfQ"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪300基本388簽名",
+        "name": "炸毛水母骨",
+        "pinned_tweet_id": "1872103640816881782",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873915098609369088/NR_lzdQx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17855,
+          "following_count": 34,
+          "like_count": 35502,
+          "listed_count": 29,
+          "media_count": 87,
+          "tweet_count": 7327
+        },
+        "url": "https://t.co/aHjXW8BvfQ",
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-07T16:39:12.000Z",
+        "description": "xi",
+        "id": "1755269867408887808",
+        "name": "xixi",
+        "pinned_tweet_id": "1873143471588176187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823407666611515392/Gprn5xXx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 286,
+          "like_count": 5099,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 721
+        },
+        "username": "xixi0619y",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-26T09:46:50.000Z",
+        "description": "不接線下 我叫小桶不要亂叫我名字",
+        "id": "1850111807383547904",
+        "name": "垃圾桶大王",
+        "pinned_tweet_id": "1869037289978106350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874079500289662982/tGjCV6to_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 88,
+          "like_count": 2653,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 1093
+        },
+        "username": "nomizazzle26",
+        "verified": false
+      }
+    ]
+  }
+}

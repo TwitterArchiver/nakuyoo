@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1824421865722421755",
+    "created_at": "2024-08-16T12:50:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-16T13:50:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1824428509231714485"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "727282680329543681",
+          "start": 0,
+          "username": "kittyy0094"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1824428509231714485",
+    "in_reply_to_user_id": "727282680329543681",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1824421865722421755",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kittyy0094 DELETE IT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1824421865722421755",
+        "created_at": "2024-08-16T12:50:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-16T13:50:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1824428509231714485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "727282680329543681",
+              "start": 0,
+              "username": "kittyy0094"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824428509231714485",
+        "in_reply_to_user_id": "727282680329543681",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1824421865722421755",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kittyy0094 DELETE IT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1824421862228537344"
+          ]
+        },
+        "author_id": "727282680329543681",
+        "conversation_id": "1824421865722421755",
+        "created_at": "2024-08-16T12:24:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-16T13:24:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1824421865722421755"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rzy3djag5c",
+              "end": 25,
+              "expanded_url": "https://twitter.com/kittyy0094/status/1824421865722421755/photo/1",
+              "media_key": "3_1824421862228537344",
+              "start": 2,
+              "url": "https://t.co/RZY3dJAG5c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824421865722421755",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👀 https://t.co/RZY3dJAG5c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "一個精神病 完 @9wylovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 8,
+                "username": "9wylovo"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪250🇭🇰",
+        "name": "刻在骨子裏",
+        "pinned_tweet_id": "1823875339594191103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822625813629689856/KGMTxKge_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14934,
+          "following_count": 33,
+          "like_count": 32610,
+          "listed_count": 27,
+          "tweet_count": 6630
+        },
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2016-05-02T23:44:38.000Z",
+        "description": "just a little Chinese girl who wants to explore the world ❤️ \n- backup acc",
+        "id": "727282680329543681",
+        "location": "香港",
+        "name": "suzyy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824421577410134016/p8Bsp2St_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 29,
+          "like_count": 0,
+          "listed_count": 0,
+          "tweet_count": 3
+        },
+        "username": "kittyy0094",
+        "verified": false
+      }
+    ]
+  }
+}

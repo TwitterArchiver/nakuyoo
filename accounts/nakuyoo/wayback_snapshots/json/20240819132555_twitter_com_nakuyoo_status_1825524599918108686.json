@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1825522001186083022",
+    "created_at": "2024-08-19T13:25:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-19T14:25:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1825524599918108686"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1539141341107847168",
+          "start": 0,
+          "username": "OooSaKuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1825524599918108686",
+    "in_reply_to_user_id": "1539141341107847168",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1825523470220087694",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OooSaKuu 對！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1825522001186083022",
+        "created_at": "2024-08-19T13:25:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-19T14:25:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1825524599918108686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1539141341107847168",
+              "start": 0,
+              "username": "OooSaKuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825524599918108686",
+        "in_reply_to_user_id": "1539141341107847168",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1825523470220087694",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OooSaKuu 對！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1539141341107847168",
+        "conversation_id": "1825522001186083022",
+        "created_at": "2024-08-19T13:21:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-19T14:21:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1825523470220087694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1715624766571429888",
+              "start": 0,
+              "username": "nakuyoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825523470220087694",
+        "in_reply_to_user_id": "1715624766571429888",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1825522001186083022",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nakuyoo 我完全不能置身於大自然，只能活在鬧市"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "edtwt @9wylovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 6,
+                "username": "9wylovo"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪250🇭🇰",
+        "name": "刻在骨子裏",
+        "pinned_tweet_id": "1823875339594191103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1825182041480290304/KGPSNEnx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15138,
+          "following_count": 29,
+          "like_count": 32885,
+          "listed_count": 27,
+          "tweet_count": 6673
+        },
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-21T07:01:17.000Z",
+        "description": "目前戒割戒o啦！\n但是希望大家不要因為這個不和我交朋友😞\n我心思比較單純想和很多人做朋友\n唯一雷點就是比較討厭別人說我是0或者刻板印象的問我是不是男同\n我只是喜歡化妝後的自己\n讓自己沒那麼自卑♪",
+        "id": "1539141341107847168",
+        "name": "可妮2.0（算命找我）",
+        "pinned_tweet_id": "1825386385307795755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782356087871807488/oGJqPdE__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 221,
+          "like_count": 4661,
+          "listed_count": 1,
+          "tweet_count": 2113
+        },
+        "username": "OooSaKuu",
+        "verified": false
+      }
+    ]
+  }
+}

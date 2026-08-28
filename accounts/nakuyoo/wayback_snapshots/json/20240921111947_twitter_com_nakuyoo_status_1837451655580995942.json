@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1837439428597260531",
+    "created_at": "2024-09-21T11:19:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-21T12:19:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837451655580995942"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1431849737771048961",
+          "start": 0,
+          "username": "Rianbowegg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837451655580995942",
+    "in_reply_to_user_id": "1431849737771048961",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837450097862627509",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rianbowegg 耶！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1837439428597260531",
+        "created_at": "2024-09-21T11:19:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-21T12:19:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837451655580995942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1431849737771048961",
+              "start": 0,
+              "username": "Rianbowegg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837451655580995942",
+        "in_reply_to_user_id": "1431849737771048961",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837450097862627509",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rianbowegg 耶！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1431849737771048961",
+        "conversation_id": "1837439428597260531",
+        "created_at": "2024-09-21T11:13:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-21T12:13:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837450097862627509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1715624766571429888",
+              "start": 0,
+              "username": "nakuyoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837450097862627509",
+        "in_reply_to_user_id": "1715624766571429888",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837439428597260531",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nakuyoo 其实各有千秋，都很好看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@9wylovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "9wylovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/naku.yoo?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/naku.yoo?igsh=OHVpYmZjb3hpNjVy&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/aHjXW8BvfQ"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪250🇭🇰",
+        "name": "骨仔",
+        "pinned_tweet_id": "1823875339594191103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831117464026943488/Eo_Zr6An_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16409,
+          "following_count": 30,
+          "like_count": 34780,
+          "listed_count": 29,
+          "tweet_count": 6978
+        },
+        "url": "https://t.co/aHjXW8BvfQ",
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-29T05:22:46.000Z",
+        "description": "/06/重度双相患者，梦想是走遍世界每个角落。最爱的人（单相思）@jing1234560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 32,
+                "username": "jing1234560"
+              }
+            ]
+          }
+        },
+        "id": "1431849737771048961",
+        "location": "彼岸花的花丛中",
+        "name": "彩虹色煎蛋",
+        "pinned_tweet_id": "1792183993993245055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792531211631706113/jDXUqXOL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 338,
+          "like_count": 7557,
+          "listed_count": 0,
+          "tweet_count": 2092
+        },
+        "username": "Rianbowegg",
+        "verified": false
+      }
+    ]
+  }
+}

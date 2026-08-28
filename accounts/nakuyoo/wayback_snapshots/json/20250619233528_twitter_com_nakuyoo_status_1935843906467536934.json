@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1935843906467536934",
+    "created_at": "2025-06-19T23:35:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-20T00:35:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1935843906467536934"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yins_chan_/sta…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/yins_chan_/status/1935732383225188752",
+          "start": 17,
+          "url": "https://t.co/BzMxRQ4KAD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935843906467536934",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935732383225188752",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Enough my girl🔥🔥 https://t.co/BzMxRQ4KAD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_1935732379336773632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt0aV9KXEAA9Prb.jpg",
+        "width": 1199
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1935843906467536934",
+        "created_at": "2025-06-19T23:35:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T00:35:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935843906467536934"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yins_chan_/sta…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/yins_chan_/status/1935732383225188752",
+              "start": 17,
+              "url": "https://t.co/BzMxRQ4KAD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935843906467536934",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935732383225188752",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Enough my girl🔥🔥 https://t.co/BzMxRQ4KAD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935732379336773632"
+          ]
+        },
+        "author_id": "1512834058820022281",
+        "conversation_id": "1935732383225188752",
+        "created_at": "2025-06-19T16:12:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T17:12:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935732383225188752"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1LxJTzz2fR",
+              "end": 27,
+              "expanded_url": "https://x.com/yins_chan_/status/1935732383225188752/photo/1",
+              "media_key": "3_1935732379336773632",
+              "start": 4,
+              "url": "https://t.co/1LxJTzz2fR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935732383225188752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 214,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "懶得p https://t.co/1LxJTzz2fR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@ukanooy0 唯一2.0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "ukanooy0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/naku.yoo?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/naku.yoo?igsh=OHVpYmZjb3hpNjVy&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/aHjXW8BvfQ"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪300基本388簽名",
+        "name": "Inane骨",
+        "pinned_tweet_id": "1878244958273978540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931334867725504512/7kS_Yy1T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17369,
+          "following_count": 34,
+          "like_count": 33922,
+          "listed_count": 28,
+          "media_count": 69,
+          "tweet_count": 7468
+        },
+        "url": "https://t.co/aHjXW8BvfQ",
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-09T16:45:27.000Z",
+        "description": "只是要對世界保持依戀實在太難了",
+        "id": "1512834058820022281",
+        "location": "Hell 距離你所在的地方100米以內",
+        "name": "意志蠶食者",
+        "pinned_tweet_id": "1884301640192385506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1545350024845881346/DZLFap_h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1698,
+          "following_count": 267,
+          "like_count": 93406,
+          "listed_count": 4,
+          "media_count": 509,
+          "tweet_count": 11572
+        },
+        "username": "yins_chan_",
+        "verified": false
+      }
+    ]
+  }
+}

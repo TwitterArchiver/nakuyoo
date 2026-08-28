@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1829855675960475916",
+    "created_at": "2024-08-31T15:05:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-31T16:05:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1829898418849742990"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1476134363989372934",
+          "start": 0,
+          "username": "pain4uuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1829898418849742990",
+    "in_reply_to_user_id": "1476134363989372934",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1829893686299410487",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pain4uuu 9月！😋😋頭10天我放半天！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1829855675960475916",
+        "created_at": "2024-08-31T15:05:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-31T16:05:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1829898418849742990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1476134363989372934",
+              "start": 0,
+              "username": "pain4uuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1829898418849742990",
+        "in_reply_to_user_id": "1476134363989372934",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1829893686299410487",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pain4uuu 9月！😋😋頭10天我放半天！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476134363989372934",
+        "conversation_id": "1829855675960475916",
+        "created_at": "2024-08-31T14:47:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-31T15:47:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1829893686299410487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1715624766571429888",
+              "start": 0,
+              "username": "nakuyoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1829893686299410487",
+        "in_reply_to_user_id": "1715624766571429888",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1829855675960475916",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nakuyoo 想跟寶寶出去玩的說👉🏻👈🏻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@9wylovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "9wylovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/naku.yoo?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/naku.yoo?igsh=OHVpYmZjb3hpNjVy&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/aHjXW8BvfQ"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪250🇭🇰🇭🇰",
+        "name": "骨頭",
+        "pinned_tweet_id": "1823875339594191103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828756448404439040/FNqiVmFy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15670,
+          "following_count": 26,
+          "like_count": 33661,
+          "listed_count": 27,
+          "tweet_count": 6779
+        },
+        "url": "https://t.co/aHjXW8BvfQ",
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-29T10:14:05.000Z",
+        "description": "shtwt⚠️愛來自瓷器 88🚪限聊天/朋友圈",
+        "id": "1476134363989372934",
+        "name": "將個膠笠戴落河B仔",
+        "pinned_tweet_id": "1823326753974329386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828118209301749761/qQQaQdSY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1787,
+          "following_count": 141,
+          "like_count": 5537,
+          "listed_count": 2,
+          "tweet_count": 1974
+        },
+        "username": "pain4uuu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1961776578398224475",
+    "created_at": "2025-08-30T13:02:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-30T14:02:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1961776578398224475"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/pogou___xx/sta…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/pogou___xx/status/1961764502913094036",
+          "start": 5,
+          "url": "https://t.co/YnzytsvEL5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961776578398224475",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961764502913094036",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "權威🔥🔥 https://t.co/YnzytsvEL5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1366,
+        "media_key": "3_1961764492234391552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzmWaWybAAApX0Z.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1366,
+        "media_key": "3_1961764492234379264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzmWaWya0AA0-on.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1961776578398224475",
+        "created_at": "2025-08-30T13:02:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T14:02:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961776578398224475"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pogou___xx/sta…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/pogou___xx/status/1961764502913094036",
+              "start": 5,
+              "url": "https://t.co/YnzytsvEL5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961776578398224475",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961764502913094036",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "權威🔥🔥 https://t.co/YnzytsvEL5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961764492234391552",
+            "3_1961764492234379264"
+          ]
+        },
+        "author_id": "1550593157876060160",
+        "conversation_id": "1961764502913094036",
+        "created_at": "2025-08-30T12:14:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T13:14:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961764502913094036"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7jzIX5rk4Q",
+              "end": 29,
+              "expanded_url": "https://x.com/pogou___xx/status/1961764502913094036/photo/1",
+              "media_key": "3_1961764492234391552",
+              "start": 6,
+              "url": "https://t.co/7jzIX5rk4Q"
+            },
+            {
+              "display_url": "pic.x.com/7jzIX5rk4Q",
+              "end": 29,
+              "expanded_url": "https://x.com/pogou___xx/status/1961764502913094036/photo/1",
+              "media_key": "3_1961764492234379264",
+              "start": 6,
+              "url": "https://t.co/7jzIX5rk4Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961764502913094036",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嘠嗷嗷 ！ https://t.co/7jzIX5rk4Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "🎵:nakubone📕nakuyoo ig:naku.yoo ｜無性戀｜定期清列表",
+        "id": "1715624766571429888",
+        "location": "🚪300 388+cheki HK",
+        "name": "水母骨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931334867725504512/7kS_Yy1T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17395,
+          "following_count": 27,
+          "like_count": 33953,
+          "listed_count": 30,
+          "media_count": 96,
+          "tweet_count": 7559
+        },
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-22T21:26:53.000Z",
+        "description": "病み垢暴言｜地雷女｜永遠の16歳",
+        "id": "1550593157876060160",
+        "location": "地獄",
+        "name": "破狗醬",
+        "pinned_tweet_id": "1935262321439645728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775552273361625088/7edQ7fe7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1300,
+          "following_count": 127,
+          "like_count": 15042,
+          "listed_count": 2,
+          "media_count": 217,
+          "tweet_count": 2126
+        },
+        "username": "pogou___xx",
+        "verified": false
+      }
+    ]
+  }
+}

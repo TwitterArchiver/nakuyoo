@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1823526670244163789",
+    "created_at": "2024-08-14T05:25:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-14T06:25:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1823591729100112245"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1729241169610366976",
+          "start": 0,
+          "username": "ChaseAnder8070"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1823591729100112245",
+    "in_reply_to_user_id": "1729241169610366976",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1823591250739728823",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChaseAnder8070 😋😋😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1823526670244163789",
+        "created_at": "2024-08-14T05:25:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-14T06:25:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1823591729100112245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1729241169610366976",
+              "start": 0,
+              "username": "ChaseAnder8070"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823591729100112245",
+        "in_reply_to_user_id": "1729241169610366976",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1823591250739728823",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChaseAnder8070 😋😋😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729241169610366976",
+        "conversation_id": "1823526670244163789",
+        "created_at": "2024-08-14T05:23:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-14T06:23:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1823591250739728823"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1715624766571429888",
+              "start": 0,
+              "username": "nakuyoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823591250739728823",
+        "in_reply_to_user_id": "1715624766571429888",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1823526670244163789",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nakuyoo 可可爱爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@9wylovo 一個精神病 完",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "9wylovo"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪250🇭🇰",
+        "name": "刻在骨子裏",
+        "pinned_tweet_id": "1822266798747595010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822625813629689856/KGMTxKge_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14595,
+          "following_count": 33,
+          "like_count": 32207,
+          "listed_count": 27,
+          "tweet_count": 6521
+        },
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-27T20:50:43.000Z",
+        "description": "",
+        "id": "1729241169610366976",
+        "name": "素质不详遇强则强",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818251295813419008/dF3srxto_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 13,
+          "like_count": 3,
+          "listed_count": 0,
+          "tweet_count": 424
+        },
+        "username": "ChaseAnder8070",
+        "verified": false
+      }
+    ]
+  }
+}

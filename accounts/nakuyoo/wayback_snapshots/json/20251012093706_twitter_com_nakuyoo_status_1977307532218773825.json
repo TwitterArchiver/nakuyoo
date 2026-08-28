@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1976950598185713967",
+    "created_at": "2025-10-12T09:37:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T10:37:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977307532218773825"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1909990205081456640",
+          "start": 0,
+          "username": "s7iPYaGkN371924"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977307532218773825",
+    "in_reply_to_user_id": "1909990205081456640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977300855188770845",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@s7iPYaGkN371924 居然！🌝👍🏻👍🏻👍🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1976950598185713967",
+        "created_at": "2025-10-12T09:37:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T10:37:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977307532218773825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1909990205081456640",
+              "start": 0,
+              "username": "s7iPYaGkN371924"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977307532218773825",
+        "in_reply_to_user_id": "1909990205081456640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977300855188770845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@s7iPYaGkN371924 居然！🌝👍🏻👍🏻👍🏻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909990205081456640",
+        "conversation_id": "1976950598185713967",
+        "created_at": "2025-10-12T09:10:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T10:10:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977300855188770845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1715624766571429888",
+              "start": 0,
+              "username": "nakuyoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977300855188770845",
+        "in_reply_to_user_id": "1715624766571429888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976950598185713967",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nakuyoo 唔係講笑 買咗520 vip覺得幾回本"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "定期清列表不是不喜歡你們/Asexual",
+        "id": "1715624766571429888",
+        "location": "🚪300 388+cheki HK",
+        "name": "小骨",
+        "pinned_tweet_id": "1967587870547513723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977284713648996352/QlRWK9_l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17336,
+          "following_count": 10,
+          "like_count": 34384,
+          "listed_count": 30,
+          "media_count": 139,
+          "tweet_count": 7631
+        },
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-09T15:22:25.000Z",
+        "description": "愛你喔 ᭄",
+        "id": "1909990205081456640",
+        "name": "理奈꧅",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909991049701048320/l2DG5jlQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 2348,
+          "like_count": 911,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 7
+        },
+        "username": "s7iPYaGkN371924",
+        "verified": false
+      }
+    ]
+  }
+}

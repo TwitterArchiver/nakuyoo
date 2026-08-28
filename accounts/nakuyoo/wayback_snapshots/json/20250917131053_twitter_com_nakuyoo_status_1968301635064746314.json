@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1968301621403914242",
+        "3_1968301621609476096",
+        "3_1968301621827584000"
+      ]
+    },
+    "author_id": "1715624766571429888",
+    "conversation_id": "1968301635064746314",
+    "created_at": "2025-09-17T13:10:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T14:10:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1968301635064746314"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CsghLDOFwh",
+          "end": 26,
+          "expanded_url": "https://x.com/nakuyoo/status/1968301635064746314/photo/1",
+          "media_key": "3_1968301621403914242",
+          "start": 3,
+          "url": "https://t.co/CsghLDOFwh"
+        },
+        {
+          "display_url": "pic.x.com/CsghLDOFwh",
+          "end": 26,
+          "expanded_url": "https://x.com/nakuyoo/status/1968301635064746314/photo/1",
+          "media_key": "3_1968301621609476096",
+          "start": 3,
+          "url": "https://t.co/CsghLDOFwh"
+        },
+        {
+          "display_url": "pic.x.com/CsghLDOFwh",
+          "end": 26,
+          "expanded_url": "https://x.com/nakuyoo/status/1968301635064746314/photo/1",
+          "media_key": "3_1968301621827584000",
+          "start": 3,
+          "url": "https://t.co/CsghLDOFwh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968301635064746314",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "以前 https://t.co/CsghLDOFwh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1197,
+        "media_key": "3_1968301621403914242",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1DP5WqbEAIjSS2.jpg",
+        "width": 823
+      },
+      {
+        "height": 611,
+        "media_key": "3_1968301621609476096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1DP5XbbsAAkvPZ.jpg",
+        "width": 458
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1968301621827584000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1DP5YPbwAAJSPX.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968301621403914242",
+            "3_1968301621609476096",
+            "3_1968301621827584000"
+          ]
+        },
+        "author_id": "1715624766571429888",
+        "conversation_id": "1968301635064746314",
+        "created_at": "2025-09-17T13:10:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T14:10:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968301635064746314"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CsghLDOFwh",
+              "end": 26,
+              "expanded_url": "https://x.com/nakuyoo/status/1968301635064746314/photo/1",
+              "media_key": "3_1968301621403914242",
+              "start": 3,
+              "url": "https://t.co/CsghLDOFwh"
+            },
+            {
+              "display_url": "pic.x.com/CsghLDOFwh",
+              "end": 26,
+              "expanded_url": "https://x.com/nakuyoo/status/1968301635064746314/photo/1",
+              "media_key": "3_1968301621609476096",
+              "start": 3,
+              "url": "https://t.co/CsghLDOFwh"
+            },
+            {
+              "display_url": "pic.x.com/CsghLDOFwh",
+              "end": 26,
+              "expanded_url": "https://x.com/nakuyoo/status/1968301635064746314/photo/1",
+              "media_key": "3_1968301621827584000",
+              "start": 3,
+              "url": "https://t.co/CsghLDOFwh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968301635064746314",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "以前 https://t.co/CsghLDOFwh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "定期清列表 不互",
+        "id": "1715624766571429888",
+        "location": "🚪300 388+cheki HK",
+        "name": "水母骨",
+        "pinned_tweet_id": "1967587870547513723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931334867725504512/7kS_Yy1T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17359,
+          "following_count": 23,
+          "like_count": 34240,
+          "listed_count": 30,
+          "media_count": 114,
+          "tweet_count": 7608
+        },
+        "username": "nakuyoo",
+        "verified": false
+      }
+    ]
+  }
+}

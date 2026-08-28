@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "2086365803876962488",
+    "created_at": "2026-08-09T08:15:45.000Z",
+    "display_text_range": [
+      0,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T09:15:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086365803876962488"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/fumi_uowou_/st…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/fumi_uowou_/status/2086364299375862000",
+          "start": 13,
+          "url": "https://t.co/pN31Fa5B23"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086365803876962488",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086364299375862000",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "是兄弟💪🏻💪🏻💪🏻🔥🔥🔥 https://t.co/pN31Fa5B23"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "2086365803876962488",
+        "created_at": "2026-08-09T08:15:45.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T09:15:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086365803876962488"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fumi_uowou_/st…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/fumi_uowou_/status/2086364299375862000",
+              "start": 13,
+              "url": "https://t.co/pN31Fa5B23"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086365803876962488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086364299375862000",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是兄弟💪🏻💪🏻💪🏻🔥🔥🔥 https://t.co/pN31Fa5B23"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1550593157876060160",
+        "conversation_id": "2086364299375862000",
+        "created_at": "2026-08-09T08:09:46.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T09:09:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086364299375862000"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086364299375862000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "小骨的敵人就是我的敵人哦\n所以不要亂說話\n明明都長得不怎樣了 請麻煩心地善良😚"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "ig: naku.yoo",
+        "id": "1715624766571429888",
+        "is_identity_verified": false,
+        "location": "🚪300聊天Hk",
+        "most_recent_tweet_id": "2086365803876962488",
+        "name": "骨仔",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1715624766571429888/1778746572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054838019136647168/v9qJCyvZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16640,
+          "following_count": 10,
+          "like_count": 31721,
+          "listed_count": 33,
+          "media_count": 232,
+          "tweet_count": 7833
+        },
+        "url": "",
+        "username": "nakuyoo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-22T21:26:53.000Z",
+        "description": "病み垢暴言｜地雷系｜永遠の16歳 ｜社不\n和社會對立",
+        "id": "1550593157876060160",
+        "is_identity_verified": false,
+        "location": "地獄",
+        "most_recent_tweet_id": "2086364299375862000",
+        "name": "ふみわんちゃん🦭🌧️",
+        "pinned_tweet_id": "2020858399106248987",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1550593157876060160/1763491318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990852953499185154/HwgnW6Z__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1918,
+          "following_count": 140,
+          "like_count": 21121,
+          "listed_count": 5,
+          "media_count": 310,
+          "tweet_count": 2893
+        },
+        "url": "",
+        "username": "Fumi_uowou_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1825132466694390242",
+    "created_at": "2024-08-19T07:30:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-19T08:30:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1825435176689619146"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1824987771393736704",
+          "start": 0,
+          "username": "deqthkin0ko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1825435176689619146",
+    "in_reply_to_user_id": "1824987771393736704",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1825424443025522763",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@deqthkin0ko 蛋糕腦袋寶寶😭😭🩷🩷🩷"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1825132466694390242",
+        "created_at": "2024-08-19T07:30:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-19T08:30:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1825435176689619146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1824987771393736704",
+              "start": 0,
+              "username": "deqthkin0ko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825435176689619146",
+        "in_reply_to_user_id": "1824987771393736704",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1825424443025522763",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@deqthkin0ko 蛋糕腦袋寶寶😭😭🩷🩷🩷"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1824987771393736704",
+        "conversation_id": "1825132466694390242",
+        "created_at": "2024-08-19T06:47:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-19T07:47:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1825424443025522763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1715624766571429888",
+              "start": 0,
+              "username": "nakuyoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825424443025522763",
+        "in_reply_to_user_id": "1715624766571429888",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1825383805458469123",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nakuyoo 小年糕寶寶我特別愛你嗚嗚嗚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "精神得不能再精神的精神病  @9wylovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 14,
+                "username": "9wylovo"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪250🇭🇰",
+        "name": "刻在骨子裏",
+        "pinned_tweet_id": "1823875339594191103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1825182041480290304/KGPSNEnx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15143,
+          "following_count": 29,
+          "like_count": 32846,
+          "listed_count": 27,
+          "tweet_count": 6663
+        },
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-18T01:52:54.000Z",
+        "description": "(՞_ ̫ _՞)ᐝ",
+        "id": "1824987771393736704",
+        "name": "デスキノコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824989143811960832/QrN3PEOS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 12,
+          "like_count": 77,
+          "listed_count": 0,
+          "tweet_count": 3
+        },
+        "username": "deqthkin0ko",
+        "verified": false
+      }
+    ]
+  }
+}

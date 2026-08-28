@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1976887317458812928",
+        "3_1976887317475606531"
+      ]
+    },
+    "author_id": "1715624766571429888",
+    "conversation_id": "1976887325599895591",
+    "created_at": "2025-10-11T05:47:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T06:47:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1976887325599895591"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0bfxRhn7Lf",
+          "end": 33,
+          "expanded_url": "https://x.com/nakuyoo/status/1976887325599895591/photo/1",
+          "media_key": "3_1976887317458812928",
+          "start": 10,
+          "url": "https://t.co/0bfxRhn7Lf"
+        },
+        {
+          "display_url": "pic.x.com/0bfxRhn7Lf",
+          "end": 33,
+          "expanded_url": "https://x.com/nakuyoo/status/1976887325599895591/photo/1",
+          "media_key": "3_1976887317475606531",
+          "start": 10,
+          "url": "https://t.co/0bfxRhn7Lf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976887325599895591",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好久沒有穿地雷服了 https://t.co/0bfxRhn7Lf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1472,
+        "media_key": "3_1976887317458812928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G29Qio4bgAAsVzl.jpg",
+        "width": 828
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1976887317475606531",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G29Qio8bwAME8Ys.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976887317458812928",
+            "3_1976887317475606531"
+          ]
+        },
+        "author_id": "1715624766571429888",
+        "conversation_id": "1976887325599895591",
+        "created_at": "2025-10-11T05:47:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T06:47:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976887325599895591"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0bfxRhn7Lf",
+              "end": 33,
+              "expanded_url": "https://x.com/nakuyoo/status/1976887325599895591/photo/1",
+              "media_key": "3_1976887317458812928",
+              "start": 10,
+              "url": "https://t.co/0bfxRhn7Lf"
+            },
+            {
+              "display_url": "pic.x.com/0bfxRhn7Lf",
+              "end": 33,
+              "expanded_url": "https://x.com/nakuyoo/status/1976887325599895591/photo/1",
+              "media_key": "3_1976887317475606531",
+              "start": 10,
+              "url": "https://t.co/0bfxRhn7Lf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976887325599895591",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好久沒有穿地雷服了 https://t.co/0bfxRhn7Lf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "定期清列表不是不喜歡你們 純綠限香港",
+        "id": "1715624766571429888",
+        "location": "🚪300 388+cheki HK",
+        "name": "小骨",
+        "pinned_tweet_id": "1967587870547513723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931334867725504512/7kS_Yy1T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17200,
+          "following_count": 10,
+          "like_count": 34354,
+          "listed_count": 30,
+          "media_count": 133,
+          "tweet_count": 7623
+        },
+        "username": "nakuyoo",
+        "verified": false
+      }
+    ]
+  }
+}

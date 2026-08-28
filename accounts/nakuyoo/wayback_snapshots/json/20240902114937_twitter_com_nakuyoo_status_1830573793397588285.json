@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1830154806599774320",
+    "created_at": "2024-09-02T11:49:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-02T12:49:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1830573793397588285"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1446484669378138117",
+          "start": 0,
+          "username": "0ST1Afc7IlWc74q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1830573793397588285",
+    "in_reply_to_user_id": "1446484669378138117",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1830564121571692558",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0ST1Afc7IlWc74q 😱😱😱😱哎呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1830154806599774320",
+        "created_at": "2024-09-02T11:49:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-02T12:49:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1830573793397588285"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1446484669378138117",
+              "start": 0,
+              "username": "0ST1Afc7IlWc74q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1830573793397588285",
+        "in_reply_to_user_id": "1446484669378138117",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1830564121571692558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0ST1Afc7IlWc74q 😱😱😱😱哎呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1446484669378138117",
+        "conversation_id": "1830154806599774320",
+        "created_at": "2024-09-02T11:11:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-02T12:11:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1830564121571692558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1715624766571429888",
+              "start": 0,
+              "username": "nakuyoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1830564121571692558",
+        "in_reply_to_user_id": "1715624766571429888",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1830154806599774320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nakuyoo 琴晚見到個細路女 free大😂 垂直後腦跌落地  好危險"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@9wylovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "9wylovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/naku.yoo?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/naku.yoo?igsh=OHVpYmZjb3hpNjVy&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/aHjXW8BvfQ"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪250🇭🇰🇭🇰",
+        "name": "骨頭",
+        "pinned_tweet_id": "1823875339594191103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828756448404439040/FNqiVmFy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16023,
+          "following_count": 27,
+          "like_count": 33830,
+          "listed_count": 28,
+          "tweet_count": 6820
+        },
+        "url": "https://t.co/aHjXW8BvfQ",
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-08T14:36:47.000Z",
+        "description": "摸魚專用",
+        "id": "1446484669378138117",
+        "location": "香港",
+        "name": "kaka",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1446537491981373440/3TVDI5PT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 101,
+          "like_count": 995,
+          "listed_count": 0,
+          "tweet_count": 129
+        },
+        "username": "0ST1Afc7IlWc74q",
+        "verified": false
+      }
+    ]
+  }
+}

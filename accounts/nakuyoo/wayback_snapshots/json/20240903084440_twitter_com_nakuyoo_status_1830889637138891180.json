@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1830889637138891180",
+    "created_at": "2024-09-03T08:44:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-03T09:44:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1830889637138891180"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sixmonthautumn…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/sixmonthautumn/status/1830827650715369557",
+          "start": 10,
+          "url": "https://t.co/oXIMZA3yJd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1830889637138891180",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1830827650715369557",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不🌝兄我也一樣可笑 https://t.co/oXIMZA3yJd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1830889637138891180",
+        "created_at": "2024-09-03T08:44:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-03T09:44:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1830889637138891180"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sixmonthautumn…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/sixmonthautumn/status/1830827650715369557",
+              "start": 10,
+              "url": "https://t.co/oXIMZA3yJd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1830889637138891180",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1830827650715369557",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不🌝兄我也一樣可笑 https://t.co/oXIMZA3yJd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659297861060943873",
+        "conversation_id": "1830827650715369557",
+        "created_at": "2024-09-03T04:38:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-03T05:38:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1830827650715369557"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1830827650715369557",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看到以前做我謠的人過得折墮\n我心裏莫名地開心 我真的很仆街"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@9wylovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "9wylovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/naku.yoo?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/naku.yoo?igsh=OHVpYmZjb3hpNjVy&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/aHjXW8BvfQ"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪250🇭🇰🇭🇰",
+        "name": "骨頭",
+        "pinned_tweet_id": "1823875339594191103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828756448404439040/FNqiVmFy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16023,
+          "following_count": 27,
+          "like_count": 33844,
+          "listed_count": 28,
+          "tweet_count": 6825
+        },
+        "url": "https://t.co/aHjXW8BvfQ",
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-18T20:41:06.000Z",
+        "description": "隨風飄蕩的楓葉🍁",
+        "id": "1659297861060943873",
+        "location": "在風中飄蕩",
+        "name": "六月秋色",
+        "pinned_tweet_id": "1819354672999903281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829873399616978948/SdjSa9m1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 26,
+          "like_count": 290,
+          "listed_count": 1,
+          "tweet_count": 391
+        },
+        "username": "sixmonthautumn",
+        "verified": false
+      }
+    ]
+  }
+}

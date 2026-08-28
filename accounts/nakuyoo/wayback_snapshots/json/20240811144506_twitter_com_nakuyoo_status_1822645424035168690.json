@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1822628368850039265",
+    "created_at": "2024-08-11T14:45:06.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-11T15:45:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1822645424035168690"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1756716868168192000",
+          "start": 0,
+          "username": "saobijiawo666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1822645424035168690",
+    "in_reply_to_user_id": "1756716868168192000",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1822637423722971549",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@saobijiawo666 謝謝你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1822628368850039265",
+        "created_at": "2024-08-11T14:45:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-11T15:45:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822645424035168690"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1756716868168192000",
+              "start": 0,
+              "username": "saobijiawo666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822645424035168690",
+        "in_reply_to_user_id": "1756716868168192000",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822637423722971549",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@saobijiawo666 謝謝你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1756716868168192000",
+        "conversation_id": "1822628368850039265",
+        "created_at": "2024-08-11T14:13:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-11T15:13:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822637423722971549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1715624766571429888",
+              "start": 0,
+              "username": "nakuyoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822637423722971549",
+        "in_reply_to_user_id": "1715624766571429888",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822631436974997952",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nakuyoo 希望会好起来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "只是一個精神病在自言自語 沒什麼特別 @9wylovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 19,
+                "username": "9wylovo"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪250🇭🇰",
+        "name": "骨仔",
+        "pinned_tweet_id": "1822266798747595010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822625813629689856/KGMTxKge_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14507,
+          "following_count": 33,
+          "like_count": 31953,
+          "listed_count": 28,
+          "tweet_count": 6456
+        },
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-11T16:28:40.000Z",
+        "description": "我是狗",
+        "id": "1756716868168192000",
+        "location": "大弯钩俱乐部",
+        "name": "臭狗一只",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1766852238927069184/iWW_kJPz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 162,
+          "like_count": 409,
+          "listed_count": 0,
+          "tweet_count": 381
+        },
+        "username": "saobijiawo666",
+        "verified": false
+      }
+    ]
+  }
+}

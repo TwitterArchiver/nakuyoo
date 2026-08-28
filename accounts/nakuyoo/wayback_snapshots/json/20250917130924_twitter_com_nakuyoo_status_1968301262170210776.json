@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1968301239915118593",
+        "3_1968301240129093632"
+      ]
+    },
+    "author_id": "1715624766571429888",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1968301262170210776",
+    "created_at": "2025-09-17T13:09:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T14:09:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1968301262170210776"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ORe3ITfuAP",
+          "end": 28,
+          "expanded_url": "https://x.com/nakuyoo/status/1968301262170210776/photo/1",
+          "media_key": "3_1968301239915118593",
+          "start": 5,
+          "url": "https://t.co/ORe3ITfuAP"
+        },
+        {
+          "display_url": "pic.x.com/ORe3ITfuAP",
+          "end": 28,
+          "expanded_url": "https://x.com/nakuyoo/status/1968301262170210776/photo/1",
+          "media_key": "3_1968301240129093632",
+          "start": 5,
+          "url": "https://t.co/ORe3ITfuAP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968301262170210776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我和詭秘 https://t.co/ORe3ITfuAP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1968301239915118593",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1DPjJgaAAEf-SH.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1968301240129093632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1DPjKTbAAA7J5T.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968301239915118593",
+            "3_1968301240129093632"
+          ]
+        },
+        "author_id": "1715624766571429888",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1968301262170210776",
+        "created_at": "2025-09-17T13:09:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T14:09:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968301262170210776"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ORe3ITfuAP",
+              "end": 28,
+              "expanded_url": "https://x.com/nakuyoo/status/1968301262170210776/photo/1",
+              "media_key": "3_1968301239915118593",
+              "start": 5,
+              "url": "https://t.co/ORe3ITfuAP"
+            },
+            {
+              "display_url": "pic.x.com/ORe3ITfuAP",
+              "end": 28,
+              "expanded_url": "https://x.com/nakuyoo/status/1968301262170210776/photo/1",
+              "media_key": "3_1968301240129093632",
+              "start": 5,
+              "url": "https://t.co/ORe3ITfuAP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968301262170210776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我和詭秘 https://t.co/ORe3ITfuAP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "定期清列表 不互",
+        "id": "1715624766571429888",
+        "location": "🚪300 388+cheki HK",
+        "name": "水母骨",
+        "pinned_tweet_id": "1967587870547513723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931334867725504512/7kS_Yy1T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17358,
+          "following_count": 23,
+          "like_count": 34239,
+          "listed_count": 30,
+          "media_count": 113,
+          "tweet_count": 7607
+        },
+        "username": "nakuyoo",
+        "verified": false
+      }
+    ]
+  }
+}

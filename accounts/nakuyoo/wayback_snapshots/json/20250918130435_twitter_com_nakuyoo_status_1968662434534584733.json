@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1968301262170210776",
+    "created_at": "2025-09-18T13:04:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-18T14:04:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968662434534584733"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1842473428437417984",
+          "start": 0,
+          "username": "honeyplskillme4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968662434534584733",
+    "in_reply_to_user_id": "1842473428437417984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968654957977956726",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@honeyplskillme4 我不行了我是三壞學生🌝。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1968301262170210776",
+        "created_at": "2025-09-18T13:04:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T14:04:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968662434534584733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1842473428437417984",
+              "start": 0,
+              "username": "honeyplskillme4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968662434534584733",
+        "in_reply_to_user_id": "1842473428437417984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968654957977956726",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@honeyplskillme4 我不行了我是三壞學生🌝。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842473428437417984",
+        "conversation_id": "1968301262170210776",
+        "created_at": "2025-09-18T12:34:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T13:34:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968654957977956726"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1715624766571429888",
+              "start": 0,
+              "username": "nakuyoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968654957977956726",
+        "in_reply_to_user_id": "1715624766571429888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968301262170210776",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nakuyoo 笑死真係好似不良jk同三好學生🌚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "定期清列表 不互 純綠限香港",
+        "id": "1715624766571429888",
+        "location": "🚪300 388+cheki HK",
+        "name": "水母骨",
+        "pinned_tweet_id": "1967587870547513723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931334867725504512/7kS_Yy1T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17355,
+          "following_count": 23,
+          "like_count": 34245,
+          "listed_count": 30,
+          "media_count": 114,
+          "tweet_count": 7612
+        },
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-05T07:54:52.000Z",
+        "description": "",
+        "id": "1842473428437417984",
+        "location": "🤍🩶˚✧₊⁎",
+        "name": "永眠✞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962371872177455104/GjyUI5ts_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 29,
+          "like_count": 116,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 21
+        },
+        "username": "honeyplskillme4",
+        "verified": false
+      }
+    ]
+  }
+}

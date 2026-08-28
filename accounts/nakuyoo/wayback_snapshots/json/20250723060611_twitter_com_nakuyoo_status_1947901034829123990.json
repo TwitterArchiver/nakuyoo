@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1947900992684756995",
+        "3_1947900992701534212"
+      ]
+    },
+    "author_id": "1715624766571429888",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1947901034829123990",
+    "created_at": "2025-07-23T06:06:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-23T07:06:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1947901034829123990"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ixEDt4ZQNM",
+          "end": 26,
+          "expanded_url": "https://x.com/nakuyoo/status/1947901034829123990/photo/1",
+          "media_key": "3_1947900992684756995",
+          "start": 3,
+          "url": "https://t.co/ixEDt4ZQNM"
+        },
+        {
+          "display_url": "pic.x.com/ixEDt4ZQNM",
+          "end": 26,
+          "expanded_url": "https://x.com/nakuyoo/status/1947901034829123990/photo/1",
+          "media_key": "3_1947900992701534212",
+          "start": 3,
+          "url": "https://t.co/ixEDt4ZQNM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947901034829123990",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "QQ https://t.co/ixEDt4ZQNM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1947900992684756995",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwhVoeabEAM3xz0.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1947900992701534212",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwhVoeebEAQR73S.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947900992684756995",
+            "3_1947900992701534212"
+          ]
+        },
+        "author_id": "1715624766571429888",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1947901034829123990",
+        "created_at": "2025-07-23T06:06:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T07:06:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947901034829123990"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ixEDt4ZQNM",
+              "end": 26,
+              "expanded_url": "https://x.com/nakuyoo/status/1947901034829123990/photo/1",
+              "media_key": "3_1947900992684756995",
+              "start": 3,
+              "url": "https://t.co/ixEDt4ZQNM"
+            },
+            {
+              "display_url": "pic.x.com/ixEDt4ZQNM",
+              "end": 26,
+              "expanded_url": "https://x.com/nakuyoo/status/1947901034829123990/photo/1",
+              "media_key": "3_1947900992701534212",
+              "start": 3,
+              "url": "https://t.co/ixEDt4ZQNM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947901034829123990",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "QQ https://t.co/ixEDt4ZQNM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@ukanooy0 唯一2.0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "ukanooy0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/naku.yoo?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/naku.yoo?igsh=OHVpYmZjb3hpNjVy&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/aHjXW8AXqi"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪300 388",
+        "name": "Inane小骨",
+        "pinned_tweet_id": "1878244958273978540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931334867725504512/7kS_Yy1T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17312,
+          "following_count": 33,
+          "like_count": 33761,
+          "listed_count": 29,
+          "media_count": 80,
+          "tweet_count": 7506
+        },
+        "url": "https://t.co/aHjXW8AXqi",
+        "username": "nakuyoo",
+        "verified": false
+      }
+    ]
+  }
+}

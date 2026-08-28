@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1820343879616561338",
+    "created_at": "2024-08-05T06:19:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-05T07:19:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1820343879616561338"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1190727688622768128",
+          "start": 3,
+          "username": "miomioQaQ1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1820343879616561338",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1820198075937517736",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @miomioQaQ1: 這一切都只是我的求救訊號 只是沒人在意罷了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1820343879616561338",
+        "created_at": "2024-08-05T06:19:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-05T07:19:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1820343879616561338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1190727688622768128",
+              "start": 3,
+              "username": "miomioQaQ1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1820343879616561338",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1820198075937517736",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @miomioQaQ1: 這一切都只是我的求救訊號 只是沒人在意罷了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1190727688622768128",
+        "conversation_id": "1820198075937517736",
+        "created_at": "2024-08-04T20:40:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-04T21:40:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1820198075937517736"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1820198075937517736",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 131,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "這一切都只是我的求救訊號 只是沒人在意罷了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@9wylovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "9wylovo"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪250 香港",
+        "name": "切片",
+        "pinned_tweet_id": "1820084073622282490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819147763487039488/y1CPKGFk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14373,
+          "following_count": 32,
+          "like_count": 32276,
+          "listed_count": 28,
+          "tweet_count": 6342
+        },
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-02T20:29:47.000Z",
+        "description": "腐爛的世界還有我🫂我永遠的寶寶 @YukiF9033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "YukiF9033"
+              }
+            ]
+          }
+        },
+        "id": "1190727688622768128",
+        "location": "一切都衹是遺書♡",
+        "name": "永遠的澪醬𝚛𝚒𝚝𝚎♬",
+        "pinned_tweet_id": "1807422183993692530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819320438574796803/4L59oF0O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2174,
+          "following_count": 242,
+          "like_count": 7357,
+          "listed_count": 4,
+          "tweet_count": 1523
+        },
+        "username": "miomioQaQ1",
+        "verified": false
+      }
+    ]
+  }
+}

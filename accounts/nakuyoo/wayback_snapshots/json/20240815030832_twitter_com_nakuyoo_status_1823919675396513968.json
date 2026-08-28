@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1823900840828264782",
+    "created_at": "2024-08-15T03:08:32.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-15T04:08:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1823919675396513968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1564861379697582080",
+          "start": 0,
+          "username": "GjjFh79913631"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1823919675396513968",
+    "in_reply_to_user_id": "1564861379697582080",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1823919080895864905",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GjjFh79913631 因為成日冇錢所以乾脆唔食🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1823900840828264782",
+        "created_at": "2024-08-15T03:08:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-15T04:08:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1823919675396513968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1564861379697582080",
+              "start": 0,
+              "username": "GjjFh79913631"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823919675396513968",
+        "in_reply_to_user_id": "1564861379697582080",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1823919080895864905",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GjjFh79913631 因為成日冇錢所以乾脆唔食🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564861379697582080",
+        "conversation_id": "1823900840828264782",
+        "created_at": "2024-08-15T03:06:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-15T04:06:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1823919080895864905"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1715624766571429888",
+              "start": 0,
+              "username": "nakuyoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823919080895864905",
+        "in_reply_to_user_id": "1715624766571429888",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1823900840828264782",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nakuyoo 要食多D野啊太瘦啦🥹🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@9wylovo 一個精神病 完",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "9wylovo"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪250🇭🇰",
+        "name": "刻在骨子裏",
+        "pinned_tweet_id": "1823875339594191103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822625813629689856/KGMTxKge_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14639,
+          "following_count": 34,
+          "like_count": 32356,
+          "listed_count": 27,
+          "tweet_count": 6568
+        },
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-31T06:23:38.000Z",
+        "description": "",
+        "id": "1564861379697582080",
+        "name": "Gjj Fh",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564861454142291968/pv-mkfS1_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 1024,
+          "like_count": 1205,
+          "listed_count": 0,
+          "tweet_count": 10
+        },
+        "username": "GjjFh79913631",
+        "verified": false
+      }
+    ]
+  }
+}

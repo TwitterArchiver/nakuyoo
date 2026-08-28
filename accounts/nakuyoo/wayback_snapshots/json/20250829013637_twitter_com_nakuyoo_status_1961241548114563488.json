@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1961241450773188610"
+      ]
+    },
+    "author_id": "1715624766571429888",
+    "conversation_id": "1961241548114563488",
+    "created_at": "2025-08-29T01:36:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T02:36:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1961241548114563488"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0KpXZ39boA",
+          "end": 38,
+          "expanded_url": "https://x.com/nakuyoo/status/1961241548114563488/video/1",
+          "media_key": "13_1961241450773188610",
+          "start": 15,
+          "url": "https://t.co/0KpXZ39boA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961241548114563488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我和兄弟在跟海洋生物跳舞🐙🐙 https://t.co/0KpXZ39boA"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 55261,
+        "height": 768,
+        "media_key": "13_1961241450773188610",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1961241450773188610/img/UWsc7HfaieadVG5w.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1961241450773188610/vid/avc1/320x340/W4SyIQxegJB0Gy8L.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1961241450773188610/vid/avc1/480x512/GPeI9wuoS5u-RxA2.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1961241450773188610/vid/avc1/720x768/VhCxXyBPhMOlOFcD.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1961241450773188610/pl/GKeAiEbBhfGczt1E.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1961241450773188610"
+          ]
+        },
+        "author_id": "1715624766571429888",
+        "conversation_id": "1961241548114563488",
+        "created_at": "2025-08-29T01:36:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T02:36:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961241548114563488"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0KpXZ39boA",
+              "end": 38,
+              "expanded_url": "https://x.com/nakuyoo/status/1961241548114563488/video/1",
+              "media_key": "13_1961241450773188610",
+              "start": 15,
+              "url": "https://t.co/0KpXZ39boA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961241548114563488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我和兄弟在跟海洋生物跳舞🐙🐙 https://t.co/0KpXZ39boA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "🎵:nakubone📕nakuyoo ig:naku.yoo ｜無性戀｜少互動｜取關不是不喜歡你 只是定期清列表",
+        "id": "1715624766571429888",
+        "location": "🚪300 388+cheki HK",
+        "name": "水母骨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931334867725504512/7kS_Yy1T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17400,
+          "following_count": 27,
+          "like_count": 33930,
+          "listed_count": 30,
+          "media_count": 94,
+          "tweet_count": 7554
+        },
+        "username": "nakuyoo",
+        "verified": false
+      }
+    ]
+  }
+}

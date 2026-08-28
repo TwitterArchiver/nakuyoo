@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1822445274092146712",
+    "created_at": "2024-08-11T01:29:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-11T02:29:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1822445274092146712"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nakuyoo/status…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/nakuyoo/status/1822445042872815675",
+          "start": 16,
+          "url": "https://t.co/JRNVdKo3Dv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1822445274092146712",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1822445042872815675",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "前提看見這些都會心痛 抑鬱發作 https://t.co/JRNVdKo3Dv"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1822445274092146712",
+        "created_at": "2024-08-11T01:29:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-11T02:29:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1822445274092146712"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nakuyoo/status…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/nakuyoo/status/1822445042872815675",
+              "start": 16,
+              "url": "https://t.co/JRNVdKo3Dv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822445274092146712",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822445042872815675",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "前提看見這些都會心痛 抑鬱發作 https://t.co/JRNVdKo3Dv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1822445042872815675",
+        "created_at": "2024-08-11T01:28:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-11T02:28:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1822445042872815675"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1822445042872815675",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "到底是腦袋看見什麼\n才代表是panic attack(驚恐發作)呢\n看見自己之後一定會消失在這個世界\n是驚恐發作嗎\n看見過去的回憶 直冒冷汗 心臟痛 抑鬱發作\n這又是驚恐發作嗎\n還是純粹急性抑鬱發作"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@9wylovo 骨神",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "9wylovo"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪250 香港",
+        "name": "刻在骨子裏",
+        "pinned_tweet_id": "1822441347372216795",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821861972964732929/fzCuDq0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14476,
+          "following_count": 33,
+          "like_count": 31777,
+          "listed_count": 28,
+          "tweet_count": 6412
+        },
+        "username": "nakuyoo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027911175581868032",
+        "3_2027911175556763648"
+      ]
+    },
+    "author_id": "1715624766571429888",
+    "conversation_id": "2027911184440254595",
+    "created_at": "2026-03-01T00:57:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T01:57:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027911184440254595"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UWE9idE5BL",
+          "end": 28,
+          "expanded_url": "https://x.com/nakuyoo/status/2027911184440254595/photo/1",
+          "media_key": "3_2027911175581868032",
+          "start": 5,
+          "url": "https://t.co/UWE9idE5BL"
+        },
+        {
+          "display_url": "pic.x.com/UWE9idE5BL",
+          "end": 28,
+          "expanded_url": "https://x.com/nakuyoo/status/2027911184440254595/photo/1",
+          "media_key": "3_2027911175556763648",
+          "start": 5,
+          "url": "https://t.co/UWE9idE5BL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027911184440254595",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "頭髮好亂 https://t.co/UWE9idE5BL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2027911175581868032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCSWeEiaIAArNMB.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2027911175556763648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCSWeEcbEAA_1O_.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027911175581868032",
+            "3_2027911175556763648"
+          ]
+        },
+        "author_id": "1715624766571429888",
+        "conversation_id": "2027911184440254595",
+        "created_at": "2026-03-01T00:57:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T01:57:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027911184440254595"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UWE9idE5BL",
+              "end": 28,
+              "expanded_url": "https://x.com/nakuyoo/status/2027911184440254595/photo/1",
+              "media_key": "3_2027911175581868032",
+              "start": 5,
+              "url": "https://t.co/UWE9idE5BL"
+            },
+            {
+              "display_url": "pic.x.com/UWE9idE5BL",
+              "end": 28,
+              "expanded_url": "https://x.com/nakuyoo/status/2027911184440254595/photo/1",
+              "media_key": "3_2027911175556763648",
+              "start": 5,
+              "url": "https://t.co/UWE9idE5BL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027911184440254595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "頭髮好亂 https://t.co/UWE9idE5BL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "inane",
+        "id": "1715624766571429888",
+        "location": "🚪300聊天 388+cheki Hk",
+        "name": "小骨",
+        "pinned_tweet_id": "1967587870547513723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977284713648996352/QlRWK9_l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16769,
+          "following_count": 10,
+          "like_count": 32878,
+          "listed_count": 31,
+          "media_count": 123,
+          "tweet_count": 7644
+        },
+        "username": "nakuyoo",
+        "verified": false
+      }
+    ]
+  }
+}

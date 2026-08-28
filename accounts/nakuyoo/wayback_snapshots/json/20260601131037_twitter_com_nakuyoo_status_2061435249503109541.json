@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "2061417914348294635",
+    "created_at": "2026-06-01T13:10:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T14:10:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061435249503109541"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1584153318548713474",
+          "start": 0,
+          "username": "luvme4ever_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061435249503109541",
+    "in_reply_to_user_id": "1584153318548713474",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061417914348294635",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luvme4ever_ Yes。"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2061417914348294635].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2061417914348294635",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2061417914348294635"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "2061417914348294635",
+        "created_at": "2026-06-01T13:10:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T14:10:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061435249503109541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1584153318548713474",
+              "start": 0,
+              "username": "luvme4ever_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061435249503109541",
+        "in_reply_to_user_id": "1584153318548713474",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061417914348294635",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luvme4ever_ Yes。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "",
+        "id": "1715624766571429888",
+        "location": "🚪300聊天Hk",
+        "name": "小骨Inane",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054838019136647168/v9qJCyvZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16896,
+          "following_count": 10,
+          "like_count": 32158,
+          "listed_count": 34,
+          "media_count": 211,
+          "tweet_count": 7788
+        },
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-23T12:02:56.000Z",
+        "description": "書寫生命",
+        "id": "1584153318548713474",
+        "location": "tokyo",
+        "name": "寄生蟲",
+        "pinned_tweet_id": "2061201441348559294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963555714435358720/WfMbvnuU_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 36,
+          "like_count": 730,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 460
+        },
+        "username": "luvme4ever_",
+        "verified": false
+      }
+    ]
+  }
+}

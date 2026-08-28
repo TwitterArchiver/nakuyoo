@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1827859501921583329",
+    "created_at": "2024-08-26T01:24:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-26T02:24:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1827879846611214835"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1390636809818804232",
+          "start": 0,
+          "username": "01IQIM5WBQLeeAM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1827879846611214835",
+    "in_reply_to_user_id": "1390636809818804232",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1827868649597837345",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@01IQIM5WBQLeeAM 唉🥲🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1827859501921583329",
+        "created_at": "2024-08-26T01:24:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-26T02:24:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1827879846611214835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1390636809818804232",
+              "start": 0,
+              "username": "01IQIM5WBQLeeAM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827879846611214835",
+        "in_reply_to_user_id": "1390636809818804232",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1827868649597837345",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@01IQIM5WBQLeeAM 唉🥲🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390636809818804232",
+        "conversation_id": "1827859501921583329",
+        "created_at": "2024-08-26T00:40:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-26T01:40:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1827868649597837345"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1715624766571429888",
+              "start": 0,
+              "username": "nakuyoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827868649597837345",
+        "in_reply_to_user_id": "1715624766571429888",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1827859501921583329",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nakuyoo 之前寫REPORT做deadline fighter 36個鐘冇訓 然後就斷左成日片😅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "傷-暴-厭 ｜💉🩸💊🩹🔪@9wylovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 12,
+                "username": "9wylovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/naku.yoo?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/naku.yoo?igsh=OHVpYmZjb3hpNjVy&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/aHjXW8BvfQ"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪250🇭🇰🇭🇰",
+        "name": "骨頭",
+        "pinned_tweet_id": "1823875339594191103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826435545427238912/E7yPfZRH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15448,
+          "following_count": 29,
+          "like_count": 33276,
+          "listed_count": 27,
+          "tweet_count": 6765
+        },
+        "url": "https://t.co/aHjXW8BvfQ",
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-07T11:57:11.000Z",
+        "description": "🇭🇰 嚴重拖延症二次猿",
+        "id": "1390636809818804232",
+        "name": "企鵝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815922605746184192/dMoQ2kuZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 714,
+          "like_count": 7591,
+          "listed_count": 1,
+          "tweet_count": 287
+        },
+        "username": "01IQIM5WBQLeeAM",
+        "verified": false
+      }
+    ]
+  }
+}

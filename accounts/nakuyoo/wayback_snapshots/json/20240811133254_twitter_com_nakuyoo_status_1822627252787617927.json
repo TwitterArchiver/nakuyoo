@@ -1,0 +1,98 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1822627252787617927",
+    "created_at": "2024-08-11T13:32:54.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-11T14:32:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1822627252787617927"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1822627252787617927",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "「你還繼續發這些內容\n你以為別人會喜歡你\n但其實沒有人會欣賞你這樣的行為\n他們最後只會遠離你」\n這是一句挺傷人的話 這句話是我以前發血圖的時候我父母告訴我的\n起初我沒有理她 繼續不斷發血圖和疤\n直到我終於知道自己已經被同學投訴了很多次後 我才終於醒了 對的 不會有人喜歡這樣的我的 對吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1822627252787617927",
+        "created_at": "2024-08-11T13:32:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-11T14:32:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1822627252787617927"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1822627252787617927",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "「你還繼續發這些內容\n你以為別人會喜歡你\n但其實沒有人會欣賞你這樣的行為\n他們最後只會遠離你」\n這是一句挺傷人的話 這句話是我以前發血圖的時候我父母告訴我的\n起初我沒有理她 繼續不斷發血圖和疤\n直到我終於知道自己已經被同學投訴了很多次後 我才終於醒了 對的 不會有人喜歡這樣的我的 對吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@9wylovo 只是一個精神病 沒什麼特別",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "9wylovo"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪250🇭🇰",
+        "name": "骨仔",
+        "pinned_tweet_id": "1822266798747595010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822625813629689856/KGMTxKge_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14505,
+          "following_count": 33,
+          "like_count": 31936,
+          "listed_count": 28,
+          "tweet_count": 6443
+        },
+        "username": "nakuyoo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058894388626178048",
+        "3_2058894388626083841"
+      ]
+    },
+    "author_id": "1715624766571429888",
+    "conversation_id": "2058894400059834816",
+    "created_at": "2026-05-25T12:54:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T13:54:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058894400059834816"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3NG4aucatp",
+          "end": 25,
+          "expanded_url": "https://x.com/nakuyoo/status/2058894400059834816/photo/1",
+          "media_key": "3_2058894388626178048",
+          "start": 2,
+          "url": "https://t.co/3NG4aucatp"
+        },
+        {
+          "display_url": "pic.x.com/3NG4aucatp",
+          "end": 25,
+          "expanded_url": "https://x.com/nakuyoo/status/2058894400059834816/photo/1",
+          "media_key": "3_2058894388626083841",
+          "start": 2,
+          "url": "https://t.co/3NG4aucatp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058894400059834816",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "嘻 https://t.co/3NG4aucatp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1792,
+        "media_key": "3_2058894388626178048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJKpibgbwAAaIVz.jpg",
+        "width": 828
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2058894388626083841",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJKpibgaUAECbZK.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058894388626178048",
+            "3_2058894388626083841"
+          ]
+        },
+        "author_id": "1715624766571429888",
+        "conversation_id": "2058894400059834816",
+        "created_at": "2026-05-25T12:54:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T13:54:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058894400059834816"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3NG4aucatp",
+              "end": 25,
+              "expanded_url": "https://x.com/nakuyoo/status/2058894400059834816/photo/1",
+              "media_key": "3_2058894388626178048",
+              "start": 2,
+              "url": "https://t.co/3NG4aucatp"
+            },
+            {
+              "display_url": "pic.x.com/3NG4aucatp",
+              "end": 25,
+              "expanded_url": "https://x.com/nakuyoo/status/2058894400059834816/photo/1",
+              "media_key": "3_2058894388626083841",
+              "start": 2,
+              "url": "https://t.co/3NG4aucatp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058894400059834816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嘻 https://t.co/3NG4aucatp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "",
+        "id": "1715624766571429888",
+        "location": "🚪300聊天Hk",
+        "name": "小骨Inane",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054838019136647168/v9qJCyvZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16846,
+          "following_count": 9,
+          "like_count": 32073,
+          "listed_count": 34,
+          "media_count": 185,
+          "tweet_count": 7742
+        },
+        "username": "nakuyoo",
+        "verified": false
+      }
+    ]
+  }
+}

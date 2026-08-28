@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1833442084680069545",
+    "created_at": "2024-09-10T09:47:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-10T10:47:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1833442084680069545"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kuali_yuki/sta…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/kuali_yuki/status/1833437799577764291",
+          "start": 7,
+          "url": "https://t.co/hMJCtKISEJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1833442084680069545",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1833437799577764291",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "骨門🙏🏻🙏🏻 https://t.co/hMJCtKISEJ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1833442084680069545",
+        "created_at": "2024-09-10T09:47:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-10T10:47:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1833442084680069545"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kuali_yuki/sta…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/kuali_yuki/status/1833437799577764291",
+              "start": 7,
+              "url": "https://t.co/hMJCtKISEJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833442084680069545",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1833437799577764291",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "骨門🙏🏻🙏🏻 https://t.co/hMJCtKISEJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1833437786923536384"
+          ]
+        },
+        "author_id": "1754138134114443264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1833437799577764291",
+        "created_at": "2024-09-10T09:30:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-10T10:30:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1833437799577764291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1715624766571429888",
+              "start": 9,
+              "username": "nakuyoo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hcaou4xtq5",
+              "end": 41,
+              "expanded_url": "https://twitter.com/Kuali_yuki/status/1833437799577764291/photo/1",
+              "media_key": "3_1833437786923536384",
+              "start": 18,
+              "url": "https://t.co/hcAOU4xtq5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833437799577764291",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "信骨門，FC+🙏 @nakuyoo https://t.co/hcAOU4xtq5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "每當我想起曾經 曾經曾經曾經曾經 @9wylovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 17,
+                "username": "9wylovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/naku.yoo?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/naku.yoo?igsh=OHVpYmZjb3hpNjVy&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/aHjXW8BvfQ"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪250🇭🇰",
+        "name": "小骨",
+        "pinned_tweet_id": "1823875339594191103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831117464026943488/Eo_Zr6An_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16365,
+          "following_count": 28,
+          "like_count": 34376,
+          "listed_count": 29,
+          "tweet_count": 6915
+        },
+        "url": "https://t.co/aHjXW8BvfQ",
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-04T13:41:45.000Z",
+        "description": "死煙燃一個",
+        "id": "1754138134114443264",
+        "location": "墳墓",
+        "name": "馬仔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790061348258537472/C5YtILz2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 56,
+          "like_count": 3828,
+          "listed_count": 5,
+          "tweet_count": 732
+        },
+        "username": "Kuali_yuki",
+        "verified": false
+      }
+    ]
+  }
+}

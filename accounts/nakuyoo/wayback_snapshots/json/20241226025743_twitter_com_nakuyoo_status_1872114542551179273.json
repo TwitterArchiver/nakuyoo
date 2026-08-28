@@ -1,0 +1,116 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1872114542551179273",
+    "created_at": "2024-12-26T02:57:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-26T03:57:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1872114542551179273"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1872114542551179273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "AI小雞不肯吃麥樂雞😱😱😱😱😭😭😭😭😭😱😱😭😭😭😱😱😱😱😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1872114542551179273",
+        "created_at": "2024-12-26T02:57:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-26T03:57:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1872114542551179273"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1872114542551179273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "AI小雞不肯吃麥樂雞😱😱😱😱😭😭😭😭😭😱😱😭😭😭😱😱😱😱😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "🚪300 | @b0n3_core ｜苦力怕和小雞夢女同擔拒否｜ 🇭🇰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "b0n3_core"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/naku.yoo?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/naku.yoo?igsh=OHVpYmZjb3hpNjVy&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/aHjXW8BvfQ"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "name": "水母骨",
+        "pinned_tweet_id": "1872103640816881782",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869007194752229376/VpXyZ867_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17758,
+          "following_count": 36,
+          "like_count": 35066,
+          "listed_count": 29,
+          "media_count": 71,
+          "tweet_count": 7189
+        },
+        "url": "https://t.co/aHjXW8BvfQ",
+        "username": "nakuyoo",
+        "verified": false
+      }
+    ]
+  }
+}

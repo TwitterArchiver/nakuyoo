@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057285742528012288"
+      ]
+    },
+    "author_id": "1715624766571429888",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2057285750539096175",
+    "created_at": "2026-05-21T02:22:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T03:22:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057285750539096175"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VCsK1oPK1f",
+          "end": 26,
+          "expanded_url": "https://x.com/nakuyoo/status/2057285750539096175/photo/1",
+          "media_key": "3_2057285742528012288",
+          "start": 3,
+          "url": "https://t.co/VCsK1oPK1f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057285750539096175",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "^^ https://t.co/VCsK1oPK1f"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1096,
+        "media_key": "3_2057285742528012288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIzye5zboAAUS2L.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057285742528012288"
+          ]
+        },
+        "author_id": "1715624766571429888",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2057285750539096175",
+        "created_at": "2026-05-21T02:22:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T03:22:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057285750539096175"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VCsK1oPK1f",
+              "end": 26,
+              "expanded_url": "https://x.com/nakuyoo/status/2057285750539096175/photo/1",
+              "media_key": "3_2057285742528012288",
+              "start": 3,
+              "url": "https://t.co/VCsK1oPK1f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057285750539096175",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "^^ https://t.co/VCsK1oPK1f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "",
+        "id": "1715624766571429888",
+        "location": "🚪300聊天Hk",
+        "name": "小骨Inane",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054838019136647168/v9qJCyvZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16747,
+          "following_count": 9,
+          "like_count": 31964,
+          "listed_count": 33,
+          "media_count": 164,
+          "tweet_count": 7695
+        },
+        "username": "nakuyoo",
+        "verified": false
+      }
+    ]
+  }
+}

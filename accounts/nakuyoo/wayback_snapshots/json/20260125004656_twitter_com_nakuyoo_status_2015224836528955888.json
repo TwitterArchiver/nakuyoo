@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2015224767641509888"
+      ]
+    },
+    "author_id": "1715624766571429888",
+    "conversation_id": "2015224836528955888",
+    "created_at": "2026-01-25T00:46:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T01:46:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015224836528955888"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/A30Apqa0p5",
+          "end": 26,
+          "expanded_url": "https://x.com/nakuyoo/status/2015224836528955888/video/1",
+          "media_key": "13_2015224767641509888",
+          "start": 3,
+          "url": "https://t.co/A30Apqa0p5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015224836528955888",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "女巫 https://t.co/A30Apqa0p5"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14000,
+        "height": 1280,
+        "media_key": "13_2015224767641509888",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2015224767641509888/img/IqVRQIs8CP2opZeG.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2015224767641509888/vid/avc1/320x568/Lk1yUV-kxhQE63u8.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2015224767641509888/vid/avc1/480x852/pp82cIuPDsnvrKy8.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2015224767641509888/vid/avc1/720x1280/0igzMJB2gHqCjNoK.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2015224767641509888/pl/z4JBfPNCBQXnq01p.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2015224767641509888"
+          ]
+        },
+        "author_id": "1715624766571429888",
+        "conversation_id": "2015224836528955888",
+        "created_at": "2026-01-25T00:46:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T01:46:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015224836528955888"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A30Apqa0p5",
+              "end": 26,
+              "expanded_url": "https://x.com/nakuyoo/status/2015224836528955888/video/1",
+              "media_key": "13_2015224767641509888",
+              "start": 3,
+              "url": "https://t.co/A30Apqa0p5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015224836528955888",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "女巫 https://t.co/A30Apqa0p5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "無性戀/Intp / 🎵:nakubone📕nakuyoo ig:naku.yoo 🚪300純聊天",
+        "id": "1715624766571429888",
+        "location": "🚪300 388+cheki HK",
+        "name": "小骨",
+        "pinned_tweet_id": "1967587870547513723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977284713648996352/QlRWK9_l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16848,
+          "following_count": 9,
+          "like_count": 32892,
+          "listed_count": 31,
+          "media_count": 101,
+          "tweet_count": 7610
+        },
+        "username": "nakuyoo",
+        "verified": false
+      }
+    ]
+  }
+}

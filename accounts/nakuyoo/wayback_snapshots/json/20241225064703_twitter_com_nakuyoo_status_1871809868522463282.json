@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1871809274214797453",
+    "created_at": "2024-12-25T06:47:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-25T07:47:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1871809868522463282"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1850111807383547904",
+          "start": 0,
+          "username": "nomizazzle26"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1871809868522463282",
+    "in_reply_to_user_id": "1850111807383547904",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1871809274214797453",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nomizazzle26 🌝抽象"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1871809274214797453",
+        "created_at": "2024-12-25T06:47:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-25T07:47:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1871809868522463282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1850111807383547904",
+              "start": 0,
+              "username": "nomizazzle26"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871809868522463282",
+        "in_reply_to_user_id": "1850111807383547904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1871809274214797453",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nomizazzle26 🌝抽象"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850111807383547904",
+        "conversation_id": "1871809274214797453",
+        "created_at": "2024-12-25T06:44:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-25T07:44:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1871809274214797453"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1871809274214797453",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我要戒煙了！別人給我 我就抽 別人不給 我就要🚬🙄🙄"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "🚪300 | @b0n3_core ｜苦力怕和小雞夢女同擔拒否｜ 🇭🇰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "b0n3_core"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/naku.yoo?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/naku.yoo?igsh=OHVpYmZjb3hpNjVy&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/aHjXW8BvfQ"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "name": "水母骨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869007194752229376/VpXyZ867_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17662,
+          "following_count": 35,
+          "like_count": 35022,
+          "listed_count": 29,
+          "media_count": 68,
+          "tweet_count": 7180
+        },
+        "url": "https://t.co/aHjXW8BvfQ",
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-26T09:46:50.000Z",
+        "description": "不接爸爸活不接爸爸活不接爸爸活私信問我接不接的死全家一輩子操不到人",
+        "id": "1850111807383547904",
+        "name": "垃圾桶大王",
+        "pinned_tweet_id": "1869037289978106350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868984870581768192/kYqNPdaI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 65,
+          "like_count": 971,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 295
+        },
+        "username": "nomizazzle26",
+        "verified": false
+      }
+    ]
+  }
+}

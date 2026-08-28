@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1821859523034018205",
+    "created_at": "2024-08-09T10:42:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-09T11:42:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1821859523034018205"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nakuyoo/status…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/nakuyoo/status/1821859467106947168",
+          "start": 9,
+          "url": "https://t.co/XQwK2r0gTZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1821859523034018205",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1821859467106947168",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你們什麼也沒看見 https://t.co/XQwK2r0gTZ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1821859523034018205",
+        "created_at": "2024-08-09T10:42:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-09T11:42:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1821859523034018205"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nakuyoo/status…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/nakuyoo/status/1821859467106947168",
+              "start": 9,
+              "url": "https://t.co/XQwK2r0gTZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1821859523034018205",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1821859467106947168",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你們什麼也沒看見 https://t.co/XQwK2r0gTZ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1821859467106947168",
+        "created_at": "2024-08-09T10:42:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-09T11:42:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1821859467106947168"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1821859467106947168",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Hell 剛才發錯帳號了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@9wylovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "9wylovo"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪250 香港",
+        "name": "刻在骨子裏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819147763487039488/y1CPKGFk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14492,
+          "following_count": 32,
+          "like_count": 32319,
+          "listed_count": 28,
+          "tweet_count": 6379
+        },
+        "username": "nakuyoo",
+        "verified": false
+      }
+    ]
+  }
+}

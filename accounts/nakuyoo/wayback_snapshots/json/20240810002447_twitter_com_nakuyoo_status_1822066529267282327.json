@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1821873024897052863",
+    "created_at": "2024-08-10T00:24:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-10T01:24:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1822066529267282327"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1729241169610366976",
+          "start": 0,
+          "username": "ChaseAnder8070"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1822066529267282327",
+    "in_reply_to_user_id": "1729241169610366976",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1822006044887019684",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChaseAnder8070 🌝不改名了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1821873024897052863",
+        "created_at": "2024-08-10T00:24:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-10T01:24:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822066529267282327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1729241169610366976",
+              "start": 0,
+              "username": "ChaseAnder8070"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822066529267282327",
+        "in_reply_to_user_id": "1729241169610366976",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822006044887019684",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChaseAnder8070 🌝不改名了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729241169610366976",
+        "conversation_id": "1821873024897052863",
+        "created_at": "2024-08-09T20:24:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-09T21:24:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822006044887019684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1715624766571429888",
+              "start": 0,
+              "username": "nakuyoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822006044887019684",
+        "in_reply_to_user_id": "1715624766571429888",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1821873024897052863",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nakuyoo 怎么还换头像，找不到了怎么办"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@9wylovo 慘得可笑",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "9wylovo"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪250 香港",
+        "name": "刻在骨子裏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821861972964732929/fzCuDq0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14471,
+          "following_count": 32,
+          "like_count": 32313,
+          "listed_count": 28,
+          "tweet_count": 6390
+        },
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-27T20:50:43.000Z",
+        "description": "",
+        "id": "1729241169610366976",
+        "name": "素质不详遇强则强",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818251295813419008/dF3srxto_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 13,
+          "like_count": 2,
+          "listed_count": 0,
+          "tweet_count": 354
+        },
+        "username": "ChaseAnder8070",
+        "verified": false
+      }
+    ]
+  }
+}

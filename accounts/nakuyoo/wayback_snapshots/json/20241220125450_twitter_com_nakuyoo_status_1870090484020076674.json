@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1870041249530663112",
+    "created_at": "2024-12-20T12:54:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-20T13:54:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1870090484020076674"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1850111807383547904",
+          "start": 0,
+          "username": "nomizazzle26"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1870090484020076674",
+    "in_reply_to_user_id": "1850111807383547904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1870041791501873481",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nomizazzle26 是沙田 你跟我說過的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1870041249530663112",
+        "created_at": "2024-12-20T12:54:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-20T13:54:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1870090484020076674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1850111807383547904",
+              "start": 0,
+              "username": "nomizazzle26"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1870090484020076674",
+        "in_reply_to_user_id": "1850111807383547904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1870041791501873481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nomizazzle26 是沙田 你跟我說過的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850111807383547904",
+        "conversation_id": "1870041249530663112",
+        "created_at": "2024-12-20T09:41:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-20T10:41:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1870041791501873481"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1870041791501873481",
+        "in_reply_to_user_id": "1850111807383547904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1870041249530663112",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "還是旺角東來著我也記不清了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "🚪300 | @b0n3_core",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "b0n3_core"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/naku.yoo?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/naku.yoo?igsh=OHVpYmZjb3hpNjVy&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/aHjXW8BvfQ"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "name": "水母骨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869007194752229376/VpXyZ867_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17366,
+          "following_count": 33,
+          "like_count": 34669,
+          "listed_count": 28,
+          "media_count": 56,
+          "tweet_count": 7077
+        },
+        "url": "https://t.co/aHjXW8BvfQ",
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-26T09:46:50.000Z",
+        "description": "不接爸爸活不接爸爸活不接爸爸活私信問我接不接的死全家一輩子操不到人",
+        "id": "1850111807383547904",
+        "name": "垃圾桶大王",
+        "pinned_tweet_id": "1869037289978106350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868984870581768192/kYqNPdaI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 41,
+          "like_count": 315,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 87
+        },
+        "username": "nomizazzle26",
+        "verified": false
+      }
+    ]
+  }
+}

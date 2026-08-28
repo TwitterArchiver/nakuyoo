@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1871954134783660295",
+    "created_at": "2024-12-26T05:43:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-26T06:43:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1872156147517628460"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1850111807383547904",
+          "start": 0,
+          "username": "nomizazzle26"
+        },
+        {
+          "end": 27,
+          "id": "1446135978658123779",
+          "start": 14,
+          "username": "T0X1C_R3B0Rn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872156147517628460",
+    "in_reply_to_user_id": "1850111807383547904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1871954544596590778",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nomizazzle26 @T0X1C_R3B0Rn 你想變嗎🌚🌚🌚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1871954134783660295",
+        "created_at": "2024-12-26T05:43:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-26T06:43:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872156147517628460"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1850111807383547904",
+              "start": 0,
+              "username": "nomizazzle26"
+            },
+            {
+              "end": 27,
+              "id": "1446135978658123779",
+              "start": 14,
+              "username": "T0X1C_R3B0Rn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872156147517628460",
+        "in_reply_to_user_id": "1850111807383547904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1871954544596590778",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nomizazzle26 @T0X1C_R3B0Rn 你想變嗎🌚🌚🌚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850111807383547904",
+        "conversation_id": "1871954134783660295",
+        "created_at": "2024-12-25T16:21:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-25T17:21:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1871954544596590778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1446135978658123779",
+              "start": 0,
+              "username": "T0X1C_R3B0Rn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871954544596590778",
+        "in_reply_to_user_id": "1446135978658123779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 141,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1871954134783660295",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@T0X1C_R3B0Rn 同埋有嗰種可以將屎窟通道變成陰道嗰啲嘅機械🌚🌚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "🚪300 | @b0n3_core ｜苦力怕和小雞夢女同擔拒否｜ 🇭🇰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "b0n3_core"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/naku.yoo?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/naku.yoo?igsh=OHVpYmZjb3hpNjVy&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/aHjXW8BvfQ"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "name": "水母骨",
+        "pinned_tweet_id": "1872103640816881782",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869007194752229376/VpXyZ867_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17768,
+          "following_count": 36,
+          "like_count": 35135,
+          "listed_count": 29,
+          "media_count": 73,
+          "tweet_count": 7200
+        },
+        "url": "https://t.co/aHjXW8BvfQ",
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-26T09:46:50.000Z",
+        "description": "不接爸爸活不接爸爸活不接爸爸活私信問我接不接的死全家一輩子操不到人",
+        "id": "1850111807383547904",
+        "name": "垃圾桶大王",
+        "pinned_tweet_id": "1869037289978106350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868984870581768192/kYqNPdaI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 65,
+          "like_count": 1088,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 357
+        },
+        "username": "nomizazzle26",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-07T15:31:07.000Z",
+        "description": "🚪150｜🇭🇰｜ftx｜shtwt｜odtwt",
+        "id": "1446135978658123779",
+        "location": "Paradise",
+        "name": "瀟墨",
+        "pinned_tweet_id": "1871212188024836204",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870073115931488256/l64cw6Vf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 519,
+          "following_count": 609,
+          "like_count": 12127,
+          "listed_count": 1,
+          "media_count": 152,
+          "tweet_count": 1687
+        },
+        "username": "T0X1C_R3B0Rn",
+        "verified": false
+      }
+    ]
+  }
+}

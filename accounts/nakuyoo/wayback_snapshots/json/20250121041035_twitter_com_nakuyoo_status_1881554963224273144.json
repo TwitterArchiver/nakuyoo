@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1494702873564758024",
+          "name": "Pinterest"
+        }
+      }
+    ],
+    "conversation_id": "1881479418700579058",
+    "created_at": "2025-01-21T04:10:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-21T05:10:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881554963224273144"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1720762152158687232",
+          "start": 0,
+          "username": "Andy3091936561"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881554963224273144",
+    "in_reply_to_user_id": "1720762152158687232",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881505113719898517",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Andy3091936561 在Pinterest 上🙄🙄🙄🤬🤬🤬"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1494702873564758024",
+              "name": "Pinterest"
+            }
+          }
+        ],
+        "conversation_id": "1881479418700579058",
+        "created_at": "2025-01-21T04:10:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-21T05:10:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881554963224273144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1720762152158687232",
+              "start": 0,
+              "username": "Andy3091936561"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881554963224273144",
+        "in_reply_to_user_id": "1720762152158687232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881505113719898517",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Andy3091936561 在Pinterest 上🙄🙄🙄🤬🤬🤬"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720762152158687232",
+        "conversation_id": "1881479418700579058",
+        "created_at": "2025-01-21T00:52:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-21T01:52:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881505113719898517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1715624766571429888",
+              "start": 0,
+              "username": "nakuyoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881505113719898517",
+        "in_reply_to_user_id": "1715624766571429888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881479418700579058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nakuyoo 誰盜你，去檢舉她😡😡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@b0n3_core｜@ukanooy0 2.0 ｜我不玩遊戲我只有推特小紅書Ig和threads其他均盜圖 我ip香港的⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "b0n3_core"
+              },
+              {
+                "end": 20,
+                "start": 11,
+                "username": "ukanooy0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/naku.yoo?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/naku.yoo?igsh=OHVpYmZjb3hpNjVy&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/aHjXW8BvfQ"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪300基本388簽名",
+        "name": "水母骨",
+        "pinned_tweet_id": "1878244958273978540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879131018059554816/s014GKa9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18165,
+          "following_count": 35,
+          "like_count": 35517,
+          "listed_count": 29,
+          "media_count": 102,
+          "tweet_count": 7451
+        },
+        "url": "https://t.co/aHjXW8BvfQ",
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T11:17:37.000Z",
+        "description": "",
+        "id": "1720762152158687232",
+        "name": "其灼其華",
+        "pinned_tweet_id": "1850784273193902591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753069590622740480/UqWnDrqo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 1192,
+          "like_count": 21017,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 7722
+        },
+        "username": "Andy3091936561",
+        "verified": false
+      }
+    ]
+  }
+}

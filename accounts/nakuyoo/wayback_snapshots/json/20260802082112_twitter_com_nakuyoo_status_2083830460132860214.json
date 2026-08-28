@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "2083830460132860214",
+    "created_at": "2026-08-02T08:21:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T09:21:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083830460132860214"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/fumijoedada/st…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/fumijoedada/status/2082169982004424934",
+          "start": 6,
+          "url": "https://t.co/lnT0AaZl9X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083830460132860214",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082169982004424934",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "助力😭😭😭 https://t.co/lnT0AaZl9X"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "2083830460132860214",
+        "created_at": "2026-08-02T08:21:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T09:21:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083830460132860214"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fumijoedada/st…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/fumijoedada/status/2082169982004424934",
+              "start": 6,
+              "url": "https://t.co/lnT0AaZl9X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083830460132860214",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082169982004424934",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "助力😭😭😭 https://t.co/lnT0AaZl9X"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508742442056441873",
+        "conversation_id": "2082169982004424934",
+        "created_at": "2026-07-28T18:23:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T19:23:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082169982004424934"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1550593157876060160",
+              "start": 0,
+              "username": "Fumi_uowou_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082169982004424934",
+        "in_reply_to_user_id": "1550593157876060160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@Fumi_uowou_ \n我被封鎖了\n如果要聊訊息的話請聯絡我這個帳號ㅠㅠ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "",
+        "id": "1715624766571429888",
+        "location": "🚪300聊天Hk",
+        "name": "骨仔Inane",
+        "pinned_tweet_id": "2078746097108054140",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054838019136647168/v9qJCyvZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16662,
+          "following_count": 9,
+          "like_count": 31735,
+          "listed_count": 33,
+          "media_count": 226,
+          "tweet_count": 7819
+        },
+        "url": "",
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-29T09:46:53.000Z",
+        "description": "本來的帳號被封鎖了 我操\n原本的帳號 @fumi_uowou_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 19,
+                "username": "fumi_uowou_"
+              }
+            ]
+          }
+        },
+        "id": "1508742442056441873",
+        "location": "posay",
+        "name": "浮世ふみ （浮浮/浮木）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083627299036176384/VkTK-bEO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 30,
+          "like_count": 221,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 53
+        },
+        "url": "",
+        "username": "Fumijoedada",
+        "verified": false
+      }
+    ]
+  }
+}

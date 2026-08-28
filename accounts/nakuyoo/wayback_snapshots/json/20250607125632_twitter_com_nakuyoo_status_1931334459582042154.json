@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1931334459582042154",
+    "created_at": "2025-06-07T12:56:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-07T13:56:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1931334459582042154"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dream_30624700…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/dream_30624700/status/1931330248596922565",
+          "start": 17,
+          "url": "https://t.co/RnhsYQztU9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931334459582042154",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931330248596922565",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Oi！😭💗💗💗好有心！！😋😋😱😱 https://t.co/RnhsYQztU9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1931330242440048640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs12n3SbsAAttlA.jpg",
+        "width": 1662
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1931334459582042154",
+        "created_at": "2025-06-07T12:56:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T13:56:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931334459582042154"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dream_30624700…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/dream_30624700/status/1931330248596922565",
+              "start": 17,
+              "url": "https://t.co/RnhsYQztU9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931334459582042154",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931330248596922565",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Oi！😭💗💗💗好有心！！😋😋😱😱 https://t.co/RnhsYQztU9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931330242440048640"
+          ]
+        },
+        "author_id": "1605991936330170368",
+        "conversation_id": "1931330248596922565",
+        "created_at": "2025-06-07T12:39:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T13:39:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931330248596922565"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EeVWB4bTeW",
+              "end": 37,
+              "expanded_url": "https://x.com/dream_30624700/status/1931330248596922565/photo/1",
+              "media_key": "3_1931330242440048640",
+              "start": 14,
+              "url": "https://t.co/EeVWB4bTeW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931330248596922565",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我推的孩子😭😭😭🤍🤍🤍QQ https://t.co/EeVWB4bTeW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@ukanooy0 唯一2.0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "ukanooy0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/naku.yoo?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/naku.yoo?igsh=OHVpYmZjb3hpNjVy&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/aHjXW8BvfQ"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪300基本388簽名",
+        "name": "Inane骨",
+        "pinned_tweet_id": "1878244958273978540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879131018059554816/s014GKa9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17305,
+          "following_count": 33,
+          "like_count": 33872,
+          "listed_count": 28,
+          "media_count": 62,
+          "tweet_count": 7445
+        },
+        "url": "https://t.co/aHjXW8BvfQ",
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-22T18:21:58.000Z",
+        "description": "🇭🇰 | 未成年↓ | 雙性戀| 碎碎念｜抑鬱｜（好喜歡小骨）",
+        "id": "1605991936330170368",
+        "name": "啊",
+        "pinned_tweet_id": "1799489406488973595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794729922390556672/9QRvwUAL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 969,
+          "following_count": 296,
+          "like_count": 9580,
+          "listed_count": 3,
+          "media_count": 119,
+          "tweet_count": 801
+        },
+        "username": "dream_30624700",
+        "verified": false
+      }
+    ]
+  }
+}

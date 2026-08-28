@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "2054835532006604864",
+    "created_at": "2026-05-14T08:05:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T09:05:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054835532006604864"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nakuyoo/status…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/nakuyoo/status/2029780736044363960",
+          "start": 6,
+          "url": "https://t.co/JZ6Q1FTuB2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054835532006604864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029780736044363960",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "下星期回歸 https://t.co/JZ6Q1FTuB2"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "2054835532006604864",
+        "created_at": "2026-05-14T08:05:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T09:05:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054835532006604864"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nakuyoo/status…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/nakuyoo/status/2029780736044363960",
+              "start": 6,
+              "url": "https://t.co/JZ6Q1FTuB2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054835532006604864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029780736044363960",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "下星期回歸 https://t.co/JZ6Q1FTuB2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "2029780736044363960",
+        "created_at": "2026-03-06T04:46:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T05:46:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029780736044363960"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029780736044363960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6977,
+          "like_count": 68,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我又要消失一段時間了\n應該很長"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "",
+        "id": "1715624766571429888",
+        "location": "🚪300聊天 388+cheki Hk",
+        "name": "小骨Inane",
+        "pinned_tweet_id": "2029780736044363960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977284713648996352/QlRWK9_l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16490,
+          "following_count": 9,
+          "like_count": 31908,
+          "listed_count": 30,
+          "media_count": 145,
+          "tweet_count": 7665
+        },
+        "username": "nakuyoo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "1826914996066079125",
+    "created_at": "2024-08-23T09:30:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-23T10:30:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1826914996066079125"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yorutomei/stat…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/yorutomei/status/1826912293290185188",
+          "start": 14,
+          "url": "https://t.co/4Pw5HUWQdX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1826914996066079125",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1826912293290185188",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我唯一的誘惑是零治🍄🦑😾😾 https://t.co/4Pw5HUWQdX"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1826914996066079125",
+        "created_at": "2024-08-23T09:30:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-23T10:30:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1826914996066079125"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yorutomei/stat…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/yorutomei/status/1826912293290185188",
+              "start": 14,
+              "url": "https://t.co/4Pw5HUWQdX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826914996066079125",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826912293290185188",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我唯一的誘惑是零治🍄🦑😾😾 https://t.co/4Pw5HUWQdX"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "906566164582612992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1826912293290185188",
+        "created_at": "2024-08-23T09:20:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-23T10:20:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1826912293290185188"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nakuyoo/status…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/nakuyoo/status/1826911509743796723",
+              "start": 26,
+              "url": "https://t.co/ekxL8mmoeZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826912293290185188",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826911509743796723",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "沒錯 要一起健康 以後我唯一的誘惑是小骨（x）😡😡 https://t.co/ekxL8mmoeZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "🍄傷-暴-厭 ｜💉🩸💊🩹🔪@9wylovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "9wylovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/naku.yoo?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/naku.yoo?igsh=OHVpYmZjb3hpNjVy&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/aHjXW8BvfQ"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪250🇭🇰🇭🇰",
+        "name": "骨頭",
+        "pinned_tweet_id": "1823875339594191103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826435545427238912/E7yPfZRH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15293,
+          "following_count": 29,
+          "like_count": 33081,
+          "listed_count": 27,
+          "tweet_count": 6744
+        },
+        "url": "https://t.co/aHjXW8BvfQ",
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-09T17:13:11.000Z",
+        "description": "ℂ𝕙𝕒𝕠𝕥𝕚𝕔｜ 𝕡𝕒𝕟 ｜𝕤𝕨𝕚𝕥𝕔𝕙｜網癮女大｜只看不做的變態",
+        "id": "906566164582612992",
+        "location": "Hong Kong",
+        "name": "澪♱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784078851288772608/meN27Vmm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1092,
+          "following_count": 493,
+          "like_count": 3303,
+          "listed_count": 23,
+          "tweet_count": 516
+        },
+        "username": "Yorutomei",
+        "verified": false
+      }
+    ]
+  }
+}

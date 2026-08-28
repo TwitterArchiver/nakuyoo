@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1826451055871512576"
+      ],
+      "media_source_tweet_id": [
+        "1826451064683725122"
+      ]
+    },
+    "author_id": "1715624766571429888",
+    "conversation_id": "1826451633305477517",
+    "created_at": "2024-08-22T02:49:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-22T03:49:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1826451633305477517"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 24,
+          "start": 17,
+          "tag": "kangel"
+        },
+        {
+          "end": 45,
+          "start": 25,
+          "tag": "NEEDY_GIRL_OVERDOSE"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1824987771393736704",
+          "start": 3,
+          "username": "deqthkin0ko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/596mfc8sr9",
+          "end": 69,
+          "expanded_url": "https://twitter.com/deqthkin0ko/status/1826451064683725122/photo/1",
+          "media_key": "3_1826451055871512576",
+          "start": 46,
+          "url": "https://t.co/596MFc8sR9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1826451633305477517",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1826451064683725122",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @deqthkin0ko: #kangel #NEEDY_GIRL_OVERDOSE https://t.co/596MFc8sR9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1826451055871512576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GVjbjvDb0AA_C2k.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1826451055871512576"
+          ],
+          "media_source_tweet_id": [
+            "1826451064683725122"
+          ]
+        },
+        "author_id": "1715624766571429888",
+        "conversation_id": "1826451633305477517",
+        "created_at": "2024-08-22T02:49:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-22T03:49:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1826451633305477517"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 17,
+              "tag": "kangel"
+            },
+            {
+              "end": 45,
+              "start": 25,
+              "tag": "NEEDY_GIRL_OVERDOSE"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1824987771393736704",
+              "start": 3,
+              "username": "deqthkin0ko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/596mfc8sr9",
+              "end": 69,
+              "expanded_url": "https://twitter.com/deqthkin0ko/status/1826451064683725122/photo/1",
+              "media_key": "3_1826451055871512576",
+              "start": 46,
+              "url": "https://t.co/596MFc8sR9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826451633305477517",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826451064683725122",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @deqthkin0ko: #kangel #NEEDY_GIRL_OVERDOSE https://t.co/596MFc8sR9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1826451055871512576"
+          ]
+        },
+        "author_id": "1824987771393736704",
+        "conversation_id": "1826451064683725122",
+        "created_at": "2024-08-22T02:47:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-22T03:47:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1826451064683725122"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "kangel"
+            },
+            {
+              "end": 28,
+              "start": 8,
+              "tag": "NEEDY_GIRL_OVERDOSE"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/596mfc8sr9",
+              "end": 52,
+              "expanded_url": "https://twitter.com/deqthkin0ko/status/1826451064683725122/photo/1",
+              "media_key": "3_1826451055871512576",
+              "start": 29,
+              "url": "https://t.co/596MFc8sR9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826451064683725122",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "#kangel #NEEDY_GIRL_OVERDOSE https://t.co/596MFc8sR9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@9wylovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "9wylovo"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪250🇭🇰",
+        "name": "刻在骨子裏",
+        "pinned_tweet_id": "1823875339594191103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826435545427238912/E7yPfZRH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15204,
+          "following_count": 28,
+          "like_count": 33002,
+          "listed_count": 27,
+          "tweet_count": 6718
+        },
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-18T01:52:54.000Z",
+        "description": "(՞_ ̫ _՞)ᐝ",
+        "id": "1824987771393736704",
+        "name": "デスキノコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824989143811960832/QrN3PEOS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 13,
+          "like_count": 117,
+          "listed_count": 0,
+          "tweet_count": 7
+        },
+        "username": "deqthkin0ko",
+        "verified": false
+      }
+    ]
+  }
+}

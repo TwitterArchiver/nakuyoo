@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1823684124101775411",
+    "created_at": "2024-08-14T13:13:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-14T14:13:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1823709406321869266"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1448933946411028485",
+          "start": 0,
+          "username": "davvid0625"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1823709406321869266",
+    "in_reply_to_user_id": "1448933946411028485",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1823708453598323119",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@davvid0625 冇 因為我已經係柴 但繼續話減肥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1823684124101775411",
+        "created_at": "2024-08-14T13:13:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-14T14:13:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1823709406321869266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1448933946411028485",
+              "start": 0,
+              "username": "davvid0625"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823709406321869266",
+        "in_reply_to_user_id": "1448933946411028485",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1823708453598323119",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@davvid0625 冇 因為我已經係柴 但繼續話減肥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1448933946411028485",
+        "conversation_id": "1823684124101775411",
+        "created_at": "2024-08-14T13:09:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-14T14:09:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1823708453598323119"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1715624766571429888",
+              "start": 0,
+              "username": "nakuyoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823708453598323119",
+        "in_reply_to_user_id": "1715624766571429888",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1823707675391352898",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nakuyoo 佢有無俾咩建議你，或者了解多啲點解會開始有呢件事出現"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@9wylovo ←shtwt | 一個精神病 完 | half edtwt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "9wylovo"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪250🇭🇰",
+        "name": "刻在骨子裏",
+        "pinned_tweet_id": "1823593115241865599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822625813629689856/KGMTxKge_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14607,
+          "following_count": 33,
+          "like_count": 32300,
+          "listed_count": 27,
+          "tweet_count": 6547
+        },
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-15T08:49:17.000Z",
+        "description": "D for David. 167/64/single/gym/isfj",
+        "id": "1448933946411028485",
+        "name": "D.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1570647311977705478/2Ll9vx2D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 283,
+          "like_count": 282,
+          "listed_count": 0,
+          "tweet_count": 63
+        },
+        "username": "davvid0625",
+        "verified": false
+      }
+    ]
+  }
+}

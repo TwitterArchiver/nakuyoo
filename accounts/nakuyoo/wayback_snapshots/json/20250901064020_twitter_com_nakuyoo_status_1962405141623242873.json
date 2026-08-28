@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1962178547008835826",
+    "created_at": "2025-09-01T06:40:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T07:40:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962405141623242873"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1550593157876060160",
+          "start": 0,
+          "username": "pogou___xx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962405141623242873",
+    "in_reply_to_user_id": "1550593157876060160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962396608395649533",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pogou___xx 簡直是兄弟級別"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1962178547008835826",
+        "created_at": "2025-09-01T06:40:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T07:40:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962405141623242873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1550593157876060160",
+              "start": 0,
+              "username": "pogou___xx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962405141623242873",
+        "in_reply_to_user_id": "1550593157876060160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962396608395649533",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pogou___xx 簡直是兄弟級別"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1550593157876060160",
+        "conversation_id": "1962178547008835826",
+        "created_at": "2025-09-01T06:06:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T07:06:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962396608395649533"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1715624766571429888",
+              "start": 0,
+              "username": "nakuyoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962396608395649533",
+        "in_reply_to_user_id": "1715624766571429888",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962290831731372051",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nakuyoo 貧窮二人組"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "🎵:nakubone📕nakuyoo ig:naku.yoo ｜定期清列表",
+        "id": "1715624766571429888",
+        "location": "🚪300 388+cheki HK",
+        "name": "水母骨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931334867725504512/7kS_Yy1T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17412,
+          "following_count": 23,
+          "like_count": 34023,
+          "listed_count": 30,
+          "media_count": 99,
+          "tweet_count": 7571
+        },
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-22T21:26:53.000Z",
+        "description": "病み垢暴言｜地雷女｜永遠の16歳",
+        "id": "1550593157876060160",
+        "location": "地獄",
+        "name": "破狗醬",
+        "pinned_tweet_id": "1935262321439645728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775552273361625088/7edQ7fe7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1304,
+          "following_count": 126,
+          "like_count": 15077,
+          "listed_count": 2,
+          "media_count": 217,
+          "tweet_count": 2133
+        },
+        "username": "pogou___xx",
+        "verified": false
+      }
+    ]
+  }
+}

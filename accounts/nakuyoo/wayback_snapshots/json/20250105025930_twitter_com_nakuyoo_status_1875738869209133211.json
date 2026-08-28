@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1875475537214275646",
+    "created_at": "2025-01-05T02:59:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-05T03:59:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1875738869209133211"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1446135978658123779",
+          "start": 0,
+          "username": "T0X1C_R3B0Rn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875738869209133211",
+    "in_reply_to_user_id": "1446135978658123779",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875475537214275646",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@T0X1C_R3B0Rn 我穩居第二🔥🔥🔥🔥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1875475537214275646",
+        "created_at": "2025-01-05T02:59:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-05T03:59:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875738869209133211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1446135978658123779",
+              "start": 0,
+              "username": "T0X1C_R3B0Rn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875738869209133211",
+        "in_reply_to_user_id": "1446135978658123779",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875475537214275646",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@T0X1C_R3B0Rn 我穩居第二🔥🔥🔥🔥"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1875475533154197504"
+          ]
+        },
+        "author_id": "1446135978658123779",
+        "conversation_id": "1875475537214275646",
+        "created_at": "2025-01-04T09:33:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-04T10:33:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1875475537214275646"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Ever wondered who lingers on your Twitter profile in the shadows? Prepare to discover your silent admirers or curious stalkers!",
+              "display_url": "infinityweet.me/secret-stalker…",
+              "end": 47,
+              "expanded_url": "https://infinityweet.me/secret-stalkers?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1873453966895226881/CoK6zpkL?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1873453966895226881/CoK6zpkL?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 24,
+              "status": 200,
+              "title": "Secret Stalkers • Infinitweet",
+              "unwound_url": "https://infinityweet.me/secret-stalkers?lang=zh",
+              "url": "https://t.co/f8CSrOMYEF"
+            },
+            {
+              "display_url": "pic.x.com/Hku7EAkNYm",
+              "end": 71,
+              "expanded_url": "https://x.com/T0X1C_R3B0Rn/status/1875475537214275646/photo/1",
+              "media_key": "3_1875475533154197504",
+              "start": 48,
+              "url": "https://t.co/Hku7EAkNYm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875475537214275646",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 113,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我刚刚发现谁访问了我的推特个人资料！\n\n⠀➡️ https://t.co/f8CSrOMYEF https://t.co/Hku7EAkNYm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@b0n3_core @ukanooy0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "b0n3_core"
+              },
+              {
+                "end": 20,
+                "start": 11,
+                "username": "ukanooy0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/naku.yoo?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/naku.yoo?igsh=OHVpYmZjb3hpNjVy&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/aHjXW8BvfQ"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪300基本388簽名",
+        "name": "炸毛水母骨",
+        "pinned_tweet_id": "1872103640816881782",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873915098609369088/NR_lzdQx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17913,
+          "following_count": 34,
+          "like_count": 35510,
+          "listed_count": 29,
+          "media_count": 89,
+          "tweet_count": 7336
+        },
+        "url": "https://t.co/aHjXW8BvfQ",
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-07T15:31:07.000Z",
+        "description": "🚪150 | 🇭🇰 | ftx | shtwt | odtwt | depressive disorder | ADHD | nihilism",
+        "id": "1446135978658123779",
+        "location": "Paradise",
+        "name": "墨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870073115931488256/l64cw6Vf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 542,
+          "following_count": 633,
+          "like_count": 12708,
+          "listed_count": 1,
+          "media_count": 162,
+          "tweet_count": 1891
+        },
+        "username": "T0X1C_R3B0Rn",
+        "verified": false
+      }
+    ]
+  }
+}

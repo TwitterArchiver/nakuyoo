@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1872552882530386376",
+    "created_at": "2024-12-27T07:59:32.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-27T08:59:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1872552882530386376"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mio1738468/sta…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/mio1738468/status/1872529632186204409",
+          "start": 9,
+          "url": "https://t.co/Lzz2cL9MD3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872552882530386376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872529632186204409",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "這個世界要淪陷了 https://t.co/Lzz2cL9MD3"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1872552882530386376",
+        "created_at": "2024-12-27T07:59:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-27T08:59:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1872552882530386376"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mio1738468/sta…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/mio1738468/status/1872529632186204409",
+              "start": 9,
+              "url": "https://t.co/Lzz2cL9MD3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872552882530386376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872529632186204409",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "這個世界要淪陷了 https://t.co/Lzz2cL9MD3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836782122037874688",
+        "conversation_id": "1872529632186204409",
+        "created_at": "2024-12-27T06:27:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-27T07:27:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1872529632186204409"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1872529632186204409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 513,
+          "like_count": 34,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "割手、抑郁症属于时尚单品的时代已经过去了，现在的时尚单品是od和bpd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "🚪300 | @b0n3_core ｜幻想是我的一切 @ukanooy0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "b0n3_core"
+              },
+              {
+                "end": 36,
+                "start": 27,
+                "username": "ukanooy0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/naku.yoo?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/naku.yoo?igsh=OHVpYmZjb3hpNjVy&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/aHjXW8BvfQ"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "name": "炸毛水母骨",
+        "pinned_tweet_id": "1872103640816881782",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872548980552540162/MG-FrXU-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17845,
+          "following_count": 34,
+          "like_count": 35227,
+          "listed_count": 29,
+          "media_count": 73,
+          "tweet_count": 7243
+        },
+        "url": "https://t.co/aHjXW8BvfQ",
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-19T14:59:26.000Z",
+        "description": "我是今予/双相/碎碎念-分享日常/🚪20好友位➕朋友圈掉落照片/50纯绿陪聊/粥批/紫菜小号@jy3152509243 /谢谢你和我一起玩，我会记得你😽/手作围巾长期有售：40r/过门-10r",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 46,
+                "username": "jy3152509243"
+              }
+            ]
+          }
+        },
+        "id": "1836782122037874688",
+        "location": "距离你3km",
+        "name": "今天也在被碳酸锂噎死",
+        "pinned_tweet_id": "1857845525556638103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848603443956748290/A5Wh6pB6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3658,
+          "following_count": 475,
+          "like_count": 7036,
+          "listed_count": 4,
+          "media_count": 813,
+          "tweet_count": 6899
+        },
+        "username": "mio1738468",
+        "verified": false
+      }
+    ]
+  }
+}

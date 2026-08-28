@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1837816714311905748",
+    "created_at": "2024-09-22T11:30:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-22T12:30:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837816714311905748"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1699952076900470784",
+          "start": 3,
+          "username": "fuckniquanjia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837816714311905748",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837797536238915821",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @fuckniquanjia: 我只想要钱我只想要好多钱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1837816714311905748",
+        "created_at": "2024-09-22T11:30:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-22T12:30:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837816714311905748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1699952076900470784",
+              "start": 3,
+              "username": "fuckniquanjia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837816714311905748",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837797536238915821",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @fuckniquanjia: 我只想要钱我只想要好多钱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699952076900470784",
+        "conversation_id": "1837797536238915821",
+        "created_at": "2024-09-22T10:14:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-22T11:14:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1837797536238915821"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1837797536238915821",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "following",
+        "text": "我只想要钱我只想要好多钱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@9wylovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "9wylovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/naku.yoo?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/naku.yoo?igsh=OHVpYmZjb3hpNjVy&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/aHjXW8BvfQ"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪250🇭🇰",
+        "name": "骨仔",
+        "pinned_tweet_id": "1823875339594191103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831117464026943488/Eo_Zr6An_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16666,
+          "following_count": 30,
+          "like_count": 34862,
+          "listed_count": 31,
+          "tweet_count": 6987
+        },
+        "url": "https://t.co/aHjXW8BvfQ",
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-08T01:05:43.000Z",
+        "description": "話廢  自用紫鸟vpn https://t.co/hZtcKbrg18",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ziniao.top/#/register?cod…",
+                "end": 35,
+                "expanded_url": "https://ziniao.top/#/register?code=LU61U0es",
+                "start": 12,
+                "url": "https://t.co/hZtcKbrg18"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/dream6669_?igs…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/dream6669_?igsh=eDBvNDhsa2thcmJ6&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/QKRne5ErhQ"
+              }
+            ]
+          }
+        },
+        "id": "1699952076900470784",
+        "location": "🚪188/288/520",
+        "name": "ヨヨ",
+        "pinned_tweet_id": "1834681845826699430",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816282438076882945/IvrCtQjP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3150,
+          "following_count": 244,
+          "like_count": 18679,
+          "listed_count": 4,
+          "tweet_count": 9687
+        },
+        "url": "https://t.co/QKRne5ErhQ",
+        "username": "fuckniquanjia",
+        "verified": false
+      }
+    ]
+  }
+}

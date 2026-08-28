@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1829848853803384886",
+    "created_at": "2024-08-31T12:01:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-31T13:01:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1829851888248111581"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1605991936330170368",
+          "start": 0,
+          "username": "dream_30624700"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1829851888248111581",
+    "in_reply_to_user_id": "1605991936330170368",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1829848853803384886",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dream_30624700 貝印更可愛👏🏻👏🏻😍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1829848853803384886",
+        "created_at": "2024-08-31T12:01:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-31T13:01:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1829851888248111581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1605991936330170368",
+              "start": 0,
+              "username": "dream_30624700"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1829851888248111581",
+        "in_reply_to_user_id": "1605991936330170368",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1829848853803384886",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dream_30624700 貝印更可愛👏🏻👏🏻😍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1605991936330170368",
+        "conversation_id": "1829848853803384886",
+        "created_at": "2024-08-31T11:48:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-31T12:48:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1829848853803384886"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nakuyoo/status…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/nakuyoo/status/1829845289018278271",
+              "start": 7,
+              "url": "https://t.co/KFPmnB5JOv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1829848853803384886",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1829845289018278271",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "小骨好可愛！ https://t.co/KFPmnB5JOv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@9wylovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "9wylovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/naku.yoo?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/naku.yoo?igsh=OHVpYmZjb3hpNjVy&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/aHjXW8BvfQ"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪250🇭🇰🇭🇰",
+        "name": "骨頭",
+        "pinned_tweet_id": "1823875339594191103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828756448404439040/FNqiVmFy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15661,
+          "following_count": 26,
+          "like_count": 33634,
+          "listed_count": 27,
+          "tweet_count": 6771
+        },
+        "url": "https://t.co/aHjXW8BvfQ",
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-22T18:21:58.000Z",
+        "description": "🇭🇰 | 未成年↓ | 雙性戀｜只想睡覺 | 碎碎念｜抑鬱｜",
+        "id": "1605991936330170368",
+        "name": "啊",
+        "pinned_tweet_id": "1799489406488973595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794729922390556672/9QRvwUAL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 260,
+          "like_count": 5658,
+          "listed_count": 1,
+          "tweet_count": 279
+        },
+        "username": "dream_30624700",
+        "verified": false
+      }
+    ]
+  }
+}

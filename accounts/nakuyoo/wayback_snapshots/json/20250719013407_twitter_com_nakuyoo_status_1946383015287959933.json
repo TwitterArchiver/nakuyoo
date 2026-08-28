@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1946382983780335616",
+        "3_1946382983629574144"
+      ]
+    },
+    "author_id": "1715624766571429888",
+    "conversation_id": "1946383015287959933",
+    "created_at": "2025-07-19T01:34:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-19T02:34:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1946383015287959933"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/J20ruQwcSj",
+          "end": 26,
+          "expanded_url": "https://x.com/nakuyoo/status/1946383015287959933/photo/1",
+          "media_key": "3_1946382983780335616",
+          "start": 3,
+          "url": "https://t.co/J20ruQwcSj"
+        },
+        {
+          "display_url": "pic.x.com/J20ruQwcSj",
+          "end": 26,
+          "expanded_url": "https://x.com/nakuyoo/status/1946383015287959933/photo/1",
+          "media_key": "3_1946382983629574144",
+          "start": 3,
+          "url": "https://t.co/J20ruQwcSj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946383015287959933",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好綠 https://t.co/J20ruQwcSj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1946382983780335616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwLxAukXgAAdx58.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1946382983629574144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwLxAuAbEAAIeun.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946382983780335616",
+            "3_1946382983629574144"
+          ]
+        },
+        "author_id": "1715624766571429888",
+        "conversation_id": "1946383015287959933",
+        "created_at": "2025-07-19T01:34:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T02:34:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946383015287959933"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J20ruQwcSj",
+              "end": 26,
+              "expanded_url": "https://x.com/nakuyoo/status/1946383015287959933/photo/1",
+              "media_key": "3_1946382983780335616",
+              "start": 3,
+              "url": "https://t.co/J20ruQwcSj"
+            },
+            {
+              "display_url": "pic.x.com/J20ruQwcSj",
+              "end": 26,
+              "expanded_url": "https://x.com/nakuyoo/status/1946383015287959933/photo/1",
+              "media_key": "3_1946382983629574144",
+              "start": 3,
+              "url": "https://t.co/J20ruQwcSj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946383015287959933",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好綠 https://t.co/J20ruQwcSj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@ukanooy0 唯一2.0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "ukanooy0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/naku.yoo?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/naku.yoo?igsh=OHVpYmZjb3hpNjVy&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/aHjXW8AXqi"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪300 388",
+        "name": "Inane小骨",
+        "pinned_tweet_id": "1878244958273978540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931334867725504512/7kS_Yy1T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17297,
+          "following_count": 33,
+          "like_count": 33760,
+          "listed_count": 29,
+          "media_count": 77,
+          "tweet_count": 7501
+        },
+        "url": "https://t.co/aHjXW8AXqi",
+        "username": "nakuyoo",
+        "verified": false
+      }
+    ]
+  }
+}

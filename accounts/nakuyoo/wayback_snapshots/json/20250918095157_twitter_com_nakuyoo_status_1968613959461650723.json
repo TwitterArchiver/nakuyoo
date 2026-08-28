@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1968613959461650723",
+    "created_at": "2025-09-18T09:51:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-18T10:51:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1968613959461650723"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nakuyoo/status…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/nakuyoo/status/1967587870547513723",
+          "start": 10,
+          "url": "https://t.co/WssXGlGOqE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968613959461650723",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967587870547513723",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有人過門嗎想吃飯了 https://t.co/WssXGlGOqE"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1968613959461650723",
+        "created_at": "2025-09-18T09:51:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T10:51:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968613959461650723"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nakuyoo/status…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/nakuyoo/status/1967587870547513723",
+              "start": 10,
+              "url": "https://t.co/WssXGlGOqE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968613959461650723",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967587870547513723",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有人過門嗎想吃飯了 https://t.co/WssXGlGOqE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1967587870547513723",
+        "created_at": "2025-09-15T13:54:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T14:54:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967587870547513723"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1967587870547513723",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2330,
+          "like_count": 25,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🎵:nakubone 📕nakuyoo  ig:naku.yoo\n🚪300純聊天 \n🚪388 純聊天+ cheki（限香港）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "定期清列表 不互 純綠限香港",
+        "id": "1715624766571429888",
+        "location": "🚪300 388+cheki HK",
+        "name": "水母骨",
+        "pinned_tweet_id": "1967587870547513723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931334867725504512/7kS_Yy1T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17356,
+          "following_count": 23,
+          "like_count": 34232,
+          "listed_count": 30,
+          "media_count": 114,
+          "tweet_count": 7611
+        },
+        "username": "nakuyoo",
+        "verified": false
+      }
+    ]
+  }
+}

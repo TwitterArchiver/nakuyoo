@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1832228120222691765",
+    "created_at": "2024-09-07T03:00:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-07T04:00:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1832252497966329981"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1503581450276286464",
+          "start": 0,
+          "username": "Tukimi_Mattya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1832252497966329981",
+    "in_reply_to_user_id": "1503581450276286464",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1832243652305035535",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tukimi_Mattya 淘寶！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1832228120222691765",
+        "created_at": "2024-09-07T03:00:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-07T04:00:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1832252497966329981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1503581450276286464",
+              "start": 0,
+              "username": "Tukimi_Mattya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1832252497966329981",
+        "in_reply_to_user_id": "1503581450276286464",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1832243652305035535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tukimi_Mattya 淘寶！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1503581450276286464",
+        "conversation_id": "1832228120222691765",
+        "created_at": "2024-09-07T02:25:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-07T03:25:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1832243652305035535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1715624766571429888",
+              "start": 0,
+              "username": "nakuyoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1832243652305035535",
+        "in_reply_to_user_id": "1715624766571429888",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1832228120222691765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nakuyoo 想問這件衣服是在哪裡買的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@9wylovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "9wylovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/naku.yoo?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/naku.yoo?igsh=OHVpYmZjb3hpNjVy&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/aHjXW8BvfQ"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪250🇭🇰🇭🇰",
+        "name": "骨頭",
+        "pinned_tweet_id": "1823875339594191103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831117464026943488/Eo_Zr6An_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16217,
+          "following_count": 27,
+          "like_count": 34096,
+          "listed_count": 29,
+          "tweet_count": 6871
+        },
+        "url": "https://t.co/aHjXW8BvfQ",
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-15T03:58:55.000Z",
+        "description": "成長的只有年齡 是隻爛草莓/尼特 滑推會打心攻擊(不是點進頁面洗愛心) 那隻是朋友的貓叫灰灰 是男的啦",
+        "id": "1503581450276286464",
+        "location": "台北市萬華區",
+        "name": "莫名森氣氣抹茶",
+        "pinned_tweet_id": "1812848964611576043",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801650305232474115/HSBvIZFx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1445,
+          "following_count": 502,
+          "like_count": 274479,
+          "listed_count": 0,
+          "tweet_count": 8648
+        },
+        "username": "Tukimi_Mattya",
+        "verified": false
+      }
+    ]
+  }
+}

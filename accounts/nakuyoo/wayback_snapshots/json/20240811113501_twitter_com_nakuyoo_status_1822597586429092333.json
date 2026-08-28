@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1822577661971198006",
+    "created_at": "2024-08-11T11:35:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-11T12:35:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1822597586429092333"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1811812787058016257",
+          "start": 0,
+          "username": "kanakosama0223"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1822597586429092333",
+    "in_reply_to_user_id": "1811812787058016257",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1822577661971198006",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kanakosama0223 ！太酷啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1822577661971198006",
+        "created_at": "2024-08-11T11:35:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-11T12:35:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822597586429092333"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1811812787058016257",
+              "start": 0,
+              "username": "kanakosama0223"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822597586429092333",
+        "in_reply_to_user_id": "1811812787058016257",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822577661971198006",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kanakosama0223 ！太酷啦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1822577654945710080"
+          ]
+        },
+        "author_id": "1811812787058016257",
+        "conversation_id": "1822577661971198006",
+        "created_at": "2024-08-11T10:15:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-11T11:15:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1822577661971198006"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yxtyyx1ecn",
+              "end": 26,
+              "expanded_url": "https://twitter.com/kanakosama0223/status/1822577661971198006/photo/1",
+              "media_key": "3_1822577654945710080",
+              "start": 3,
+              "url": "https://t.co/yXtyYx1ECN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822577661971198006",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 596,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "异瞳 https://t.co/yXtyYx1ECN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@9wylovo 只是一個Psychosis 沒什麼特別",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "9wylovo"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪250🇭🇰",
+        "name": "骨骨",
+        "pinned_tweet_id": "1822266798747595010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822537156080103424/p5FQB6To_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14513,
+          "following_count": 33,
+          "like_count": 31907,
+          "listed_count": 28,
+          "tweet_count": 6439
+        },
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-12T17:20:27.000Z",
+        "description": "07餐券女 kanako的六代目 🚪288",
+        "id": "1811812787058016257",
+        "location": "小老鼠墓地🪦",
+        "name": "草莓水烟枪🍓",
+        "pinned_tweet_id": "1816834137841631514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814990106912337920/qBISn7w6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1439,
+          "following_count": 49,
+          "like_count": 927,
+          "listed_count": 0,
+          "tweet_count": 505
+        },
+        "username": "kanakosama0223",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1837734875845349827",
+    "created_at": "2024-09-22T10:14:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-22T11:14:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837797628052230222"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1564861379697582080",
+          "start": 0,
+          "username": "GjjFh79913631"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837797628052230222",
+    "in_reply_to_user_id": "1564861379697582080",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837777417857008043",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GjjFh79913631 沒有呀！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1837734875845349827",
+        "created_at": "2024-09-22T10:14:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-22T11:14:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837797628052230222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1564861379697582080",
+              "start": 0,
+              "username": "GjjFh79913631"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837797628052230222",
+        "in_reply_to_user_id": "1564861379697582080",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837777417857008043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GjjFh79913631 沒有呀！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564861379697582080",
+        "conversation_id": "1837734875845349827",
+        "created_at": "2024-09-22T08:54:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-22T09:54:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837777417857008043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1715624766571429888",
+              "start": 0,
+              "username": "nakuyoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837777417857008043",
+        "in_reply_to_user_id": "1715624766571429888",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837734875845349827",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nakuyoo 小骨不是染頭髮了嗎？？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@9wylovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "9wylovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/naku.yoo?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/naku.yoo?igsh=OHVpYmZjb3hpNjVy&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/aHjXW8BvfQ"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪250🇭🇰",
+        "name": "骨仔",
+        "pinned_tweet_id": "1823875339594191103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831117464026943488/Eo_Zr6An_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16655,
+          "following_count": 30,
+          "like_count": 34852,
+          "listed_count": 30,
+          "tweet_count": 6986
+        },
+        "url": "https://t.co/aHjXW8BvfQ",
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-31T06:23:38.000Z",
+        "description": "",
+        "id": "1564861379697582080",
+        "name": "Gjj Fh",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564861454142291968/pv-mkfS1_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 1211,
+          "like_count": 1476,
+          "listed_count": 0,
+          "tweet_count": 22
+        },
+        "username": "GjjFh79913631",
+        "verified": false
+      }
+    ]
+  }
+}

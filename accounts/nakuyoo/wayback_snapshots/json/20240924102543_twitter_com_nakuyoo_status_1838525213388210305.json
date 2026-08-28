@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1838419552163803527",
+    "created_at": "2024-09-24T10:25:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-24T11:25:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1838525213388210305"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1190727688622768128",
+          "start": 0,
+          "username": "miomioQaQ1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1838525213388210305",
+    "in_reply_to_user_id": "1190727688622768128",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1838522979732631946",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miomioQaQ1 太弱智了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1838419552163803527",
+        "created_at": "2024-09-24T10:25:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-24T11:25:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1838525213388210305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1190727688622768128",
+              "start": 0,
+              "username": "miomioQaQ1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838525213388210305",
+        "in_reply_to_user_id": "1190727688622768128",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838522979732631946",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miomioQaQ1 太弱智了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1190727688622768128",
+        "conversation_id": "1838419552163803527",
+        "created_at": "2024-09-24T10:16:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-24T11:16:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1838522979732631946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1715624766571429888",
+              "start": 0,
+              "username": "nakuyoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838522979732631946",
+        "in_reply_to_user_id": "1715624766571429888",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838419552163803527",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nakuyoo 今天剛刷到一個自稱地雷女的在牆內發自己哦滴什麼的，真是神經病"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@9wylovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "9wylovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/naku.yoo?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/naku.yoo?igsh=OHVpYmZjb3hpNjVy&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/aHjXW8BvfQ"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪250🇭🇰",
+        "name": "骨仔",
+        "pinned_tweet_id": "1823875339594191103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831117464026943488/Eo_Zr6An_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16812,
+          "following_count": 30,
+          "like_count": 34923,
+          "listed_count": 31,
+          "tweet_count": 7004
+        },
+        "url": "https://t.co/aHjXW8BvfQ",
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-02T20:29:47.000Z",
+        "description": "腐爛的世界還有我🫂我永遠的寶寶@kanaovoii   🪦🪦永遠懷念 @YukiF90333",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "kanaovoii"
+              },
+              {
+                "end": 46,
+                "start": 35,
+                "username": "YukiF90333"
+              }
+            ]
+          }
+        },
+        "id": "1190727688622768128",
+        "location": "一切都衹是遺書♡",
+        "name": "永遠的澪醬𝚛𝚒𝚝𝚎♬",
+        "pinned_tweet_id": "1807422183993692530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837032852631998465/ZcH3ww9__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2373,
+          "following_count": 214,
+          "like_count": 11149,
+          "listed_count": 4,
+          "tweet_count": 2405
+        },
+        "username": "miomioQaQ1",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1945730224903110657",
+        "3_1945730224924073984"
+      ],
+      "media_source_tweet_id": [
+        "1945730239390163356",
+        "1945730239390163356"
+      ]
+    },
+    "author_id": "1715624766571429888",
+    "conversation_id": "1945730434165297162",
+    "created_at": "2025-07-17T06:21:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-17T07:21:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945730434165297162"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1872201647356837888",
+          "start": 3,
+          "username": "ukanooy0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eWjxYGNNnZ",
+          "end": 45,
+          "expanded_url": "https://x.com/ukanooy0/status/1945730239390163356/photo/1",
+          "media_key": "3_1945730224903110657",
+          "start": 22,
+          "url": "https://t.co/eWjxYGNNnZ"
+        },
+        {
+          "display_url": "pic.x.com/eWjxYGNNnZ",
+          "end": 45,
+          "expanded_url": "https://x.com/ukanooy0/status/1945730239390163356/photo/1",
+          "media_key": "3_1945730224924073984",
+          "start": 22,
+          "url": "https://t.co/eWjxYGNNnZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945730434165297162",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945730239390163356",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ukanooy0: 和破碎兄弟😭😭 https://t.co/eWjxYGNNnZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1945730224903110657",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwCfVKQXQAEl_bd.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1945730224924073984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwCfVKVXIAAnxpg.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945730224903110657",
+            "3_1945730224924073984"
+          ],
+          "media_source_tweet_id": [
+            "1945730239390163356",
+            "1945730239390163356"
+          ]
+        },
+        "author_id": "1715624766571429888",
+        "conversation_id": "1945730434165297162",
+        "created_at": "2025-07-17T06:21:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T07:21:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945730434165297162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1872201647356837888",
+              "start": 3,
+              "username": "ukanooy0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eWjxYGNNnZ",
+              "end": 45,
+              "expanded_url": "https://x.com/ukanooy0/status/1945730239390163356/photo/1",
+              "media_key": "3_1945730224903110657",
+              "start": 22,
+              "url": "https://t.co/eWjxYGNNnZ"
+            },
+            {
+              "display_url": "pic.x.com/eWjxYGNNnZ",
+              "end": 45,
+              "expanded_url": "https://x.com/ukanooy0/status/1945730239390163356/photo/1",
+              "media_key": "3_1945730224924073984",
+              "start": 22,
+              "url": "https://t.co/eWjxYGNNnZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945730434165297162",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945730239390163356",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ukanooy0: 和破碎兄弟😭😭 https://t.co/eWjxYGNNnZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945730224903110657",
+            "3_1945730224924073984"
+          ]
+        },
+        "author_id": "1872201647356837888",
+        "conversation_id": "1945730239390163356",
+        "created_at": "2025-07-17T06:20:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T07:20:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945730239390163356"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eWjxYGNNnZ",
+              "end": 31,
+              "expanded_url": "https://x.com/ukanooy0/status/1945730239390163356/photo/1",
+              "media_key": "3_1945730224903110657",
+              "start": 8,
+              "url": "https://t.co/eWjxYGNNnZ"
+            },
+            {
+              "display_url": "pic.x.com/eWjxYGNNnZ",
+              "end": 31,
+              "expanded_url": "https://x.com/ukanooy0/status/1945730239390163356/photo/1",
+              "media_key": "3_1945730224924073984",
+              "start": 8,
+              "url": "https://t.co/eWjxYGNNnZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945730239390163356",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "和破碎兄弟😭😭 https://t.co/eWjxYGNNnZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@ukanooy0 唯一2.0 🚪300 388",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "ukanooy0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/naku.yoo?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/naku.yoo?igsh=OHVpYmZjb3hpNjVy&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/aHjXW8BvfQ"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "name": "Inane小骨",
+        "pinned_tweet_id": "1878244958273978540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931334867725504512/7kS_Yy1T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17261,
+          "following_count": 33,
+          "like_count": 33740,
+          "listed_count": 29,
+          "media_count": 76,
+          "tweet_count": 7490
+        },
+        "url": "https://t.co/aHjXW8BvfQ",
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-26T08:44:25.000Z",
+        "description": "@nakuyoo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "nakuyoo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/naku.yoo?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/naku.yoo?igsh=OHVpYmZjb3hpNjVy&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/scTUIi4Csi"
+              }
+            ]
+          }
+        },
+        "id": "1872201647356837888",
+        "location": "HK門檻300,388+cheki",
+        "name": "Inane骨2",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932771024917180416/5bJU6CDq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 640,
+          "following_count": 12,
+          "like_count": 345,
+          "listed_count": 4,
+          "media_count": 9,
+          "tweet_count": 70
+        },
+        "url": "https://t.co/scTUIi4Csi",
+        "username": "ukanooy0",
+        "verified": false
+      }
+    ]
+  }
+}

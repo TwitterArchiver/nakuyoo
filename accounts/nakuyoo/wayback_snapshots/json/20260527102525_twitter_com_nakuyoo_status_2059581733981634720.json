@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059581717451870208"
+      ]
+    },
+    "author_id": "1715624766571429888",
+    "conversation_id": "2059581733981634720",
+    "created_at": "2026-05-27T10:25:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T11:25:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059581733981634720"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yUdukjJkdj",
+          "end": 27,
+          "expanded_url": "https://x.com/nakuyoo/status/2059581733981634720/photo/1",
+          "media_key": "3_2059581717451870208",
+          "start": 4,
+          "url": "https://t.co/yUdukjJkdj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059581733981634720",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "紫魔爪 https://t.co/yUdukjJkdj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2059581717451870208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJUaqO6bkAAUa-J.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059581717451870208"
+          ]
+        },
+        "author_id": "1715624766571429888",
+        "conversation_id": "2059581733981634720",
+        "created_at": "2026-05-27T10:25:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T11:25:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059581733981634720"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yUdukjJkdj",
+              "end": 27,
+              "expanded_url": "https://x.com/nakuyoo/status/2059581733981634720/photo/1",
+              "media_key": "3_2059581717451870208",
+              "start": 4,
+              "url": "https://t.co/yUdukjJkdj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059581733981634720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "紫魔爪 https://t.co/yUdukjJkdj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "",
+        "id": "1715624766571429888",
+        "location": "🚪300聊天Hk",
+        "name": "小骨Inane",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054838019136647168/v9qJCyvZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16858,
+          "following_count": 9,
+          "like_count": 32122,
+          "listed_count": 34,
+          "media_count": 193,
+          "tweet_count": 7751
+        },
+        "username": "nakuyoo",
+        "verified": false
+      }
+    ]
+  }
+}

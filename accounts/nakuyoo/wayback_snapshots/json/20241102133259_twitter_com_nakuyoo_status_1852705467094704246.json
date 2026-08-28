@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1852266488964747743",
+    "created_at": "2024-11-02T13:32:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-02T14:32:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1852705467094704246"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1784185682442780672",
+          "start": 0,
+          "username": "teng66351946709"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1852705467094704246",
+    "in_reply_to_user_id": "1784185682442780672",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1852703617691857216",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@teng66351946709 只有2個"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1852266488964747743",
+        "created_at": "2024-11-02T13:32:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-02T14:32:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1852705467094704246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1784185682442780672",
+              "start": 0,
+              "username": "teng66351946709"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852705467094704246",
+        "in_reply_to_user_id": "1784185682442780672",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1852703617691857216",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@teng66351946709 只有2個"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784185682442780672",
+        "conversation_id": "1852266488964747743",
+        "created_at": "2024-11-02T13:25:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-02T14:25:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1852703617691857216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1715624766571429888",
+              "start": 0,
+              "username": "nakuyoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852703617691857216",
+        "in_reply_to_user_id": "1715624766571429888",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1852266488964747743",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nakuyoo 你有多少个号   怎么总能刷到你   而且是不同的号"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@9wylovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "9wylovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/naku.yoo?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/naku.yoo?igsh=OHVpYmZjb3hpNjVy&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/aHjXW8BvfQ"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪300",
+        "name": "骨",
+        "pinned_tweet_id": "1851883910415945860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848654277562261504/e6twY_LF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16832,
+          "following_count": 31,
+          "like_count": 34710,
+          "listed_count": 28,
+          "tweet_count": 7078
+        },
+        "url": "https://t.co/aHjXW8BvfQ",
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-27T11:39:59.000Z",
+        "description": "使命就是为汉民族征战四方，荣耀就是为汉民族战死沙场。",
+        "id": "1784185682442780672",
+        "location": "钢铁丛林",
+        "name": "teng",
+        "pinned_tweet_id": "1833157367124386161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835747669207117824/HF7iEJID_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 1,
+          "like_count": 7,
+          "listed_count": 0,
+          "tweet_count": 353
+        },
+        "username": "teng66351946709",
+        "verified": false
+      }
+    ]
+  }
+}

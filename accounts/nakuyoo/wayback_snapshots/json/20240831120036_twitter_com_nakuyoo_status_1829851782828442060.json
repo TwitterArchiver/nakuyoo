@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1829851782828442060",
+    "created_at": "2024-08-31T12:00:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-31T13:00:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1829851782828442060"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/x_ing3077/stat…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/x_ing3077/status/1829850306840056188",
+          "start": 12,
+          "url": "https://t.co/IPeifqSlC4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1829851782828442060",
+    "lang": "art",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1829850306840056188",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🐓👏🏻👏🏻👏🏻👏🏻👏🏻 https://t.co/IPeifqSlC4"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1829851782828442060",
+        "created_at": "2024-08-31T12:00:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-31T13:00:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1829851782828442060"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/x_ing3077/stat…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/x_ing3077/status/1829850306840056188",
+              "start": 12,
+              "url": "https://t.co/IPeifqSlC4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1829851782828442060",
+        "lang": "art",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1829850306840056188",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🐓👏🏻👏🏻👏🏻👏🏻👏🏻 https://t.co/IPeifqSlC4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659207467069480965",
+        "conversation_id": "1829850306840056188",
+        "created_at": "2024-08-31T11:54:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-31T12:54:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1829850306840056188"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nakuyoo/status…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/nakuyoo/status/1829845289018278271",
+              "start": 4,
+              "url": "https://t.co/1d1KAVx6Y0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1829850306840056188",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1829845289018278271",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我兄🔥 https://t.co/1d1KAVx6Y0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@9wylovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "9wylovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/naku.yoo?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/naku.yoo?igsh=OHVpYmZjb3hpNjVy&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/aHjXW8BvfQ"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪250🇭🇰🇭🇰",
+        "name": "骨頭",
+        "pinned_tweet_id": "1823875339594191103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828756448404439040/FNqiVmFy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15661,
+          "following_count": 26,
+          "like_count": 33633,
+          "listed_count": 27,
+          "tweet_count": 6770
+        },
+        "url": "https://t.co/aHjXW8BvfQ",
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-18T14:41:17.000Z",
+        "description": "屌你老母 冇視奸我 \n視奸我 死全家\n\n主人@zizi_4_9",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 22,
+                "username": "zizi_4_9"
+              }
+            ]
+          }
+        },
+        "id": "1659207467069480965",
+        "name": "/杏仁糖",
+        "pinned_tweet_id": "1820892139120967834",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807836016382038017/n7tt9AKc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 173,
+          "like_count": 795,
+          "listed_count": 0,
+          "tweet_count": 982
+        },
+        "username": "x_ing3077",
+        "verified": false
+      }
+    ]
+  }
+}

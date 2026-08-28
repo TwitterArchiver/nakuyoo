@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1830028976016015663",
+    "created_at": "2024-09-01T01:58:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-01T02:58:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1830062532377395622"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1803909232233996288",
+          "start": 0,
+          "username": "wuleeeee01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1830062532377395622",
+    "in_reply_to_user_id": "1803909232233996288",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1830048848565403807",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wuleeeee01 謝謝寶寶😋😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1830028976016015663",
+        "created_at": "2024-09-01T01:58:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-01T02:58:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1830062532377395622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1803909232233996288",
+              "start": 0,
+              "username": "wuleeeee01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1830062532377395622",
+        "in_reply_to_user_id": "1803909232233996288",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1830048848565403807",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wuleeeee01 謝謝寶寶😋😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1803909232233996288",
+        "conversation_id": "1830028976016015663",
+        "created_at": "2024-09-01T01:03:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-01T02:03:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1830048848565403807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1715624766571429888",
+              "start": 0,
+              "username": "nakuyoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1830048848565403807",
+        "in_reply_to_user_id": "1715624766571429888",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1830028976016015663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nakuyoo 好帥😍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@9wylovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "9wylovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/naku.yoo?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/naku.yoo?igsh=OHVpYmZjb3hpNjVy&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/aHjXW8BvfQ"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪250🇭🇰🇭🇰",
+        "name": "骨頭",
+        "pinned_tweet_id": "1823875339594191103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828756448404439040/FNqiVmFy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15740,
+          "following_count": 27,
+          "like_count": 33683,
+          "listed_count": 27,
+          "tweet_count": 6784
+        },
+        "url": "https://t.co/aHjXW8BvfQ",
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-20T21:54:21.000Z",
+        "description": "大号乌狸 @wleeeee 被封 小号小乌狸. @wuleee_01日常 這裡放血图 重郁症 边缘型人格 リスカ shtwt｜164/45｜精神病患者｜自残｜女宝回fo私信我｜HSP｜INFJ不喜欢看自殘的请左转｜歡迎病友❤️私讯看心情回",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "wleeeee"
+              },
+              {
+                "end": 34,
+                "start": 24,
+                "username": "wuleee_01"
+              }
+            ]
+          }
+        },
+        "id": "1803909232233996288",
+        "location": "New Taipei City, Taiwan",
+        "name": "乌狸",
+        "pinned_tweet_id": "1806506418327236857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829838821716082688/ioEQCxsf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1107,
+          "following_count": 19,
+          "like_count": 243,
+          "listed_count": 1,
+          "tweet_count": 305
+        },
+        "username": "wuleeeee01",
+        "verified": false
+      }
+    ]
+  }
+}

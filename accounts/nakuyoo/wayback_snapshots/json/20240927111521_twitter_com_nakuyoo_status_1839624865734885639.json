@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1839624865734885639",
+    "created_at": "2024-09-27T11:15:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-27T12:15:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1839624865734885639"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/aurum_616/stat…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/aurum_616/status/1839603034533527989",
+          "start": 12,
+          "url": "https://t.co/gtwAMPXTjI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1839624865734885639",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1839603034533527989",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好像挺不錯🔥🔥🪠🪠🪠🪠 https://t.co/gtwAMPXTjI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1839624865734885639",
+        "created_at": "2024-09-27T11:15:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-27T12:15:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1839624865734885639"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aurum_616/stat…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/aurum_616/status/1839603034533527989",
+              "start": 12,
+              "url": "https://t.co/gtwAMPXTjI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839624865734885639",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1839603034533527989",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好像挺不錯🔥🔥🪠🪠🪠🪠 https://t.co/gtwAMPXTjI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1839603029097799680"
+          ]
+        },
+        "author_id": "1337749770970886145",
+        "conversation_id": "1839603034533527989",
+        "created_at": "2024-09-27T09:48:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-27T10:48:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1839603034533527989"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gircgzycoe",
+              "end": 34,
+              "expanded_url": "https://twitter.com/aurum_616/status/1839603034533527989/photo/1",
+              "media_key": "3_1839603029097799680",
+              "start": 11,
+              "url": "https://t.co/GiRCgzyCoe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839603034533527989",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1023,
+          "like_count": 85,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "学校の自分のロッカー https://t.co/GiRCgzyCoe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@9wylovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "9wylovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/naku.yoo?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/naku.yoo?igsh=OHVpYmZjb3hpNjVy&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/aHjXW8BvfQ"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪300🇭🇰",
+        "name": "骨仔",
+        "pinned_tweet_id": "1823875339594191103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831117464026943488/Eo_Zr6An_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16900,
+          "following_count": 31,
+          "like_count": 35067,
+          "listed_count": 31,
+          "tweet_count": 7029
+        },
+        "url": "https://t.co/aHjXW8BvfQ",
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-12T13:23:06.000Z",
+        "description": "限界高校生の日頃の鬱憤をはらす垢 返信出来たらします。 皆さんのおかげで生きれています。",
+        "id": "1337749770970886145",
+        "name": "あきぃ",
+        "pinned_tweet_id": "1831603705566916816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1746044250612207616/LVePcQwm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1267,
+          "following_count": 296,
+          "like_count": 9065,
+          "listed_count": 3,
+          "tweet_count": 665
+        },
+        "username": "aurum_616",
+        "verified": false
+      }
+    ]
+  }
+}

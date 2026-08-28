@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1885657368127762908",
+    "created_at": "2025-02-01T11:52:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-01T12:52:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1885657368127762908"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yuki_chan0527/…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/yuki_chan0527/status/1885647846298550386",
+          "start": 32,
+          "url": "https://t.co/71IOrRTHEX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885657368127762908",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885647846298550386",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😱😱😱😱小骨居然進化成苦力骨了😈😈😈😋😋😋😋😋🉑🉑👍🏻👍🏻👍🏻 https://t.co/71IOrRTHEX"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1885657368127762908",
+        "created_at": "2025-02-01T11:52:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-01T12:52:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1885657368127762908"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yuki_chan0527/…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/yuki_chan0527/status/1885647846298550386",
+              "start": 32,
+              "url": "https://t.co/71IOrRTHEX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885657368127762908",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885647846298550386",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😱😱😱😱小骨居然進化成苦力骨了😈😈😈😋😋😋😋😋🉑🉑👍🏻👍🏻👍🏻 https://t.co/71IOrRTHEX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1885647843773599744"
+          ]
+        },
+        "author_id": "1753698687811977216",
+        "conversation_id": "1885647846298550386",
+        "created_at": "2025-02-01T11:14:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-01T12:14:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1885647846298550386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1715624766571429888",
+              "start": 0,
+              "username": "nakuyoo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Nw4BYfBvkM",
+              "end": 32,
+              "expanded_url": "https://x.com/yuki_chan0527/status/1885647846298550386/photo/1",
+              "media_key": "3_1885647843773599744",
+              "start": 9,
+              "url": "https://t.co/Nw4BYfBvkM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885647846298550386",
+        "in_reply_to_user_id": "1715624766571429888",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@nakuyoo https://t.co/Nw4BYfBvkM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@b0n3_core｜@ukanooy0 2.0 ｜我不玩遊戲我只有推特小紅書Ig和threads其他均盜圖 我ip香港的⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "b0n3_core"
+              },
+              {
+                "end": 20,
+                "start": 11,
+                "username": "ukanooy0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/naku.yoo?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/naku.yoo?igsh=OHVpYmZjb3hpNjVy&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/aHjXW8BvfQ"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪300基本388簽名",
+        "name": "水母骨",
+        "pinned_tweet_id": "1878244958273978540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879131018059554816/s014GKa9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18175,
+          "following_count": 34,
+          "like_count": 35723,
+          "listed_count": 30,
+          "media_count": 108,
+          "tweet_count": 7483
+        },
+        "url": "https://t.co/aHjXW8BvfQ",
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-03T08:35:48.000Z",
+        "description": "⚠️负面注意⚠️| ⚠️自伤注意⚠️|神经病一个..| oc人\n🫧 私人帐号: @yuki_chan520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 40,
+                "username": "yuki_chan520"
+              }
+            ]
+          }
+        },
+        "id": "1753698687811977216",
+        "location": "天国",
+        "name": "灰尘 雪",
+        "pinned_tweet_id": "1855631481156284535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872744859867725824/IgkOo4Uu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 65,
+          "like_count": 630,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 178
+        },
+        "username": "yuki_chan0527",
+        "verified": false
+      }
+    ]
+  }
+}

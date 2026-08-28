@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1871064026069045548",
+    "created_at": "2024-12-23T07:43:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-23T08:43:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1871099253139116100"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1689650221612183552",
+          "start": 0,
+          "username": "ike1116CC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1871099253139116100",
+    "in_reply_to_user_id": "1689650221612183552",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1871097567116919032",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ike1116CC 😈😈😈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1871064026069045548",
+        "created_at": "2024-12-23T07:43:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-23T08:43:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1871099253139116100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1689650221612183552",
+              "start": 0,
+              "username": "ike1116CC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871099253139116100",
+        "in_reply_to_user_id": "1689650221612183552",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1871097567116919032",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ike1116CC 😈😈😈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1689650221612183552",
+        "conversation_id": "1871064026069045548",
+        "created_at": "2024-12-23T07:36:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-23T08:36:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1871097567116919032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1715624766571429888",
+              "start": 0,
+              "username": "nakuyoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871097567116919032",
+        "in_reply_to_user_id": "1715624766571429888",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1871064026069045548",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nakuyoo 可爱喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "🚪300 | @b0n3_core ｜苦力怕和小雞夢女💚💛",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "b0n3_core"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/naku.yoo?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/naku.yoo?igsh=OHVpYmZjb3hpNjVy&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/aHjXW8BvfQ"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "name": "水母骨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869007194752229376/VpXyZ867_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17405,
+          "following_count": 34,
+          "like_count": 34890,
+          "listed_count": 29,
+          "media_count": 63,
+          "tweet_count": 7116
+        },
+        "url": "https://t.co/aHjXW8BvfQ",
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-10T14:49:48.000Z",
+        "description": "精神狀態開始變差~！！！绝赞孤僻自闭网瘾堕中。超負能注意。えええ無敵！？！",
+        "id": "1689650221612183552",
+        "location": "精 神 天 堂★†",
+        "name": "貓籃ike",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1689650646247747584/74mLnkdQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 790,
+          "like_count": 30275,
+          "listed_count": 0,
+          "media_count": 168,
+          "tweet_count": 1937
+        },
+        "username": "ike1116CC",
+        "verified": false
+      }
+    ]
+  }
+}

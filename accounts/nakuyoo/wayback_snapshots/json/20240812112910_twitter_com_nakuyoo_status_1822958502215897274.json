@@ -1,0 +1,98 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1822958502215897274",
+    "created_at": "2024-08-12T11:29:10.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-12T12:29:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1822958502215897274"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1822958502215897274",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一直一直都在plan 腦子里不斷再換方法 \n務求得到一個十全十美的方法 \n今天看到新聞 \n瑞士只要花158塊就可以坐上安樂死儀器 \n我一直都非常渴望知道自己死後會去哪里 \n會不會有靈魂可以看到東西 很好奇 也漸漸想把自己當成「白老鼠」去嘗試一下 \n雖然結果是沒可能帶回來的 哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1822958502215897274",
+        "created_at": "2024-08-12T11:29:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-12T12:29:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1822958502215897274"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1822958502215897274",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一直一直都在plan 腦子里不斷再換方法 \n務求得到一個十全十美的方法 \n今天看到新聞 \n瑞士只要花158塊就可以坐上安樂死儀器 \n我一直都非常渴望知道自己死後會去哪里 \n會不會有靈魂可以看到東西 很好奇 也漸漸想把自己當成「白老鼠」去嘗試一下 \n雖然結果是沒可能帶回來的 哈哈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@9wylovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "9wylovo"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪250🇭🇰",
+        "name": "刻在骨子裏",
+        "pinned_tweet_id": "1822266798747595010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822625813629689856/KGMTxKge_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14553,
+          "following_count": 33,
+          "like_count": 32080,
+          "listed_count": 28,
+          "tweet_count": 6497
+        },
+        "username": "nakuyoo",
+        "verified": false
+      }
+    ]
+  }
+}

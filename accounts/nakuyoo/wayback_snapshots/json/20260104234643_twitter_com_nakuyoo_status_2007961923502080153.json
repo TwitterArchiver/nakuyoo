@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "2007424792329367735",
+    "created_at": "2026-01-04T23:46:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T00:46:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007961923502080153"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1753698687811977216",
+          "start": 0,
+          "username": "yuki_chan0527"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007961923502080153",
+    "in_reply_to_user_id": "1753698687811977216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007895770972950691",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuki_chan0527 對！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "2007424792329367735",
+        "created_at": "2026-01-04T23:46:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T00:46:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007961923502080153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1753698687811977216",
+              "start": 0,
+              "username": "yuki_chan0527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007961923502080153",
+        "in_reply_to_user_id": "1753698687811977216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007895770972950691",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuki_chan0527 對！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753698687811977216",
+        "conversation_id": "2007424792329367735",
+        "created_at": "2026-01-04T19:23:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T20:23:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007895770972950691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1715624766571429888",
+              "start": 0,
+              "username": "nakuyoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007895770972950691",
+        "in_reply_to_user_id": "1715624766571429888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007424792329367735",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nakuyoo 你回来了！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "無性戀/Intp",
+        "id": "1715624766571429888",
+        "location": "🚪300 388+cheki HK",
+        "name": "小骨",
+        "pinned_tweet_id": "1967587870547513723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977284713648996352/QlRWK9_l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16879,
+          "following_count": 8,
+          "like_count": 32866,
+          "listed_count": 31,
+          "media_count": 89,
+          "tweet_count": 7587
+        },
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-03T08:35:48.000Z",
+        "description": "在角落无人在意的灰尘\n对象: @yuki_chan520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "yuki_chan520"
+              }
+            ]
+          }
+        },
+        "id": "1753698687811977216",
+        "location": "垃圾场角落",
+        "name": "灰尘 雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872744859867725824/IgkOo4Uu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 125,
+          "like_count": 1329,
+          "listed_count": 2,
+          "media_count": 199,
+          "tweet_count": 1563
+        },
+        "username": "yuki_chan0527",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1822445042872815675",
+    "created_at": "2024-08-11T07:52:04.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-11T08:52:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1822541477576401390"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1539141341107847168",
+          "start": 0,
+          "username": "OooSaKuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1822541477576401390",
+    "in_reply_to_user_id": "1539141341107847168",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1822539193278693393",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OooSaKuu 我是除了讓我驚恐發作的那件事之外都想不出其他的 我專注了在那件事情上然後心跳加速 然後抑鬱就發作了 我不知道算不算驚恐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1822445042872815675",
+        "created_at": "2024-08-11T07:52:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-11T08:52:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822541477576401390"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1539141341107847168",
+              "start": 0,
+              "username": "OooSaKuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822541477576401390",
+        "in_reply_to_user_id": "1539141341107847168",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822539193278693393",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OooSaKuu 我是除了讓我驚恐發作的那件事之外都想不出其他的 我專注了在那件事情上然後心跳加速 然後抑鬱就發作了 我不知道算不算驚恐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1539141341107847168",
+        "conversation_id": "1822445042872815675",
+        "created_at": "2024-08-11T07:42:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-11T08:42:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822539193278693393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1715624766571429888",
+              "start": 0,
+              "username": "nakuyoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822539193278693393",
+        "in_reply_to_user_id": "1715624766571429888",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822445042872815675",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nakuyoo 我驚恐發作是沒辦法思考別的事情，冒汗整個人在抖，很害怕事情出現一直註視"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@9wylovo 只是一個Psychosis",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "9wylovo"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪250 香港",
+        "name": "骨骨",
+        "pinned_tweet_id": "1822266798747595010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822537156080103424/p5FQB6To_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14509,
+          "following_count": 33,
+          "like_count": 31847,
+          "listed_count": 28,
+          "tweet_count": 6429
+        },
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-21T07:01:17.000Z",
+        "description": "以前我沒得選，現在我不想做地雷男了",
+        "id": "1539141341107847168",
+        "name": "可妮（算命找我）",
+        "pinned_tweet_id": "1789768380028760254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782356087871807488/oGJqPdE__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 146,
+          "like_count": 3754,
+          "listed_count": 1,
+          "tweet_count": 1835
+        },
+        "username": "OooSaKuu",
+        "verified": false
+      }
+    ]
+  }
+}

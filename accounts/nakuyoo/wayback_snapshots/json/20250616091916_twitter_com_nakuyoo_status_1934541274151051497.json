@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1934541193389752320"
+      ]
+    },
+    "author_id": "1715624766571429888",
+    "conversation_id": "1934541274151051497",
+    "created_at": "2025-06-16T09:19:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-16T10:19:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1934541274151051497"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/sNV4lwAVVj",
+          "end": 31,
+          "expanded_url": "https://x.com/nakuyoo/status/1934541274151051497/video/1",
+          "media_key": "13_1934541193389752320",
+          "start": 8,
+          "url": "https://t.co/sNV4lwAVVj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934541274151051497",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我和詭秘玩秋千 https://t.co/sNV4lwAVVj"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 45251,
+        "height": 628,
+        "media_key": "13_1934541193389752320",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1934541193389752320/img/Z_wyFBamC0w1lg28.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1934541193389752320/vid/avc1/308x270/syLSWVIw_6bJ1HPC.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1934541193389752320/vid/avc1/412x360/0YuSYoIhcX2yYA0z.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1934541193389752320/vid/avc1/720x628/DVQBz7WgIk7BKace.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1934541193389752320/pl/wMIVxxF1ydJFJi00.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1934541193389752320"
+          ]
+        },
+        "author_id": "1715624766571429888",
+        "conversation_id": "1934541274151051497",
+        "created_at": "2025-06-16T09:19:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T10:19:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934541274151051497"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sNV4lwAVVj",
+              "end": 31,
+              "expanded_url": "https://x.com/nakuyoo/status/1934541274151051497/video/1",
+              "media_key": "13_1934541193389752320",
+              "start": 8,
+              "url": "https://t.co/sNV4lwAVVj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934541274151051497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我和詭秘玩秋千 https://t.co/sNV4lwAVVj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@ukanooy0 唯一2.0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "ukanooy0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/naku.yoo?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/naku.yoo?igsh=OHVpYmZjb3hpNjVy&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/aHjXW8BvfQ"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪300基本388簽名",
+        "name": "Inane骨",
+        "pinned_tweet_id": "1878244958273978540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931334867725504512/7kS_Yy1T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17276,
+          "following_count": 33,
+          "like_count": 33888,
+          "listed_count": 28,
+          "media_count": 69,
+          "tweet_count": 7462
+        },
+        "url": "https://t.co/aHjXW8BvfQ",
+        "username": "nakuyoo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "2087897438891966787",
+    "created_at": "2026-08-13T14:59:28.000Z",
+    "display_text_range": [
+      17,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T15:59:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087916954606846332"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2029854517685284864",
+          "start": 0,
+          "username": "d0llface_shioko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087916954606846332",
+    "in_reply_to_user_id": "2029854517685284864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087901254408433822",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@d0llface_shioko 暫時不會的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "2087897438891966787",
+        "created_at": "2026-08-13T14:59:28.000Z",
+        "display_text_range": [
+          17,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T15:59:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087916954606846332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2029854517685284864",
+              "start": 0,
+              "username": "d0llface_shioko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087916954606846332",
+        "in_reply_to_user_id": "2029854517685284864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087901254408433822",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@d0llface_shioko 暫時不會的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029854517685284864",
+        "conversation_id": "2087897438891966787",
+        "created_at": "2026-08-13T13:57:05.000Z",
+        "display_text_range": [
+          9,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T14:57:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087901254408433822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1715624766571429888",
+              "start": 0,
+              "username": "nakuyoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087901254408433822",
+        "in_reply_to_user_id": "1715624766571429888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087897438891966787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nakuyoo 你最近會不會去赤柱呀"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "ig: naku.yoo",
+        "id": "1715624766571429888",
+        "is_identity_verified": false,
+        "location": "🚪300聊天Hk",
+        "most_recent_tweet_id": "2087916954606846332",
+        "name": "骨",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1715624766571429888/1786271158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054838019136647168/v9qJCyvZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16641,
+          "following_count": 10,
+          "like_count": 31827,
+          "listed_count": 33,
+          "media_count": 256,
+          "tweet_count": 7898
+        },
+        "url": "",
+        "username": "nakuyoo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-06T09:40:17.000Z",
+        "description": "INTERNET ❤︎ ANGEL #地雷女 #夢女 09’ ₊˚⊹♡ #刃 ‘s since 𝟎𝟕.𝟎𝟑.𝟐𝟎𝟐𝟒 sharing 🆖 | insta/tt: d0llface_shioko⋆. 𐙚 ˚",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 22,
+                "start": 18,
+                "tag": "地雷女"
+              },
+              {
+                "end": 26,
+                "start": 23,
+                "tag": "夢女"
+              },
+              {
+                "end": 38,
+                "start": 36,
+                "tag": "刃"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/d0llface_shioko",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/d0llface_shioko",
+                "start": 0,
+                "url": "https://t.co/mI2hDEtyOc"
+              }
+            ]
+          }
+        },
+        "id": "2029854517685284864",
+        "is_identity_verified": false,
+        "location": "🇭🇰 | priv: shios_archive",
+        "most_recent_tweet_id": "2087915468128751806",
+        "name": "SHIOKO/刃の愛 ˚₊‧꒰ა ♡ ໒꒱ ‧₊˚",
+        "pinned_tweet_id": "2052600080159703135",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2029854517685284864/1783384262",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074290060393058304/gu7A6nkr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2735,
+          "following_count": 1332,
+          "like_count": 4629,
+          "listed_count": 29,
+          "media_count": 405,
+          "tweet_count": 3231
+        },
+        "url": "https://t.co/mI2hDEtyOc",
+        "username": "d0llface_shioko",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

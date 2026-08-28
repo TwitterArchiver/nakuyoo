@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1962013831309472118",
+    "created_at": "2025-08-31T08:14:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T09:14:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962066451487146292"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1556635694717878274",
+          "start": 0,
+          "username": "whoisveritsu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962066451487146292",
+    "in_reply_to_user_id": "1556635694717878274",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962013831309472118",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whoisveritsu 😍🔥🔥🔥🔥"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1779,
+        "media_key": "3_1962013815618592768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gzp5K4xa4AAXJbL.jpg",
+        "width": 913
+      },
+      {
+        "height": 685,
+        "media_key": "3_1962013815622848513",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gzp5K4yb0AEhRzW.jpg",
+        "width": 1284
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1962013815622754304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gzp5K4yaYAAufch.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1962013815610245121",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gzp5K4vbgAEu_dq.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1962013831309472118",
+        "created_at": "2025-08-31T08:14:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T09:14:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962066451487146292"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1556635694717878274",
+              "start": 0,
+              "username": "whoisveritsu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962066451487146292",
+        "in_reply_to_user_id": "1556635694717878274",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962013831309472118",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whoisveritsu 😍🔥🔥🔥🔥"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962013815618592768",
+            "3_1962013815622848513",
+            "3_1962013815622754304",
+            "3_1962013815610245121"
+          ]
+        },
+        "author_id": "1556635694717878274",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1962013831309472118",
+        "created_at": "2025-08-31T04:45:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T05:45:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962013831309472118"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HuZNao4ntI",
+              "end": 25,
+              "expanded_url": "https://x.com/whoisveritsu/status/1962013831309472118/photo/1",
+              "media_key": "3_1962013815618592768",
+              "start": 2,
+              "url": "https://t.co/HuZNao4ntI"
+            },
+            {
+              "display_url": "pic.x.com/HuZNao4ntI",
+              "end": 25,
+              "expanded_url": "https://x.com/whoisveritsu/status/1962013831309472118/photo/1",
+              "media_key": "3_1962013815622848513",
+              "start": 2,
+              "url": "https://t.co/HuZNao4ntI"
+            },
+            {
+              "display_url": "pic.x.com/HuZNao4ntI",
+              "end": 25,
+              "expanded_url": "https://x.com/whoisveritsu/status/1962013831309472118/photo/1",
+              "media_key": "3_1962013815622754304",
+              "start": 2,
+              "url": "https://t.co/HuZNao4ntI"
+            },
+            {
+              "display_url": "pic.x.com/HuZNao4ntI",
+              "end": 25,
+              "expanded_url": "https://x.com/whoisveritsu/status/1962013831309472118/photo/1",
+              "media_key": "3_1962013815610245121",
+              "start": 2,
+              "url": "https://t.co/HuZNao4ntI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962013831309472118",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🥺 https://t.co/HuZNao4ntI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "🎵:nakubone📕nakuyoo ig:naku.yoo ｜定期清列表",
+        "id": "1715624766571429888",
+        "location": "🚪300 388+cheki HK",
+        "name": "水母骨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931334867725504512/7kS_Yy1T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17394,
+          "following_count": 27,
+          "like_count": 33971,
+          "listed_count": 30,
+          "media_count": 96,
+          "tweet_count": 7561
+        },
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-08T13:37:51.000Z",
+        "description": "˚₊· ͟͟͞͞➳❥ #真理医生 ‘s forever archivist circa 15 . 12 . 2023 ┊ 𝙉𝙊𝙉-𝙎𝙃𝘼𝙍𝙄𝙉𝙂 𝙔𝙐𝙈𝙀 ✧.* #地雷系 #量産型 #サブカル˗ˏˋEN/中⭕️ ´ˎ˗",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 16,
+                "start": 11,
+                "tag": "真理医生"
+              },
+              {
+                "end": 86,
+                "start": 82,
+                "tag": "地雷系"
+              },
+              {
+                "end": 91,
+                "start": 87,
+                "tag": "量産型"
+              },
+              {
+                "end": 97,
+                "start": 92,
+                "tag": "サブカル"
+              }
+            ]
+          }
+        },
+        "id": "1556635694717878274",
+        "location": "インターネット",
+        "name": "ETSUKO / 悦子 🍭/ ratio’s",
+        "pinned_tweet_id": "1921559625326801186",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921561471873609728/uQjEFgZd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1086,
+          "following_count": 944,
+          "like_count": 12990,
+          "listed_count": 13,
+          "media_count": 3262,
+          "tweet_count": 16931
+        },
+        "username": "whoisveritsu",
+        "verified": false
+      }
+    ]
+  }
+}

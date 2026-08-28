@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1870091030990860584",
+    "created_at": "2024-12-20T12:57:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-20T13:57:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1870091030990860584"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1699952076900470784",
+          "start": 3,
+          "username": "fuckniquanjia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1870091030990860584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1869689973982806443",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @fuckniquanjia: 从小到大被贯彻穷逼概念😆😆"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1870091030990860584",
+        "created_at": "2024-12-20T12:57:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-20T13:57:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1870091030990860584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1699952076900470784",
+              "start": 3,
+              "username": "fuckniquanjia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1870091030990860584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869689973982806443",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @fuckniquanjia: 从小到大被贯彻穷逼概念😆😆"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699952076900470784",
+        "conversation_id": "1869689973982806443",
+        "created_at": "2024-12-19T10:23:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-19T11:23:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1869689973982806443"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1869689973982806443",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 813,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "following",
+        "text": "从小到大被贯彻穷逼概念😆😆"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "🚪300 | @b0n3_core",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "b0n3_core"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/naku.yoo?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/naku.yoo?igsh=OHVpYmZjb3hpNjVy&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/aHjXW8BvfQ"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "name": "水母骨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869007194752229376/VpXyZ867_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17366,
+          "following_count": 33,
+          "like_count": 34679,
+          "listed_count": 28,
+          "media_count": 56,
+          "tweet_count": 7079
+        },
+        "url": "https://t.co/aHjXW8BvfQ",
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-08T01:05:43.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/shuimika233",
+                "end": 23,
+                "expanded_url": "https://lit.link/shuimika233",
+                "start": 0,
+                "url": "https://t.co/xVZiO9kCSS"
+              }
+            ]
+          }
+        },
+        "id": "1699952076900470784",
+        "location": "🚪188/288/520",
+        "name": ":3",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869822502782042112/TekV5G4u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4228,
+          "following_count": 233,
+          "like_count": 19791,
+          "listed_count": 6,
+          "media_count": 102,
+          "tweet_count": 9830
+        },
+        "url": "https://t.co/xVZiO9kCSS",
+        "username": "fuckniquanjia",
+        "verified": false
+      }
+    ]
+  }
+}

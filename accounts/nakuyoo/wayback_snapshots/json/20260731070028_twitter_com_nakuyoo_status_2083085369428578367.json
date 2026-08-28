@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083085360863870976",
+        "3_2083085360905728001"
+      ]
+    },
+    "author_id": "1715624766571429888",
+    "conversation_id": "2083085369428578367",
+    "created_at": "2026-07-31T07:00:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T08:00:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083085369428578367"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/oQmBJckAFX",
+          "end": 28,
+          "expanded_url": "https://x.com/nakuyoo/status/2083085369428578367/photo/1",
+          "media_key": "3_2083085360863870976",
+          "start": 5,
+          "url": "https://t.co/oQmBJckAFX"
+        },
+        {
+          "display_url": "pic.x.com/oQmBJckAFX",
+          "end": 28,
+          "expanded_url": "https://x.com/nakuyoo/status/2083085369428578367/photo/1",
+          "media_key": "3_2083085360905728001",
+          "start": 5,
+          "url": "https://t.co/oQmBJckAFX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083085369428578367",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "貝印夢女 https://t.co/oQmBJckAFX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2083085360863870976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOibGVsbgAAMmNn.jpg",
+        "width": 1125
+      },
+      {
+        "height": 2000,
+        "media_key": "3_2083085360905728001",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOibGV2aMAE9xB3.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083085360863870976",
+            "3_2083085360905728001"
+          ]
+        },
+        "author_id": "1715624766571429888",
+        "conversation_id": "2083085369428578367",
+        "created_at": "2026-07-31T07:00:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T08:00:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083085369428578367"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oQmBJckAFX",
+              "end": 28,
+              "expanded_url": "https://x.com/nakuyoo/status/2083085369428578367/photo/1",
+              "media_key": "3_2083085360863870976",
+              "start": 5,
+              "url": "https://t.co/oQmBJckAFX"
+            },
+            {
+              "display_url": "pic.x.com/oQmBJckAFX",
+              "end": 28,
+              "expanded_url": "https://x.com/nakuyoo/status/2083085369428578367/photo/1",
+              "media_key": "3_2083085360905728001",
+              "start": 5,
+              "url": "https://t.co/oQmBJckAFX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083085369428578367",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "貝印夢女 https://t.co/oQmBJckAFX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "",
+        "id": "1715624766571429888",
+        "location": "🚪300聊天Hk",
+        "name": "骨仔Inane",
+        "pinned_tweet_id": "2078746097108054140",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054838019136647168/v9qJCyvZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16638,
+          "following_count": 8,
+          "like_count": 31751,
+          "listed_count": 33,
+          "media_count": 224,
+          "tweet_count": 7815
+        },
+        "url": "",
+        "username": "nakuyoo",
+        "verified": false
+      }
+    ]
+  }
+}

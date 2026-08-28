@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1824977707287130366",
+    "created_at": "2024-08-18T04:53:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-18T05:53:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1825033362580378045"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1539141341107847168",
+          "start": 0,
+          "username": "OooSaKuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1825033362580378045",
+    "in_reply_to_user_id": "1539141341107847168",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1825019151594991703",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OooSaKuu 🌝👍🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1824977707287130366",
+        "created_at": "2024-08-18T04:53:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-18T05:53:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1825033362580378045"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1539141341107847168",
+              "start": 0,
+              "username": "OooSaKuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825033362580378045",
+        "in_reply_to_user_id": "1539141341107847168",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1825019151594991703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OooSaKuu 🌝👍🏻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1539141341107847168",
+        "conversation_id": "1824977707287130366",
+        "created_at": "2024-08-18T03:57:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-18T04:57:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1825019151594991703"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1715624766571429888",
+              "start": 0,
+              "username": "nakuyoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825019151594991703",
+        "in_reply_to_user_id": "1715624766571429888",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1824977707287130366",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nakuyoo omg好美"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "一個精神病 完 @9wylovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 8,
+                "username": "9wylovo"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪250🇭🇰",
+        "name": "刻在骨子裏",
+        "pinned_tweet_id": "1823875339594191103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822625813629689856/KGMTxKge_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15097,
+          "following_count": 33,
+          "like_count": 32650,
+          "listed_count": 27,
+          "tweet_count": 6649
+        },
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-21T07:01:17.000Z",
+        "description": "以前我沒得選，現在我不想做地雷男了",
+        "id": "1539141341107847168",
+        "name": "可妮（算命找我）",
+        "pinned_tweet_id": "1789768380028760254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782356087871807488/oGJqPdE__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 169,
+          "like_count": 4258,
+          "listed_count": 1,
+          "tweet_count": 1976
+        },
+        "username": "OooSaKuu",
+        "verified": false
+      }
+    ]
+  }
+}

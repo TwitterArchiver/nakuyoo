@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2026071048094171474",
+    "created_at": "2026-02-23T23:05:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T00:05:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026071048094171474"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 107,
+          "normalized_text": "Twitter",
+          "probability": 0.9479,
+          "start": 101,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2025602670652989440",
+          "start": 3,
+          "username": "4ever16iam"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026071048094171474",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025960025588646062",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @4ever16iam: My followers babies pls come back😭😭😭Don’t forget me, all I have left are you guys on Twitter.Plssss help me repo😭 https://t…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2026071048094171474].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2026071048094171474",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2026071048094171474"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2025960014708637696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB2n5j3agAAytzN.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2025960014721236993",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB2n5j6awAElj7p.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025960014708637696",
+            "3_2025960014721236993"
+          ]
+        },
+        "author_id": "2025602670652989440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2025960025588646062",
+        "created_at": "2026-02-23T15:44:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T16:44:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025960025588646062"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 91,
+              "normalized_text": "Twitter",
+              "probability": 0.9506,
+              "start": 85,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7PNaKgzskb",
+              "end": 137,
+              "expanded_url": "https://x.com/4ever16iam/status/2025960025588646062/photo/1",
+              "media_key": "3_2025960014708637696",
+              "start": 114,
+              "url": "https://t.co/7PNaKgzskb"
+            },
+            {
+              "display_url": "pic.x.com/7PNaKgzskb",
+              "end": 137,
+              "expanded_url": "https://x.com/4ever16iam/status/2025960025588646062/photo/1",
+              "media_key": "3_2025960014721236993",
+              "start": 114,
+              "url": "https://t.co/7PNaKgzskb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025960025588646062",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 102,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "My followers babies pls come back😭😭😭Don’t forget me, all I have left are you guys on Twitter.Plssss help me repo😭 https://t.co/7PNaKgzskb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "🎵:nakubone📕nakuyoo ig:naku.yoo🚪300聊天",
+        "id": "1715624766571429888",
+        "location": "🚪300 388+cheki HK",
+        "name": "小骨",
+        "pinned_tweet_id": "1967587870547513723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977284713648996352/QlRWK9_l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16733,
+          "following_count": 9,
+          "like_count": 32899,
+          "listed_count": 31,
+          "media_count": 116,
+          "tweet_count": 7635
+        },
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-22T16:09:19.000Z",
+        "description": "𝕤𝕙 | 𝕠𝕕 | 𝕤𝕒 | 𝕞𝕖𝕟𝕥𝕒𝕝 𝕒𝕟𝕕 𝕓𝕖𝕙𝕒𝕧𝕚𝕠𝕦𝕣𝕒𝕝 𝕕𝕚𝕤𝕠𝕣𝕕𝕖𝕣 | 𝕞𝕕𝕕 | 𝕖𝕕 | 𝕒𝕟 {𝔹𝕄𝕀𝟙𝟚.𝟝} | 𝕙𝕩 𝕓𝕡𝕕",
+        "id": "2025602670652989440",
+        "name": "零魂",
+        "pinned_tweet_id": "2025608039676740066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025604416104206337/SMZViFCe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 12,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 5
+        },
+        "username": "4ever16iam",
+        "verified": false
+      }
+    ]
+  }
+}

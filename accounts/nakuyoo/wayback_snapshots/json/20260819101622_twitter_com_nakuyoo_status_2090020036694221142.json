@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090020026741080064",
+        "3_2090020026720124928"
+      ]
+    },
+    "author_id": "1715624766571429888",
+    "conversation_id": "2090020036694221142",
+    "created_at": "2026-08-19T10:16:22.000Z",
+    "display_text_range": [
+      0,
+      2
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T11:16:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090020036694221142"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mxRaIV8a9z",
+          "end": 26,
+          "expanded_url": "https://x.com/nakuyoo/status/2090020036694221142/photo/1",
+          "media_key": "3_2090020026741080064",
+          "start": 3,
+          "url": "https://t.co/mxRaIV8a9z"
+        },
+        {
+          "display_url": "pic.x.com/mxRaIV8a9z",
+          "end": 26,
+          "expanded_url": "https://x.com/nakuyoo/status/2090020036694221142/photo/1",
+          "media_key": "3_2090020026720124928",
+          "start": 3,
+          "url": "https://t.co/mxRaIV8a9z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090020036694221142",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2090020026741080064"
+      },
+      {
+        "media_key": "3_2090020026720124928"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "西貢 https://t.co/mxRaIV8a9z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2090020026741080064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQE-JBNawAAyCK1.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2090020026720124928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQE-JBIbAAAINE0.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090020026741080064",
+            "3_2090020026720124928"
+          ]
+        },
+        "author_id": "1715624766571429888",
+        "conversation_id": "2090020036694221142",
+        "created_at": "2026-08-19T10:16:22.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T11:16:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090020036694221142"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mxRaIV8a9z",
+              "end": 26,
+              "expanded_url": "https://x.com/nakuyoo/status/2090020036694221142/photo/1",
+              "media_key": "3_2090020026741080064",
+              "start": 3,
+              "url": "https://t.co/mxRaIV8a9z"
+            },
+            {
+              "display_url": "pic.x.com/mxRaIV8a9z",
+              "end": 26,
+              "expanded_url": "https://x.com/nakuyoo/status/2090020036694221142/photo/1",
+              "media_key": "3_2090020026720124928",
+              "start": 3,
+              "url": "https://t.co/mxRaIV8a9z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090020036694221142",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2090020026741080064"
+          },
+          {
+            "media_key": "3_2090020026720124928"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "西貢 https://t.co/mxRaIV8a9z"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "ig: naku.yoo",
+        "id": "1715624766571429888",
+        "is_identity_verified": false,
+        "location": "🚪300聊天Hk 可純綠",
+        "most_recent_tweet_id": "2090020036694221142",
+        "name": "骨",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1715624766571429888/1786891740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089001260796317696/MSm_ClEA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17359,
+          "following_count": 10,
+          "like_count": 31927,
+          "listed_count": 33,
+          "media_count": 291,
+          "tweet_count": 7956
+        },
+        "url": "",
+        "username": "nakuyoo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

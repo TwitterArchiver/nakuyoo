@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085610081090183168",
+        "3_2085610081060847616"
+      ],
+      "media_source_tweet_id": [
+        "2085610099889115618",
+        "2085610099889115618"
+      ]
+    },
+    "author_id": "1715624766571429888",
+    "conversation_id": "2085744511972761677",
+    "created_at": "2026-08-07T15:06:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T16:06:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085744511972761677"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1550593157876060160",
+          "start": 3,
+          "username": "Fumi_uowou_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ub7MO7CofT",
+          "end": 62,
+          "expanded_url": "https://x.com/Fumi_uowou_/status/2085610099889115618/photo/1",
+          "media_key": "3_2085610081090183168",
+          "start": 39,
+          "url": "https://t.co/Ub7MO7CofT"
+        },
+        {
+          "display_url": "pic.x.com/Ub7MO7CofT",
+          "end": 62,
+          "expanded_url": "https://x.com/Fumi_uowou_/status/2085610099889115618/photo/1",
+          "media_key": "3_2085610081060847616",
+          "start": 39,
+          "url": "https://t.co/Ub7MO7CofT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085744511972761677",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085610099889115618",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Fumi_uowou_: 第一張圖是努力經營\n第二張圖是本性逐漸露出 https://t.co/Ub7MO7CofT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2085610081090183168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPGTUZdaoAAhTcO.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2085610081060847616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPGTUZWbAAApPt9.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085610081090183168",
+            "3_2085610081060847616"
+          ]
+        },
+        "author_id": "1550593157876060160",
+        "conversation_id": "2085610099889115618",
+        "created_at": "2026-08-07T06:12:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T07:12:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085610099889115618"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ub7MO7CofT",
+              "end": 45,
+              "expanded_url": "https://x.com/Fumi_uowou_/status/2085610099889115618/photo/1",
+              "media_key": "3_2085610081090183168",
+              "start": 22,
+              "url": "https://t.co/Ub7MO7CofT"
+            },
+            {
+              "display_url": "pic.x.com/Ub7MO7CofT",
+              "end": 45,
+              "expanded_url": "https://x.com/Fumi_uowou_/status/2085610099889115618/photo/1",
+              "media_key": "3_2085610081060847616",
+              "start": 22,
+              "url": "https://t.co/Ub7MO7CofT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085610099889115618",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 9416,
+          "like_count": 149,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "第一張圖是努力經營\n第二張圖是本性逐漸露出 https://t.co/Ub7MO7CofT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085610081090183168",
+            "3_2085610081060847616"
+          ],
+          "media_source_tweet_id": [
+            "2085610099889115618",
+            "2085610099889115618"
+          ]
+        },
+        "author_id": "1715624766571429888",
+        "conversation_id": "2085744511972761677",
+        "created_at": "2026-08-07T15:06:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T16:06:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085744511972761677"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1550593157876060160",
+              "start": 3,
+              "username": "Fumi_uowou_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ub7MO7CofT",
+              "end": 62,
+              "expanded_url": "https://x.com/Fumi_uowou_/status/2085610099889115618/photo/1",
+              "media_key": "3_2085610081090183168",
+              "start": 39,
+              "url": "https://t.co/Ub7MO7CofT"
+            },
+            {
+              "display_url": "pic.x.com/Ub7MO7CofT",
+              "end": 62,
+              "expanded_url": "https://x.com/Fumi_uowou_/status/2085610099889115618/photo/1",
+              "media_key": "3_2085610081060847616",
+              "start": 39,
+              "url": "https://t.co/Ub7MO7CofT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085744511972761677",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085610099889115618",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Fumi_uowou_: 第一張圖是努力經營\n第二張圖是本性逐漸露出 https://t.co/Ub7MO7CofT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "",
+        "id": "1715624766571429888",
+        "location": "🚪300聊天Hk",
+        "name": "骨仔Inane",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054838019136647168/v9qJCyvZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16642,
+          "following_count": 9,
+          "like_count": 31720,
+          "listed_count": 33,
+          "media_count": 227,
+          "tweet_count": 7825
+        },
+        "url": "",
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-22T21:26:53.000Z",
+        "description": "病み垢暴言｜地雷系｜永遠の16歳 ｜社不\n和社會對立",
+        "id": "1550593157876060160",
+        "location": "地獄",
+        "name": "ふみわんちゃん🦭🌧️",
+        "pinned_tweet_id": "2020858399106248987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990852953499185154/HwgnW6Z__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1688,
+          "following_count": 140,
+          "like_count": 21035,
+          "listed_count": 5,
+          "media_count": 317,
+          "tweet_count": 2893
+        },
+        "url": "",
+        "username": "Fumi_uowou_",
+        "verified": false
+      }
+    ]
+  }
+}

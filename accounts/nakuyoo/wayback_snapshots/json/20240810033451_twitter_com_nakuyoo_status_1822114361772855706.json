@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1822089119952240691",
+    "created_at": "2024-08-10T03:34:51.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-10T04:34:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1822114361772855706"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "3770053992",
+          "start": 0,
+          "username": "loveglasslip"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1822114361772855706",
+    "in_reply_to_user_id": "3770053992",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1822091147298341035",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@loveglasslip 對"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1822089119952240691",
+        "created_at": "2024-08-10T03:34:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-10T04:34:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822114361772855706"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "3770053992",
+              "start": 0,
+              "username": "loveglasslip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822114361772855706",
+        "in_reply_to_user_id": "3770053992",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822091147298341035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loveglasslip 對"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3770053992",
+        "conversation_id": "1822089119952240691",
+        "created_at": "2024-08-10T02:02:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-10T03:02:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822091147298341035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1715624766571429888",
+              "start": 0,
+              "username": "nakuyoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822091147298341035",
+        "in_reply_to_user_id": "1715624766571429888",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822089119952240691",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nakuyoo 它骂的好难听"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@9wylovo 慘得可笑",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "9wylovo"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪250 香港",
+        "name": "刻在骨子裏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821861972964732929/fzCuDq0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14474,
+          "following_count": 32,
+          "like_count": 32352,
+          "listed_count": 28,
+          "tweet_count": 6395
+        },
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2015-10-03T12:51:52.000Z",
+        "description": "ntr",
+        "id": "3770053992",
+        "name": "女澡堂的男搓澡工",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821866853872041984/LcInt0Q1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 56,
+          "like_count": 130,
+          "listed_count": 0,
+          "tweet_count": 308
+        },
+        "username": "loveglasslip",
+        "verified": false
+      }
+    ]
+  }
+}

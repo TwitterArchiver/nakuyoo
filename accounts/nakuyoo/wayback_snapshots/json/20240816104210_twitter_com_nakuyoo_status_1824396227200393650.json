@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1824380299859595666",
+    "created_at": "2024-08-16T10:42:10.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-16T11:42:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1824396227200393650"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1232262968307412994",
+          "start": 0,
+          "username": "Xw9IWBppIWVSiLO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1824396227200393650",
+    "in_reply_to_user_id": "1232262968307412994",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1824391624308429159",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xw9IWBppIWVSiLO 耶死！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1824380299859595666",
+        "created_at": "2024-08-16T10:42:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-16T11:42:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1824396227200393650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1232262968307412994",
+              "start": 0,
+              "username": "Xw9IWBppIWVSiLO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824396227200393650",
+        "in_reply_to_user_id": "1232262968307412994",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1824391624308429159",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xw9IWBppIWVSiLO 耶死！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1232262968307412994",
+        "conversation_id": "1824380299859595666",
+        "created_at": "2024-08-16T10:23:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-16T11:23:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1824391624308429159"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1715624766571429888",
+              "start": 0,
+              "username": "nakuyoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824391624308429159",
+        "in_reply_to_user_id": "1715624766571429888",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1824380299859595666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nakuyoo 💀面具回來辣&gt;&lt;"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "一個精神病 完 @9wylovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 8,
+                "username": "9wylovo"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪250🇭🇰",
+        "name": "刻在骨子裏",
+        "pinned_tweet_id": "1823875339594191103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822625813629689856/KGMTxKge_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14915,
+          "following_count": 33,
+          "like_count": 32589,
+          "listed_count": 28,
+          "tweet_count": 6622
+        },
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-25T11:16:12.000Z",
+        "description": "modernia♥\n男高18y\n喜歡 動漫/遊戲（電腦居多）/音樂（最喜歡joji！）",
+        "id": "1232262968307412994",
+        "name": "敗北男角太多了！",
+        "pinned_tweet_id": "1822562755079229917",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794459356479803392/Q74y8WTx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 284,
+          "like_count": 1166,
+          "listed_count": 0,
+          "tweet_count": 266
+        },
+        "username": "Xw9IWBppIWVSiLO",
+        "verified": false
+      }
+    ]
+  }
+}

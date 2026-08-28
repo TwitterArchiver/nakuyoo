@@ -1,0 +1,397 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Nov 03 14:51:07 +0000 2021",
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "display_url": "pic.twitter.com/gvJ1fb5AMd",
+        "expanded_url": "https://twitter.com/x655063/status/1455866585726390282/video/1",
+        "id": 1455866520283000833,
+        "id_str": "1455866520283000833",
+        "indices": [
+          98,
+          121
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1455866520283000833/pu/img/zG8_BrGTXfrph4QE.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1455866520283000833/pu/img/zG8_BrGTXfrph4QE.jpg",
+        "sizes": {
+          "large": {
+            "h": 1080,
+            "resize": "fit",
+            "w": 1920
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1455866585726390282,
+        "source_status_id_str": "1455866585726390282",
+        "source_user_id": 1417644951668596738,
+        "source_user_id_str": "1417644951668596738",
+        "type": "photo",
+        "url": "https://t.co/gvJ1fb5AMd"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 1417644951668596738,
+        "id_str": "1417644951668596738",
+        "indices": [
+          3,
+          11
+        ],
+        "name": "어쿵흥야",
+        "screen_name": "x655063"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "display_url": "pic.twitter.com/gvJ1fb5AMd",
+        "expanded_url": "https://twitter.com/x655063/status/1455866585726390282/video/1",
+        "id": 1455866520283000833,
+        "id_str": "1455866520283000833",
+        "indices": [
+          98,
+          121
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1455866520283000833/pu/img/zG8_BrGTXfrph4QE.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1455866520283000833/pu/img/zG8_BrGTXfrph4QE.jpg",
+        "sizes": {
+          "large": {
+            "h": 1080,
+            "resize": "fit",
+            "w": 1920
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1455866585726390282,
+        "source_status_id_str": "1455866585726390282",
+        "source_user_id": 1417644951668596738,
+        "source_user_id_str": "1417644951668596738",
+        "type": "video",
+        "url": "https://t.co/gvJ1fb5AMd",
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 5005,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1455866520283000833/pu/pl/wBXulKqvTb5Sh3XG.m3u8?tag=12&container=fmp4"
+            },
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1455866520283000833/pu/vid/480x270/1HerN1Ulpzyb6_40.mp4?tag=12"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1455866520283000833/pu/vid/1280x720/kEdd6WTfWFZ31EXn.mp4?tag=12"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1455866520283000833/pu/vid/640x360/9PvmOs8AyZZo1DGI.mp4?tag=12"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "filter_level": "low",
+  "geo": null,
+  "id": 1455910417373351946,
+  "id_str": "1455910417373351946",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "ko",
+  "place": null,
+  "possibly_sensitive": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Nov 03 11:56:57 +0000 2021",
+    "display_text_range": [
+      0,
+      84
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/gvJ1fb5AMd",
+          "expanded_url": "https://twitter.com/x655063/status/1455866585726390282/video/1",
+          "id": 1455866520283000833,
+          "id_str": "1455866520283000833",
+          "indices": [
+            85,
+            108
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1455866520283000833/pu/img/zG8_BrGTXfrph4QE.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1455866520283000833/pu/img/zG8_BrGTXfrph4QE.jpg",
+          "sizes": {
+            "large": {
+              "h": 1080,
+              "resize": "fit",
+              "w": 1920
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/gvJ1fb5AMd"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/gvJ1fb5AMd",
+          "expanded_url": "https://twitter.com/x655063/status/1455866585726390282/video/1",
+          "id": 1455866520283000833,
+          "id_str": "1455866520283000833",
+          "indices": [
+            85,
+            108
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1455866520283000833/pu/img/zG8_BrGTXfrph4QE.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1455866520283000833/pu/img/zG8_BrGTXfrph4QE.jpg",
+          "sizes": {
+            "large": {
+              "h": 1080,
+              "resize": "fit",
+              "w": 1920
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/gvJ1fb5AMd",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 5005,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1455866520283000833/pu/pl/wBXulKqvTb5Sh3XG.m3u8?tag=12&container=fmp4"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1455866520283000833/pu/vid/480x270/1HerN1Ulpzyb6_40.mp4?tag=12"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1455866520283000833/pu/vid/1280x720/kEdd6WTfWFZ31EXn.mp4?tag=12"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1455866520283000833/pu/vid/640x360/9PvmOs8AyZZo1DGI.mp4?tag=12"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 1236,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1455866585726390282,
+    "id_str": "1455866585726390282",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "ko",
+    "place": null,
+    "possibly_sensitive": false,
+    "quote_count": 235,
+    "reply_count": 1,
+    "retweet_count": 3318,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "어도비 센세이...동영상에서 개체 삭제가 가능한 모양인데 대체 이 자식들은 뭘 만드는 거야 이럴 거면 지구에서 빠른선택툴로 동물학대범들 누끼따서 없애줘 https://t.co/gvJ1fb5AMd",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Jul 21 00:37:54 +0000 2021",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "앤캐가 호랭이라 어흥 / 나 하나 옆에 있다고…, 행복해 보였을 때…. /  i,h : commission",
+      "favourites_count": 1487,
+      "follow_request_sent": null,
+      "followers_count": 137,
+      "following": null,
+      "friends_count": 169,
+      "geo_enabled": false,
+      "id": 1417644951668596738,
+      "id_str": "1417644951668596738",
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 2,
+      "location": null,
+      "name": "어쿵흥야",
+      "notifications": null,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1417644951668596738/1632003658",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1454847356797857792/UcRx1yxM_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1454847356797857792/UcRx1yxM_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "x655063",
+      "statuses_count": 13386,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": false,
+      "withheld_in_countries": []
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "RT @x655063: 어도비 센세이...동영상에서 개체 삭제가 가능한 모양인데 대체 이 자식들은 뭘 만드는 거야 이럴 거면 지구에서 빠른선택툴로 동물학대범들 누끼따서 없애줘 https://t.co/gvJ1fb5AMd",
+  "timestamp_ms": "1635951067666",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Thu Jan 21 15:14:33 +0000 2016",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": null,
+    "favourites_count": 10126,
+    "follow_request_sent": null,
+    "followers_count": 16,
+    "following": null,
+    "friends_count": 1043,
+    "geo_enabled": false,
+    "id": 4793618556,
+    "id_str": "4793618556",
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 0,
+    "location": null,
+    "name": "흠",
+    "notifications": null,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1243451219424632833/Z2hU6gGE_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1243451219424632833/Z2hU6gGE_normal.jpg",
+    "profile_link_color": "9266CC",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "protected": false,
+    "screen_name": "nakuyoo",
+    "statuses_count": 8225,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": null,
+    "utc_offset": null,
+    "verified": false,
+    "withheld_in_countries": []
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1968068559214612520",
+    "created_at": "2025-09-17T00:57:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T01:57:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968117038595137559"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1584153318548713474",
+          "start": 0,
+          "username": "luvme4ever_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968117038595137559",
+    "in_reply_to_user_id": "1584153318548713474",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968068559214612520",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luvme4ever_ 我 以前都係完美主義到極致 而家完全放棄了🌝已經躺平狀態"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1968068559214612520].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1968068559214612520",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1968068559214612520"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1968068559214612520",
+        "created_at": "2025-09-17T00:57:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T01:57:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968117038595137559"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1584153318548713474",
+              "start": 0,
+              "username": "luvme4ever_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968117038595137559",
+        "in_reply_to_user_id": "1584153318548713474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968068559214612520",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luvme4ever_ 我 以前都係完美主義到極致 而家完全放棄了🌝已經躺平狀態"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "定期清列表 不互",
+        "id": "1715624766571429888",
+        "location": "🚪300 388+cheki HK",
+        "name": "水母骨",
+        "pinned_tweet_id": "1967587870547513723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931334867725504512/7kS_Yy1T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17362,
+          "following_count": 23,
+          "like_count": 34228,
+          "listed_count": 30,
+          "media_count": 113,
+          "tweet_count": 7603
+        },
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-23T12:02:56.000Z",
+        "description": "1/10の苦しみ",
+        "id": "1584153318548713474",
+        "location": "tokyo",
+        "name": "寄生蟲",
+        "pinned_tweet_id": "1930422624884273221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963555714435358720/WfMbvnuU_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 31,
+          "like_count": 380,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 101
+        },
+        "username": "luvme4ever_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1822586021856621037",
+    "created_at": "2024-08-11T11:24:18.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-11T12:24:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1822594889756098792"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1190727688622768128",
+          "start": 0,
+          "username": "miomioQaQ1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1822594889756098792",
+    "in_reply_to_user_id": "1190727688622768128",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1822590447891714166",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miomioQaQ1 寶寶！愛你！😋😋❤️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1822586021856621037",
+        "created_at": "2024-08-11T11:24:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-11T12:24:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822594889756098792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1190727688622768128",
+              "start": 0,
+              "username": "miomioQaQ1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822594889756098792",
+        "in_reply_to_user_id": "1190727688622768128",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822590447891714166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miomioQaQ1 寶寶！愛你！😋😋❤️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1190727688622768128",
+        "conversation_id": "1822586021856621037",
+        "created_at": "2024-08-11T11:06:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-11T12:06:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822590447891714166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1715624766571429888",
+              "start": 0,
+              "username": "nakuyoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822590447891714166",
+        "in_reply_to_user_id": "1715624766571429888",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822586021856621037",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nakuyoo ✩⃛˞(๑ꆨ৺ꉺ๑)屬於是女神降臨的級別"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@9wylovo 只是一個Psychosis 沒什麼特別",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "9wylovo"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪250🇭🇰",
+        "name": "骨骨",
+        "pinned_tweet_id": "1822266798747595010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822537156080103424/p5FQB6To_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14512,
+          "following_count": 33,
+          "like_count": 31899,
+          "listed_count": 28,
+          "tweet_count": 6438
+        },
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-02T20:29:47.000Z",
+        "description": "腐爛的世界還有我🫂我永遠的寶寶 @YukiF90333",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 16,
+                "username": "YukiF90333"
+              }
+            ]
+          }
+        },
+        "id": "1190727688622768128",
+        "location": "一切都衹是遺書♡",
+        "name": "永遠的澪醬𝚛𝚒𝚝𝚎♬",
+        "pinned_tweet_id": "1807422183993692530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819320438574796803/4L59oF0O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2187,
+          "following_count": 244,
+          "like_count": 7851,
+          "listed_count": 5,
+          "tweet_count": 1610
+        },
+        "username": "miomioQaQ1",
+        "verified": false
+      }
+    ]
+  }
+}

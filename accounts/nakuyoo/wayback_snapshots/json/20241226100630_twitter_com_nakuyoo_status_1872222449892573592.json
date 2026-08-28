@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1872209227659591680",
+        "3_1872209227672059904"
+      ],
+      "media_source_tweet_id": [
+        "1872209242066960689",
+        "1872209242066960689"
+      ]
+    },
+    "author_id": "1715624766571429888",
+    "conversation_id": "1872222449892573592",
+    "created_at": "2024-12-26T10:06:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-26T11:06:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1872222449892573592"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1872201647356837888",
+          "start": 3,
+          "username": "ukanooy0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6UhpkOPcFV",
+          "end": 42,
+          "expanded_url": "https://x.com/ukanooy0/status/1872209242066960689/photo/1",
+          "media_key": "3_1872209227659591680",
+          "start": 19,
+          "url": "https://t.co/6UhpkOPcFV"
+        },
+        {
+          "display_url": "pic.x.com/6UhpkOPcFV",
+          "end": 42,
+          "expanded_url": "https://x.com/ukanooy0/status/1872209242066960689/photo/1",
+          "media_key": "3_1872209227672059904",
+          "start": 19,
+          "url": "https://t.co/6UhpkOPcFV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872222449892573592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872209242066960689",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ukanooy0: 黑執事. https://t.co/6UhpkOPcFV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1555,
+        "media_key": "3_1872209227659591680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GftsX4fbwAA9C4-.jpg",
+        "width": 1125
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1872209227672059904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GftsX4iaAAA0kgT.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1872209227659591680",
+            "3_1872209227672059904"
+          ],
+          "media_source_tweet_id": [
+            "1872209242066960689",
+            "1872209242066960689"
+          ]
+        },
+        "author_id": "1715624766571429888",
+        "conversation_id": "1872222449892573592",
+        "created_at": "2024-12-26T10:06:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-26T11:06:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872222449892573592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1872201647356837888",
+              "start": 3,
+              "username": "ukanooy0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6UhpkOPcFV",
+              "end": 42,
+              "expanded_url": "https://x.com/ukanooy0/status/1872209242066960689/photo/1",
+              "media_key": "3_1872209227659591680",
+              "start": 19,
+              "url": "https://t.co/6UhpkOPcFV"
+            },
+            {
+              "display_url": "pic.x.com/6UhpkOPcFV",
+              "end": 42,
+              "expanded_url": "https://x.com/ukanooy0/status/1872209242066960689/photo/1",
+              "media_key": "3_1872209227672059904",
+              "start": 19,
+              "url": "https://t.co/6UhpkOPcFV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872222449892573592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872209242066960689",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ukanooy0: 黑執事. https://t.co/6UhpkOPcFV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1872209227659591680",
+            "3_1872209227672059904"
+          ]
+        },
+        "author_id": "1872201647356837888",
+        "conversation_id": "1872209242066960689",
+        "created_at": "2024-12-26T09:14:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-26T10:14:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1872209242066960689"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6UhpkOPcFV",
+              "end": 28,
+              "expanded_url": "https://x.com/ukanooy0/status/1872209242066960689/photo/1",
+              "media_key": "3_1872209227659591680",
+              "start": 5,
+              "url": "https://t.co/6UhpkOPcFV"
+            },
+            {
+              "display_url": "pic.x.com/6UhpkOPcFV",
+              "end": 28,
+              "expanded_url": "https://x.com/ukanooy0/status/1872209242066960689/photo/1",
+              "media_key": "3_1872209227672059904",
+              "start": 5,
+              "url": "https://t.co/6UhpkOPcFV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872209242066960689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "黑執事. https://t.co/6UhpkOPcFV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "🚪300 | @b0n3_core ｜幻想是我的一切 不接受任何反駁 @ukanooy0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "b0n3_core"
+              },
+              {
+                "end": 44,
+                "start": 35,
+                "username": "ukanooy0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/naku.yoo?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/naku.yoo?igsh=OHVpYmZjb3hpNjVy&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/aHjXW8BvfQ"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "name": "水母骨",
+        "pinned_tweet_id": "1872103640816881782",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869007194752229376/VpXyZ867_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17782,
+          "following_count": 37,
+          "like_count": 35168,
+          "listed_count": 29,
+          "media_count": 73,
+          "tweet_count": 7220
+        },
+        "url": "https://t.co/aHjXW8BvfQ",
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-26T08:44:25.000Z",
+        "description": "ドームズデー @nakuyoo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 7,
+                "username": "nakuyoo"
+              }
+            ]
+          }
+        },
+        "id": "1872201647356837888",
+        "location": "Hong Kong 門檻300",
+        "name": "幻偶",
+        "pinned_tweet_id": "1872213287871652101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872209854066311168/Z81Y6VS__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 3,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 11
+        },
+        "username": "ukanooy0",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1884121018886938627"
+      ],
+      "media_source_tweet_id": [
+        "1884121027959263539"
+      ]
+    },
+    "author_id": "1715624766571429888",
+    "conversation_id": "1884201255985414271",
+    "created_at": "2025-01-28T11:26:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-28T12:26:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884201255985414271"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1556635694717878274",
+          "start": 3,
+          "username": "ezreverie"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5a4knZnMpl",
+          "end": 53,
+          "expanded_url": "https://x.com/ezreverie/status/1884121027959263539/photo/1",
+          "media_key": "3_1884121018886938627",
+          "start": 30,
+          "url": "https://t.co/5a4knZnMpl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884201255985414271",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884121027959263539",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ezreverie: i don’t know…. https://t.co/5a4knZnMpl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1884121018886938627",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GiW-FYyaYAMP1Nr.jpg",
+        "width": 1174
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1884121018886938627"
+          ],
+          "media_source_tweet_id": [
+            "1884121027959263539"
+          ]
+        },
+        "author_id": "1715624766571429888",
+        "conversation_id": "1884201255985414271",
+        "created_at": "2025-01-28T11:26:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-28T12:26:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884201255985414271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1556635694717878274",
+              "start": 3,
+              "username": "ezreverie"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5a4knZnMpl",
+              "end": 53,
+              "expanded_url": "https://x.com/ezreverie/status/1884121027959263539/photo/1",
+              "media_key": "3_1884121018886938627",
+              "start": 30,
+              "url": "https://t.co/5a4knZnMpl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884201255985414271",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884121027959263539",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ezreverie: i don’t know…. https://t.co/5a4knZnMpl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1884121018886938627"
+          ]
+        },
+        "author_id": "1556635694717878274",
+        "conversation_id": "1884121027959263539",
+        "created_at": "2025-01-28T06:07:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-28T07:07:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884121027959263539"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5a4knZnMpl",
+              "end": 38,
+              "expanded_url": "https://x.com/ezreverie/status/1884121027959263539/photo/1",
+              "media_key": "3_1884121018886938627",
+              "start": 15,
+              "url": "https://t.co/5a4knZnMpl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884121027959263539",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "i don’t know…. https://t.co/5a4knZnMpl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@b0n3_core｜@ukanooy0 2.0 ｜我不玩遊戲我只有推特小紅書Ig和threads其他均盜圖 我ip香港的⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "b0n3_core"
+              },
+              {
+                "end": 20,
+                "start": 11,
+                "username": "ukanooy0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/naku.yoo?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/naku.yoo?igsh=OHVpYmZjb3hpNjVy&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/aHjXW8BvfQ"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪300基本388簽名",
+        "name": "水母骨",
+        "pinned_tweet_id": "1878244958273978540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879131018059554816/s014GKa9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18159,
+          "following_count": 34,
+          "like_count": 35645,
+          "listed_count": 30,
+          "media_count": 105,
+          "tweet_count": 7473
+        },
+        "url": "https://t.co/aHjXW8BvfQ",
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-08T13:37:51.000Z",
+        "description": "一事無成",
+        "id": "1556635694717878274",
+        "name": "ezra ࣪𖤐.ᐟ 小哀 | saw skz!",
+        "pinned_tweet_id": "1880883832884461595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880841742947385344/k_DZqNpd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1214,
+          "following_count": 521,
+          "like_count": 11490,
+          "listed_count": 14,
+          "media_count": 2674,
+          "tweet_count": 14211
+        },
+        "username": "ezreverie",
+        "verified": false
+      }
+    ]
+  }
+}

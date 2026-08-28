@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "2081284993888973008",
+    "created_at": "2026-07-26T07:46:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T08:46:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081284993888973008"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1715624766571429888",
+          "start": 3,
+          "username": "nakuyoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081284993888973008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1857737992032629105",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nakuyoo: 你再那麼焦慮再那麼混亂你就別想再過日子了小骨😂😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "2081284993888973008",
+        "created_at": "2026-07-26T07:46:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T08:46:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081284993888973008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1715624766571429888",
+              "start": 3,
+              "username": "nakuyoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081284993888973008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857737992032629105",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nakuyoo: 你再那麼焦慮再那麼混亂你就別想再過日子了小骨😂😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1857737992032629105",
+        "created_at": "2024-11-16T10:50:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-16T11:50:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1857737992032629105"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1857737992032629105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3637,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你再那麼焦慮再那麼混亂你就別想再過日子了小骨😂😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "",
+        "id": "1715624766571429888",
+        "location": "🚪300聊天Hk",
+        "name": "骨仔Inane",
+        "pinned_tweet_id": "2078746097108054140",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054838019136647168/v9qJCyvZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16669,
+          "following_count": 8,
+          "like_count": 31810,
+          "listed_count": 33,
+          "media_count": 222,
+          "tweet_count": 7813
+        },
+        "url": "",
+        "username": "nakuyoo",
+        "verified": false
+      }
+    ]
+  }
+}

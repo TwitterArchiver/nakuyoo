@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1874698790135058461",
+    "created_at": "2025-01-03T11:57:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-03T12:57:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1875149401225887749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1761106331896033283",
+          "start": 0,
+          "username": "nemurikamisama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875149401225887749",
+    "in_reply_to_user_id": "1761106331896033283",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875143887897129229",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nemurikamisama 笑了腦殘跟風逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1874698790135058461",
+        "created_at": "2025-01-03T11:57:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-03T12:57:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875149401225887749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1761106331896033283",
+              "start": 0,
+              "username": "nemurikamisama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875149401225887749",
+        "in_reply_to_user_id": "1761106331896033283",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875143887897129229",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nemurikamisama 笑了腦殘跟風逼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1875143884491329536"
+          ]
+        },
+        "author_id": "1761106331896033283",
+        "conversation_id": "1874698790135058461",
+        "created_at": "2025-01-03T11:35:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-03T12:35:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875143887897129229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1715624766571429888",
+              "start": 0,
+              "username": "nakuyoo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/W6t0lc1wvk",
+              "end": 41,
+              "expanded_url": "https://x.com/nemurikamisama/status/1875143887897129229/photo/1",
+              "media_key": "3_1875143884491329536",
+              "start": 18,
+              "url": "https://t.co/W6t0lc1wvk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875143887897129229",
+        "in_reply_to_user_id": "1715624766571429888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 73,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875143381460156794",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nakuyoo 新視頻又顯擺上了 https://t.co/W6t0lc1wvk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@b0n3_core @ukanooy0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "b0n3_core"
+              },
+              {
+                "end": 20,
+                "start": 11,
+                "username": "ukanooy0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/naku.yoo?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/naku.yoo?igsh=OHVpYmZjb3hpNjVy&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/aHjXW8BvfQ"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪300基本388簽名",
+        "name": "炸毛水母骨",
+        "pinned_tweet_id": "1872103640816881782",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873915098609369088/NR_lzdQx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17864,
+          "following_count": 34,
+          "like_count": 35509,
+          "listed_count": 29,
+          "media_count": 87,
+          "tweet_count": 7329
+        },
+        "url": "https://t.co/aHjXW8BvfQ",
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-23T19:10:51.000Z",
+        "description": "永い眠りにつく",
+        "id": "1761106331896033283",
+        "location": "表世界",
+        "name": "神眠喵!🪦",
+        "pinned_tweet_id": "1813993940288438691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823308623491330048/nVophlpm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7154,
+          "following_count": 23,
+          "like_count": 2596,
+          "listed_count": 9,
+          "media_count": 224,
+          "tweet_count": 1241
+        },
+        "username": "nemurikamisama",
+        "verified": false
+      }
+    ]
+  }
+}

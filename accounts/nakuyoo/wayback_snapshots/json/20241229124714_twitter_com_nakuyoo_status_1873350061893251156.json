@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1873350061893251156",
+    "created_at": "2024-12-29T12:47:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-29T13:47:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1873350061893251156"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nomizazzle26/s…",
+          "end": 87,
+          "expanded_url": "https://twitter.com/nomizazzle26/status/1873348506066493870",
+          "start": 64,
+          "url": "https://t.co/yzGubnEr0g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873350061893251156",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1873348506066493870",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😱😱😱😱😱😱😱😱😱🗣️🗣️🗣️🗣️🗣️🗣️🗣️🗣️🗣️🗣️🗣️🔥🔥🔥🔥🔥🗣️🗣️🗣️🗣️🔥🔥🔥🔥🗣️🔥🔥🗣️🔥🗣️🔥🗣️🔥🗣️ https://t.co/yzGubnEr0g"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1873350061893251156",
+        "created_at": "2024-12-29T12:47:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-29T13:47:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1873350061893251156"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nomizazzle26/s…",
+              "end": 87,
+              "expanded_url": "https://twitter.com/nomizazzle26/status/1873348506066493870",
+              "start": 64,
+              "url": "https://t.co/yzGubnEr0g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873350061893251156",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873348506066493870",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😱😱😱😱😱😱😱😱😱🗣️🗣️🗣️🗣️🗣️🗣️🗣️🗣️🗣️🗣️🗣️🔥🔥🔥🔥🔥🗣️🗣️🗣️🗣️🔥🔥🔥🔥🗣️🔥🔥🗣️🔥🗣️🔥🗣️🔥🗣️ https://t.co/yzGubnEr0g"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1873348498491617280"
+          ]
+        },
+        "author_id": "1850111807383547904",
+        "conversation_id": "1873348506066493870",
+        "created_at": "2024-12-29T12:41:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-29T13:41:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1873348506066493870"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NJzQJwdirM",
+              "end": 36,
+              "expanded_url": "https://x.com/nomizazzle26/status/1873348506066493870/photo/1",
+              "media_key": "3_1873348498491617280",
+              "start": 13,
+              "url": "https://t.co/NJzQJwdirM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873348506066493870",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 4,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "誰想養一只古曼童小桶🚬🌚 https://t.co/NJzQJwdirM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "🚪300 | @b0n3_core ｜幻想是我的一切 @ukanooy0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "b0n3_core"
+              },
+              {
+                "end": 36,
+                "start": 27,
+                "username": "ukanooy0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/naku.yoo?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/naku.yoo?igsh=OHVpYmZjb3hpNjVy&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/aHjXW8BvfQ"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "name": "炸毛水母骨",
+        "pinned_tweet_id": "1872103640816881782",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872548980552540162/MG-FrXU-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17830,
+          "following_count": 34,
+          "like_count": 35289,
+          "listed_count": 29,
+          "media_count": 77,
+          "tweet_count": 7272
+        },
+        "url": "https://t.co/aHjXW8BvfQ",
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-26T09:46:50.000Z",
+        "description": "不接爸爸活不接爸爸活不接爸爸活私信問我接不接的死全家一輩子操不到人",
+        "id": "1850111807383547904",
+        "name": "垃圾桶大王",
+        "pinned_tweet_id": "1869037289978106350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868984870581768192/kYqNPdaI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 77,
+          "like_count": 1775,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 650
+        },
+        "username": "nomizazzle26",
+        "verified": false
+      }
+    ]
+  }
+}

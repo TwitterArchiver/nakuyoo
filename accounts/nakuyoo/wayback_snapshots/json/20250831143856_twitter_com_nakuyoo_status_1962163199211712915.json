@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1962163199211712915",
+    "created_at": "2025-08-31T14:38:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T15:38:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962163199211712915"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1819919991191576576",
+          "start": 3,
+          "username": "b33lzep"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962163199211712915",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1007
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961552071728976312",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @b33lzep: I WILL LOSE MY FACE FAT\nI WILL LOSE MY FACE FAT\nI WILL LOSE MY FACE FAT\nI WILL LOSE MY FACE FAT\nI WILL LOSE MY FACE FAT\nI WILL…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1962163199211712915",
+        "created_at": "2025-08-31T14:38:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T15:38:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962163199211712915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1819919991191576576",
+              "start": 3,
+              "username": "b33lzep"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962163199211712915",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1007
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961552071728976312",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @b33lzep: I WILL LOSE MY FACE FAT\nI WILL LOSE MY FACE FAT\nI WILL LOSE MY FACE FAT\nI WILL LOSE MY FACE FAT\nI WILL LOSE MY FACE FAT\nI WILL…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1819919991191576576",
+        "conversation_id": "1961552071728976312",
+        "created_at": "2025-08-29T22:10:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T23:10:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961552071728976312"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1961552071728976312",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 74,
+          "impression_count": 24670,
+          "like_count": 3010,
+          "quote_count": 11,
+          "reply_count": 8,
+          "retweet_count": 1007
+        },
+        "reply_settings": "everyone",
+        "text": "I WILL LOSE MY FACE FAT\nI WILL LOSE MY FACE FAT\nI WILL LOSE MY FACE FAT\nI WILL LOSE MY FACE FAT\nI WILL LOSE MY FACE FAT\nI WILL LOSE MY FACE FAT\nI WILL LOSE MY FACE FAT\nI WILL LOSE MY FACE FAT\nI WILL LOSE MY FACE FAT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "🎵:nakubone📕nakuyoo ig:naku.yoo ｜定期清列表",
+        "id": "1715624766571429888",
+        "location": "🚪300 388+cheki HK",
+        "name": "水母骨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931334867725504512/7kS_Yy1T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17386,
+          "following_count": 27,
+          "like_count": 34006,
+          "listed_count": 30,
+          "media_count": 98,
+          "tweet_count": 7567
+        },
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-04T02:15:21.000Z",
+        "description": "⠀18 ⟡ shedtwt",
+        "id": "1819919991191576576",
+        "location": "bmi 19",
+        "name": "𝑜𝓁𝒾𝓋𝑒 ´",
+        "pinned_tweet_id": "1960540159755071522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960538768911302656/IQ5_DFh3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 157,
+          "like_count": 9348,
+          "listed_count": 0,
+          "media_count": 155,
+          "tweet_count": 1956
+        },
+        "username": "b33lzep",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1822442851961327823",
+    "created_at": "2024-08-11T06:36:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-11T07:36:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1822522464485974398"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1691752296093532160",
+          "start": 0,
+          "username": "deliesi145179"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1822522464485974398",
+    "in_reply_to_user_id": "1691752296093532160",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1822520112764625036",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@deliesi145179 我也希望！我希望用另一種角度觀看這個世界"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1822442851961327823",
+        "created_at": "2024-08-11T06:36:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-11T07:36:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822522464485974398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1691752296093532160",
+              "start": 0,
+              "username": "deliesi145179"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822522464485974398",
+        "in_reply_to_user_id": "1691752296093532160",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822520112764625036",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@deliesi145179 我也希望！我希望用另一種角度觀看這個世界"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691752296093532160",
+        "conversation_id": "1822442851961327823",
+        "created_at": "2024-08-11T06:27:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-11T07:27:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822520112764625036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1715624766571429888",
+              "start": 0,
+              "username": "nakuyoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822520112764625036",
+        "in_reply_to_user_id": "1715624766571429888",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822442851961327823",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nakuyoo 我希望死后能够彻底死去，如果不能我希望能够到修仙世界，最后回来，改变过去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@9wylovo 骨神",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "9wylovo"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪250 香港",
+        "name": "刻在骨子裏",
+        "pinned_tweet_id": "1822441347372216795",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821861972964732929/fzCuDq0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14505,
+          "following_count": 33,
+          "like_count": 31798,
+          "listed_count": 28,
+          "tweet_count": 6419
+        },
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-16T10:02:57.000Z",
+        "description": "黑夜化作细雨潺潺而下，疯神顷刻坠入人间",
+        "id": "1691752296093532160",
+        "name": "德里俄斯",
+        "pinned_tweet_id": "1787737729700364581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760772910028124160/gWCxtYr8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 1103,
+          "like_count": 24,
+          "listed_count": 0,
+          "tweet_count": 478
+        },
+        "username": "deliesi145179",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "2024372815206699084",
+    "created_at": "2026-02-19T06:37:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T07:37:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024372815206699084"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1815202149338607616",
+          "start": 3,
+          "username": "xinbao0w0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024372815206699084",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023832492210614385",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xinbao0w0: 我怀念2022的推特。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "2024372815206699084",
+        "created_at": "2026-02-19T06:37:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T07:37:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024372815206699084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1815202149338607616",
+              "start": 3,
+              "username": "xinbao0w0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024372815206699084",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023832492210614385",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xinbao0w0: 我怀念2022的推特。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1815202149338607616",
+        "conversation_id": "2023832492210614385",
+        "created_at": "2026-02-17T18:50:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T19:50:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023832492210614385"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023832492210614385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 464,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我怀念2022的推特。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "🎵:nakubone📕nakuyoo ig:naku.yoo🚪300聊天",
+        "id": "1715624766571429888",
+        "location": "🚪300 388+cheki HK",
+        "name": "小骨",
+        "pinned_tweet_id": "1967587870547513723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977284713648996352/QlRWK9_l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16736,
+          "following_count": 9,
+          "like_count": 32875,
+          "listed_count": 31,
+          "media_count": 112,
+          "tweet_count": 7626
+        },
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-22T01:48:33.000Z",
+        "description": "重新經營 隨意更新｜之前的推文全刪了 | 此號是唯一帳號 其餘都是冒認的假帳號 | 請認準本人I'd",
+        "id": "1815202149338607616",
+        "name": "馨",
+        "pinned_tweet_id": "2012352697283064129",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020852272423731200/bzj73aMf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6487,
+          "following_count": 101,
+          "like_count": 719,
+          "listed_count": 8,
+          "media_count": 11,
+          "tweet_count": 44
+        },
+        "username": "xinbao0w0",
+        "verified": false
+      }
+    ]
+  }
+}

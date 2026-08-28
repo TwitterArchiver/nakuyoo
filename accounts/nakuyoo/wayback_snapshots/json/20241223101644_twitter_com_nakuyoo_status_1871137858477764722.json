@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1871097026378883161",
+    "created_at": "2024-12-23T10:16:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-23T11:16:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1871137858477764722"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1536238010227838976",
+          "start": 0,
+          "username": "coinmaster410"
+        },
+        {
+          "end": 26,
+          "id": "1774759734773690368",
+          "start": 15,
+          "username": "tang2780iz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1871137858477764722",
+    "in_reply_to_user_id": "1536238010227838976",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1871112310544302310",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@coinmaster410 @tang2780iz 😱😱😱😱😱😱😱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1871097026378883161",
+        "created_at": "2024-12-23T10:16:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-23T11:16:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1871137858477764722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1536238010227838976",
+              "start": 0,
+              "username": "coinmaster410"
+            },
+            {
+              "end": 26,
+              "id": "1774759734773690368",
+              "start": 15,
+              "username": "tang2780iz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871137858477764722",
+        "in_reply_to_user_id": "1536238010227838976",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1871112310544302310",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@coinmaster410 @tang2780iz 😱😱😱😱😱😱😱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1871112299504869376"
+          ]
+        },
+        "author_id": "1536238010227838976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1871097026378883161",
+        "created_at": "2024-12-23T08:35:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-23T09:35:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1871112310544302310"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1774759734773690368",
+              "start": 0,
+              "username": "tang2780iz"
+            },
+            {
+              "end": 20,
+              "id": "1715624766571429888",
+              "start": 12,
+              "username": "nakuyoo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ozAUSQOEbm",
+              "end": 44,
+              "expanded_url": "https://x.com/coinmaster410/status/1871112310544302310/photo/1",
+              "media_key": "16_1871112299504869376",
+              "start": 21,
+              "url": "https://t.co/ozAUSQOEbm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871112310544302310",
+        "in_reply_to_user_id": "1774759734773690368",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1871100709980299721",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tang2780iz @nakuyoo https://t.co/ozAUSQOEbm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "🚪300 | @b0n3_core ｜苦力怕和小雞夢女💚💛",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "b0n3_core"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/naku.yoo?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/naku.yoo?igsh=OHVpYmZjb3hpNjVy&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/aHjXW8BvfQ"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "name": "水母骨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869007194752229376/VpXyZ867_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17416,
+          "following_count": 34,
+          "like_count": 34899,
+          "listed_count": 29,
+          "media_count": 63,
+          "tweet_count": 7122
+        },
+        "url": "https://t.co/aHjXW8BvfQ",
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-13T06:44:50.000Z",
+        "description": "李榮貓 ｜廢文集散地 ｜複製文",
+        "id": "1536238010227838976",
+        "location": "台南 高雄",
+        "name": "傷心太平洋",
+        "pinned_tweet_id": "1637786412891398144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854428787561361408/chv1NtFI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 63,
+          "like_count": 91,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 150
+        },
+        "username": "coinmaster410",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-01T11:24:49.000Z",
+        "description": "思想是循環 溫飽思淫慾",
+        "id": "1774759734773690368",
+        "location": "冥界",
+        "name": "膛",
+        "pinned_tweet_id": "1828799084041568325",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774760031776559104/tFgInI7l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 234,
+          "like_count": 13273,
+          "listed_count": 2,
+          "media_count": 553,
+          "tweet_count": 5135
+        },
+        "username": "tang2780iz",
+        "verified": false
+      }
+    ]
+  }
+}

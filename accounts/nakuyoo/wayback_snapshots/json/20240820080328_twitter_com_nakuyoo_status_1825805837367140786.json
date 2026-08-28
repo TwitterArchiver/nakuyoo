@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1825795038170984829",
+    "created_at": "2024-08-20T08:03:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-20T09:03:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1825805837367140786"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1580904557579673600",
+          "start": 0,
+          "username": "nuttertools8888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1825805837367140786",
+    "in_reply_to_user_id": "1580904557579673600",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1825798614800806213",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nuttertools8888 🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1825795038170984829",
+        "created_at": "2024-08-20T08:03:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-20T09:03:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1825805837367140786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1580904557579673600",
+              "start": 0,
+              "username": "nuttertools8888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825805837367140786",
+        "in_reply_to_user_id": "1580904557579673600",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1825798614800806213",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nuttertools8888 🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1580904557579673600",
+        "conversation_id": "1825795038170984829",
+        "created_at": "2024-08-20T07:34:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-20T08:34:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1825798614800806213"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1715624766571429888",
+              "start": 0,
+              "username": "nakuyoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825798614800806213",
+        "in_reply_to_user_id": "1715624766571429888",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1825795038170984829",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nakuyoo 想和小骨贴贴！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@9wylovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "9wylovo"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪250🇭🇰",
+        "name": "刻在骨子裏",
+        "pinned_tweet_id": "1823875339594191103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1825182041480290304/KGPSNEnx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15140,
+          "following_count": 28,
+          "like_count": 33018,
+          "listed_count": 27,
+          "tweet_count": 6690
+        },
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-14T12:53:26.000Z",
+        "description": "“你也深陷地狱吗”",
+        "id": "1580904557579673600",
+        "name": "墨文谨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745704831107424256/sXWnIwdU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 96,
+          "like_count": 25,
+          "listed_count": 0,
+          "tweet_count": 432
+        },
+        "username": "nuttertools8888",
+        "verified": false
+      }
+    ]
+  }
+}

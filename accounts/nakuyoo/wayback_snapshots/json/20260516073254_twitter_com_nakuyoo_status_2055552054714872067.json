@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055552047265828864"
+      ]
+    },
+    "author_id": "1715624766571429888",
+    "conversation_id": "2055552054714872067",
+    "created_at": "2026-05-16T07:32:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T08:32:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055552054714872067"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/aH7XMEDQEN",
+          "end": 25,
+          "expanded_url": "https://x.com/nakuyoo/status/2055552054714872067/photo/1",
+          "media_key": "3_2055552047265828864",
+          "start": 2,
+          "url": "https://t.co/aH7XMEDQEN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055552054714872067",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "耶 https://t.co/aH7XMEDQEN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1085,
+        "media_key": "3_2055552047265828864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIbJsjqbUAAN2bx.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055552047265828864"
+          ]
+        },
+        "author_id": "1715624766571429888",
+        "conversation_id": "2055552054714872067",
+        "created_at": "2026-05-16T07:32:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T08:32:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055552054714872067"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aH7XMEDQEN",
+              "end": 25,
+              "expanded_url": "https://x.com/nakuyoo/status/2055552054714872067/photo/1",
+              "media_key": "3_2055552047265828864",
+              "start": 2,
+              "url": "https://t.co/aH7XMEDQEN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055552054714872067",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "耶 https://t.co/aH7XMEDQEN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "",
+        "id": "1715624766571429888",
+        "location": "🚪300聊天Hk",
+        "name": "小骨Inane",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054838019136647168/v9qJCyvZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16511,
+          "following_count": 9,
+          "like_count": 31870,
+          "listed_count": 30,
+          "media_count": 149,
+          "tweet_count": 7671
+        },
+        "username": "nakuyoo",
+        "verified": false
+      }
+    ]
+  }
+}

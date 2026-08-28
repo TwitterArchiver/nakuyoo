@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1826773534817104134",
+    "created_at": "2024-08-23T08:24:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-23T09:24:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1826898366481228035"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1691752296093532160",
+          "start": 0,
+          "username": "deliesi145179"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1826898366481228035",
+    "in_reply_to_user_id": "1691752296093532160",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1826895516824912361",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@deliesi145179 😎😎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1826773534817104134",
+        "created_at": "2024-08-23T08:24:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-23T09:24:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1826898366481228035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1691752296093532160",
+              "start": 0,
+              "username": "deliesi145179"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826898366481228035",
+        "in_reply_to_user_id": "1691752296093532160",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826895516824912361",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@deliesi145179 😎😎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691752296093532160",
+        "conversation_id": "1826773534817104134",
+        "created_at": "2024-08-23T08:13:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-23T09:13:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1826895516824912361"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1715624766571429888",
+              "start": 0,
+              "username": "nakuyoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826895516824912361",
+        "in_reply_to_user_id": "1715624766571429888",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826773534817104134",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nakuyoo 经典皮肤😋👍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "濫-傷-暴-厭 ｜💉🩸💊🩹🔪@9wylovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 14,
+                "username": "9wylovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/naku.yoo?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/naku.yoo?igsh=OHVpYmZjb3hpNjVy&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/aHjXW8BvfQ"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪250🇭🇰🇭🇰",
+        "name": "骨頭",
+        "pinned_tweet_id": "1823875339594191103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826435545427238912/E7yPfZRH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15292,
+          "following_count": 29,
+          "like_count": 33071,
+          "listed_count": 27,
+          "tweet_count": 6742
+        },
+        "url": "https://t.co/aHjXW8BvfQ",
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-16T10:02:57.000Z",
+        "description": "黑夜化作细雨潺潺而下，疯神顷刻坠入人间",
+        "id": "1691752296093532160",
+        "name": "德里俄斯",
+        "pinned_tweet_id": "1787737729700364581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760772910028124160/gWCxtYr8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 1218,
+          "like_count": 24,
+          "listed_count": 0,
+          "tweet_count": 520
+        },
+        "username": "deliesi145179",
+        "verified": false
+      }
+    ]
+  }
+}

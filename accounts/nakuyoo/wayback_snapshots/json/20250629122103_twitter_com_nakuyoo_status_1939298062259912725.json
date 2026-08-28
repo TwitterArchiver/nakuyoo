@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1939298047449501696"
+      ]
+    },
+    "author_id": "1715624766571429888",
+    "conversation_id": "1939298062259912725",
+    "created_at": "2025-06-29T12:21:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-29T13:21:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1939298062259912725"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vb65tTBLHj",
+          "end": 28,
+          "expanded_url": "https://x.com/nakuyoo/status/1939298062259912725/photo/1",
+          "media_key": "3_1939298047449501696",
+          "start": 5,
+          "url": "https://t.co/vb65tTBLHj"
+        },
+        {
+          "display_url": "x.com/pogou___xx/sta…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/pogou___xx/status/1939297459106378202",
+          "start": 29,
+          "url": "https://t.co/upUjpyipVy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939298062259912725",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939297459106378202",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "耶😋👍🏻 https://t.co/vb65tTBLHj https://t.co/upUjpyipVy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1939298047449501696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GunFTJ_WEAAbhTH.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1939297446968143872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GunEwNBbsAAp77C.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939298047449501696"
+          ]
+        },
+        "author_id": "1715624766571429888",
+        "conversation_id": "1939298062259912725",
+        "created_at": "2025-06-29T12:21:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T13:21:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939298062259912725"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vb65tTBLHj",
+              "end": 28,
+              "expanded_url": "https://x.com/nakuyoo/status/1939298062259912725/photo/1",
+              "media_key": "3_1939298047449501696",
+              "start": 5,
+              "url": "https://t.co/vb65tTBLHj"
+            },
+            {
+              "display_url": "x.com/pogou___xx/sta…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/pogou___xx/status/1939297459106378202",
+              "start": 29,
+              "url": "https://t.co/upUjpyipVy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939298062259912725",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939297459106378202",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "耶😋👍🏻 https://t.co/vb65tTBLHj https://t.co/upUjpyipVy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939297446968143872"
+          ]
+        },
+        "author_id": "1550593157876060160",
+        "conversation_id": "1939297459106378202",
+        "created_at": "2025-06-29T12:18:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T13:18:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939297459106378202"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ArjFryxCyh",
+              "end": 35,
+              "expanded_url": "https://x.com/pogou___xx/status/1939297459106378202/photo/1",
+              "media_key": "3_1939297446968143872",
+              "start": 12,
+              "url": "https://t.co/ArjFryxCyh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939297459106378202",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "雨が降っている..🌧️ https://t.co/ArjFryxCyh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@ukanooy0 唯一2.0 🚪300 388",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "ukanooy0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/naku.yoo?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/naku.yoo?igsh=OHVpYmZjb3hpNjVy&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/aHjXW8BvfQ"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "name": "Inane骨",
+        "pinned_tweet_id": "1878244958273978540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931334867725504512/7kS_Yy1T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17362,
+          "following_count": 33,
+          "like_count": 33937,
+          "listed_count": 29,
+          "media_count": 73,
+          "tweet_count": 7478
+        },
+        "url": "https://t.co/aHjXW8BvfQ",
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-22T21:26:53.000Z",
+        "description": "喜歡gore",
+        "id": "1550593157876060160",
+        "location": "地獄",
+        "name": "破碎流浪小狗",
+        "pinned_tweet_id": "1935262321439645728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775552273361625088/7edQ7fe7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1184,
+          "following_count": 123,
+          "like_count": 13028,
+          "listed_count": 1,
+          "media_count": 199,
+          "tweet_count": 1922
+        },
+        "username": "pogou___xx",
+        "verified": false
+      }
+    ]
+  }
+}

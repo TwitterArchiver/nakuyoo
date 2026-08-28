@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1836740803395457079",
+    "created_at": "2024-09-19T12:15:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-19T13:15:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1836740803395457079"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1747138924450029568",
+          "start": 3,
+          "username": "od_wiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1836740803395457079",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1836336377602232435",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @od_wiki: 我真的很讨厌你们，学历歧视，什么985 211,性别歧视，现在od也歧视了…\n我他妈只吃15片在群里说了，就说我垃圾，还叼我，就这量还od呢…急了还说我健全人装的\n你们都死了…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1836740803395457079",
+        "created_at": "2024-09-19T12:15:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-19T13:15:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1836740803395457079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1747138924450029568",
+              "start": 3,
+              "username": "od_wiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836740803395457079",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "1836336377602232435",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @od_wiki: 我真的很讨厌你们，学历歧视，什么985 211,性别歧视，现在od也歧视了…\n我他妈只吃15片在群里说了，就说我垃圾，还叼我，就这量还od呢…急了还说我健全人装的\n你们都死了…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747138924450029568",
+        "conversation_id": "1836336377602232435",
+        "created_at": "2024-09-18T09:28:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-18T10:28:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1836336377602232435"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1836336377602232435",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 15738,
+          "like_count": 217,
+          "quote_count": 2,
+          "reply_count": 28,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "我真的很讨厌你们，学历歧视，什么985 211,性别歧视，现在od也歧视了…\n我他妈只吃15片在群里说了，就说我垃圾，还叼我，就这量还od呢…急了还说我健全人装的\n你们都死了…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@9wylovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "9wylovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/naku.yoo?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/naku.yoo?igsh=OHVpYmZjb3hpNjVy&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/X9giMNucZ1"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪300🇭🇰",
+        "name": "骨仔",
+        "pinned_tweet_id": "1823875339594191103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831117464026943488/Eo_Zr6An_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16399,
+          "following_count": 27,
+          "like_count": 34661,
+          "listed_count": 29,
+          "tweet_count": 6960
+        },
+        "url": "https://t.co/X9giMNucZ1",
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-16T06:09:23.000Z",
+        "description": "个人Galgame站：https://t.co/OXiOIO9QLM\n个人博客：https://t.co/jzBbyyNnJF\n赌狗俱乐部：https://t.co/VGq4FK04Cv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "58game.xyz",
+                "end": 34,
+                "expanded_url": "https://58game.xyz/",
+                "start": 11,
+                "url": "https://t.co/OXiOIO9QLM"
+              },
+              {
+                "display_url": "hiv.icu",
+                "end": 63,
+                "expanded_url": "https://hiv.icu/",
+                "start": 40,
+                "url": "https://t.co/jzBbyyNnJF"
+              },
+              {
+                "display_url": "t.me/dugoujulebu",
+                "end": 93,
+                "expanded_url": "https://t.me/dugoujulebu",
+                "start": 70,
+                "url": "https://t.co/VGq4FK04Cv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "https://www.od-wiki.com/",
+                "start": 0,
+                "url": "https://t.co/YHP0zrJSxF"
+              }
+            ]
+          }
+        },
+        "id": "1747138924450029568",
+        "location": "東京 港区",
+        "name": "✟°ʚ胖猫ɞ°✟",
+        "pinned_tweet_id": "1836034369275773338",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821511007279206400/sD9YYCcq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12667,
+          "following_count": 5630,
+          "like_count": 5200,
+          "listed_count": 13,
+          "tweet_count": 3729
+        },
+        "url": "https://t.co/YHP0zrJSxF",
+        "username": "od_wiki",
+        "verified": false
+      }
+    ]
+  }
+}

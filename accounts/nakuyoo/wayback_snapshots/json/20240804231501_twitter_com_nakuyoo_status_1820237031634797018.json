@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1820220474024153295",
+    "created_at": "2024-08-04T23:15:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-05T00:15:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1820237031634797018"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1446135978658123779",
+          "start": 0,
+          "username": "T0X1C_R3B0Rn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1820237031634797018",
+    "in_reply_to_user_id": "1446135978658123779",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1820220474024153295",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@T0X1C_R3B0Rn 唧唧😈😈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1820220474024153295",
+        "created_at": "2024-08-04T23:15:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-05T00:15:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1820237031634797018"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1446135978658123779",
+              "start": 0,
+              "username": "T0X1C_R3B0Rn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1820237031634797018",
+        "in_reply_to_user_id": "1446135978658123779",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1820220474024153295",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@T0X1C_R3B0Rn 唧唧😈😈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1446135978658123779",
+        "conversation_id": "1820220474024153295",
+        "created_at": "2024-08-04T22:09:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-04T23:09:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1820220474024153295"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nakuyoo/status…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/nakuyoo/status/1819866698687918447",
+              "start": 12,
+              "url": "https://t.co/KCYai2ELQn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1820220474024153295",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1819866698687918447",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "萌w\n像可愛的小倉鼠… https://t.co/KCYai2ELQn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@9wylovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "9wylovo"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪250 香港",
+        "name": "切片",
+        "pinned_tweet_id": "1820084073622282490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819147763487039488/y1CPKGFk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14389,
+          "following_count": 32,
+          "like_count": 32256,
+          "listed_count": 28,
+          "tweet_count": 6335
+        },
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-07T15:31:07.000Z",
+        "description": "ftx ftx ftx ftx ftx ftx ftx ftx",
+        "id": "1446135978658123779",
+        "name": "fukuro",
+        "pinned_tweet_id": "1792817980327542796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765031307195928576/xUwTpMag_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 544,
+          "like_count": 10072,
+          "listed_count": 0,
+          "tweet_count": 1428
+        },
+        "username": "T0X1C_R3B0Rn",
+        "verified": false
+      }
+    ]
+  }
+}

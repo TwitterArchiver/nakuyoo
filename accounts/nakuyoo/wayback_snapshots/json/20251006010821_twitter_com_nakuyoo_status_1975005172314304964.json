@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1974957276546081083",
+    "created_at": "2025-10-06T01:08:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T02:08:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975005172314304964"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1584153318548713474",
+          "start": 0,
+          "username": "luvme4ever_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975005172314304964",
+    "in_reply_to_user_id": "1584153318548713474",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974957276546081083",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luvme4ever_ 唉算了 再嘈都係浪費口水浪費時間 不如付出行動等待出去搬出嚟嗰一日🥲🥲"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1974957276546081083].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1974957276546081083",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1974957276546081083"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1974957276546081083",
+        "created_at": "2025-10-06T01:08:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T02:08:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975005172314304964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1584153318548713474",
+              "start": 0,
+              "username": "luvme4ever_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975005172314304964",
+        "in_reply_to_user_id": "1584153318548713474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974957276546081083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luvme4ever_ 唉算了 再嘈都係浪費口水浪費時間 不如付出行動等待出去搬出嚟嗰一日🥲🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "定期清列表不是不喜歡你們 純綠限香港",
+        "id": "1715624766571429888",
+        "location": "🚪300 388+cheki HK",
+        "name": "小骨",
+        "pinned_tweet_id": "1967587870547513723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931334867725504512/7kS_Yy1T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17254,
+          "following_count": 11,
+          "like_count": 34345,
+          "listed_count": 30,
+          "media_count": 130,
+          "tweet_count": 7618
+        },
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-23T12:02:56.000Z",
+        "description": "自由",
+        "id": "1584153318548713474",
+        "location": "tokyo",
+        "name": "寄生蟲",
+        "pinned_tweet_id": "1930422624884273221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963555714435358720/WfMbvnuU_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 34,
+          "like_count": 505,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 115
+        },
+        "username": "luvme4ever_",
+        "verified": false
+      }
+    ]
+  }
+}

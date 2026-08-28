@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1828021076359581849",
+    "created_at": "2024-08-26T10:46:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-26T11:46:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1828021076359581849"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1721042877038698496",
+          "start": 3,
+          "username": "kirinyauu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1828021076359581849",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1721594133255754136",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kirinyauu: well我一直堅持一個諗法就係我冇病我純粹同你地諗法唔同\n你地正面啲我負面啲極端啲\n其實唔係病純粹我同大眾唔同所以我有病\n其實生理上嘅疾病都係姐都係啲人發現 \n哇屌條友咳到咁仲要發燒\n我地冇咳冇發燒\n佢病撚左呀 \n因為唔同所以先叫病姐\n全世界都咳到…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1828021076359581849",
+        "created_at": "2024-08-26T10:46:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-26T11:46:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1828021076359581849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1721042877038698496",
+              "start": 3,
+              "username": "kirinyauu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828021076359581849",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1721594133255754136",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kirinyauu: well我一直堅持一個諗法就係我冇病我純粹同你地諗法唔同\n你地正面啲我負面啲極端啲\n其實唔係病純粹我同大眾唔同所以我有病\n其實生理上嘅疾病都係姐都係啲人發現 \n哇屌條友咳到咁仲要發燒\n我地冇咳冇發燒\n佢病撚左呀 \n因為唔同所以先叫病姐\n全世界都咳到…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721042877038698496",
+        "conversation_id": "1721591675288768665",
+        "created_at": "2023-11-06T18:23:21.000Z",
+        "edit_controls": {
+          "editable_until": "2023-11-06T19:23:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1721594133255754136"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1721594133255754136",
+        "in_reply_to_user_id": "1721042877038698496",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 337,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1721593380109791426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "well我一直堅持一個諗法就係我冇病我純粹同你地諗法唔同\n你地正面啲我負面啲極端啲\n其實唔係病純粹我同大眾唔同所以我有病\n其實生理上嘅疾病都係姐都係啲人發現 \n哇屌條友咳到咁仲要發燒\n我地冇咳冇發燒\n佢病撚左呀 \n因為唔同所以先叫病姐\n全世界都咳到死死下加發燒就唔叫病啦\n反而唔咳嘅先係病"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@9wylovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "9wylovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/naku.yoo?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/naku.yoo?igsh=OHVpYmZjb3hpNjVy&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/aHjXW8BvfQ"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪250🇭🇰🇭🇰",
+        "name": "骨頭",
+        "pinned_tweet_id": "1823875339594191103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828014098073976832/-Trvmo5y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15479,
+          "following_count": 29,
+          "like_count": 33321,
+          "listed_count": 27,
+          "tweet_count": 6772
+        },
+        "url": "https://t.co/aHjXW8BvfQ",
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-05T05:52:59.000Z",
+        "description": "我有正版防偽標籤",
+        "id": "1721042877038698496",
+        "name": "鯉yuU",
+        "pinned_tweet_id": "1779477890784206859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813221311126380544/xyEun7cs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8522,
+          "following_count": 116,
+          "like_count": 1904,
+          "listed_count": 12,
+          "tweet_count": 1039
+        },
+        "username": "kirinyauu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1824756592191185006",
+    "created_at": "2024-08-17T12:51:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-17T13:51:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1824791216468423072"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1710140290462560257",
+          "start": 0,
+          "username": "fghdf86093"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1824791216468423072",
+    "in_reply_to_user_id": "1710140290462560257",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1824756592191185006",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fghdf86093 🫂🫂🫂"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1824756592191185006].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1824756592191185006",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1824756592191185006"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1824756592191185006",
+        "created_at": "2024-08-17T12:51:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-17T13:51:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1824791216468423072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1710140290462560257",
+              "start": 0,
+              "username": "fghdf86093"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824791216468423072",
+        "in_reply_to_user_id": "1710140290462560257",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1824756592191185006",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fghdf86093 🫂🫂🫂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "一個精神病 完 @9wylovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 8,
+                "username": "9wylovo"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪250🇭🇰",
+        "name": "刻在骨子裏",
+        "pinned_tweet_id": "1823875339594191103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822625813629689856/KGMTxKge_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15058,
+          "following_count": 33,
+          "like_count": 32640,
+          "listed_count": 27,
+          "tweet_count": 6643
+        },
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-06T03:50:04.000Z",
+        "description": "女/06/ 港推/ english Ok too\nplease follow if u like c09",
+        "id": "1710140290462560257",
+        "location": "🚪100",
+        "name": "小毒退了一陣推 #shedtwt",
+        "pinned_tweet_id": "1793130281991606382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1717005793890054144/iYTRFIpC_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 577,
+          "following_count": 176,
+          "like_count": 7872,
+          "listed_count": 5,
+          "tweet_count": 2582
+        },
+        "username": "fghdf86093",
+        "verified": false
+      }
+    ]
+  }
+}

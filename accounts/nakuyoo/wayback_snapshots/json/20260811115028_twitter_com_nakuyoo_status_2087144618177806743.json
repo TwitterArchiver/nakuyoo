@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087144608367255552"
+      ]
+    },
+    "author_id": "1715624766571429888",
+    "conversation_id": "2087144618177806743",
+    "created_at": "2026-08-11T11:50:28.000Z",
+    "display_text_range": [
+      0,
+      8
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T12:50:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087144618177806743"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0NUnSMxtij",
+          "end": 32,
+          "expanded_url": "https://x.com/nakuyoo/status/2087144618177806743/photo/1",
+          "media_key": "3_2087144608367255552",
+          "start": 9,
+          "url": "https://t.co/0NUnSMxtij"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087144618177806743",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2087144608367255552"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "又自己穿了好多！ https://t.co/0NUnSMxtij"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2087144608367255552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPcG9pCaIAAPjuq.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087144608367255552"
+          ]
+        },
+        "author_id": "1715624766571429888",
+        "conversation_id": "2087144618177806743",
+        "created_at": "2026-08-11T11:50:28.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T12:50:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087144618177806743"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0NUnSMxtij",
+              "end": 32,
+              "expanded_url": "https://x.com/nakuyoo/status/2087144618177806743/photo/1",
+              "media_key": "3_2087144608367255552",
+              "start": 9,
+              "url": "https://t.co/0NUnSMxtij"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087144618177806743",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2087144608367255552"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又自己穿了好多！ https://t.co/0NUnSMxtij"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "ig: naku.yoo",
+        "id": "1715624766571429888",
+        "is_identity_verified": false,
+        "location": "🚪300聊天Hk",
+        "most_recent_tweet_id": "2087144618177806743",
+        "name": "骨",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1715624766571429888/1786271158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054838019136647168/v9qJCyvZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16646,
+          "following_count": 10,
+          "like_count": 31806,
+          "listed_count": 33,
+          "media_count": 246,
+          "tweet_count": 7886
+        },
+        "url": "",
+        "username": "nakuyoo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

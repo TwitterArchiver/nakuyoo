@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073360995876253696"
+      ],
+      "media_source_tweet_id": [
+        "2073361002444578905"
+      ]
+    },
+    "author_id": "1715624766571429888",
+    "conversation_id": "2074039910152159338",
+    "created_at": "2026-07-06T07:57:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T08:57:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074039910152159338"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1550593157876060160",
+          "start": 3,
+          "username": "Fumi_uowou_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uelsk0oJeh",
+          "end": 47,
+          "expanded_url": "https://x.com/Fumi_uowou_/status/2073361002444578905/photo/1",
+          "media_key": "3_2073360995876253696",
+          "start": 24,
+          "url": "https://t.co/uelsk0oJeh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074039910152159338",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073361002444578905",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Fumi_uowou_: 地雷男掛壁中 https://t.co/uelsk0oJeh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 718,
+        "media_key": "3_2073360995876253696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMYO1zJasAA_BWC.jpg",
+        "width": 1276
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073360995876253696"
+          ],
+          "media_source_tweet_id": [
+            "2073361002444578905"
+          ]
+        },
+        "author_id": "1715624766571429888",
+        "conversation_id": "2074039910152159338",
+        "created_at": "2026-07-06T07:57:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T08:57:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074039910152159338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1550593157876060160",
+              "start": 3,
+              "username": "Fumi_uowou_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uelsk0oJeh",
+              "end": 47,
+              "expanded_url": "https://x.com/Fumi_uowou_/status/2073361002444578905/photo/1",
+              "media_key": "3_2073360995876253696",
+              "start": 24,
+              "url": "https://t.co/uelsk0oJeh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074039910152159338",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073361002444578905",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Fumi_uowou_: 地雷男掛壁中 https://t.co/uelsk0oJeh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073360995876253696"
+          ]
+        },
+        "author_id": "1550593157876060160",
+        "conversation_id": "2073361002444578905",
+        "created_at": "2026-07-04T10:59:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T11:59:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073361002444578905"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uelsk0oJeh",
+              "end": 30,
+              "expanded_url": "https://x.com/Fumi_uowou_/status/2073361002444578905/photo/1",
+              "media_key": "3_2073360995876253696",
+              "start": 7,
+              "url": "https://t.co/uelsk0oJeh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073361002444578905",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 678,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "地雷男掛壁中 https://t.co/uelsk0oJeh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "",
+        "id": "1715624766571429888",
+        "location": "🚪300聊天Hk",
+        "name": "小骨Inane",
+        "pinned_tweet_id": "2061344298759844087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054838019136647168/v9qJCyvZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16741,
+          "following_count": 8,
+          "like_count": 31929,
+          "listed_count": 31,
+          "media_count": 215,
+          "tweet_count": 7799
+        },
+        "url": "",
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-22T21:26:53.000Z",
+        "description": "病み垢暴言｜地雷系｜永遠の16歳 ｜社不\n和社會對立",
+        "id": "1550593157876060160",
+        "location": "地獄",
+        "name": "ふみわんちゃん🦭🌧️",
+        "pinned_tweet_id": "2020858399106248987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990852953499185154/HwgnW6Z__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1623,
+          "following_count": 138,
+          "like_count": 20845,
+          "listed_count": 5,
+          "media_count": 302,
+          "tweet_count": 2808
+        },
+        "url": "",
+        "username": "Fumi_uowou_",
+        "verified": false
+      }
+    ]
+  }
+}

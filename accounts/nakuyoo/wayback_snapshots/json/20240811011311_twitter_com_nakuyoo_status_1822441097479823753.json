@@ -1,0 +1,98 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1822441097479823753",
+    "created_at": "2024-08-11T01:13:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-11T02:13:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1822441097479823753"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1822441097479823753",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "求求12號醫生放過我\n不過其實自己已經麻木了\n想抓就抓進Psy吧我無所謂\n我也有自知之明\n我知道我需要先治好我那又反覆又一團糟的自己"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1822441097479823753",
+        "created_at": "2024-08-11T01:13:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-11T02:13:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1822441097479823753"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1822441097479823753",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "求求12號醫生放過我\n不過其實自己已經麻木了\n想抓就抓進Psy吧我無所謂\n我也有自知之明\n我知道我需要先治好我那又反覆又一團糟的自己"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@9wylovo 骨神",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "9wylovo"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪250 香港",
+        "name": "刻在骨子裏",
+        "pinned_tweet_id": "1822266798747595010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821861972964732929/fzCuDq0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14476,
+          "following_count": 33,
+          "like_count": 31771,
+          "listed_count": 28,
+          "tweet_count": 6406
+        },
+        "username": "nakuyoo",
+        "verified": false
+      }
+    ]
+  }
+}

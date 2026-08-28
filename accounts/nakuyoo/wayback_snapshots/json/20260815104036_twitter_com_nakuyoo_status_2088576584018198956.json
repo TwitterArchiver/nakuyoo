@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088576572878139392"
+      ]
+    },
+    "author_id": "1715624766571429888",
+    "conversation_id": "2088576584018198956",
+    "created_at": "2026-08-15T10:40:36.000Z",
+    "display_text_range": [
+      0,
+      1
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T11:40:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088576584018198956"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mNepeRuTuL",
+          "end": 25,
+          "expanded_url": "https://x.com/nakuyoo/status/2088576584018198956/photo/1",
+          "media_key": "3_2088576572878139392",
+          "start": 2,
+          "url": "https://t.co/mNepeRuTuL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088576584018198956",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2088576572878139392"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🪐 https://t.co/mNepeRuTuL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1472,
+        "media_key": "3_2088576572878139392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPwdU8iasAAezZf.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088576572878139392"
+          ]
+        },
+        "author_id": "1715624766571429888",
+        "conversation_id": "2088576584018198956",
+        "created_at": "2026-08-15T10:40:36.000Z",
+        "display_text_range": [
+          0,
+          1
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T11:40:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088576584018198956"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mNepeRuTuL",
+              "end": 25,
+              "expanded_url": "https://x.com/nakuyoo/status/2088576584018198956/photo/1",
+              "media_key": "3_2088576572878139392",
+              "start": 2,
+              "url": "https://t.co/mNepeRuTuL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088576584018198956",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2088576572878139392"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🪐 https://t.co/mNepeRuTuL"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "ig: naku.yoo",
+        "id": "1715624766571429888",
+        "is_identity_verified": false,
+        "location": "🚪300聊天Hk",
+        "most_recent_tweet_id": "2088576584018198956",
+        "name": "骨",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1715624766571429888/1786271158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054838019136647168/v9qJCyvZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16818,
+          "following_count": 9,
+          "like_count": 31863,
+          "listed_count": 33,
+          "media_count": 267,
+          "tweet_count": 7922
+        },
+        "url": "",
+        "username": "nakuyoo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

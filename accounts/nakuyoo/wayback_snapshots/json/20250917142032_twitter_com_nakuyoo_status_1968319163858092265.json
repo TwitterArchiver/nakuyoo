@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1968303312186552505",
+    "created_at": "2025-09-17T14:20:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T15:20:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968319163858092265"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1540245979202744321",
+          "start": 0,
+          "username": "lt_re2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968319163858092265",
+    "in_reply_to_user_id": "1540245979202744321",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968316627960889350",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lt_re2 謝謝你！😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1968303312186552505",
+        "created_at": "2025-09-17T14:20:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T15:20:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968319163858092265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1540245979202744321",
+              "start": 0,
+              "username": "lt_re2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968319163858092265",
+        "in_reply_to_user_id": "1540245979202744321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968316627960889350",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lt_re2 謝謝你！😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1540245979202744321",
+        "conversation_id": "1968303312186552505",
+        "created_at": "2025-09-17T14:10:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T15:10:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968316627960889350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1715624766571429888",
+              "start": 0,
+              "username": "nakuyoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968316627960889350",
+        "in_reply_to_user_id": "1715624766571429888",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968303312186552505",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nakuyoo 毕业了也想打耳洞！\n太适合你了ෆ.*･ﾟ可爱❤︎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "定期清列表 不互",
+        "id": "1715624766571429888",
+        "location": "🚪300 388+cheki HK",
+        "name": "水母骨",
+        "pinned_tweet_id": "1967587870547513723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931334867725504512/7kS_Yy1T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17359,
+          "following_count": 23,
+          "like_count": 34245,
+          "listed_count": 30,
+          "media_count": 114,
+          "tweet_count": 7610
+        },
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-24T08:10:45.000Z",
+        "description": "17",
+        "id": "1540245979202744321",
+        "location": "🌸🌸🌸",
+        "name": "(,,- -,, )",
+        "pinned_tweet_id": "1853451977600229660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805968570452676608/LfaL60pf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 19,
+          "like_count": 3731,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 162
+        },
+        "username": "lt_re2",
+        "verified": false
+      }
+    ]
+  }
+}

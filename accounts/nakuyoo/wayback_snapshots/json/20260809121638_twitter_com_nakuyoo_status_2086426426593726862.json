@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "2086426426593726862",
+    "created_at": "2026-08-09T12:16:38.000Z",
+    "display_text_range": [
+      0,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T13:16:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086426426593726862"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1814948743369961472",
+          "start": 3,
+          "username": "UkyiKim"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086426426593726862",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086350235601973406",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @UkyiKim: 人为什么要长各种毛 我觉得腋毛腿毛体毛所有的都很恶心…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "2086426426593726862",
+        "created_at": "2026-08-09T12:16:38.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T13:16:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086426426593726862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1814948743369961472",
+              "start": 3,
+              "username": "UkyiKim"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086426426593726862",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086350235601973406",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @UkyiKim: 人为什么要长各种毛 我觉得腋毛腿毛体毛所有的都很恶心…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814948743369961472",
+        "conversation_id": "2086350235601973406",
+        "created_at": "2026-08-09T07:13:53.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T08:13:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086350235601973406"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086350235601973406",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 9041,
+          "like_count": 118,
+          "quote_count": 1,
+          "reply_count": 27,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "人为什么要长各种毛 我觉得腋毛腿毛体毛所有的都很恶心…"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "ig: naku.yoo",
+        "id": "1715624766571429888",
+        "is_identity_verified": false,
+        "location": "🚪300聊天Hk",
+        "most_recent_tweet_id": "2086426426593726862",
+        "name": "骨",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1715624766571429888/1786271158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054838019136647168/v9qJCyvZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16642,
+          "following_count": 10,
+          "like_count": 31754,
+          "listed_count": 33,
+          "media_count": 235,
+          "tweet_count": 7852
+        },
+        "url": "",
+        "username": "nakuyoo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-21T09:01:28.000Z",
+        "description": "我只是一个呆萌的女子。\n                              https://t.co/mCOBcbbEPt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ukyi_",
+                "end": 65,
+                "expanded_url": "https://ngl.link/ukyi_",
+                "start": 42,
+                "url": "https://t.co/mCOBcbbEPt"
+              }
+            ]
+          }
+        },
+        "id": "1814948743369961472",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086394642950701496",
+        "name": "ukyi_",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045852669609406464/dGs9pe40_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 114,
+          "like_count": 1343,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 540
+        },
+        "url": "",
+        "username": "UkyiKim",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

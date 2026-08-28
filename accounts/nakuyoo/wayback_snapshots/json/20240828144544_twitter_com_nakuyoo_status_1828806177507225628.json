@@ -1,0 +1,375 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1828804620870906336",
+    "created_at": "2024-08-28T14:45:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-28T15:45:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1828806177507225628"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1659297861060943873",
+          "start": 0,
+          "username": "sixmonthautumn"
+        },
+        {
+          "end": 24,
+          "id": "1808832928086118400",
+          "start": 16,
+          "username": "9wylovo"
+        },
+        {
+          "end": 36,
+          "id": "1465358432769560576",
+          "start": 25,
+          "username": "haiyan_626"
+        },
+        {
+          "end": 48,
+          "id": "1512834058820022281",
+          "start": 37,
+          "username": "yins_chan_"
+        },
+        {
+          "end": 61,
+          "id": "1812797664347717632",
+          "start": 49,
+          "username": "kurushi_qwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1828806177507225628",
+    "in_reply_to_user_id": "1659297861060943873",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1828805602291945895",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sixmonthautumn @9wylovo @haiyan_626 @yins_chan_ @kurushi_qwq 媽女🌝👏🏻👏🏻👏🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1828804620870906336",
+        "created_at": "2024-08-28T14:45:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-28T15:45:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1828806177507225628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1659297861060943873",
+              "start": 0,
+              "username": "sixmonthautumn"
+            },
+            {
+              "end": 24,
+              "id": "1808832928086118400",
+              "start": 16,
+              "username": "9wylovo"
+            },
+            {
+              "end": 36,
+              "id": "1465358432769560576",
+              "start": 25,
+              "username": "haiyan_626"
+            },
+            {
+              "end": 48,
+              "id": "1512834058820022281",
+              "start": 37,
+              "username": "yins_chan_"
+            },
+            {
+              "end": 61,
+              "id": "1812797664347717632",
+              "start": 49,
+              "username": "kurushi_qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828806177507225628",
+        "in_reply_to_user_id": "1659297861060943873",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1828805602291945895",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sixmonthautumn @9wylovo @haiyan_626 @yins_chan_ @kurushi_qwq 媽女🌝👏🏻👏🏻👏🏻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659297861060943873",
+        "conversation_id": "1828804620870906336",
+        "created_at": "2024-08-28T14:43:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-28T15:43:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1828805602291945895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1808832928086118400",
+              "start": 0,
+              "username": "9wylovo"
+            },
+            {
+              "end": 20,
+              "id": "1465358432769560576",
+              "start": 9,
+              "username": "haiyan_626"
+            },
+            {
+              "end": 32,
+              "id": "1512834058820022281",
+              "start": 21,
+              "username": "yins_chan_"
+            },
+            {
+              "end": 45,
+              "id": "1812797664347717632",
+              "start": 33,
+              "username": "kurushi_qwq"
+            },
+            {
+              "end": 54,
+              "id": "1715624766571429888",
+              "start": 46,
+              "username": "nakuyoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828805602291945895",
+        "in_reply_to_user_id": "1808832928086118400",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1828805351468380304",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@9wylovo @haiyan_626 @yins_chan_ @kurushi_qwq @nakuyoo 我睇到嘅時候笑死\n我應該叫你阿爸阿媽\n定係叫你做阿仔阿女🤌🏻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@9wylovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "9wylovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/naku.yoo?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/naku.yoo?igsh=OHVpYmZjb3hpNjVy&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/aHjXW8BvfQ"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪250🇭🇰🇭🇰",
+        "name": "骨頭",
+        "pinned_tweet_id": "1823875339594191103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828756448404439040/FNqiVmFy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15495,
+          "following_count": 26,
+          "like_count": 33439,
+          "listed_count": 26,
+          "tweet_count": 6731
+        },
+        "url": "https://t.co/aHjXW8BvfQ",
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-18T20:41:06.000Z",
+        "description": "隨風飄蕩的楓葉🍁",
+        "id": "1659297861060943873",
+        "location": "在風中飄蕩",
+        "name": "六月秋色",
+        "pinned_tweet_id": "1819354672999903281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819765095511334912/1SLqKk0G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 21,
+          "like_count": 244,
+          "listed_count": 1,
+          "tweet_count": 303
+        },
+        "username": "sixmonthautumn",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-04T11:59:18.000Z",
+        "description": "@nakuyoo 小骨aka奶龍終結者 panasexual冷漠孤僻自閉女 無病呻吟 人體分裂 天馬行空 浸在自己世界永遠無法自拔 絕症 永遠不會有朋友 無法溝通 對人類有PTSD 信任度0 背叛比死還難受 自言自語派",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "nakuyoo"
+              }
+            ]
+          }
+        },
+        "id": "1808832928086118400",
+        "name": "骨仔",
+        "pinned_tweet_id": "1828664296324141517",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828411858820452352/RljIvVJB_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 68,
+          "like_count": 9951,
+          "listed_count": 0,
+          "tweet_count": 1884
+        },
+        "username": "9wylovo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-29T16:34:29.000Z",
+        "description": "Suicidal/躁鬱.ASD.強迫傾向/愛人@HenHuai_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 23,
+                "username": "HenHuai_"
+              }
+            ]
+          }
+        },
+        "id": "1465358432769560576",
+        "location": "🕷️",
+        "name": "海菌",
+        "pinned_tweet_id": "1824428895283904554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826539145474572288/RXBHLKUc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5024,
+          "following_count": 351,
+          "like_count": 42827,
+          "listed_count": 7,
+          "tweet_count": 8267
+        },
+        "username": "haiyan_626",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-09T16:45:27.000Z",
+        "description": "昨晚只是個陷阱",
+        "id": "1512834058820022281",
+        "location": "hell 距离你所在的地方100m以内",
+        "name": "瀕死♚煙硝子",
+        "pinned_tweet_id": "1740658390567956924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1545350024845881346/DZLFap_h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1015,
+          "following_count": 250,
+          "like_count": 81386,
+          "listed_count": 3,
+          "tweet_count": 9864
+        },
+        "username": "yins_chan_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-15T10:33:49.000Z",
+        "description": "痛苦痛苦痛苦",
+        "id": "1812797664347717632",
+        "name": "usagi",
+        "pinned_tweet_id": "1819335727530102987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827723446949937152/LAsCvDuY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 163,
+          "like_count": 857,
+          "listed_count": 0,
+          "tweet_count": 247
+        },
+        "username": "kurushi_qwq",
+        "verified": false
+      }
+    ]
+  }
+}

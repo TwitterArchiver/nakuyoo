@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2090373101095964673"
+      ]
+    },
+    "author_id": "1715624766571429888",
+    "conversation_id": "2090373127721324856",
+    "created_at": "2026-08-20T09:39:25.000Z",
+    "display_text_range": [
+      0,
+      4
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T10:39:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090373127721324856"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AaDppQ4Or3",
+          "end": 28,
+          "expanded_url": "https://x.com/nakuyoo/status/2090373127721324856/video/1",
+          "media_key": "13_2090373101095964673",
+          "start": 5,
+          "url": "https://t.co/AaDppQ4Or3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090373127721324856",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2090373101095964673"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "水上單車 https://t.co/AaDppQ4Or3"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2466,
+        "height": 1280,
+        "media_key": "13_2090373101095964673",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2090373101095964673/img/ydjPVpVcBHxc9gA8.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090373101095964673/vid/avc1/320x568/E-Rdup-h5scamJN-.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090373101095964673/vid/avc1/480x852/ChdzEPkdFgTWk_MD.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090373101095964673/vid/avc1/720x1280/VCk_Xcadw2Z92kiW.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2090373101095964673/pl/r1PCxvy8Fq7wx2bW.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2090373101095964673"
+          ]
+        },
+        "author_id": "1715624766571429888",
+        "conversation_id": "2090373127721324856",
+        "created_at": "2026-08-20T09:39:25.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T10:39:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090373127721324856"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AaDppQ4Or3",
+              "end": 28,
+              "expanded_url": "https://x.com/nakuyoo/status/2090373127721324856/video/1",
+              "media_key": "13_2090373101095964673",
+              "start": 5,
+              "url": "https://t.co/AaDppQ4Or3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090373127721324856",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2090373101095964673"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "水上單車 https://t.co/AaDppQ4Or3"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "ig: naku.yoo",
+        "id": "1715624766571429888",
+        "is_identity_verified": false,
+        "location": "🚪300聊天Hk ",
+        "most_recent_tweet_id": "2090373127721324856",
+        "name": "骨",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1715624766571429888/1786891740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089001260796317696/MSm_ClEA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17376,
+          "following_count": 10,
+          "like_count": 31929,
+          "listed_count": 33,
+          "media_count": 294,
+          "tweet_count": 7961
+        },
+        "url": "",
+        "username": "nakuyoo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

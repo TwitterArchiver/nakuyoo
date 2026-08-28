@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1869007492027658334",
+    "created_at": "2024-12-17T15:12:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-17T16:12:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1869038079987863951"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1322259299922440192",
+          "start": 0,
+          "username": "zyyz00000000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869038079987863951",
+    "in_reply_to_user_id": "1322259299922440192",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1869037747547295787",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zyyz00000000 🌝🌝🌝👍🏻👍🏻👍🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1869007492027658334",
+        "created_at": "2024-12-17T15:12:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-17T16:12:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869038079987863951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1322259299922440192",
+              "start": 0,
+              "username": "zyyz00000000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869038079987863951",
+        "in_reply_to_user_id": "1322259299922440192",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869037747547295787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zyyz00000000 🌝🌝🌝👍🏻👍🏻👍🏻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1322259299922440192",
+        "conversation_id": "1869007492027658334",
+        "created_at": "2024-12-17T15:11:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-17T16:11:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869037747547295787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1715624766571429888",
+              "start": 0,
+              "username": "nakuyoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869037747547295787",
+        "in_reply_to_user_id": "1715624766571429888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869007492027658334",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nakuyoo 偷走☝️🤓欸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "🚪300 | @b0n3_core",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "b0n3_core"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/naku.yoo?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/naku.yoo?igsh=OHVpYmZjb3hpNjVy&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/aHjXW8BvfQ"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "name": "水母骨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869007194752229376/VpXyZ867_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17292,
+          "following_count": 32,
+          "like_count": 34669,
+          "listed_count": 28,
+          "media_count": 55,
+          "tweet_count": 7058
+        },
+        "url": "https://t.co/aHjXW8BvfQ",
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-30T19:29:28.000Z",
+        "description": "喜欢短发",
+        "id": "1322259299922440192",
+        "location": "中华人民共和国",
+        "name": "西宫结弦",
+        "pinned_tweet_id": "1837717885503893908",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830632760161243136/H9LPtbs2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 144,
+          "like_count": 3587,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 773
+        },
+        "username": "zyyz00000000",
+        "verified": false
+      }
+    ]
+  }
+}

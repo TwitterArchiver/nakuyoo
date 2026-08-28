@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1823900840828264782",
+    "created_at": "2024-08-15T06:05:29.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-15T07:05:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1823964208733806937"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1755269867408887808",
+          "start": 0,
+          "username": "xixi0619y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1823964208733806937",
+    "in_reply_to_user_id": "1755269867408887808",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1823963963018625437",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xixi0619y 😋😋👍🏻👍🏻👍🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1823900840828264782",
+        "created_at": "2024-08-15T06:05:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-15T07:05:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1823964208733806937"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1755269867408887808",
+              "start": 0,
+              "username": "xixi0619y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823964208733806937",
+        "in_reply_to_user_id": "1755269867408887808",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1823963963018625437",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xixi0619y 😋😋👍🏻👍🏻👍🏻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755269867408887808",
+        "conversation_id": "1823900840828264782",
+        "created_at": "2024-08-15T06:04:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-15T07:04:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1823963963018625437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1715624766571429888",
+              "start": 0,
+              "username": "nakuyoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823963963018625437",
+        "in_reply_to_user_id": "1715624766571429888",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1823900840828264782",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nakuyoo 最可爱的一集..！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@9wylovo 一個精神病 完",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "9wylovo"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪250🇭🇰",
+        "name": "刻在骨子裏",
+        "pinned_tweet_id": "1823875339594191103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822625813629689856/KGMTxKge_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14694,
+          "following_count": 34,
+          "like_count": 32390,
+          "listed_count": 27,
+          "tweet_count": 6579
+        },
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-07T16:39:12.000Z",
+        "description": "不可饶恕之罪",
+        "id": "1755269867408887808",
+        "name": "xixi",
+        "pinned_tweet_id": "1823408057034137818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823407666611515392/Gprn5xXx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 203,
+          "like_count": 3060,
+          "listed_count": 0,
+          "tweet_count": 697
+        },
+        "username": "xixi0619y",
+        "verified": false
+      }
+    ]
+  }
+}

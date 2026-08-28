@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1820437802259214423",
+    "created_at": "2024-08-05T12:32:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-05T13:32:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1820437802259214423"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1471510301233545216",
+          "start": 3,
+          "username": "twelvedaystodie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1820437802259214423",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1820421287568896447",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @twelvedaystodie: 不要因為覺得帥去吸煙\n不要因為覺得帥去自殘\n不要因為覺得帥去OD"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1820437802259214423",
+        "created_at": "2024-08-05T12:32:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-05T13:32:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1820437802259214423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1471510301233545216",
+              "start": 3,
+              "username": "twelvedaystodie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1820437802259214423",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1820421287568896447",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @twelvedaystodie: 不要因為覺得帥去吸煙\n不要因為覺得帥去自殘\n不要因為覺得帥去OD"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1820421287568896447",
+        "created_at": "2024-08-05T11:27:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-05T12:27:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1820421287568896447"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1820421287568896447",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 73,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "不要因為覺得帥去吸煙\n不要因為覺得帥去自殘\n不要因為覺得帥去OD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@9wylovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "9wylovo"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪250 香港",
+        "name": "刻在骨子裏",
+        "pinned_tweet_id": "1820084073622282490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819147763487039488/y1CPKGFk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14357,
+          "following_count": 32,
+          "like_count": 32325,
+          "listed_count": 28,
+          "tweet_count": 6351
+        },
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "暴力魔法少女自毀中\n黃推別找我、不聊色、一聊色封鎖\n私訊很多時候看不到，抱歉\n不給推特以外的聯繫方式\n不排斥跟男的聊天，但不要太過分\n給錢我就會高興，是最好的陪伴\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7557,
+          "following_count": 226,
+          "like_count": 6597,
+          "listed_count": 15,
+          "tweet_count": 9565
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      }
+    ]
+  }
+}

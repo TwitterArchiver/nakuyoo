@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "2059993769437802965",
+    "created_at": "2026-05-28T23:04:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T00:04:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060135066110664891"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1390636809818804232",
+          "start": 0,
+          "username": "1untica"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060135066110664891",
+    "in_reply_to_user_id": "1390636809818804232",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060134956542918757",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1untica 🌝💪🏻💪🏻🉑🉑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "2059993769437802965",
+        "created_at": "2026-05-28T23:04:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T00:04:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060135066110664891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1390636809818804232",
+              "start": 0,
+              "username": "1untica"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060135066110664891",
+        "in_reply_to_user_id": "1390636809818804232",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060134956542918757",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1untica 🌝💪🏻💪🏻🉑🉑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390636809818804232",
+        "conversation_id": "2059993769437802965",
+        "created_at": "2026-05-28T23:03:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T00:03:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060134956542918757"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1715624766571429888",
+              "start": 0,
+              "username": "nakuyoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060134956542918757",
+        "in_reply_to_user_id": "1715624766571429888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059993769437802965",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nakuyoo 當年的小骨已經成長成女神了🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "",
+        "id": "1715624766571429888",
+        "location": "🚪300聊天Hk",
+        "name": "小骨Inane",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054838019136647168/v9qJCyvZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16882,
+          "following_count": 9,
+          "like_count": 32142,
+          "listed_count": 34,
+          "media_count": 201,
+          "tweet_count": 7767
+        },
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-07T11:57:11.000Z",
+        "description": "樂子人",
+        "id": "1390636809818804232",
+        "name": "し",
+        "pinned_tweet_id": "1861646099028812271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872549838740692992/V5U-DsUG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 2110,
+          "like_count": 27834,
+          "listed_count": 3,
+          "media_count": 208,
+          "tweet_count": 3016
+        },
+        "username": "1untica",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1937119810665795771",
+    "created_at": "2025-06-23T12:05:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-23T13:05:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1937119810665795771"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ching__101/sta…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/ching__101/status/1937112998545670450",
+          "start": 4,
+          "url": "https://t.co/9dlh7s1CiT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937119810665795771",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937112998545670450",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好帥😭 https://t.co/9dlh7s1CiT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1937112986637762560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuIB_4JXAAAILHt.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1937119810665795771",
+        "created_at": "2025-06-23T12:05:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T13:05:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937119810665795771"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ching__101/sta…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/ching__101/status/1937112998545670450",
+              "start": 4,
+              "url": "https://t.co/9dlh7s1CiT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937119810665795771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937112998545670450",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好帥😭 https://t.co/9dlh7s1CiT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937112986637762560"
+          ]
+        },
+        "author_id": "1558048751302103041",
+        "conversation_id": "1937112998545670450",
+        "created_at": "2025-06-23T11:38:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T12:38:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937112998545670450"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/a1INDogLNl",
+              "end": 23,
+              "expanded_url": "https://x.com/ching__101/status/1937112998545670450/photo/1",
+              "media_key": "3_1937112986637762560",
+              "start": 0,
+              "url": "https://t.co/a1INDogLNl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937112998545670450",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/a1INDogLNl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@ukanooy0 唯一2.0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "ukanooy0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/naku.yoo?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/naku.yoo?igsh=OHVpYmZjb3hpNjVy&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/aHjXW8BvfQ"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪300基本388簽名",
+        "name": "Inane骨",
+        "pinned_tweet_id": "1878244958273978540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931334867725504512/7kS_Yy1T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17343,
+          "following_count": 33,
+          "like_count": 33913,
+          "listed_count": 29,
+          "media_count": 69,
+          "tweet_count": 7469
+        },
+        "url": "https://t.co/aHjXW8BvfQ",
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-12T11:12:47.000Z",
+        "description": "あなたの気に入ってくれてありがとう",
+        "id": "1558048751302103041",
+        "location": "🚪52僅好友 88朋友圈",
+        "name": "離禾",
+        "pinned_tweet_id": "1931836265059803490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931841192817483777/PhfkrKty_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3545,
+          "following_count": 65,
+          "like_count": 335,
+          "listed_count": 4,
+          "media_count": 222,
+          "tweet_count": 703
+        },
+        "username": "ching__101",
+        "verified": false
+      }
+    ]
+  }
+}

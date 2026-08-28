@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1947171665261342935",
+    "created_at": "2025-07-21T05:47:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T06:47:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1947171665261342935"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yorutomei/stat…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/yorutomei/status/1946938593509015902",
+          "start": 24,
+          "url": "https://t.co/YqN35e6dmB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947171665261342935",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946938593509015902",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "結果零治還把自己的頭髮P走了 變成光頭零治😭😭 https://t.co/YqN35e6dmB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_1946938586579787776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwTqVESW4AAyjqP.jpg",
+        "width": 904
+      },
+      {
+        "height": 1034,
+        "media_key": "3_1946938586600751104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwTqVEXWwAAeM_q.jpg",
+        "width": 700
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1947171665261342935",
+        "created_at": "2025-07-21T05:47:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T06:47:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947171665261342935"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yorutomei/stat…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/yorutomei/status/1946938593509015902",
+              "start": 24,
+              "url": "https://t.co/YqN35e6dmB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947171665261342935",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946938593509015902",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "結果零治還把自己的頭髮P走了 變成光頭零治😭😭 https://t.co/YqN35e6dmB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946938586579787776",
+            "3_1946938586600751104"
+          ]
+        },
+        "author_id": "906566164582612992",
+        "conversation_id": "1946938593509015902",
+        "created_at": "2025-07-20T14:21:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T15:21:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946938593509015902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 44,
+              "id": "1715624766571429888",
+              "start": 36,
+              "username": "nakuyoo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XjlfoVr5YH",
+              "end": 68,
+              "expanded_url": "https://x.com/Yorutomei/status/1946938593509015902/photo/1",
+              "media_key": "3_1946938586579787776",
+              "start": 45,
+              "url": "https://t.co/XjlfoVr5YH"
+            },
+            {
+              "display_url": "pic.x.com/XjlfoVr5YH",
+              "end": 68,
+              "expanded_url": "https://x.com/Yorutomei/status/1946938593509015902/photo/1",
+              "media_key": "3_1946938586600751104",
+              "start": 45,
+              "url": "https://t.co/XjlfoVr5YH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946938593509015902",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3367,
+          "like_count": 76,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "報告，把小骨帶壞了，逼她在陽光下嬉戲\n，還慫恿了她拍陽光少女😋😋✌🏻爽\n@nakuyoo https://t.co/XjlfoVr5YH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@ukanooy0 唯一2.0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "ukanooy0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/naku.yoo?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/naku.yoo?igsh=OHVpYmZjb3hpNjVy&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/aHjXW8AXqi"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪300 388",
+        "name": "Inane小骨",
+        "pinned_tweet_id": "1878244958273978540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931334867725504512/7kS_Yy1T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17305,
+          "following_count": 33,
+          "like_count": 33764,
+          "listed_count": 28,
+          "media_count": 77,
+          "tweet_count": 7503
+        },
+        "url": "https://t.co/aHjXW8AXqi",
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-09T17:13:11.000Z",
+        "description": "ℂ𝕙𝕒𝕠𝕥𝕚𝕔｜ 𝕡𝕒𝕟 ｜𝕤𝕨𝕚𝕥𝕔𝕙｜網癮女大｜只看不做的變態",
+        "id": "906566164582612992",
+        "location": "Hong Kong",
+        "name": "澪♱",
+        "pinned_tweet_id": "1867974380489519528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832095718296723456/7uVswivY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19317,
+          "following_count": 603,
+          "like_count": 8628,
+          "listed_count": 32,
+          "media_count": 158,
+          "tweet_count": 2398
+        },
+        "username": "Yorutomei",
+        "verified": false
+      }
+    ]
+  }
+}

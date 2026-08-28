@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "2058272201049338013",
+    "created_at": "2026-05-24T16:55:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T17:55:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058592770793816210"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1672613612098293761",
+          "start": 0,
+          "username": "yi_smokq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058592770793816210",
+    "in_reply_to_user_id": "1672613612098293761",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058437907791454414",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yi_smokq 顯徑商場的藥房有"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "2058272201049338013",
+        "created_at": "2026-05-24T16:55:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T17:55:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058592770793816210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1672613612098293761",
+              "start": 0,
+              "username": "yi_smokq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058592770793816210",
+        "in_reply_to_user_id": "1672613612098293761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058437907791454414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yi_smokq 顯徑商場的藥房有"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672613612098293761",
+        "conversation_id": "2058272201049338013",
+        "created_at": "2026-05-24T06:40:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T07:40:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058437907791454414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1715624766571429888",
+              "start": 0,
+              "username": "nakuyoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058437907791454414",
+        "in_reply_to_user_id": "1715624766571429888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 142,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058337428457640113",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nakuyoo 我跑了好几家，他都说没有"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "",
+        "id": "1715624766571429888",
+        "location": "🚪300聊天Hk",
+        "name": "小骨Inane",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054838019136647168/v9qJCyvZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16831,
+          "following_count": 9,
+          "like_count": 32068,
+          "listed_count": 34,
+          "media_count": 182,
+          "tweet_count": 7735
+        },
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-24T14:32:22.000Z",
+        "description": "od ed 自残 爸爸活I 平胸hate this world. 问废话一律不回 09年 @sammy52_0萌萌的小女孩😋",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 45,
+                "username": "sammy52_0"
+              }
+            ]
+          }
+        },
+        "id": "1672613612098293761",
+        "location": "🚪88/288/520/1314",
+        "name": "清",
+        "pinned_tweet_id": "2038663240943800717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057485693660930048/Fo6uKP_F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1012,
+          "following_count": 47,
+          "like_count": 1340,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 776
+        },
+        "username": "yi_smokq",
+        "verified": false
+      }
+    ]
+  }
+}

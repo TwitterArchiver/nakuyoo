@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1825039385576034534",
+    "created_at": "2024-08-18T05:17:51.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-18T06:17:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1825039385576034534"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1190727688622768128",
+          "start": 3,
+          "username": "miomioQaQ1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1825039385576034534",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1824842737126179235",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @miomioQaQ1: 吃點藥就睡吧，反正明天也不會有什麼區別"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1825039385576034534",
+        "created_at": "2024-08-18T05:17:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-18T06:17:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1825039385576034534"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1190727688622768128",
+              "start": 3,
+              "username": "miomioQaQ1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825039385576034534",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1824842737126179235",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @miomioQaQ1: 吃點藥就睡吧，反正明天也不會有什麼區別"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1190727688622768128",
+        "conversation_id": "1824842737126179235",
+        "created_at": "2024-08-17T16:16:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-17T17:16:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1824842737126179235"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1824842737126179235",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 419,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃點藥就睡吧，反正明天也不會有什麼區別"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "一個精神病 完 @9wylovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 8,
+                "username": "9wylovo"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪250🇭🇰",
+        "name": "刻在骨子裏",
+        "pinned_tweet_id": "1823875339594191103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822625813629689856/KGMTxKge_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15097,
+          "following_count": 33,
+          "like_count": 32664,
+          "listed_count": 27,
+          "tweet_count": 6655
+        },
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-02T20:29:47.000Z",
+        "description": "腐爛的世界還有我🫂我永遠的寶寶 @YukiF90333 🪦裏垢@miomio404",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 16,
+                "username": "YukiF90333"
+              },
+              {
+                "end": 41,
+                "start": 31,
+                "username": "miomio404"
+              }
+            ]
+          }
+        },
+        "id": "1190727688622768128",
+        "location": "一切都衹是遺書♡",
+        "name": "永遠的澪醬𝚛𝚒𝚝𝚎♬",
+        "pinned_tweet_id": "1807422183993692530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819320438574796803/4L59oF0O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2237,
+          "following_count": 226,
+          "like_count": 9043,
+          "listed_count": 5,
+          "tweet_count": 1860
+        },
+        "username": "miomioQaQ1",
+        "verified": false
+      }
+    ]
+  }
+}

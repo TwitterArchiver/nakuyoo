@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1826230064276766763",
+    "created_at": "2024-08-21T13:42:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-21T14:42:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1826253434577969226"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1799863218510401536",
+          "start": 0,
+          "username": "yjjasama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1826253434577969226",
+    "in_reply_to_user_id": "1799863218510401536",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1826252940887412881",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yjjasama 😈😈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1826230064276766763",
+        "created_at": "2024-08-21T13:42:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-21T14:42:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1826253434577969226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1799863218510401536",
+              "start": 0,
+              "username": "yjjasama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826253434577969226",
+        "in_reply_to_user_id": "1799863218510401536",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826252940887412881",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yjjasama 😈😈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1799863218510401536",
+        "conversation_id": "1826230064276766763",
+        "created_at": "2024-08-21T13:40:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-21T14:40:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1826252940887412881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1715624766571429888",
+              "start": 0,
+              "username": "nakuyoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826252940887412881",
+        "in_reply_to_user_id": "1715624766571429888",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826230064276766763",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nakuyoo 好酷"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@9wylovo 我擦自残?!冷静啊，人生不如意十之八九，千万不要想不开呀，自残是愚蠢的行为呀，要知道自残有风险啊!人体内的血管被划破了大出血几分钟就会死，除非有人及时发现，否则输血救不回来的呀!有什么想不开的可以找我倾诉，自残什么的很可怕的，不要再这样做了，我会帮你的，对了，可以看看下面吗?",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "9wylovo"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪250🇭🇰",
+        "name": "刻在骨子裏",
+        "pinned_tweet_id": "1823875339594191103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1825182041480290304/KGPSNEnx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15160,
+          "following_count": 28,
+          "like_count": 32954,
+          "listed_count": 27,
+          "tweet_count": 6706
+        },
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-09T17:56:53.000Z",
+        "description": "",
+        "id": "1799863218510401536",
+        "name": "樱井久安",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824706793488220160/zI5YwojG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 5,
+          "like_count": 462,
+          "listed_count": 0,
+          "tweet_count": 21
+        },
+        "username": "yjjasama",
+        "verified": false
+      }
+    ]
+  }
+}

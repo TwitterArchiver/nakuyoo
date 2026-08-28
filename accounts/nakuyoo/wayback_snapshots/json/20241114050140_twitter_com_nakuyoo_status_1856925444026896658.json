@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1856925397000359936"
+      ]
+    },
+    "author_id": "1715624766571429888",
+    "conversation_id": "1856925444026896658",
+    "created_at": "2024-11-14T05:01:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-14T06:01:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1856925444026896658"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GJL7kJgmmD",
+          "end": 25,
+          "expanded_url": "https://x.com/nakuyoo/status/1856925444026896658/video/1",
+          "media_key": "7_1856925397000359936",
+          "start": 2,
+          "url": "https://t.co/GJL7kJgmmD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1856925444026896658",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "? https://t.co/GJL7kJgmmD"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3236,
+        "height": 1280,
+        "media_key": "7_1856925397000359936",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1856925397000359936/pu/img/QV9aS20O0l9jtowu.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1856925397000359936/pu/vid/avc1/320x568/HDyTtu074IAfvqm5.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1856925397000359936/pu/vid/avc1/480x852/irnJLt7s1Okh0N9h.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1856925397000359936/pu/vid/avc1/720x1280/teaUAEvmExXnUrdX.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1856925397000359936/pu/pl/hHRqrPY3S9EeRrJQ.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1856925397000359936"
+          ]
+        },
+        "author_id": "1715624766571429888",
+        "conversation_id": "1856925444026896658",
+        "created_at": "2024-11-14T05:01:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-14T06:01:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1856925444026896658"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GJL7kJgmmD",
+              "end": 25,
+              "expanded_url": "https://x.com/nakuyoo/status/1856925444026896658/video/1",
+              "media_key": "7_1856925397000359936",
+              "start": 2,
+              "url": "https://t.co/GJL7kJgmmD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856925444026896658",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "? https://t.co/GJL7kJgmmD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@9wylovo 沒有抖音微博",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "9wylovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/naku.yoo?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/naku.yoo?igsh=OHVpYmZjb3hpNjVy&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/aHjXW8BvfQ"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪300",
+        "name": "骨",
+        "pinned_tweet_id": "1852705932188451135",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852706455666970624/6koy8PCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16858,
+          "following_count": 31,
+          "like_count": 35034,
+          "listed_count": 28,
+          "tweet_count": 7108
+        },
+        "url": "https://t.co/aHjXW8BvfQ",
+        "username": "nakuyoo",
+        "verified": false
+      }
+    ]
+  }
+}

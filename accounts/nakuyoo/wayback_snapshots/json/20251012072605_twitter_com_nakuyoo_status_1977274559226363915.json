@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1977060169994395648"
+      ],
+      "media_source_tweet_id": [
+        "1977060175182786809"
+      ]
+    },
+    "author_id": "1715624766571429888",
+    "conversation_id": "1977274559226363915",
+    "created_at": "2025-10-12T07:26:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T08:26:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977274559226363915"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1940759899044188160",
+          "start": 3,
+          "username": "vanicebitchh"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KOmUYT2ZmH",
+          "end": 41,
+          "expanded_url": "https://x.com/vanicebitchh/status/1977060175182786809/photo/1",
+          "media_key": "3_1977060169994395648",
+          "start": 18,
+          "url": "https://t.co/KOmUYT2ZmH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977274559226363915",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 242
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977060175182786809",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @vanicebitchh: https://t.co/KOmUYT2ZmH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1570,
+        "media_key": "3_1977060169994395648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2_tv-wW4AArh5D.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977060169994395648"
+          ],
+          "media_source_tweet_id": [
+            "1977060175182786809"
+          ]
+        },
+        "author_id": "1715624766571429888",
+        "conversation_id": "1977274559226363915",
+        "created_at": "2025-10-12T07:26:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T08:26:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977274559226363915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1940759899044188160",
+              "start": 3,
+              "username": "vanicebitchh"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KOmUYT2ZmH",
+              "end": 41,
+              "expanded_url": "https://x.com/vanicebitchh/status/1977060175182786809/photo/1",
+              "media_key": "3_1977060169994395648",
+              "start": 18,
+              "url": "https://t.co/KOmUYT2ZmH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977274559226363915",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 242
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977060175182786809",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @vanicebitchh: https://t.co/KOmUYT2ZmH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977060169994395648"
+          ]
+        },
+        "author_id": "1940759899044188160",
+        "conversation_id": "1977060175182786809",
+        "created_at": "2025-10-11T17:14:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T18:14:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977060175182786809"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KOmUYT2ZmH",
+              "end": 23,
+              "expanded_url": "https://x.com/vanicebitchh/status/1977060175182786809/photo/1",
+              "media_key": "3_1977060169994395648",
+              "start": 0,
+              "url": "https://t.co/KOmUYT2ZmH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977060175182786809",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 70,
+          "impression_count": 17756,
+          "like_count": 2722,
+          "quote_count": 10,
+          "reply_count": 2,
+          "retweet_count": 242
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/KOmUYT2ZmH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "定期清列表不是不喜歡你們/純綠限香港/Asexual",
+        "id": "1715624766571429888",
+        "location": "🚪300 388+cheki HK",
+        "name": "小骨",
+        "pinned_tweet_id": "1967587870547513723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931334867725504512/7kS_Yy1T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17321,
+          "following_count": 10,
+          "like_count": 34378,
+          "listed_count": 30,
+          "media_count": 139,
+          "tweet_count": 7630
+        },
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-03T13:10:01.000Z",
+        "description": "I just wanna be perfect | bmi 14 | diary of me 🦢‧₊˚࿔ @venicebitchhx2 ♡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 53,
+                "username": "venicebitchhx2"
+              }
+            ]
+          }
+        },
+        "id": "1940759899044188160",
+        "location": "🧁⊹˚ ♡",
+        "name": "lizzygrant",
+        "pinned_tweet_id": "1962568589690503609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977032971145138176/-YG2lJe-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3066,
+          "following_count": 298,
+          "like_count": 7471,
+          "listed_count": 11,
+          "media_count": 218,
+          "tweet_count": 2669
+        },
+        "username": "vanicebitchh",
+        "verified": false
+      }
+    ]
+  }
+}

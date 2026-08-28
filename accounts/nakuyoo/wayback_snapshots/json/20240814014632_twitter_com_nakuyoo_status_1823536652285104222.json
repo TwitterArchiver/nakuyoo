@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1823430244990431477",
+    "created_at": "2024-08-14T01:46:32.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-14T02:46:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1823536652285104222"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1476134363989372934",
+          "start": 0,
+          "username": "pain4uuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1823536652285104222",
+    "in_reply_to_user_id": "1476134363989372934",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1823430244990431477",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pain4uuu 我之前也被掛過2次\n他們純粹腦殘"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1823430244990431477",
+        "created_at": "2024-08-14T01:46:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-14T02:46:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1823536652285104222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1476134363989372934",
+              "start": 0,
+              "username": "pain4uuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823536652285104222",
+        "in_reply_to_user_id": "1476134363989372934",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1823430244990431477",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pain4uuu 我之前也被掛過2次\n他們純粹腦殘"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476134363989372934",
+        "conversation_id": "1823430244990431477",
+        "created_at": "2024-08-13T18:43:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-13T19:43:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1823430244990431477"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1823430244990431477",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 238,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在tg被掛了、"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@9wylovo 一個精神病 完",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "9wylovo"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪250🇭🇰",
+        "name": "刻在骨子裏",
+        "pinned_tweet_id": "1822266798747595010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822625813629689856/KGMTxKge_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14592,
+          "following_count": 33,
+          "like_count": 32174,
+          "listed_count": 28,
+          "tweet_count": 6517
+        },
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-29T10:14:05.000Z",
+        "description": "沒事別私我 私我就請給我打錢買右美",
+        "id": "1476134363989372934",
+        "name": "餓了就把你吃掉",
+        "pinned_tweet_id": "1823326753974329386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823413908243406853/1pGrLRAf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1427,
+          "following_count": 129,
+          "like_count": 5411,
+          "listed_count": 2,
+          "tweet_count": 1871
+        },
+        "username": "pain4uuu",
+        "verified": false
+      }
+    ]
+  }
+}

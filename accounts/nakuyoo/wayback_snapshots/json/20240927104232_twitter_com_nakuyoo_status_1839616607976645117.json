@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1839616607976645117",
+    "created_at": "2024-09-27T10:42:32.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-27T11:42:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1839616607976645117"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yanmebusu/stat…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/yanmebusu/status/1839589520955847150",
+          "start": 13,
+          "url": "https://t.co/mshXp3YuWN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1839616607976645117",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1839589520955847150",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Bros🔥🔥🔥🔥🔥🔥🔥🔥 https://t.co/mshXp3YuWN"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1839616607976645117",
+        "created_at": "2024-09-27T10:42:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-27T11:42:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1839616607976645117"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yanmebusu/stat…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/yanmebusu/status/1839589520955847150",
+              "start": 13,
+              "url": "https://t.co/mshXp3YuWN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839616607976645117",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1839589520955847150",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Bros🔥🔥🔥🔥🔥🔥🔥🔥 https://t.co/mshXp3YuWN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1839589510314938369"
+          ]
+        },
+        "author_id": "1550593157876060160",
+        "conversation_id": "1839589520955847150",
+        "created_at": "2024-09-27T08:54:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-27T09:54:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1839589520955847150"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nyykblu0qz",
+              "end": 36,
+              "expanded_url": "https://twitter.com/yanmebusu/status/1839589520955847150/photo/1",
+              "media_key": "3_1839589510314938369",
+              "start": 13,
+              "url": "https://t.co/nYYkBlU0Qz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839589520955847150",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 84,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "Cute core ^^ https://t.co/nYYkBlU0Qz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@9wylovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "9wylovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/naku.yoo?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/naku.yoo?igsh=OHVpYmZjb3hpNjVy&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/aHjXW8BvfQ"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪300🇭🇰",
+        "name": "骨仔",
+        "pinned_tweet_id": "1823875339594191103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831117464026943488/Eo_Zr6An_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16897,
+          "following_count": 30,
+          "like_count": 35056,
+          "listed_count": 31,
+          "tweet_count": 7021
+        },
+        "url": "https://t.co/aHjXW8BvfQ",
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-22T21:26:53.000Z",
+        "description": "放負 ，只想被認同 。 永遠の16歳です。",
+        "id": "1550593157876060160",
+        "location": "地獄",
+        "name": "破碎發洩工具",
+        "pinned_tweet_id": "1782982388852858896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775552273361625088/7edQ7fe7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 711,
+          "following_count": 105,
+          "like_count": 10180,
+          "listed_count": 0,
+          "tweet_count": 1317
+        },
+        "username": "yanmebusu",
+        "verified": false
+      }
+    ]
+  }
+}

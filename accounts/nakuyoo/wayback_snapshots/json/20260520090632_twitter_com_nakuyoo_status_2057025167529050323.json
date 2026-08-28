@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "2056963820204220572",
+    "created_at": "2026-05-20T09:06:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T10:06:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057025167529050323"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1836119991474941952",
+          "start": 0,
+          "username": "AiXi1207"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057025167529050323",
+    "in_reply_to_user_id": "1836119991474941952",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056963820204220572",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AiXi1207 😋🉑🉑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "2056963820204220572",
+        "created_at": "2026-05-20T09:06:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T10:06:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057025167529050323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1836119991474941952",
+              "start": 0,
+              "username": "AiXi1207"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057025167529050323",
+        "in_reply_to_user_id": "1836119991474941952",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056963820204220572",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AiXi1207 😋🉑🉑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836119991474941952",
+        "conversation_id": "2056963820204220572",
+        "created_at": "2026-05-20T05:02:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T06:02:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056963820204220572"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056963820204220572",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喜欢的女孩子加了我微信我好激动🙆🏽‍♀️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "",
+        "id": "1715624766571429888",
+        "location": "🚪300聊天Hk",
+        "name": "小骨Inane",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054838019136647168/v9qJCyvZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16678,
+          "following_count": 9,
+          "like_count": 31933,
+          "listed_count": 33,
+          "media_count": 162,
+          "tweet_count": 7692
+        },
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-17T19:08:20.000Z",
+        "description": "欢迎小女孩来找我聊天💗成分：重抑/精分/重生/割手/碎碎念 好闺蜜@lulu1008628853",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 33,
+                "username": "lulu1008628853"
+              }
+            ]
+          }
+        },
+        "id": "1836119991474941952",
+        "name": "小曦3.0",
+        "pinned_tweet_id": "1969313997271801929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973281340431933441/ifVzYlZm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 26,
+          "like_count": 62,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 59
+        },
+        "username": "AiXi1207",
+        "verified": false
+      }
+    ]
+  }
+}

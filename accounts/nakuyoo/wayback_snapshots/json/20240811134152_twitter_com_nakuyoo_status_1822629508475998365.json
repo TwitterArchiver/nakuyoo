@@ -1,0 +1,98 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1822629508475998365",
+    "created_at": "2024-08-11T13:41:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-11T14:41:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1822629508475998365"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1822629508475998365",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "長大後想成為精神科護士\n一直都好想研究情緒病 人格障礙和自閉症\n那些患病的小朋友都很無辜 好想拯救他們（我是不是把自己說得太偉大了💀\n反正就是雖然自己也一樣經歷著 但也想更加了解認識他們和他們的病 然後去幫助他們\n讓我的存在有一丁點價值和用處"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1822629508475998365",
+        "created_at": "2024-08-11T13:41:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-11T14:41:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1822629508475998365"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1822629508475998365",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "長大後想成為精神科護士\n一直都好想研究情緒病 人格障礙和自閉症\n那些患病的小朋友都很無辜 好想拯救他們（我是不是把自己說得太偉大了💀\n反正就是雖然自己也一樣經歷著 但也想更加了解認識他們和他們的病 然後去幫助他們\n讓我的存在有一丁點價值和用處"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@9wylovo 只是一個精神病 沒什麼特別",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "9wylovo"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪250🇭🇰",
+        "name": "骨仔",
+        "pinned_tweet_id": "1822266798747595010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822625813629689856/KGMTxKge_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14506,
+          "following_count": 33,
+          "like_count": 31938,
+          "listed_count": 28,
+          "tweet_count": 6446
+        },
+        "username": "nakuyoo",
+        "verified": false
+      }
+    ]
+  }
+}

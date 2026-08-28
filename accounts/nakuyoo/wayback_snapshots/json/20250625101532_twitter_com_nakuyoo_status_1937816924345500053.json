@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1937816924345500053",
+    "created_at": "2025-06-25T10:15:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-25T11:15:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1937816924345500053"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/pogou___xx/sta…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/pogou___xx/status/1937804244004053384",
+          "start": 18,
+          "url": "https://t.co/crrLHI8CX6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937816924345500053",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937804244004053384",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我明天還要穿黑色長袖我真的不行了💀 https://t.co/crrLHI8CX6"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1937816924345500053",
+        "created_at": "2025-06-25T10:15:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T11:15:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937816924345500053"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pogou___xx/sta…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/pogou___xx/status/1937804244004053384",
+              "start": 18,
+              "url": "https://t.co/crrLHI8CX6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937816924345500053",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937804244004053384",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我明天還要穿黑色長袖我真的不行了💀 https://t.co/crrLHI8CX6"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1550593157876060160",
+        "conversation_id": "1937804244004053384",
+        "created_at": "2025-06-25T09:25:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T10:25:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937804244004053384"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pogou___xx/sta…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/pogou___xx/status/1937803657292251333",
+              "start": 21,
+              "url": "https://t.co/ZyPrPndkcA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937804244004053384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937803657292251333",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "明天本來穿這樣去和小骨玩 \n但敵不過氣溫 https://t.co/ZyPrPndkcA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@ukanooy0 唯一2.0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "ukanooy0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/naku.yoo?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/naku.yoo?igsh=OHVpYmZjb3hpNjVy&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/aHjXW8BvfQ"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪300基本388簽名",
+        "name": "Inane骨",
+        "pinned_tweet_id": "1878244958273978540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931334867725504512/7kS_Yy1T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17327,
+          "following_count": 33,
+          "like_count": 33924,
+          "listed_count": 29,
+          "media_count": 69,
+          "tweet_count": 7472
+        },
+        "url": "https://t.co/aHjXW8BvfQ",
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-22T21:26:53.000Z",
+        "description": "喜歡gore",
+        "id": "1550593157876060160",
+        "location": "地獄",
+        "name": "破碎流浪小狗",
+        "pinned_tweet_id": "1927385377527955948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775552273361625088/7edQ7fe7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1174,
+          "following_count": 120,
+          "like_count": 12839,
+          "listed_count": 1,
+          "media_count": 195,
+          "tweet_count": 1909
+        },
+        "username": "pogou___xx",
+        "verified": false
+      }
+    ]
+  }
+}

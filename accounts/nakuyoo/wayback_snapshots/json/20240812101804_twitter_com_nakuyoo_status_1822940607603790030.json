@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1822940607603790030",
+    "created_at": "2024-08-12T10:18:04.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-12T11:18:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1822940607603790030"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1190727688622768128",
+          "start": 3,
+          "username": "miomioQaQ1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1822940607603790030",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1822928085878227309",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @miomioQaQ1: 容焦其實就是人類創造出來的而已，焦慮是沒有意義的 不會有人因為長的好看而去在意你 也不會因為長的不好看去一直罵你 在路上根本就不會有人去關注他人 只會在意自己的事情 這個世界一直讓人不斷的放大自己的短處 讓人陷入焦慮"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1822940607603790030",
+        "created_at": "2024-08-12T10:18:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-12T11:18:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822940607603790030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1190727688622768128",
+              "start": 3,
+              "username": "miomioQaQ1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822940607603790030",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822928085878227309",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @miomioQaQ1: 容焦其實就是人類創造出來的而已，焦慮是沒有意義的 不會有人因為長的好看而去在意你 也不會因為長的不好看去一直罵你 在路上根本就不會有人去關注他人 只會在意自己的事情 這個世界一直讓人不斷的放大自己的短處 讓人陷入焦慮"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1190727688622768128",
+        "conversation_id": "1822928085878227309",
+        "created_at": "2024-08-12T09:28:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-12T10:28:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1822928085878227309"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1822928085878227309",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "容焦其實就是人類創造出來的而已，焦慮是沒有意義的 不會有人因為長的好看而去在意你 也不會因為長的不好看去一直罵你 在路上根本就不會有人去關注他人 只會在意自己的事情 這個世界一直讓人不斷的放大自己的短處 讓人陷入焦慮"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@9wylovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "9wylovo"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪250🇭🇰",
+        "name": "骨仔",
+        "pinned_tweet_id": "1822266798747595010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822625813629689856/KGMTxKge_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14550,
+          "following_count": 33,
+          "like_count": 32060,
+          "listed_count": 28,
+          "tweet_count": 6494
+        },
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-02T20:29:47.000Z",
+        "description": "腐爛的世界還有我🫂我永遠的寶寶 @YukiF90333",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 16,
+                "username": "YukiF90333"
+              }
+            ]
+          }
+        },
+        "id": "1190727688622768128",
+        "location": "一切都衹是遺書♡",
+        "name": "永遠的澪醬𝚛𝚒𝚝𝚎♬",
+        "pinned_tweet_id": "1807422183993692530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819320438574796803/4L59oF0O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2192,
+          "following_count": 243,
+          "like_count": 8023,
+          "listed_count": 5,
+          "tweet_count": 1638
+        },
+        "username": "miomioQaQ1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1826406044253520092",
+    "created_at": "2024-08-21T23:48:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-22T00:48:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1826406044253520092"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1826406044253520092",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "因為很多自拍和照片都火了\n然後一直以來很多人偷我的照片\n二轉 當頭像\n我有時候會想 是不是不要那麼火 其實會更好\n反正我的存在不是想要獲得關注\n我只是想分享自己的東西出來\n卻一次一次地被盜取"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1826406044253520092",
+        "created_at": "2024-08-21T23:48:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-22T00:48:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1826406044253520092"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1826406044253520092",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "因為很多自拍和照片都火了\n然後一直以來很多人偷我的照片\n二轉 當頭像\n我有時候會想 是不是不要那麼火 其實會更好\n反正我的存在不是想要獲得關注\n我只是想分享自己的東西出來\n卻一次一次地被盜取"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@9wylovo 我擦自残?!冷静啊，人生不如意十之八九，千万不要想不开呀，自残是愚蠢的行为呀，要知道自残有风险啊!人体内的血管被划破了大出血几分钟就会死，除非有人及时发现，否则输血救不回来的呀!有什么想不开的可以找我倾诉，自残什么的很可怕的，不要再这样做了，我会帮你的，对了，可以看看下面吗?",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "9wylovo"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪250🇭🇰",
+        "name": "刻在骨子裏",
+        "pinned_tweet_id": "1823875339594191103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1825182041480290304/KGPSNEnx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15185,
+          "following_count": 28,
+          "like_count": 32982,
+          "listed_count": 27,
+          "tweet_count": 6710
+        },
+        "username": "nakuyoo",
+        "verified": false
+      }
+    ]
+  }
+}

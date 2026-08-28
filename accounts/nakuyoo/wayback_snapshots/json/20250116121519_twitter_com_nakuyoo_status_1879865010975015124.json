@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1879543815889104966",
+    "created_at": "2025-01-16T12:15:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-16T13:15:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1879865010975015124"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "915601277425393665",
+          "start": 0,
+          "username": "sugar_charger"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1879865010975015124",
+    "in_reply_to_user_id": "915601277425393665",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879852674826588169",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sugar_charger 😋👍🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1879543815889104966",
+        "created_at": "2025-01-16T12:15:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-16T13:15:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1879865010975015124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "915601277425393665",
+              "start": 0,
+              "username": "sugar_charger"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879865010975015124",
+        "in_reply_to_user_id": "915601277425393665",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879852674826588169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sugar_charger 😋👍🏻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "915601277425393665",
+        "conversation_id": "1879543815889104966",
+        "created_at": "2025-01-16T11:26:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-16T12:26:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1879852674826588169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1715624766571429888",
+              "start": 0,
+              "username": "nakuyoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879852674826588169",
+        "in_reply_to_user_id": "1715624766571429888",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879543815889104966",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nakuyoo cute(  ◜𖥦◝  )(  ◜𖥦◝  )(  ◜𖥦◝  )"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@b0n3_core｜@ukanooy0 2.0 ｜我不玩遊戲我只有推特小紅書Ig和threads其他的都是盜圖 我ip香港的⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "b0n3_core"
+              },
+              {
+                "end": 20,
+                "start": 11,
+                "username": "ukanooy0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/naku.yoo?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/naku.yoo?igsh=OHVpYmZjb3hpNjVy&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/aHjXW8BvfQ"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪300基本388簽名",
+        "name": "水母骨",
+        "pinned_tweet_id": "1878244958273978540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879131018059554816/s014GKa9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18027,
+          "following_count": 34,
+          "like_count": 35445,
+          "listed_count": 29,
+          "media_count": 97,
+          "tweet_count": 7419
+        },
+        "url": "https://t.co/aHjXW8BvfQ",
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2017-10-04T15:35:30.000Z",
+        "description": "ゲーム大好きで埼玉県で生きてる男。\n定期的にミラティブで荒野行動、第五人格配信してます。\n暇な時見に来てね！\n※アイコン:Sentakuさん",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mirrativ.page.link/?link=https%3A…",
+                "end": 23,
+                "expanded_url": "https://mirrativ.page.link/?link=https%3A%2F%2Fwww.mirrativ.com%2Fuser%2F136109779%3Fwhere%3Dprofile",
+                "start": 0,
+                "url": "https://t.co/sTlOzo6C9u"
+              }
+            ]
+          }
+        },
+        "id": "915601277425393665",
+        "location": "日本",
+        "name": "しゅがー",
+        "pinned_tweet_id": "1877878692766175486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835994812664934401/D2n3cjsl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 414,
+          "following_count": 751,
+          "like_count": 36230,
+          "listed_count": 6,
+          "media_count": 353,
+          "tweet_count": 3322
+        },
+        "url": "https://t.co/sTlOzo6C9u",
+        "username": "sugar_charger",
+        "verified": false
+      }
+    ]
+  }
+}

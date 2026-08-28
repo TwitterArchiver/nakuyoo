@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1824055477065723941",
+    "created_at": "2024-08-15T12:14:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-15T13:14:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1824057039473025249"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1823504181304659968",
+          "start": 0,
+          "username": "dngdngd1054162"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1824057039473025249",
+    "in_reply_to_user_id": "1823504181304659968",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1824056787013980263",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dngdngd1054162 好🥲🌝🌝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1824055477065723941",
+        "created_at": "2024-08-15T12:14:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-15T13:14:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1824057039473025249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1823504181304659968",
+              "start": 0,
+              "username": "dngdngd1054162"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824057039473025249",
+        "in_reply_to_user_id": "1823504181304659968",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1824056787013980263",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dngdngd1054162 好🥲🌝🌝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1823504181304659968",
+        "conversation_id": "1824055477065723941",
+        "created_at": "2024-08-15T12:13:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-15T13:13:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1824056787013980263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1715624766571429888",
+              "start": 0,
+              "username": "nakuyoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824056787013980263",
+        "in_reply_to_user_id": "1715624766571429888",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1824055477065723941",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nakuyoo 诶呀，我给你讲个笑话来放松一下心情吧！公鸡泻药澡堂半年假。去搜一下开心一下吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "一個精神病 完 @9wylovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 8,
+                "username": "9wylovo"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪250🇭🇰",
+        "name": "刻在骨子裏",
+        "pinned_tweet_id": "1823875339594191103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822625813629689856/KGMTxKge_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14761,
+          "following_count": 33,
+          "like_count": 32474,
+          "listed_count": 27,
+          "tweet_count": 6602
+        },
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-13T23:37:46.000Z",
+        "description": "",
+        "id": "1823504181304659968",
+        "name": "o00o😝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823743380993794048/vz68JwTf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 179,
+          "like_count": 12,
+          "listed_count": 0,
+          "tweet_count": 19
+        },
+        "username": "dngdngd1054162",
+        "verified": false
+      }
+    ]
+  }
+}

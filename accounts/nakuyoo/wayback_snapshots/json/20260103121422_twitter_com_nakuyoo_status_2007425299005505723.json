@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "2007424792329367735",
+    "created_at": "2026-01-03T12:14:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T13:14:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007425299005505723"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1850111807383547904",
+          "start": 0,
+          "username": "nomizazzle26"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007425299005505723",
+    "in_reply_to_user_id": "1850111807383547904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007424996000587817",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nomizazzle26 強勢回歸🔥🔥"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2007424996000587817].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2007424996000587817",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2007424996000587817"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "2007424792329367735",
+        "created_at": "2026-01-03T12:14:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T13:14:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007425299005505723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1850111807383547904",
+              "start": 0,
+              "username": "nomizazzle26"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007425299005505723",
+        "in_reply_to_user_id": "1850111807383547904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007424996000587817",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nomizazzle26 強勢回歸🔥🔥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "Asexual",
+        "id": "1715624766571429888",
+        "location": "🚪300 388+cheki HK",
+        "name": "小骨",
+        "pinned_tweet_id": "1967587870547513723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977284713648996352/QlRWK9_l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16885,
+          "following_count": 8,
+          "like_count": 32923,
+          "listed_count": 31,
+          "media_count": 91,
+          "tweet_count": 7588
+        },
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-26T09:46:50.000Z",
+        "description": "",
+        "id": "1850111807383547904",
+        "name": "．",
+        "pinned_tweet_id": "1907906025065443788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993588937340964864/yQepFBE7_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 263,
+          "like_count": 16966,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 3013
+        },
+        "username": "nomizazzle26",
+        "verified": false
+      }
+    ]
+  }
+}

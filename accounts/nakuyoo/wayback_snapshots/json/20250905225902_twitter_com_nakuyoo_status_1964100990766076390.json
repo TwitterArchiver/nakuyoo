@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1964100990766076390",
+    "created_at": "2025-09-05T22:59:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-05T23:59:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964100990766076390"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1120022812842790913",
+          "start": 3,
+          "username": "justadeer_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964100990766076390",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963914870396457086",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @justadeer_: 有沒有人覺得看着自己弟弟長大就是一樣很奇怪的事情明明他六年級還是一個小小的屁孩中一就突然之間變得比我還高但是還是那張臉我不敢想像他變聲的時候會是怎樣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1964100990766076390",
+        "created_at": "2025-09-05T22:59:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T23:59:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964100990766076390"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1120022812842790913",
+              "start": 3,
+              "username": "justadeer_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964100990766076390",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963914870396457086",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @justadeer_: 有沒有人覺得看着自己弟弟長大就是一樣很奇怪的事情明明他六年級還是一個小小的屁孩中一就突然之間變得比我還高但是還是那張臉我不敢想像他變聲的時候會是怎樣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1120022812842790913",
+        "conversation_id": "1963914870396457086",
+        "created_at": "2025-09-05T10:39:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T11:39:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963914870396457086"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1963914870396457086",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 372,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "有沒有人覺得看着自己弟弟長大就是一樣很奇怪的事情明明他六年級還是一個小小的屁孩中一就突然之間變得比我還高但是還是那張臉我不敢想像他變聲的時候會是怎樣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "🎵:nakubone📕nakuyoo ig:naku.yoo｜定期清列表 不互",
+        "id": "1715624766571429888",
+        "location": "🚪300 388+cheki HK",
+        "name": "水母骨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931334867725504512/7kS_Yy1T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17391,
+          "following_count": 23,
+          "like_count": 34047,
+          "listed_count": 30,
+          "media_count": 104,
+          "tweet_count": 7580
+        },
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-21T17:53:42.000Z",
+        "description": "失戀推 🚪250/520/720/2500/5200",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+rmLWalZOr8E5M…",
+                "end": 23,
+                "expanded_url": "https://t.me/+rmLWalZOr8E5MmY1",
+                "start": 0,
+                "url": "https://t.co/5DYM3FSWBM"
+              }
+            ]
+          }
+        },
+        "id": "1120022812842790913",
+        "name": "暮",
+        "pinned_tweet_id": "1941893045286531273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832422272461635584/YhLLF9pF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4645,
+          "following_count": 537,
+          "like_count": 15251,
+          "listed_count": 7,
+          "media_count": 26,
+          "tweet_count": 4986
+        },
+        "url": "https://t.co/5DYM3FSWBM",
+        "username": "justadeer_",
+        "verified": true
+      }
+    ]
+  }
+}

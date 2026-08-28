@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1820414610220200153",
+    "created_at": "2024-08-05T13:43:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-05T14:43:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1820455684338819560"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1539141341107847168",
+          "start": 0,
+          "username": "OooSaKuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1820455684338819560",
+    "in_reply_to_user_id": "1539141341107847168",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1820440406175424930",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OooSaKuu 😱😱😱😱😱太辛苦了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1820414610220200153",
+        "created_at": "2024-08-05T13:43:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-05T14:43:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1820455684338819560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1539141341107847168",
+              "start": 0,
+              "username": "OooSaKuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1820455684338819560",
+        "in_reply_to_user_id": "1539141341107847168",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1820440406175424930",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OooSaKuu 😱😱😱😱😱太辛苦了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1539141341107847168",
+        "conversation_id": "1820414610220200153",
+        "created_at": "2024-08-05T12:43:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-05T13:43:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1820440406175424930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1715624766571429888",
+              "start": 0,
+              "username": "nakuyoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1820440406175424930",
+        "in_reply_to_user_id": "1715624766571429888",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1820414610220200153",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nakuyoo 我是一直在切換。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@9wylovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "9wylovo"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪250 香港",
+        "name": "刻在骨子裏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819147763487039488/y1CPKGFk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14357,
+          "following_count": 32,
+          "like_count": 32327,
+          "listed_count": 28,
+          "tweet_count": 6352
+        },
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-21T07:01:17.000Z",
+        "description": "需要算命請私信，紫微斗數面相梅花六爻",
+        "id": "1539141341107847168",
+        "name": "可妮（算命找我）",
+        "pinned_tweet_id": "1789768380028760254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782356087871807488/oGJqPdE__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 130,
+          "like_count": 3394,
+          "listed_count": 1,
+          "tweet_count": 1712
+        },
+        "username": "OooSaKuu",
+        "verified": false
+      }
+    ]
+  }
+}

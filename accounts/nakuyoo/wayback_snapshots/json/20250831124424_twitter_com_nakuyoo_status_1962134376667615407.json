@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1962134366580301824"
+      ]
+    },
+    "author_id": "1715624766571429888",
+    "conversation_id": "1962134376667615407",
+    "created_at": "2025-08-31T12:44:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T13:44:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1962134376667615407"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GS9N0z1Uft",
+          "end": 27,
+          "expanded_url": "https://x.com/nakuyoo/status/1962134376667615407/photo/1",
+          "media_key": "3_1962134366580301824",
+          "start": 4,
+          "url": "https://t.co/GS9N0z1Uft"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962134376667615407",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Eww https://t.co/GS9N0z1Uft"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1366,
+        "media_key": "3_1962134366580301824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gzrmz4Ga4AA_o96.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962134366580301824"
+          ]
+        },
+        "author_id": "1715624766571429888",
+        "conversation_id": "1962134376667615407",
+        "created_at": "2025-08-31T12:44:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T13:44:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962134376667615407"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GS9N0z1Uft",
+              "end": 27,
+              "expanded_url": "https://x.com/nakuyoo/status/1962134376667615407/photo/1",
+              "media_key": "3_1962134366580301824",
+              "start": 4,
+              "url": "https://t.co/GS9N0z1Uft"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962134376667615407",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Eww https://t.co/GS9N0z1Uft"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "🎵:nakubone📕nakuyoo ig:naku.yoo ｜定期清列表",
+        "id": "1715624766571429888",
+        "location": "🚪300 388+cheki HK",
+        "name": "水母骨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931334867725504512/7kS_Yy1T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17385,
+          "following_count": 27,
+          "like_count": 33997,
+          "listed_count": 30,
+          "media_count": 97,
+          "tweet_count": 7565
+        },
+        "username": "nakuyoo",
+        "verified": false
+      }
+    ]
+  }
+}

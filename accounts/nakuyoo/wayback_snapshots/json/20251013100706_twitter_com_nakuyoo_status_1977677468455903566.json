@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "1977677468455903566",
+    "created_at": "2025-10-13T10:07:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T11:07:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977677468455903566"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1834903716140662788",
+          "start": 3,
+          "username": "Iiya5E"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977677468455903566",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977364478485217613",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Iiya5E: 我一直很害怕那种主页300个帖子300条都在刻薄的人。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1977677468455903566",
+        "created_at": "2025-10-13T10:07:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T11:07:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977677468455903566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1834903716140662788",
+              "start": 3,
+              "username": "Iiya5E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977677468455903566",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977364478485217613",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Iiya5E: 我一直很害怕那种主页300个帖子300条都在刻薄的人。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834903716140662788",
+        "conversation_id": "1977364478485217613",
+        "created_at": "2025-10-12T13:23:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T14:23:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977364478485217613"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1977364478485217613",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 18528,
+          "like_count": 246,
+          "quote_count": 0,
+          "reply_count": 32,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "我一直很害怕那种主页300个帖子300条都在刻薄的人。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "定期清列表不是不喜歡你們/Asexual",
+        "id": "1715624766571429888",
+        "location": "🚪300 388+cheki HK",
+        "name": "小骨",
+        "pinned_tweet_id": "1967587870547513723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977284713648996352/QlRWK9_l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17385,
+          "following_count": 10,
+          "like_count": 34417,
+          "listed_count": 31,
+          "media_count": 141,
+          "tweet_count": 7637
+        },
+        "username": "nakuyoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-14T10:35:26.000Z",
+        "description": "可以叫我小牙！🦷｜不加v 礼貌的私信都会回 不许给我发生殖器…｜女孩子可以私我找我互关！和我一起玩｜我一直在乱说",
+        "id": "1834903716140662788",
+        "name": "我不要再牙痛了",
+        "pinned_tweet_id": "1969033639242432554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976212845701496833/niVRwelM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 166,
+          "like_count": 4740,
+          "listed_count": 0,
+          "media_count": 139,
+          "tweet_count": 1397
+        },
+        "username": "Iiya5E",
+        "verified": false
+      }
+    ]
+  }
+}
