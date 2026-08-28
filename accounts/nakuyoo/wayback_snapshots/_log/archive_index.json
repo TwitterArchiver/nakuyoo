@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-28T21:59:09",
+  "last_updated": "2026-08-28T22:00:01",
   "html": {
     "https://web.archive.org/web/20211103145107if_/https://twitter.com/nakuyoo/status/1455910417373351946": {
       "status": "done",
@@ -15675,22 +15675,22 @@
       "last_updated": "2026-08-28T21:12:53"
     },
     "https://video.twimg.com/ext_tw_video/1823206579531128832/pu/vid/avc1/364x640/uJCvjRIclcmuRSI7.mp4?tag=12": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20240813035502_twitter_com_nakuyoo_status_1823206602712998026.json"
       ],
-      "last_updated": "2026-08-28T21:13:01",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20240813035502/https://video.twimg.com/ext_tw_video/1823206579531128832/pu/vid/avc1/364x640/uJCvjRIclcmuRSI7.mp4?tag=12 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f9d5a6cac00>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-08-28T21:59:29",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20240813035502/https://video.twimg.com/ext_tw_video/1823206579531128832/pu/vid/avc1/364x640/uJCvjRIclcmuRSI7.mp4?tag=12",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/1823975400671989760/pu/vid/avc1/720x1280/mxa7K8rQwyKpGzeF.mp4?tag=12": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20240815065006_twitter_com_nakuyoo_status_1823975436285829207.json"
       ],
-      "last_updated": "2026-08-28T21:13:03",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20240815065006/https://video.twimg.com/ext_tw_video/1823975400671989760/pu/vid/avc1/720x1280/mxa7K8rQwyKpGzeF.mp4?tag=12 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f9d5a7188f0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-08-28T21:59:34",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20240815065006/https://video.twimg.com/ext_tw_video/1823975400671989760/pu/vid/avc1/720x1280/mxa7K8rQwyKpGzeF.mp4?tag=12",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/1825523896487178240/pu/vid/avc1/720x1280/qtj-ArwB04ylFa5A.mp4?tag=12": {
       "status": "done",
@@ -15700,40 +15700,40 @@
       "last_updated": "2026-08-28T21:12:53"
     },
     "https://video.twimg.com/ext_tw_video/1827119277201354755/pu/vid/avc1/720x1280/UqASiiKfPfYxJHJE.mp4?tag=12": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20240823230248_twitter_com_nakuyoo_status_1827119329038758313.json"
       ],
-      "last_updated": "2026-08-28T21:13:05",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20240823230248/https://video.twimg.com/ext_tw_video/1827119277201354755/pu/vid/avc1/720x1280/UqASiiKfPfYxJHJE.mp4?tag=12 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f9d5a718dd0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-08-28T21:59:36",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20240823230248/https://video.twimg.com/ext_tw_video/1827119277201354755/pu/vid/avc1/720x1280/UqASiiKfPfYxJHJE.mp4?tag=12",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/1828699788700991488/pu/vid/avc1/720x1280/hc-2xJ-vzE5zNz8M.mp4?tag=12": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20240828074306_twitter_com_nakuyoo_status_1828699815741649250.json"
       ],
-      "last_updated": "2026-08-28T21:13:07",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20240828074306/https://video.twimg.com/ext_tw_video/1828699788700991488/pu/vid/avc1/720x1280/hc-2xJ-vzE5zNz8M.mp4?tag=12 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f9d5a6c9cd0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-08-28T21:59:37",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20240828074306/https://video.twimg.com/ext_tw_video/1828699788700991488/pu/vid/avc1/720x1280/hc-2xJ-vzE5zNz8M.mp4?tag=12",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/1829383189800087552/pu/vid/avc1/720x1280/Cur-2EfZ2GP7yP02.mp4?tag=12": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20240830045843_twitter_com_nakuyoo_status_1829383223320944670.json"
       ],
-      "last_updated": "2026-08-28T21:13:10",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20240830045843/https://video.twimg.com/ext_tw_video/1829383189800087552/pu/vid/avc1/720x1280/Cur-2EfZ2GP7yP02.mp4?tag=12 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f9d5a71b9e0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-08-28T21:59:39",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20240830045843/https://video.twimg.com/ext_tw_video/1829383189800087552/pu/vid/avc1/720x1280/Cur-2EfZ2GP7yP02.mp4?tag=12",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/1829383189942448129/pu/vid/avc1/720x1280/_ZbA3fsdxIWdarqj.mp4?tag=12": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20240830045843_twitter_com_nakuyoo_status_1829383223320944670.json"
       ],
-      "last_updated": "2026-08-28T21:13:12",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20240830045843/https://video.twimg.com/ext_tw_video/1829383189942448129/pu/vid/avc1/720x1280/_ZbA3fsdxIWdarqj.mp4?tag=12 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f9d5a6cb980>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-08-28T21:59:41",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20240830045843/https://video.twimg.com/ext_tw_video/1829383189942448129/pu/vid/avc1/720x1280/_ZbA3fsdxIWdarqj.mp4?tag=12",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/1852266461605302275/pu/vid/avc1/720x1280/3LGczpneHyw6hYQt.mp4?tag=12": {
       "status": "done",
@@ -15754,27 +15754,27 @@
       "referenced_by": [
         "20241210125851_twitter_com_nakuyoo_status_1866467616296181825.json"
       ],
-      "last_updated": "2026-08-28T21:13:14",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20241210125851/https://video.twimg.com/ext_tw_video/1866467547211825152/pu/vid/avc1/720x1280/UlLdOszxOFMEP3JD.mp4?tag=12 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f9d5a71a540>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-08-28T21:59:43",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20241210125851/https://video.twimg.com/ext_tw_video/1866467547211825152/pu/vid/avc1/720x1280/UlLdOszxOFMEP3JD.mp4?tag=12 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f62e8154380>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/1872204545784414208/pu/vid/avc1/1280x720/-wkSnS85JbqhdEoD.mp4?tag=12": {
       "status": "failed",
       "referenced_by": [
         "20241226092510_twitter_com_nakuyoo_status_1872212045237821816.json"
       ],
-      "last_updated": "2026-08-28T21:13:16",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20241226092510/https://video.twimg.com/ext_tw_video/1872204545784414208/pu/vid/avc1/1280x720/-wkSnS85JbqhdEoD.mp4?tag=12 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f9d5a71b830>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-08-28T21:59:46",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20241226092510/https://video.twimg.com/ext_tw_video/1872204545784414208/pu/vid/avc1/1280x720/-wkSnS85JbqhdEoD.mp4?tag=12 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f62e8127080>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/1875716237705277441/pu/vid/avc1/720x1280/u90I31N4xFN_GxKa.mp4?tag=12": {
       "status": "failed",
       "referenced_by": [
         "20250105012939_twitter_com_nakuyoo_status_1875716259058417731.json"
       ],
-      "last_updated": "2026-08-28T21:13:18",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250105012939/https://video.twimg.com/ext_tw_video/1875716237705277441/pu/vid/avc1/720x1280/u90I31N4xFN_GxKa.mp4?tag=12 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f9d5a75eea0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-08-28T21:59:48",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250105012939/https://video.twimg.com/ext_tw_video/1875716237705277441/pu/vid/avc1/720x1280/u90I31N4xFN_GxKa.mp4?tag=12 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f62e81252b0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/1884506913922281472/vid/avc1/1080x1920/OgQUYNJ4D11QiRMU.mp4?tag=16": {
       "status": "done",
@@ -15788,18 +15788,18 @@
       "referenced_by": [
         "20250616091916_twitter_com_nakuyoo_status_1934541274151051497.json"
       ],
-      "last_updated": "2026-08-28T21:13:19",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250616091916/https://video.twimg.com/amplify_video/1934541193389752320/vid/avc1/720x628/DVQBz7WgIk7BKace.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f9d5a75ee40>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-08-28T21:59:49",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250616091916/https://video.twimg.com/amplify_video/1934541193389752320/vid/avc1/720x628/DVQBz7WgIk7BKace.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f62e85300e0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/1942869268145557504/vid/avc1/720x1280/m-N6GRZaE8EIYD8O.mp4": {
       "status": "failed",
       "referenced_by": [
         "20250710022338_twitter_com_nakuyoo_status_1943133986596786583.json"
       ],
-      "last_updated": "2026-08-28T21:13:21",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250710022338/https://video.twimg.com/amplify_video/1942869268145557504/vid/avc1/720x1280/m-N6GRZaE8EIYD8O.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f9d5a718560>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-08-28T21:59:51",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250710022338/https://video.twimg.com/amplify_video/1942869268145557504/vid/avc1/720x1280/m-N6GRZaE8EIYD8O.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f62e8125a30>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/1947984888067723264/vid/avc1/720x1280/eG21DDVx66sIpUs5.mp4": {
       "status": "done",
@@ -15813,18 +15813,18 @@
       "referenced_by": [
         "20250820101952_twitter_com_nakuyoo_status_1958111735942189255.json"
       ],
-      "last_updated": "2026-08-28T21:13:23",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250820101952/https://video.twimg.com/amplify_video/1958001586359398400/vid/avc1/720x1280/bApFBtKuQYFFj_rE.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f9d5a6cbb90>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-08-28T21:59:53",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250820101952/https://video.twimg.com/amplify_video/1958001586359398400/vid/avc1/720x1280/bApFBtKuQYFFj_rE.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f62e8141640>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/1961072849676124160/vid/avc1/720x1280/momr6SJDv5L5dNov.mp4": {
       "status": "failed",
       "referenced_by": [
         "20250828142652_twitter_com_nakuyoo_status_1961072996941996201.json"
       ],
-      "last_updated": "2026-08-28T21:13:25",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250828142652/https://video.twimg.com/amplify_video/1961072849676124160/vid/avc1/720x1280/momr6SJDv5L5dNov.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f9d5a75c6e0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-08-28T21:59:55",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250828142652/https://video.twimg.com/amplify_video/1961072849676124160/vid/avc1/720x1280/momr6SJDv5L5dNov.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f62e8530050>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/1961241450773188610/vid/avc1/720x768/VhCxXyBPhMOlOFcD.mp4": {
       "status": "done",
@@ -15852,27 +15852,27 @@
       "referenced_by": [
         "20250925092609_twitter_com_nakuyoo_status_1971144182719971781.json"
       ],
-      "last_updated": "2026-08-28T21:13:27",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250925092609/https://video.twimg.com/amplify_video/1971144131427827715/vid/avc1/720x1280/QhqA4H0cTDgcT38-.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f9d5a71a3c0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-08-28T21:59:57",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250925092609/https://video.twimg.com/amplify_video/1971144131427827715/vid/avc1/720x1280/QhqA4H0cTDgcT38-.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f62e8126ea0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/1977589637360320512/vid/avc1/360x636/-XrWPabNXmtlx8m0.mp4": {
       "status": "failed",
       "referenced_by": [
         "20251013041819_twitter_com_nakuyoo_status_1977589695711457550.json"
       ],
-      "last_updated": "2026-08-28T21:13:29",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251013041819/https://video.twimg.com/amplify_video/1977589637360320512/vid/avc1/360x636/-XrWPabNXmtlx8m0.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f9d5a77e270>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-08-28T21:59:59",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251013041819/https://video.twimg.com/amplify_video/1977589637360320512/vid/avc1/360x636/-XrWPabNXmtlx8m0.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f62e8143e00>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/1977879158631063552/vid/avc1/456x808/oZ65Hc7qkGJ74W7y.mp4": {
       "status": "failed",
       "referenced_by": [
         "20251013232847_twitter_com_nakuyoo_status_1977879219880202741.json"
       ],
-      "last_updated": "2026-08-28T21:13:31",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251013232847/https://video.twimg.com/amplify_video/1977879158631063552/vid/avc1/456x808/oZ65Hc7qkGJ74W7y.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f9d5a75c980>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-08-28T22:00:01",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251013232847/https://video.twimg.com/amplify_video/1977879158631063552/vid/avc1/456x808/oZ65Hc7qkGJ74W7y.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f62e85306e0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2011603061589098501/vid/avc1/720x1280/79vVCYNqSu1jKLV2.mp4": {
       "status": "done",
@@ -29087,7 +29087,7 @@
       "miss_count": 2
     },
     "20240828074306_twitter_com_nakuyoo_status_1828699815741649250.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -29097,7 +29097,7 @@
           "https://pbs.twimg.com/profile_images/1828402554880901120/yTx97WNH_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-28T21:12:56",
+      "last_updated": "2026-08-28T21:59:37",
       "miss_count": 2
     },
     "20240828074331_twitter_com_nakuyoo_status_1828699922960678987.json": {
@@ -29783,7 +29783,7 @@
       "miss_count": 2
     },
     "20240830045843_twitter_com_nakuyoo_status_1829383223320944670.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -29794,7 +29794,7 @@
           "https://pbs.twimg.com/profile_images/1828756448404439040/FNqiVmFy_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-28T21:12:59",
+      "last_updated": "2026-08-28T21:59:41",
       "miss_count": 2
     },
     "20240830045903_twitter_com_nakuyoo_status_1829383306531537041.json": {
