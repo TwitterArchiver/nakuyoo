@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2098607906967203840"
+      ]
+    },
+    "author_id": "1715624766571429888",
+    "conversation_id": "2098607937413673119",
+    "created_at": "2026-09-12T03:01:37.000Z",
+    "display_text_range": [
+      0,
+      1
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T04:01:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098607937413673119"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Pcrd68qg8C",
+          "end": 25,
+          "expanded_url": "https://x.com/nakuyoo/status/2098607937413673119/video/1",
+          "media_key": "13_2098607906967203840",
+          "start": 2,
+          "url": "https://t.co/Pcrd68qg8C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098607937413673119",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "13_2098607906967203840"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "😋 https://t.co/Pcrd68qg8C"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5166,
+        "height": 1280,
+        "media_key": "13_2098607906967203840",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2098607906967203840/img/rl26oC1-R9sJp04O.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098607906967203840/vid/avc1/320x568/ObKDuBhJa2DNYb8T.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098607906967203840/vid/avc1/480x852/14AbTIm-7XgihanN.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098607906967203840/vid/avc1/720x1280/qvLFMryH67hCidSN.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2098607906967203840/pl/ZYVlZkuQmbJ4bdQm.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2098607906967203840"
+          ]
+        },
+        "author_id": "1715624766571429888",
+        "conversation_id": "2098607937413673119",
+        "created_at": "2026-09-12T03:01:37.000Z",
+        "display_text_range": [
+          0,
+          1
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T04:01:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098607937413673119"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pcrd68qg8C",
+              "end": 25,
+              "expanded_url": "https://x.com/nakuyoo/status/2098607937413673119/video/1",
+              "media_key": "13_2098607906967203840",
+              "start": 2,
+              "url": "https://t.co/Pcrd68qg8C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098607937413673119",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "13_2098607906967203840"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😋 https://t.co/Pcrd68qg8C"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "ig: naku.yoo",
+        "id": "1715624766571429888",
+        "is_identity_verified": false,
+        "location": "🚪300聊天Hk ",
+        "most_recent_tweet_id": "2098607937413673119",
+        "name": "骨仔",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1715624766571429888/1788912907",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097478751126978560/76XzV5aS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17421,
+          "following_count": 10,
+          "like_count": 32074,
+          "listed_count": 33,
+          "media_count": 354,
+          "tweet_count": 8073
+        },
+        "url": "",
+        "username": "nakuyoo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "2096210001786507700",
+    "created_at": "2026-09-05T12:13:04.000Z",
+    "display_text_range": [
+      0,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T13:13:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096210001786507700"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2050893806803861504",
+          "start": 3,
+          "username": "TvToTuT_77a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096210001786507700",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 51
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096136907675648323",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TvToTuT_77a: 青少年不要自杀呀😭不然就相当于你读了一辈子书。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "2096210001786507700",
+        "created_at": "2026-09-05T12:13:04.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T13:13:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096210001786507700"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2050893806803861504",
+              "start": 3,
+              "username": "TvToTuT_77a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096210001786507700",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 51
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096136907675648323",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TvToTuT_77a: 青少年不要自杀呀😭不然就相当于你读了一辈子书。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050893806803861504",
+        "conversation_id": "2096136907675648323",
+        "created_at": "2026-09-05T07:22:37.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T08:22:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096136907675648323"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096136907675648323",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 24312,
+          "like_count": 870,
+          "quote_count": 5,
+          "reply_count": 147,
+          "retweet_count": 51
+        },
+        "reply_settings": "everyone",
+        "text": "青少年不要自杀呀😭不然就相当于你读了一辈子书。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "ig: naku.yoo",
+        "id": "1715624766571429888",
+        "is_identity_verified": false,
+        "location": "🚪300聊天Hk ",
+        "most_recent_tweet_id": "2096210001786507700",
+        "name": "骨仔",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1715624766571429888/1788320906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089001260796317696/MSm_ClEA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17396,
+          "following_count": 10,
+          "like_count": 31992,
+          "listed_count": 33,
+          "media_count": 337,
+          "tweet_count": 8026
+        },
+        "url": "",
+        "username": "nakuyoo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-03T11:02:53.000Z",
+        "description": "世界我操你妈。",
+        "id": "2050893806803861504",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096208282238988432",
+        "name": "去斯吧，这个草壁的世界!",
+        "pinned_tweet_id": "2093296158382706994",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2050893806803861504/1788514656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093955551541501952/xb4yAc73_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 405,
+          "following_count": 7,
+          "like_count": 99,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 224
+        },
+        "url": "",
+        "username": "TvToTuT_77a",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

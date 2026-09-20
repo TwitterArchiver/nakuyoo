@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "2096593934877348069",
+    "created_at": "2026-09-06T13:38:41.000Z",
+    "display_text_range": [
+      0,
+      117
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T14:38:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096593934877348069"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2096157491910610944",
+          "start": 3,
+          "username": "Fumi0w0b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096593934877348069",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096575620285428043",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Fumi0w0b: 我爸爸明天要出院了 \n未來這段時間應該要一直照顧爸爸\n所以都不能外出了\n目前見面日就只有 \n9月11日的Minori限定當值🙏🏻\n心情也不太好 \n身體有點不舒服，因為生理期來了\n而且應該都解離了所以訊息慢回"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "2096593934877348069",
+        "created_at": "2026-09-06T13:38:41.000Z",
+        "display_text_range": [
+          0,
+          117
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T14:38:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096593934877348069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2096157491910610944",
+              "start": 3,
+              "username": "Fumi0w0b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096593934877348069",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096575620285428043",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Fumi0w0b: 我爸爸明天要出院了 \n未來這段時間應該要一直照顧爸爸\n所以都不能外出了\n目前見面日就只有 \n9月11日的Minori限定當值🙏🏻\n心情也不太好 \n身體有點不舒服，因為生理期來了\n而且應該都解離了所以訊息慢回"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2096157491910610944",
+        "conversation_id": "2096575620285428043",
+        "created_at": "2026-09-06T12:25:55.000Z",
+        "display_text_range": [
+          0,
+          103
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T13:25:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096575620285428043"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096575620285428043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我爸爸明天要出院了 \n未來這段時間應該要一直照顧爸爸\n所以都不能外出了\n目前見面日就只有 \n9月11日的Minori限定當值🙏🏻\n心情也不太好 \n身體有點不舒服，因為生理期來了\n而且應該都解離了所以訊息慢回"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "ig: naku.yoo",
+        "id": "1715624766571429888",
+        "is_identity_verified": false,
+        "location": "🚪300聊天Hk ",
+        "most_recent_tweet_id": "2096593934877348069",
+        "name": "骨仔",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1715624766571429888/1788667274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096448560636293120/oj2_ok3Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17406,
+          "following_count": 10,
+          "like_count": 32007,
+          "listed_count": 33,
+          "media_count": 339,
+          "tweet_count": 8038
+        },
+        "url": "",
+        "username": "nakuyoo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-05T08:45:28.000Z",
+        "description": "🖕🏻",
+        "id": "2096157491910610944",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096575620285428043",
+        "name": "Fumi",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2096157491910610944/1788630691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096294128342671360/LiBu_Gt1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 5,
+          "like_count": 134,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 7
+        },
+        "url": "",
+        "username": "Fumi0w0b",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

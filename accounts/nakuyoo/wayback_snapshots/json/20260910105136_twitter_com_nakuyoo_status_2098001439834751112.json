@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "2098001439834751112",
+    "created_at": "2026-09-10T10:51:36.000Z",
+    "display_text_range": [
+      0,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T11:51:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098001439834751112"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yorutorei/stat…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/yorutorei/status/2097937778428592327",
+          "start": 24,
+          "url": "https://t.co/xlbcFnMzoF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098001439834751112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097937778428592327",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "謝謝玉足pro mini寶寶😋😋😋🦶🏿🦶🏿🦶🏿 https://t.co/xlbcFnMzoF"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "2098001439834751112",
+        "created_at": "2026-09-10T10:51:36.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T11:51:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098001439834751112"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yorutorei/stat…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/yorutorei/status/2097937778428592327",
+              "start": 24,
+              "url": "https://t.co/xlbcFnMzoF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098001439834751112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097937778428592327",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "謝謝玉足pro mini寶寶😋😋😋🦶🏿🦶🏿🦶🏿 https://t.co/xlbcFnMzoF"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962507651545513984",
+        "conversation_id": "2097937778428592327",
+        "created_at": "2026-09-10T06:38:38.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T07:38:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097937778428592327"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nakuyoo/status…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/nakuyoo/status/2097821150533575088",
+              "start": 37,
+              "url": "https://t.co/fOaJdFuzhz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097937778428592327",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 529,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097821150533575088",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "沒想到能真實交上推友 謝謝小骨的陪伴 內在外在都很可愛的寶寶 生日快樂🖤 https://t.co/fOaJdFuzhz"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "ig: naku.yoo",
+        "id": "1715624766571429888",
+        "is_identity_verified": false,
+        "location": "🚪300聊天Hk ",
+        "most_recent_tweet_id": "2098001439834751112",
+        "name": "骨仔",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1715624766571429888/1788912907",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097478751126978560/76XzV5aS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17420,
+          "following_count": 10,
+          "like_count": 32057,
+          "listed_count": 33,
+          "media_count": 350,
+          "tweet_count": 8063
+        },
+        "url": "",
+        "username": "nakuyoo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-01T13:27:56.000Z",
+        "description": "弱虫",
+        "id": "1962507651545513984",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097937778428592327",
+        "name": "請把我的鎖骨當作煙灰缸",
+        "pinned_tweet_id": "2049866691421909099",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1962507651545513984/1756734210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962513868670033920/JvsTc0L7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1475,
+          "following_count": 21,
+          "like_count": 1336,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 1378
+        },
+        "url": "",
+        "username": "yorutorei",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

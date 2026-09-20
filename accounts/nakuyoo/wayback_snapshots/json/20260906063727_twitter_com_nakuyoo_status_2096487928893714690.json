@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "2096487928893714690",
+    "created_at": "2026-09-06T06:37:27.000Z",
+    "display_text_range": [
+      0,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T07:37:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096487928893714690"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2062557406442487808",
+          "start": 3,
+          "username": "linsez680"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096487928893714690",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 91
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096251899637067956",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @linsez680: 是年下就把生活费给我啊\n是年上就把工资给我啊\n是同龄就把余额给我啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "2096487928893714690",
+        "created_at": "2026-09-06T06:37:27.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T07:37:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096487928893714690"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2062557406442487808",
+              "start": 3,
+              "username": "linsez680"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096487928893714690",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 91
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096251899637067956",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @linsez680: 是年下就把生活费给我啊\n是年上就把工资给我啊\n是同龄就把余额给我啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2062557406442487808",
+        "conversation_id": "2096251899637067956",
+        "created_at": "2026-09-05T14:59:34.000Z",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T15:59:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096251899637067956"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096251899637067956",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 12724,
+          "like_count": 751,
+          "quote_count": 4,
+          "reply_count": 57,
+          "retweet_count": 91
+        },
+        "reply_settings": "everyone",
+        "text": "是年下就把生活费给我啊\n是年上就把工资给我啊\n是同龄就把余额给我啊"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "ig: naku.yoo",
+        "id": "1715624766571429888",
+        "is_identity_verified": false,
+        "location": "🚪300聊天Hk ",
+        "most_recent_tweet_id": "2096487928893714690",
+        "name": "骨仔",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1715624766571429888/1788667274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096448560636293120/oj2_ok3Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17401,
+          "following_count": 10,
+          "like_count": 32003,
+          "listed_count": 33,
+          "media_count": 340,
+          "tweet_count": 8035
+        },
+        "url": "",
+        "username": "nakuyoo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-04T15:32:00.000Z",
+        "description": "不要告诉海绵宝宝我在哪🤫不需要成为拯救世界的人，但想成为做饭很香的人",
+        "id": "2062557406442487808",
+        "is_identity_verified": false,
+        "location": "大气层",
+        "most_recent_tweet_id": "2096485677370409320",
+        "name": "菠萝菠萝",
+        "pinned_tweet_id": "2086742717145489702",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2062557406442487808/1780587237",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064005278056787968/EH43p3fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 30,
+          "like_count": 1409,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 558
+        },
+        "url": "",
+        "username": "linsez680",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

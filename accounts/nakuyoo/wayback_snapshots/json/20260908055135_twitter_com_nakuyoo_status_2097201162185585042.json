@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "2097201162185585042",
+    "created_at": "2026-09-08T05:51:35.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T06:51:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097201162185585042"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2096157491910610944",
+          "start": 3,
+          "username": "Fumi0w0b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097201162185585042",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097194266410021034",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Fumi0w0b: 帳號被封轉世自介 🌀\n\n浮世ふみ （浮浮/浮木）\n永遠の16歳です\n代表emoji :🦈🧊🩵\n誕生日0218 \n抑鬱症｜BPD |未成年確診品行障礙｜情緒極度不穩定\n自歹戔｜0d｜地雷女｜社不 \n病み垢暴言 ★彡\n居在香港  \n想把香港變成東橫的友友…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 822,
+        "media_key": "3_2097194240065650688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRq7DMgbwAAZKJT.jpg",
+        "width": 828
+      },
+      {
+        "height": 826,
+        "media_key": "3_2097194239788781568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRq7DLebEAASDBs.jpg",
+        "width": 828
+      },
+      {
+        "height": 811,
+        "media_key": "3_2097194240069787649",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRq7DMha4AEVHVg.jpg",
+        "width": 828
+      },
+      {
+        "height": 1016,
+        "media_key": "3_2097194240053067776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRq7DMdbwAAwwow.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "2097201162185585042",
+        "created_at": "2026-09-08T05:51:35.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T06:51:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097201162185585042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2096157491910610944",
+              "start": 3,
+              "username": "Fumi0w0b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097201162185585042",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097194266410021034",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Fumi0w0b: 帳號被封轉世自介 🌀\n\n浮世ふみ （浮浮/浮木）\n永遠の16歳です\n代表emoji :🦈🧊🩵\n誕生日0218 \n抑鬱症｜BPD |未成年確診品行障礙｜情緒極度不穩定\n自歹戔｜0d｜地雷女｜社不 \n病み垢暴言 ★彡\n居在香港  \n想把香港變成東橫的友友…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097194240065650688",
+            "3_2097194239788781568",
+            "3_2097194240069787649",
+            "3_2097194240053067776"
+          ]
+        },
+        "author_id": "2096157491910610944",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2097194266410021034",
+        "created_at": "2026-09-08T05:24:11.000Z",
+        "display_text_range": [
+          0,
+          133
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T06:24:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097194266410021034"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7qdFvl1Z4k",
+              "end": 157,
+              "expanded_url": "https://x.com/Fumi0w0b/status/2097194266410021034/photo/1",
+              "media_key": "3_2097194240065650688",
+              "start": 134,
+              "url": "https://t.co/7qdFvl1Z4k"
+            },
+            {
+              "display_url": "pic.x.com/7qdFvl1Z4k",
+              "end": 157,
+              "expanded_url": "https://x.com/Fumi0w0b/status/2097194266410021034/photo/1",
+              "media_key": "3_2097194239788781568",
+              "start": 134,
+              "url": "https://t.co/7qdFvl1Z4k"
+            },
+            {
+              "display_url": "pic.x.com/7qdFvl1Z4k",
+              "end": 157,
+              "expanded_url": "https://x.com/Fumi0w0b/status/2097194266410021034/photo/1",
+              "media_key": "3_2097194240069787649",
+              "start": 134,
+              "url": "https://t.co/7qdFvl1Z4k"
+            },
+            {
+              "display_url": "pic.x.com/7qdFvl1Z4k",
+              "end": 157,
+              "expanded_url": "https://x.com/Fumi0w0b/status/2097194266410021034/photo/1",
+              "media_key": "3_2097194240053067776",
+              "start": 134,
+              "url": "https://t.co/7qdFvl1Z4k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097194266410021034",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2097194240065650688"
+          },
+          {
+            "media_key": "3_2097194239788781568"
+          },
+          {
+            "media_key": "3_2097194240069787649"
+          },
+          {
+            "media_key": "3_2097194240053067776"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "帳號被封轉世自介 🌀\n\n浮世ふみ （浮浮/浮木）\n永遠の16歳です\n代表emoji :🦈🧊🩵\n誕生日0218 \n抑鬱症｜BPD |未成年確診品行障礙｜情緒極度不穩定\n自歹戔｜0d｜地雷女｜社不 \n病み垢暴言 ★彡\n居在香港  \n想把香港變成東橫的友友請認識Fumi！ https://t.co/7qdFvl1Z4k"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "ig: naku.yoo",
+        "id": "1715624766571429888",
+        "is_identity_verified": false,
+        "location": "🚪300聊天Hk ",
+        "most_recent_tweet_id": "2097201162185585042",
+        "name": "骨仔",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1715624766571429888/1788667274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096448560636293120/oj2_ok3Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17407,
+          "following_count": 10,
+          "like_count": 32024,
+          "listed_count": 33,
+          "media_count": 345,
+          "tweet_count": 8054
+        },
+        "url": "",
+        "username": "nakuyoo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-05T08:45:28.000Z",
+        "description": "入🚪50 解鎖價目表",
+        "id": "2096157491910610944",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097200782366138393",
+        "name": "Fumi",
+        "pinned_tweet_id": "2097194266410021034",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2096157491910610944/1788630691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096294128342671360/LiBu_Gt1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 6,
+          "like_count": 303,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 22
+        },
+        "url": "",
+        "username": "Fumi0w0b",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

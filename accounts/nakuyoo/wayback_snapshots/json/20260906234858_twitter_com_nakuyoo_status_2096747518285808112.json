@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "2096488330594820290",
+    "created_at": "2026-09-06T23:48:58.000Z",
+    "display_text_range": [
+      15,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T00:48:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096747518285808112"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1684578404681883649",
+          "start": 0,
+          "username": "yuehuazhenren"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096747518285808112",
+    "in_reply_to_user_id": "1684578404681883649",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096737022945943948",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuehuazhenren 我不行了🌝🌝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "2096488330594820290",
+        "created_at": "2026-09-06T23:48:58.000Z",
+        "display_text_range": [
+          15,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T00:48:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096747518285808112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1684578404681883649",
+              "start": 0,
+              "username": "yuehuazhenren"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096747518285808112",
+        "in_reply_to_user_id": "1684578404681883649",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096737022945943948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuehuazhenren 我不行了🌝🌝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684578404681883649",
+        "conversation_id": "2096488330594820290",
+        "created_at": "2026-09-06T23:07:16.000Z",
+        "display_text_range": [
+          9,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T00:07:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096737022945943948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1715624766571429888",
+              "start": 0,
+              "username": "nakuyoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096737022945943948",
+        "in_reply_to_user_id": "1715624766571429888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096488330594820290",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nakuyoo 要变成合法萝莉了🌚🌚"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "ig: naku.yoo",
+        "id": "1715624766571429888",
+        "is_identity_verified": false,
+        "location": "🚪300聊天Hk ",
+        "most_recent_tweet_id": "2096747518285808112",
+        "name": "骨仔",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1715624766571429888/1788667274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096448560636293120/oj2_ok3Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17406,
+          "following_count": 10,
+          "like_count": 32014,
+          "listed_count": 33,
+          "media_count": 339,
+          "tweet_count": 8042
+        },
+        "url": "",
+        "username": "nakuyoo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T14:56:14.000Z",
+        "description": "男，03，175，65。喜欢玉足😋😋😋",
+        "id": "1684578404681883649",
+        "is_identity_verified": false,
+        "location": "地球村",
+        "most_recent_tweet_id": "2096737022945943948",
+        "name": "我不是小道士",
+        "pinned_tweet_id": "1946264554494644441",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684578404681883649/1690470017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1684579325524459520/H4jtKIRJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 354,
+          "like_count": 188,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 1049
+        },
+        "url": "",
+        "username": "yuehuazhenren",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

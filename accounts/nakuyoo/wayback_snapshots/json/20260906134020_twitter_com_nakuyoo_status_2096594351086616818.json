@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096448199766798336"
+      ],
+      "media_source_tweet_id": [
+        "2096448203843641551"
+      ]
+    },
+    "author_id": "1715624766571429888",
+    "conversation_id": "2096594351086616818",
+    "created_at": "2026-09-06T13:40:20.000Z",
+    "display_text_range": [
+      0,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T14:40:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096594351086616818"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1859900332874289152",
+          "start": 3,
+          "username": "vsgt1tx"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CfJXN3ztVo",
+          "end": 50,
+          "expanded_url": "https://x.com/vsgt1tx/status/2096448203843641551/photo/1",
+          "media_key": "3_2096448199766798336",
+          "start": 27,
+          "url": "https://t.co/CfJXN3ztVo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096594351086616818",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2096448199766798336"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 3,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 497
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096448203843641551",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @vsgt1tx: やばい爆笑天才すぎて声出た https://t.co/CfJXN3ztVo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2096448199766798336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRgUh70bcAAoAEk.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096448199766798336"
+          ],
+          "media_source_tweet_id": [
+            "2096448203843641551"
+          ]
+        },
+        "author_id": "1715624766571429888",
+        "conversation_id": "2096594351086616818",
+        "created_at": "2026-09-06T13:40:20.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T14:40:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096594351086616818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1859900332874289152",
+              "start": 3,
+              "username": "vsgt1tx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CfJXN3ztVo",
+              "end": 50,
+              "expanded_url": "https://x.com/vsgt1tx/status/2096448203843641551/photo/1",
+              "media_key": "3_2096448199766798336",
+              "start": 27,
+              "url": "https://t.co/CfJXN3ztVo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096594351086616818",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2096448199766798336"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 497
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096448203843641551",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @vsgt1tx: やばい爆笑天才すぎて声出た https://t.co/CfJXN3ztVo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096448199766798336"
+          ]
+        },
+        "author_id": "1859900332874289152",
+        "conversation_id": "2096448203843641551",
+        "created_at": "2026-09-06T03:59:36.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T04:59:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096448203843641551"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CfJXN3ztVo",
+              "end": 37,
+              "expanded_url": "https://x.com/vsgt1tx/status/2096448203843641551/photo/1",
+              "media_key": "3_2096448199766798336",
+              "start": 14,
+              "url": "https://t.co/CfJXN3ztVo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096448203843641551",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2096448199766798336"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 280,
+          "impression_count": 148809,
+          "like_count": 6202,
+          "quote_count": 103,
+          "reply_count": 14,
+          "retweet_count": 497
+        },
+        "reply_settings": "everyone",
+        "text": "やばい爆笑天才すぎて声出た https://t.co/CfJXN3ztVo"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "ig: naku.yoo",
+        "id": "1715624766571429888",
+        "is_identity_verified": false,
+        "location": "🚪300聊天Hk ",
+        "most_recent_tweet_id": "2096594351086616818",
+        "name": "骨仔",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1715624766571429888/1788667274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096448560636293120/oj2_ok3Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17407,
+          "following_count": 10,
+          "like_count": 32008,
+          "listed_count": 33,
+          "media_count": 339,
+          "tweet_count": 8039
+        },
+        "url": "",
+        "username": "nakuyoo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-22T10:02:56.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@vsg1tx?_r=1&_…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@vsg1tx?_r=1&_t=ZS-98zkLVhYe1t",
+                "start": 0,
+                "url": "https://t.co/tow8OZ98aa"
+              }
+            ]
+          }
+        },
+        "id": "1859900332874289152",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096582235160015288",
+        "name": "自殺願望",
+        "pinned_tweet_id": "2095055287531266374",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093591107024367616/wj5vejZm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 612,
+          "following_count": 68,
+          "like_count": 5952,
+          "listed_count": 2,
+          "media_count": 71,
+          "tweet_count": 901
+        },
+        "url": "https://t.co/tow8OZ98aa",
+        "username": "vsgt1tx",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

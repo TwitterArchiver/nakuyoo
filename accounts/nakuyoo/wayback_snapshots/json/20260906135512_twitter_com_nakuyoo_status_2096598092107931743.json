@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "2096598092107931743",
+    "created_at": "2026-09-06T13:55:12.000Z",
+    "display_text_range": [
+      0,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T14:55:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096598092107931743"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "做一個關於自己的二選一測驗，用排行榜看看誰最懂你！免費。",
+          "display_url": "rikaido.me/tw/?q=9bn9v8rn…",
+          "end": 23,
+          "expanded_url": "https://rikaido.me/tw/?q=9bn9v8rnje",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2096597285505568768/EO07dgu3?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2096597285505568768/EO07dgu3?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 0,
+          "status": 200,
+          "title": "Rikaido | 你有多懂我？",
+          "unwound_url": "https://rikaido.me/tw/?q=9bn9v8rnje",
+          "url": "https://t.co/0KCjKMcHJS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096598092107931743",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 5,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/0KCjKMcHJS\n玩😡😡😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "2096598092107931743",
+        "created_at": "2026-09-06T13:55:12.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T14:55:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096598092107931743"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "做一個關於自己的二選一測驗，用排行榜看看誰最懂你！免費。",
+              "display_url": "rikaido.me/tw/?q=9bn9v8rn…",
+              "end": 23,
+              "expanded_url": "https://rikaido.me/tw/?q=9bn9v8rnje",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2096597285505568768/EO07dgu3?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2096597285505568768/EO07dgu3?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Rikaido | 你有多懂我？",
+              "unwound_url": "https://rikaido.me/tw/?q=9bn9v8rnje",
+              "url": "https://t.co/0KCjKMcHJS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096598092107931743",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/0KCjKMcHJS\n玩😡😡😡"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "ig: naku.yoo",
+        "id": "1715624766571429888",
+        "is_identity_verified": false,
+        "location": "🚪300聊天Hk ",
+        "most_recent_tweet_id": "2096598092107931743",
+        "name": "骨仔",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1715624766571429888/1788667274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096448560636293120/oj2_ok3Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17406,
+          "following_count": 10,
+          "like_count": 32009,
+          "listed_count": 33,
+          "media_count": 339,
+          "tweet_count": 8040
+        },
+        "url": "",
+        "username": "nakuyoo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

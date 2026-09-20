@@ -1,0 +1,395 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098363170515775488",
+        "3_2098363170519945217",
+        "3_2098363170503221248"
+      ]
+    },
+    "author_id": "1715624766571429888",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Drinks",
+          "id": "834828264786898945",
+          "name": "Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Generic Drinks",
+          "id": "834828445238431744",
+          "name": "Generic Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Coffee",
+          "id": "850442647088971776",
+          "name": "Coffee"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Drinks",
+          "id": "834828264786898945",
+          "name": "Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Generic Drinks",
+          "id": "834828445238431744",
+          "name": "Generic Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Coffee",
+          "id": "850442647088971776",
+          "name": "Coffee"
+        }
+      }
+    ],
+    "conversation_id": "2098363180917624958",
+    "created_at": "2026-09-11T10:49:02.000Z",
+    "display_text_range": [
+      0,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T11:49:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098363180917624958"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WJG08i7F0i",
+          "end": 44,
+          "expanded_url": "https://x.com/nakuyoo/status/2098363180917624958/photo/1",
+          "media_key": "3_2098363170515775488",
+          "start": 21,
+          "url": "https://t.co/WJG08i7F0i"
+        },
+        {
+          "display_url": "pic.x.com/WJG08i7F0i",
+          "end": 44,
+          "expanded_url": "https://x.com/nakuyoo/status/2098363180917624958/photo/1",
+          "media_key": "3_2098363170519945217",
+          "start": 21,
+          "url": "https://t.co/WJG08i7F0i"
+        },
+        {
+          "display_url": "pic.x.com/WJG08i7F0i",
+          "end": 44,
+          "expanded_url": "https://x.com/nakuyoo/status/2098363180917624958/photo/1",
+          "media_key": "3_2098363170503221248",
+          "start": 21,
+          "url": "https://t.co/WJG08i7F0i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098363180917624958",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2098363170515775488"
+      },
+      {
+        "media_key": "3_2098363170519945217"
+      },
+      {
+        "media_key": "3_2098363170503221248"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "嘻嘻 第一次去女僕咖啡店！🩵水色cafe https://t.co/WJG08i7F0i"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1472,
+        "media_key": "3_2098363170515775488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR7iL5xa8AAkUbJ.jpg",
+        "width": 828
+      },
+      {
+        "height": 1472,
+        "media_key": "3_2098363170519945217",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR7iL5yakAEOqYz.jpg",
+        "width": 828
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2098363170503221248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR7iL5ubYAA84Iv.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098363170515775488",
+            "3_2098363170519945217",
+            "3_2098363170503221248"
+          ]
+        },
+        "author_id": "1715624766571429888",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Coffee",
+              "id": "850442647088971776",
+              "name": "Coffee"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Coffee",
+              "id": "850442647088971776",
+              "name": "Coffee"
+            }
+          }
+        ],
+        "conversation_id": "2098363180917624958",
+        "created_at": "2026-09-11T10:49:02.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T11:49:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098363180917624958"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WJG08i7F0i",
+              "end": 44,
+              "expanded_url": "https://x.com/nakuyoo/status/2098363180917624958/photo/1",
+              "media_key": "3_2098363170515775488",
+              "start": 21,
+              "url": "https://t.co/WJG08i7F0i"
+            },
+            {
+              "display_url": "pic.x.com/WJG08i7F0i",
+              "end": 44,
+              "expanded_url": "https://x.com/nakuyoo/status/2098363180917624958/photo/1",
+              "media_key": "3_2098363170519945217",
+              "start": 21,
+              "url": "https://t.co/WJG08i7F0i"
+            },
+            {
+              "display_url": "pic.x.com/WJG08i7F0i",
+              "end": 44,
+              "expanded_url": "https://x.com/nakuyoo/status/2098363180917624958/photo/1",
+              "media_key": "3_2098363170503221248",
+              "start": 21,
+              "url": "https://t.co/WJG08i7F0i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098363180917624958",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098363170515775488"
+          },
+          {
+            "media_key": "3_2098363170519945217"
+          },
+          {
+            "media_key": "3_2098363170503221248"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嘻嘻 第一次去女僕咖啡店！🩵水色cafe https://t.co/WJG08i7F0i"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "ig: naku.yoo",
+        "id": "1715624766571429888",
+        "is_identity_verified": false,
+        "location": "🚪300聊天Hk ",
+        "most_recent_tweet_id": "2098363180917624958",
+        "name": "骨仔",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1715624766571429888/1788912907",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097478751126978560/76XzV5aS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17424,
+          "following_count": 10,
+          "like_count": 32073,
+          "listed_count": 33,
+          "media_count": 353,
+          "tweet_count": 8072
+        },
+        "url": "",
+        "username": "nakuyoo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2093325968622698496"
+      ]
+    },
+    "author_id": "1715624766571429888",
+    "conversation_id": "2093326013598163155",
+    "created_at": "2026-08-28T13:13:08.000Z",
+    "display_text_range": [
+      0,
+      9
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T14:13:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2093326013598163155"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HTbabFGYXA",
+          "end": 33,
+          "expanded_url": "https://x.com/nakuyoo/status/2093326013598163155/video/1",
+          "media_key": "13_2093325968622698496",
+          "start": 10,
+          "url": "https://t.co/HTbabFGYXA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093326013598163155",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2093325968622698496"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我又變了另一個綠！ https://t.co/HTbabFGYXA"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6866,
+        "height": 1280,
+        "media_key": "13_2093325968622698496",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2093325968622698496/img/nrlF2Es3lhICJPek.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093325968622698496/vid/avc1/320x568/m-ZsYSQ0UeNkgwmg.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093325968622698496/vid/avc1/480x852/7Gl9kc4IBt4CcDyM.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093325968622698496/vid/avc1/720x1280/wKomCEObHsNXFm9m.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2093325968622698496/pl/slo9BnfSHgNiJ89B.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2093325968622698496"
+          ]
+        },
+        "author_id": "1715624766571429888",
+        "conversation_id": "2093326013598163155",
+        "created_at": "2026-08-28T13:13:08.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T14:13:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093326013598163155"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HTbabFGYXA",
+              "end": 33,
+              "expanded_url": "https://x.com/nakuyoo/status/2093326013598163155/video/1",
+              "media_key": "13_2093325968622698496",
+              "start": 10,
+              "url": "https://t.co/HTbabFGYXA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093326013598163155",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2093325968622698496"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我又變了另一個綠！ https://t.co/HTbabFGYXA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "ig: naku.yoo",
+        "id": "1715624766571429888",
+        "is_identity_verified": false,
+        "location": "🚪300聊天Hk ",
+        "most_recent_tweet_id": "2093326013598163155",
+        "name": "骨仔",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1715624766571429888/1786891740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089001260796317696/MSm_ClEA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17363,
+          "following_count": 10,
+          "like_count": 31929,
+          "listed_count": 33,
+          "media_count": 311,
+          "tweet_count": 7990
+        },
+        "url": "",
+        "username": "nakuyoo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094824609652916224"
+      ],
+      "media_source_tweet_id": [
+        "2094824617651372121"
+      ]
+    },
+    "author_id": "1715624766571429888",
+    "conversation_id": "2094994688126419046",
+    "created_at": "2026-09-02T03:43:51.000Z",
+    "display_text_range": [
+      0,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T04:43:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094994688126419046"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1550593157876060160",
+          "start": 3,
+          "username": "Fumi_uowou_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4N3G50mku1",
+          "end": 47,
+          "expanded_url": "https://x.com/Fumi_uowou_/status/2094824617651372121/photo/1",
+          "media_key": "3_2094824609652916224",
+          "start": 24,
+          "url": "https://t.co/4N3G50mku1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094994688126419046",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2094824609652916224"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094824617651372121",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Fumi_uowou_: 歡迎來到天堂 https://t.co/4N3G50mku1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2094824609652916224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRJP4jUbwAA4fHJ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094824609652916224"
+          ],
+          "media_source_tweet_id": [
+            "2094824617651372121"
+          ]
+        },
+        "author_id": "1715624766571429888",
+        "conversation_id": "2094994688126419046",
+        "created_at": "2026-09-02T03:43:51.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T04:43:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094994688126419046"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1550593157876060160",
+              "start": 3,
+              "username": "Fumi_uowou_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4N3G50mku1",
+              "end": 47,
+              "expanded_url": "https://x.com/Fumi_uowou_/status/2094824617651372121/photo/1",
+              "media_key": "3_2094824609652916224",
+              "start": 24,
+              "url": "https://t.co/4N3G50mku1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094994688126419046",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094824609652916224"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094824617651372121",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Fumi_uowou_: 歡迎來到天堂 https://t.co/4N3G50mku1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094824609652916224"
+          ]
+        },
+        "author_id": "1550593157876060160",
+        "conversation_id": "2094824617651372121",
+        "created_at": "2026-09-01T16:28:03.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T17:28:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094824617651372121"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4N3G50mku1",
+              "end": 30,
+              "expanded_url": "https://x.com/Fumi_uowou_/status/2094824617651372121/photo/1",
+              "media_key": "3_2094824609652916224",
+              "start": 7,
+              "url": "https://t.co/4N3G50mku1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094824617651372121",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094824609652916224"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 975,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "歡迎來到天堂 https://t.co/4N3G50mku1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "ig: naku.yoo",
+        "id": "1715624766571429888",
+        "is_identity_verified": false,
+        "location": "🚪300聊天Hk ",
+        "most_recent_tweet_id": "2094994688126419046",
+        "name": "骨仔",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1715624766571429888/1786891740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089001260796317696/MSm_ClEA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17379,
+          "following_count": 10,
+          "like_count": 31967,
+          "listed_count": 33,
+          "media_count": 328,
+          "tweet_count": 8014
+        },
+        "url": "",
+        "username": "nakuyoo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-22T21:26:53.000Z",
+        "description": "病み垢暴言｜地雷系｜永遠の16歳 ｜社不\n和社會對立",
+        "id": "1550593157876060160",
+        "is_identity_verified": false,
+        "location": "地獄",
+        "most_recent_tweet_id": "2094824617651372121",
+        "name": "ふみわんちゃん🦭🌧️",
+        "pinned_tweet_id": "2020858399106248987",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1550593157876060160/1763491318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990852953499185154/HwgnW6Z__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1939,
+          "following_count": 139,
+          "like_count": 22184,
+          "listed_count": 4,
+          "media_count": 323,
+          "tweet_count": 3013
+        },
+        "url": "",
+        "username": "Fumi_uowou_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

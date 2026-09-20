@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "2100355045959356420",
+    "created_at": "2026-09-16T22:44:00.000Z",
+    "display_text_range": [
+      0,
+      3
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T23:44:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100355045959356420"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/fumi0w0b/statu…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/fumi0w0b/status/2100250586138787890",
+          "start": 4,
+          "url": "https://t.co/jyceWNSA3z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100355045959356420",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100250586138787890",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "助力！ https://t.co/jyceWNSA3z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2100250576265338881",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSWWxYGa4AEETFt.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "2100355045959356420",
+        "created_at": "2026-09-16T22:44:00.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T23:44:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100355045959356420"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fumi0w0b/statu…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/fumi0w0b/status/2100250586138787890",
+              "start": 4,
+              "url": "https://t.co/jyceWNSA3z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100355045959356420",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100250586138787890",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "助力！ https://t.co/jyceWNSA3z"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100250576265338881"
+          ]
+        },
+        "author_id": "2096157491910610944",
+        "conversation_id": "2100250586138787890",
+        "created_at": "2026-09-16T15:48:55.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T16:48:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100250586138787890"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hHDkIyZ7mY",
+              "end": 49,
+              "expanded_url": "https://x.com/Fumi0w0b/status/2100250586138787890/photo/1",
+              "media_key": "3_2100250576265338881",
+              "start": 26,
+              "url": "https://t.co/hHDkIyZ7mY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100250586138787890",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100250576265338881"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "放一下還沒有公開的當值照！\n想要找回之前的互關ㅠㅠ https://t.co/hHDkIyZ7mY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "ig: naku.yoo",
+        "id": "1715624766571429888",
+        "is_identity_verified": false,
+        "location": "🚪300聊天Hk ",
+        "most_recent_tweet_id": "2100355045959356420",
+        "name": "骨仔",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1715624766571429888/1788912907",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097478751126978560/76XzV5aS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17412,
+          "following_count": 11,
+          "like_count": 32128,
+          "listed_count": 33,
+          "media_count": 369,
+          "tweet_count": 8102
+        },
+        "url": "",
+        "username": "nakuyoo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-05T08:45:28.000Z",
+        "description": "入🚪50 解鎖價目表",
+        "id": "2096157491910610944",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100257928460845510",
+        "name": "Fumi",
+        "pinned_tweet_id": "2097194266410021034",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2096157491910610944/1788630691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096294128342671360/LiBu_Gt1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 10,
+          "like_count": 776,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 63
+        },
+        "url": "",
+        "username": "Fumi0w0b",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

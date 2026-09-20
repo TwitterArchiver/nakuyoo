@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098055026765860865"
+      ],
+      "media_source_tweet_id": [
+        "2098055035049644122"
+      ]
+    },
+    "author_id": "1715624766571429888",
+    "conversation_id": "2098245937634410928",
+    "created_at": "2026-09-11T03:03:09.000Z",
+    "display_text_range": [
+      0,
+      83
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T04:03:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098245937634410928"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 20,
+          "start": 15,
+          "tag": "首輪の日"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "906566164582612992",
+          "start": 3,
+          "username": "Yorutomei"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jdMbTP8WAT",
+          "end": 83,
+          "expanded_url": "https://x.com/Yorutomei/status/2098055035049644122/photo/1",
+          "media_key": "3_2098055026765860865",
+          "start": 60,
+          "url": "https://t.co/jdMbTP8WAT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098245937634410928",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2098055026765860865"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098055035049644122",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yorutomei: #首輪の日 \n\n（送上下禮拜在市集賣的本本圖透…\n⁄(⁄ ⁄ ⁄ω⁄ ⁄ ⁄)⁄ 少羞恥 https://t.co/jdMbTP8WAT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2098055026765860865",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR3J7k2aEAER0Ay.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098055026765860865"
+          ],
+          "media_source_tweet_id": [
+            "2098055035049644122"
+          ]
+        },
+        "author_id": "1715624766571429888",
+        "conversation_id": "2098245937634410928",
+        "created_at": "2026-09-11T03:03:09.000Z",
+        "display_text_range": [
+          0,
+          83
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T04:03:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098245937634410928"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 15,
+              "tag": "首輪の日"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "906566164582612992",
+              "start": 3,
+              "username": "Yorutomei"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jdMbTP8WAT",
+              "end": 83,
+              "expanded_url": "https://x.com/Yorutomei/status/2098055035049644122/photo/1",
+              "media_key": "3_2098055026765860865",
+              "start": 60,
+              "url": "https://t.co/jdMbTP8WAT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098245937634410928",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098055026765860865"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098055035049644122",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yorutomei: #首輪の日 \n\n（送上下禮拜在市集賣的本本圖透…\n⁄(⁄ ⁄ ⁄ω⁄ ⁄ ⁄)⁄ 少羞恥 https://t.co/jdMbTP8WAT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098055026765860865"
+          ]
+        },
+        "author_id": "906566164582612992",
+        "conversation_id": "2098055035049644122",
+        "created_at": "2026-09-10T14:24:34.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T15:24:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098055035049644122"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "首輪の日"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jdMbTP8WAT",
+              "end": 68,
+              "expanded_url": "https://x.com/Yorutomei/status/2098055035049644122/photo/1",
+              "media_key": "3_2098055026765860865",
+              "start": 45,
+              "url": "https://t.co/jdMbTP8WAT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098055035049644122",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098055026765860865"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 1639,
+          "like_count": 150,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "#首輪の日 \n\n（送上下禮拜在市集賣的本本圖透…\n⁄(⁄ ⁄ ⁄ω⁄ ⁄ ⁄)⁄ 少羞恥 https://t.co/jdMbTP8WAT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "ig: naku.yoo",
+        "id": "1715624766571429888",
+        "is_identity_verified": false,
+        "location": "🚪300聊天Hk ",
+        "most_recent_tweet_id": "2098245937634410928",
+        "name": "骨仔",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1715624766571429888/1788912907",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097478751126978560/76XzV5aS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17424,
+          "following_count": 10,
+          "like_count": 32074,
+          "listed_count": 33,
+          "media_count": 352,
+          "tweet_count": 8070
+        },
+        "url": "",
+        "username": "nakuyoo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-09-09T17:13:11.000Z",
+        "description": "ℂ𝕙𝕒𝕠𝕥𝕚𝕔｜ 𝕤𝕨𝕚𝕥𝕔𝕙｜𝕡𝕒𝕟｜不是變態 ｜分身@yorutorei｜下面連結查詢圖組",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 28,
+                "username": "yorutorei"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Hiiii_heiii",
+                "end": 23,
+                "expanded_url": "https://t.me/Hiiii_heiii",
+                "start": 0,
+                "url": "https://t.co/XJeO7adPF5"
+              }
+            ]
+          }
+        },
+        "id": "906566164582612992",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2098238882508882235",
+        "name": "澪♱",
+        "pinned_tweet_id": "1867974380489519528",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/906566164582612992/1642614756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832095718296723456/7uVswivY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25465,
+          "following_count": 657,
+          "like_count": 12387,
+          "listed_count": 43,
+          "media_count": 238,
+          "tweet_count": 3340
+        },
+        "url": "https://t.co/XJeO7adPF5",
+        "username": "Yorutomei",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
