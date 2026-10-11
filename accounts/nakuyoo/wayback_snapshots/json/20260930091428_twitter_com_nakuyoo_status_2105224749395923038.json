@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "2105224749395923038",
+    "created_at": "2026-09-30T09:14:28.000Z",
+    "display_text_range": [
+      0,
+      7
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T10:14:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105224749395923038"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ahappydolphin6…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/ahappydolphin67/status/2104973722671362414",
+          "start": 8,
+          "url": "https://t.co/quI6VDhUcK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105224749395923038",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104973722671362414",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "某個首富他死了 https://t.co/quI6VDhUcK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "2105224749395923038",
+        "created_at": "2026-09-30T09:14:28.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T10:14:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105224749395923038"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ahappydolphin6…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/ahappydolphin67/status/2104973722671362414",
+              "start": 8,
+              "url": "https://t.co/quI6VDhUcK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105224749395923038",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104973722671362414",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "某個首富他死了 https://t.co/quI6VDhUcK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2104967094232313856",
+        "conversation_id": "2104973722671362414",
+        "created_at": "2026-09-29T16:36:58.000Z",
+        "display_text_range": [
+          0,
+          78
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T17:36:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104973722671362414"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104973722671362414",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "置頂\n由於某個首富不讓我說真話\n 不讓我發洩情緒\n一直把我所有帳號封鎖\n以下貼文的詞語和立場全部都是\n✨🌈相反詞🌈✨\n直到富豪先生不再針對我\n目標生存30天"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "ig: naku.yoo｜無浪漫傾向無性戀",
+        "id": "1715624766571429888",
+        "is_identity_verified": false,
+        "location": "🚪300聊天Hk ",
+        "most_recent_tweet_id": "2105224749395923038",
+        "name": "骨仔Inane",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1715624766571429888/1790428763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103836693912797184/fhVO3ccp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17371,
+          "following_count": 11,
+          "like_count": 32114,
+          "listed_count": 34,
+          "media_count": 400,
+          "tweet_count": 8148
+        },
+        "url": "",
+        "username": "nakuyoo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-29T16:13:32.000Z",
+        "description": "由於某個首富不讓我說真話 不讓我發洩情緒\n一直把我所有帳號封鎖\n我在這裏會一直說🌈相反詞🌈",
+        "id": "2104967094232313856",
+        "is_identity_verified": false,
+        "location": "加勒比海珊瑚礁好多膠袋好好食",
+        "most_recent_tweet_id": "2104975500611604913",
+        "name": "Justahappydolphin",
+        "pinned_tweet_id": "2104973722671362414",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2104967094232313856/1790698559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104968026286329856/z93mZXNA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 13,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 8
+        },
+        "url": "",
+        "username": "ahappydolphin67",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

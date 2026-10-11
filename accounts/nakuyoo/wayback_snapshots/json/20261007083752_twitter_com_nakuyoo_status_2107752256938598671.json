@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "2106295029388181817",
+    "created_at": "2026-10-07T08:37:52.000Z",
+    "display_text_range": [
+      17,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-07T09:37:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107752256938598671"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1980396569363935232",
+          "start": 0,
+          "username": "Disturbeuphoric"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107752256938598671",
+    "in_reply_to_user_id": "1980396569363935232",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107350266899259519",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Disturbeuphoric Wow好巧！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "2106295029388181817",
+        "created_at": "2026-10-07T08:37:52.000Z",
+        "display_text_range": [
+          17,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T09:37:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107752256938598671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1980396569363935232",
+              "start": 0,
+              "username": "Disturbeuphoric"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107752256938598671",
+        "in_reply_to_user_id": "1980396569363935232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107350266899259519",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Disturbeuphoric Wow好巧！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980396569363935232",
+        "conversation_id": "2106295029388181817",
+        "created_at": "2026-10-06T06:00:30.000Z",
+        "display_text_range": [
+          9,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T07:00:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107350266899259519"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1715624766571429888",
+              "start": 0,
+              "username": "nakuyoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107350266899259519",
+        "in_reply_to_user_id": "1715624766571429888",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106295029388181817",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nakuyoo 僕…\n是的，是我。\nOui, moi"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "ig: naku.yoo｜無浪漫傾向無性戀Aroace",
+        "id": "1715624766571429888",
+        "is_identity_verified": false,
+        "location": "🚪300聊天Hk ",
+        "most_recent_tweet_id": "2107752256938598671",
+        "name": "骨仔Inane",
+        "pinned_tweet_id": "2106012023155032234",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1715624766571429888/1790780500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103836693912797184/fhVO3ccp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17373,
+          "following_count": 11,
+          "like_count": 32137,
+          "listed_count": 34,
+          "media_count": 411,
+          "tweet_count": 8178
+        },
+        "url": "",
+        "username": "nakuyoo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-20T22:13:55.000Z",
+        "description": "非典型。不稳定。宅男。我既不是天使也不是恶魔。我真的生活在另一个世界里 😊🌌🪼\n🪼⋆｡𖦹°🫧⋆.ೃ࿔🌿🌬💫\n令人费解的行为(⸝⸝๑﹏๑⸝⸝)\n喜欢像袋鼠一样在街上蹦蹦跳跳🦘\n我温柔又善良˚˖𓍢ִ໋❀\nAuDHD, autistic, ptsd, aroace, 持续的感官过载",
+        "id": "1980396569363935232",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107720988779856380",
+        "name": "欢乐精神",
+        "pinned_tweet_id": "2102567254600896553",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1980396569363935232/1789874512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101508502459949056/188-rdGr_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 122,
+          "like_count": 19517,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 5032
+        },
+        "url": "",
+        "username": "Disturbeuphoric",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

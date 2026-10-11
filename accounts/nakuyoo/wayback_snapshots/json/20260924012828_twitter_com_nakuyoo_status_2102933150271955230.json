@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "2102761860571554282",
+    "created_at": "2026-09-24T01:28:28.000Z",
+    "display_text_range": [
+      13,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T02:28:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102933150271955230"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1979108124985561088",
+          "start": 0,
+          "username": "eguchi_egeg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102933150271955230",
+    "in_reply_to_user_id": "1979108124985561088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102761860571554282",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eguchi_egeg 生日快樂🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "2102761860571554282",
+        "created_at": "2026-09-24T01:28:28.000Z",
+        "display_text_range": [
+          13,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T02:28:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102933150271955230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1979108124985561088",
+              "start": 0,
+              "username": "eguchi_egeg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102933150271955230",
+        "in_reply_to_user_id": "1979108124985561088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102761860571554282",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eguchi_egeg 生日快樂🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979108124985561088",
+        "conversation_id": "2102761860571554282",
+        "created_at": "2026-09-23T14:07:49.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T15:07:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102761860571554282"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2102761860571554282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 494,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "對了 我明天生日 畫了賀圖 明天發喔"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "ig: naku.yoo",
+        "id": "1715624766571429888",
+        "is_identity_verified": false,
+        "location": "🚪300聊天Hk ",
+        "most_recent_tweet_id": "2102933150271955230",
+        "name": "骨仔Inane",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1715624766571429888/1788912907",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097478751126978560/76XzV5aS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17383,
+          "following_count": 11,
+          "like_count": 32117,
+          "listed_count": 33,
+          "media_count": 394,
+          "tweet_count": 8139
+        },
+        "url": "",
+        "username": "nakuyoo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-17T08:52:09.000Z",
+        "description": "=呕呕｜🇨🇳🇭🇰｜中二病｜我不是南涼",
+        "id": "1979108124985561088",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102900904618057908",
+        "name": "えぐち",
+        "pinned_tweet_id": "2094771490306900329",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1979108124985561088/1760691760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099994916797739008/oLKuB26A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1004,
+          "following_count": 651,
+          "like_count": 4467,
+          "listed_count": 4,
+          "media_count": 146,
+          "tweet_count": 1052
+        },
+        "url": "",
+        "username": "eguchi_egeg",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "2105224749395923038",
+    "created_at": "2026-09-30T10:25:44.000Z",
+    "display_text_range": [
+      17,
+      56
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T11:25:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105242685581975700"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2104967094232313856",
+          "start": 0,
+          "username": "ahappydolphin67"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105242685581975700",
+    "in_reply_to_user_id": "2104967094232313856",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105232078598255083",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ahappydolphin67 😇😇😇😇😇😇😇😇😇😇😇🦶🏻🦶🏻🦶🏻🦶🏻🦶🏻🦶🏻🦶🏻🦶🏻🦶🏻🦶🏻🦶🏻🦶🏻🦶🏻🦶🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "2105224749395923038",
+        "created_at": "2026-09-30T10:25:44.000Z",
+        "display_text_range": [
+          17,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T11:25:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105242685581975700"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2104967094232313856",
+              "start": 0,
+              "username": "ahappydolphin67"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105242685581975700",
+        "in_reply_to_user_id": "2104967094232313856",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105232078598255083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ahappydolphin67 😇😇😇😇😇😇😇😇😇😇😇🦶🏻🦶🏻🦶🏻🦶🏻🦶🏻🦶🏻🦶🏻🦶🏻🦶🏻🦶🏻🦶🏻🦶🏻🦶🏻🦶🏻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2104967094232313856",
+        "conversation_id": "2105224749395923038",
+        "created_at": "2026-09-30T09:43:35.000Z",
+        "display_text_range": [
+          9,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T10:43:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105232078598255083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1715624766571429888",
+              "start": 0,
+              "username": "nakuyoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105232078598255083",
+        "in_reply_to_user_id": "1715624766571429888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105224749395923038",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nakuyoo 某個首富 爸爸媽媽長命百歲了😙👍🏻🌈💖"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "ig: naku.yoo｜無浪漫傾向無性戀",
+        "id": "1715624766571429888",
+        "is_identity_verified": false,
+        "location": "🚪300聊天Hk ",
+        "most_recent_tweet_id": "2105242685581975700",
+        "name": "骨仔Inane",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1715624766571429888/1790428763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103836693912797184/fhVO3ccp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17372,
+          "following_count": 11,
+          "like_count": 32115,
+          "listed_count": 34,
+          "media_count": 400,
+          "tweet_count": 8153
+        },
+        "url": "",
+        "username": "nakuyoo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-29T16:13:32.000Z",
+        "description": "由於某個首富不讓我說真話 不讓我發洩情緒\n一直把我所有帳號封鎖\n我在這裏會一直說🌈相反詞🌈",
+        "id": "2104967094232313856",
+        "is_identity_verified": false,
+        "location": "加勒比海珊瑚礁好多膠袋好好食",
+        "most_recent_tweet_id": "2105232078598255083",
+        "name": "Justahappydolphin",
+        "pinned_tweet_id": "2104973722671362414",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2104967094232313856/1790698559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104968026286329856/z93mZXNA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 13,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 9
+        },
+        "url": "",
+        "username": "ahappydolphin67",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "2105954725854327190",
+    "created_at": "2026-10-03T03:35:49.000Z",
+    "display_text_range": [
+      17,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T04:35:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106226689768562948"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1408875648211292161",
+          "start": 0,
+          "username": "_SeeLe_VoLLereI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106226689768562948",
+    "in_reply_to_user_id": "1408875648211292161",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106053833445253244",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_SeeLe_VoLLereI 😋😋😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "2105954725854327190",
+        "created_at": "2026-10-03T03:35:49.000Z",
+        "display_text_range": [
+          17,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T04:35:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106226689768562948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1408875648211292161",
+              "start": 0,
+              "username": "_SeeLe_VoLLereI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106226689768562948",
+        "in_reply_to_user_id": "1408875648211292161",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106053833445253244",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_SeeLe_VoLLereI 😋😋😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1408875648211292161",
+        "conversation_id": "2105954725854327190",
+        "created_at": "2026-10-02T16:08:57.000Z",
+        "display_text_range": [
+          9,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T17:08:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106053833445253244"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1715624766571429888",
+              "start": 0,
+              "username": "nakuyoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106053833445253244",
+        "in_reply_to_user_id": "1715624766571429888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105954725854327190",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nakuyoo 骨骨吃雞～"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "ig: naku.yoo｜無浪漫傾向無性戀",
+        "id": "1715624766571429888",
+        "is_identity_verified": false,
+        "location": "🚪300聊天Hk ",
+        "most_recent_tweet_id": "2106226689768562948",
+        "name": "骨仔Inane",
+        "pinned_tweet_id": "2106012023155032234",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1715624766571429888/1790780500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103836693912797184/fhVO3ccp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17365,
+          "following_count": 11,
+          "like_count": 32121,
+          "listed_count": 34,
+          "media_count": 405,
+          "tweet_count": 8163
+        },
+        "url": "",
+        "username": "nakuyoo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-06-26T19:51:53.000Z",
+        "description": "处于混沌状态中，希儿单推人，每天都想吃鸭鸭，希望世界和平，停止群体压迫",
+        "id": "1408875648211292161",
+        "is_identity_verified": false,
+        "location": "现实中无法存在的乌托邦",
+        "most_recent_tweet_id": "2106055861315780999",
+        "name": "Seele",
+        "pinned_tweet_id": "1602697613177892864",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1408875648211292161/1662209759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034839096741498880/Puq4LuLe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4113,
+          "following_count": 1995,
+          "like_count": 112644,
+          "listed_count": 12,
+          "media_count": 2235,
+          "tweet_count": 17100
+        },
+        "url": "",
+        "username": "_SeeLe_VoLLereI",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

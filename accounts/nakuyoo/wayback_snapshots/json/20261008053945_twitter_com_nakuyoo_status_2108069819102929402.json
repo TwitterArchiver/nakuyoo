@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "2108069819102929402",
+    "created_at": "2026-10-08T05:39:45.000Z",
+    "display_text_range": [
+      0,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-08T06:39:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108069819102929402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1942213637902348289",
+          "start": 3,
+          "username": "orewahara"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108069819102929402",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108037277796667748",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @orewahara: 秋季是精神病高发期，大家注意安全"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "2108069819102929402",
+        "created_at": "2026-10-08T05:39:45.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T06:39:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108069819102929402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1942213637902348289",
+              "start": 3,
+              "username": "orewahara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108069819102929402",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108037277796667748",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @orewahara: 秋季是精神病高发期，大家注意安全"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942213637902348289",
+        "conversation_id": "2108037277796667748",
+        "created_at": "2026-10-08T03:30:27.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T04:30:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108037277796667748"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2108037277796667748",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1017,
+          "like_count": 27,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "秋季是精神病高发期，大家注意安全"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "ig: naku.yoo｜無浪漫傾向無性戀Aroace",
+        "id": "1715624766571429888",
+        "is_identity_verified": false,
+        "location": "🚪300聊天Hk ",
+        "most_recent_tweet_id": "2108069819102929402",
+        "name": "骨仔Inane",
+        "pinned_tweet_id": "2106012023155032234",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1715624766571429888/1790780500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103836693912797184/fhVO3ccp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17368,
+          "following_count": 11,
+          "like_count": 32137,
+          "listed_count": 34,
+          "media_count": 411,
+          "tweet_count": 8179
+        },
+        "url": "",
+        "username": "nakuyoo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-07T13:26:36.000Z",
+        "description": "一个神秘的人｜誰も知らない私\n现实生活重启中\n负能@Harasaki0｜社交无能者",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 25,
+                "username": "Harasaki0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@harasakisuki?…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@harasakisuki?_r=1&_t=ZS-9AJrZLGuh2C",
+                "start": 0,
+                "url": "https://t.co/MVekFbnUuB"
+              }
+            ]
+          }
+        },
+        "id": "1942213637902348289",
+        "is_identity_verified": false,
+        "location": "原咲です",
+        "most_recent_tweet_id": "2108042275200917807",
+        "name": "harasaki",
+        "pinned_tweet_id": "2078405824754721276",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1942213637902348289/1782089166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104515811968946176/8TADRjzV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1271,
+          "following_count": 149,
+          "like_count": 1087,
+          "listed_count": 0,
+          "media_count": 158,
+          "tweet_count": 712
+        },
+        "url": "https://t.co/MVekFbnUuB",
+        "username": "orewahara",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

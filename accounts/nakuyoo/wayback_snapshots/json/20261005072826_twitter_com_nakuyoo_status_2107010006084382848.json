@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1715624766571429888",
+    "conversation_id": "2107010006084382848",
+    "created_at": "2026-10-05T07:28:26.000Z",
+    "display_text_range": [
+      0,
+      8
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T08:28:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2107010006084382848"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ahappydolphin6…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/ahappydolphin67/status/2106933426314186974",
+          "start": 9,
+          "url": "https://t.co/5kAd8MspCb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107010006084382848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106933426314186974",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我兄弟贏了👍🏿🔥 https://t.co/5kAd8MspCb"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "2107010006084382848",
+        "created_at": "2026-10-05T07:28:26.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T08:28:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107010006084382848"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ahappydolphin6…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/ahappydolphin67/status/2106933426314186974",
+              "start": 9,
+              "url": "https://t.co/5kAd8MspCb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107010006084382848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106933426314186974",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我兄弟贏了👍🏿🔥 https://t.co/5kAd8MspCb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2104967094232313856",
+        "conversation_id": "2106933426314186974",
+        "created_at": "2026-10-05T02:24:08.000Z",
+        "display_text_range": [
+          0,
+          87
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T03:24:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106933426314186974"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106933426314186974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 135,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "醫生承認我有 BPD + ASPD 傾向 \n然後我跟醫生坦白說不斷失憶很困擾\n但是醫生說這個可能要看我怎樣調節情緒再可以有幫助。然後我的症狀和很多精神病和人格障礙有很多共病💀"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "ig: naku.yoo｜無浪漫傾向無性戀Aroace",
+        "id": "1715624766571429888",
+        "is_identity_verified": false,
+        "location": "🚪300聊天Hk ",
+        "most_recent_tweet_id": "2107010006084382848",
+        "name": "骨仔Inane",
+        "pinned_tweet_id": "2106012023155032234",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1715624766571429888/1790780500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103836693912797184/fhVO3ccp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17367,
+          "following_count": 11,
+          "like_count": 32128,
+          "listed_count": 34,
+          "media_count": 407,
+          "tweet_count": 8171
+        },
+        "url": "",
+        "username": "nakuyoo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-29T16:13:32.000Z",
+        "description": "由於某個首富不讓我說真話 不讓我發洩情緒\n一直把我所有帳號封鎖\n我在這裏會一直說🌈相反詞🌈",
+        "id": "2104967094232313856",
+        "is_identity_verified": false,
+        "location": "加勒比海珊瑚礁好多膠袋好好食",
+        "most_recent_tweet_id": "2106975520147812788",
+        "name": "Justahappydolphin",
+        "pinned_tweet_id": "2104973722671362414",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2104967094232313856/1790698559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104968026286329856/z93mZXNA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 17,
+          "like_count": 469,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 52
+        },
+        "url": "",
+        "username": "ahappydolphin67",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

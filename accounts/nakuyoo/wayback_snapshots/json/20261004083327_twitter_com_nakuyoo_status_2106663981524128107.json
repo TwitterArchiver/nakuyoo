@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2106629963285929984"
+      ],
+      "media_source_tweet_id": [
+        "2106629976464490825"
+      ]
+    },
+    "author_id": "1715624766571429888",
+    "conversation_id": "2106663981524128107",
+    "created_at": "2026-10-04T08:33:27.000Z",
+    "display_text_range": [
+      0,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T09:33:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106663981524128107"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1913592045119385600",
+          "start": 3,
+          "username": "talac90ps"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XZYefNz38q",
+          "end": 38,
+          "expanded_url": "https://x.com/talac90ps/status/2106629976464490825/photo/1",
+          "media_key": "3_2106629963285929984",
+          "start": 15,
+          "url": "https://t.co/XZYefNz38q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106663981524128107",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2106629963285929984"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106629976464490825",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @talac90ps: https://t.co/XZYefNz38q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2106629963285929984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTxAykraIAA5wXD.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106629963285929984"
+          ],
+          "media_source_tweet_id": [
+            "2106629976464490825"
+          ]
+        },
+        "author_id": "1715624766571429888",
+        "conversation_id": "2106663981524128107",
+        "created_at": "2026-10-04T08:33:27.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T09:33:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106663981524128107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1913592045119385600",
+              "start": 3,
+              "username": "talac90ps"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XZYefNz38q",
+              "end": 38,
+              "expanded_url": "https://x.com/talac90ps/status/2106629976464490825/photo/1",
+              "media_key": "3_2106629963285929984",
+              "start": 15,
+              "url": "https://t.co/XZYefNz38q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106663981524128107",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2106629963285929984"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106629976464490825",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @talac90ps: https://t.co/XZYefNz38q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106629963285929984"
+          ]
+        },
+        "author_id": "1913592045119385600",
+        "conversation_id": "2106629976464490825",
+        "created_at": "2026-10-04T06:18:20.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T07:18:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106629976464490825"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XZYefNz38q",
+              "end": 23,
+              "expanded_url": "https://x.com/talac90ps/status/2106629976464490825/photo/1",
+              "media_key": "3_2106629963285929984",
+              "start": 0,
+              "url": "https://t.co/XZYefNz38q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106629976464490825",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2106629963285929984"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 4908,
+          "like_count": 509,
+          "quote_count": 4,
+          "reply_count": 5,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/XZYefNz38q"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "ig: naku.yoo｜無浪漫傾向無性戀Aroace",
+        "id": "1715624766571429888",
+        "is_identity_verified": false,
+        "location": "🚪300聊天Hk ",
+        "most_recent_tweet_id": "2106663981524128107",
+        "name": "骨仔Inane",
+        "pinned_tweet_id": "2106012023155032234",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1715624766571429888/1790780500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103836693912797184/fhVO3ccp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17367,
+          "following_count": 11,
+          "like_count": 32132,
+          "listed_count": 34,
+          "media_count": 407,
+          "tweet_count": 8169
+        },
+        "url": "",
+        "username": "nakuyoo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-19T13:54:39.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/sui.coma?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/sui.coma?igsh=MXZlNXUzZ3loOW41NQ%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3p6HStWmpA"
+              }
+            ]
+          }
+        },
+        "id": "1913592045119385600",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106630031107838350",
+        "name": "Sui",
+        "pinned_tweet_id": "2105524072750969309",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1913592045119385600/1790918311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106276031317643265/9JZ7nRI4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1640,
+          "following_count": 270,
+          "like_count": 4304,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 975
+        },
+        "url": "https://t.co/3p6HStWmpA",
+        "username": "talac90ps",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

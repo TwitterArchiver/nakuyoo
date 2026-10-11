@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2108107379049222144"
+      ],
+      "media_source_tweet_id": [
+        "2108107389904028136"
+      ]
+    },
+    "author_id": "1715624766571429888",
+    "conversation_id": "2108117379490476438",
+    "created_at": "2026-10-08T08:48:44.000Z",
+    "display_text_range": [
+      0,
+      56
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-08T09:48:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108117379490476438"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2104967094232313856",
+          "start": 3,
+          "username": "ahappydolphin67"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aCKdhiJOm9",
+          "end": 56,
+          "expanded_url": "https://x.com/ahappydolphin67/status/2108107389904028136/photo/1",
+          "media_key": "3_2108107379049222144",
+          "start": 33,
+          "url": "https://t.co/aCKdhiJOm9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108117379490476438",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2108107379049222144"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108107389904028136",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ahappydolphin67: 爆漿&gt;w&lt; https://t.co/aCKdhiJOm9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2108107379049222144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUGAffSb0AAmL94.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2108107379049222144"
+          ],
+          "media_source_tweet_id": [
+            "2108107389904028136"
+          ]
+        },
+        "author_id": "1715624766571429888",
+        "conversation_id": "2108117379490476438",
+        "created_at": "2026-10-08T08:48:44.000Z",
+        "display_text_range": [
+          0,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T09:48:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108117379490476438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2104967094232313856",
+              "start": 3,
+              "username": "ahappydolphin67"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aCKdhiJOm9",
+              "end": 56,
+              "expanded_url": "https://x.com/ahappydolphin67/status/2108107389904028136/photo/1",
+              "media_key": "3_2108107379049222144",
+              "start": 33,
+              "url": "https://t.co/aCKdhiJOm9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108117379490476438",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2108107379049222144"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108107389904028136",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ahappydolphin67: 爆漿&gt;w&lt; https://t.co/aCKdhiJOm9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2108107379049222144"
+          ]
+        },
+        "author_id": "2104967094232313856",
+        "conversation_id": "2108107389904028136",
+        "created_at": "2026-10-08T08:09:03.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T09:09:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108107389904028136"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aCKdhiJOm9",
+              "end": 35,
+              "expanded_url": "https://x.com/ahappydolphin67/status/2108107389904028136/photo/1",
+              "media_key": "3_2108107379049222144",
+              "start": 12,
+              "url": "https://t.co/aCKdhiJOm9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108107389904028136",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2108107379049222144"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "爆漿&gt;w&lt; https://t.co/aCKdhiJOm9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "ig: naku.yoo｜無浪漫傾向無性戀Aroace",
+        "id": "1715624766571429888",
+        "is_identity_verified": false,
+        "location": "🚪300聊天Hk ",
+        "most_recent_tweet_id": "2108117379490476438",
+        "name": "骨仔Inane",
+        "pinned_tweet_id": "2106012023155032234",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1715624766571429888/1790780500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103836693912797184/fhVO3ccp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17367,
+          "following_count": 11,
+          "like_count": 32138,
+          "listed_count": 34,
+          "media_count": 411,
+          "tweet_count": 8180
+        },
+        "url": "",
+        "username": "nakuyoo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-29T16:13:32.000Z",
+        "description": "為了防止帳號被封鎖 \n本人自稱是Ai帳號模仿帳號\n所有照片以及文字全部也是由AI生成\nall fake",
+        "id": "2104967094232313856",
+        "is_identity_verified": false,
+        "location": "加勒比海珊瑚礁好多膠袋好好食",
+        "most_recent_tweet_id": "2108107389904028136",
+        "name": "浮世",
+        "pinned_tweet_id": "2104973722671362414",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2104967094232313856/1791409713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2107951177031913473/Kzda3KWb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 8,
+          "like_count": 816,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 99
+        },
+        "url": "",
+        "username": "ahappydolphin67",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
